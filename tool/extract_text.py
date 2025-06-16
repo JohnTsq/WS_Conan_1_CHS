@@ -93,7 +93,7 @@ def read_script(
         text_entries = []
         while True:
             subroutine = f.read(1)
-            # print(f'{subroutine.hex() = }')
+            print(f'{subroutine.hex() = }')
             if subroutine == b'\x01':
                 text_entry = dict()
                 text_entry.update(ptr_addr = f.tell())
@@ -107,8 +107,8 @@ def read_script(
                 text_entries.append(text_entry)
                 f.seek(current)
             elif subroutine in (
-                b'\x02', b'\x06', b'\x07', b'\x08', 
-                b'\x09', b'\x0A', b'\x4D',
+                b'\x02', b'\x06', b'\x07', b'\x08', b'\x09', b'\x0A', 
+                b'\x4D', b'\x43', b'\x44',
             ):
                 countdown = int.from_bytes(f.read(2), 'little')
                 # print("Wait for", countdown, "loops...")
@@ -117,7 +117,8 @@ def read_script(
                 b'\x1F', b'\x2B', b'\x04', b'\x05', b'\x11', b'\x20',
                 b'\x2d', b'\x21', b'\x3B', b'\x47', b'\x4E', b'\x46',
                 b'\x49', b'\x45', b'\x4F', b'\x2F', b'\x32', b'\x3F',
-                b'\x35', b'\x40', b'\x34', b'\x41', b'\x4A'
+                b'\x35', b'\x40', b'\x34', b'\x41', b'\x4A', b'\x42',
+                b'\x4C', b'\x13', b'\x25', b'\x3C', b'\x27',
             ):
                 f.read({
                     b'\x30': 2, b'\x2E': 6, b'\x31': 6, b'\x03': 1,
@@ -127,7 +128,8 @@ def read_script(
                     b'\x4E': 3, b'\x46': 2, b'\x49': 1, b'\x45': 1,
                     b'\x4F': 2, b'\x2F': 1, b'\x32': 4, b'\x3F': 4,
                     b'\x35': 3, b'\x40': 1, b'\x34': 2, b'\x41': 2,
-                    b'\x4A': 1,
+                    b'\x4A': 1, b'\x42': 6, b'\x4C': 1, b'\x13': 1,
+                    b'\x25':11, b'\x3C': 1, b'\x27': 5,
                 }[subroutine] - 1)
                 if subroutine == b'\x03':
                     return text_entries
@@ -184,7 +186,7 @@ def main(rom_path: str, tbl_path: str):
         print(f'创建文件夹时发生错误：{e}')
         sys.exit(1)
     
-    extract_with(scripts_pointers[0x19:0x19+1:], tbl_dict, rom_size, strings_folder)
+    extract_with(scripts_pointers[:1], tbl_dict, rom_size, strings_folder)
 
 if __name__ == "__main__":
     if len(sys.argv) != 3:
