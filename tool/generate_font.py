@@ -8,7 +8,7 @@ def tbl_to_dict(filepath):
     tbl = []
     with open(filepath, 'r', encoding='utf-8') as file:
         for line in file:
-            key, value = line.strip("\n").split('=')
+            key, value = line.strip("\n").split('=', maxsplit=1)
             if value.startswith('{') and value.endswith('}'):
                 ...
             else:
@@ -57,7 +57,7 @@ def main():
         ...
     for char in charset:
         if char not in chs_tbl:
-            codepoint = len(jpn_tbl)
+            # codepoint = len(jpn_tbl)
             chs_tbl.append(char)
         else:
             codepoint = chs_tbl.index(char)
