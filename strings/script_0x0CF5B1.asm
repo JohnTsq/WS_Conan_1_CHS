@@ -39,7 +39,7 @@
 
 .align 2,0xFF :: String0x0CA2F4:
 ; .strn "特別に　とっておきの方法を{line}教えちゃおうかな{page}"
-  .strn "我有一个秘密绝招　就特别教{line}给你吧　　　　　{page}"
+  .strn "我有一个秘密绝招{line}就特别教给你吧　　　　　　{page}"
 
 .align 2,0xFF :: String0x0CA322:
 ; .strn "うわーっホント？　ねえねえ{line}どうやるの？　どうやるの？{page}"
