@@ -13,8 +13,13 @@
 
 ; 文本
 .loadtable "main_chs.tbl"
-.include "strings\script_0x0BFB54.asm"
-.include "strings\script_0x0CF5B1.asm"
+.include "strings\strings_005183-00566F.asm"
+.include "strings\strings_050000-05B9C0.asm"
+.include "strings\strings_07F5F0-07FC82.asm"
+.include "strings\strings_0B2D20-0BC986.asm"
+.include "strings\strings_0C0000-0CB6E2.asm"
+.include "strings\strings_0D0000-0D019A.asm"
+.include "strings\strings_0D621E-0DFD8A.asm"
 
 ; 图像
 .include "graphic\font.asm"

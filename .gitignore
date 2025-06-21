@@ -1,6 +1,5 @@
 .ruff_cache
 *.ws
-strings/*/
 armips.exe
 
 # Python-generated files
