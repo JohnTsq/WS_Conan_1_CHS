@@ -7,7 +7,7 @@ String0x050000:
 
 String0x050028:
 ; .strn "家出と言ったら　家出なんだよ{page}"
-  .strn "非要说的话确实是离家出走　　{page}"
+  .strn "说是离家出走　倒确实不在家啦{page}"
 
 String0x050046:
 ; .strn "もういいわよ！{page}"
