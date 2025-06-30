@@ -103,7 +103,7 @@ proc main(fontPath: string, fontSize: int, stringsFolder: Path, fontBinFolder: P
 
 
 when isMainModule:
-    let fontPath = r"C:\Users\John\Documents\Fonts\Small SimSun.ttf"
+    let fontPath = r"resources\Small SimSun.ttf"
     let fontSize = 12
     let stringsFolder = Path("strings")
     let fontBinFolder = Path("graphic") / Path("font")

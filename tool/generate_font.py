@@ -91,7 +91,7 @@ def main():
         f.write('FEFF={line}\nFFFF={page}\n')
     
 if __name__ == "__main__":
-    font_file = r"C:\Users\John\Documents\Fonts\Small SimSun.ttf"
+    font_file = r"resources\Small SimSun.ttf"
     font_size: int = 12
     strings_folder: Path = Path('strings')
     font_bin_folder: Path = Path('graphic', 'font')
