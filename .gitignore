@@ -1,6 +1,6 @@
 .ruff_cache
 *.ws
-armips.exe
+# armips.exe
 
 # Python-generated files
 __pycache__/

@@ -51,7 +51,7 @@ String0x0055CD:
 
 String0x0055F3:
 ; .strn "真実はいつも一つ{line}……だろ？{line}{page}"
-  .strn "真相永远只有一个{line}……对吧？　{line}{page}"
+  .strn "真相永远只有一个{line}……对吧？{line}{page}"
 
 String0x005613:
 ; .strn "工藤なみの　ライ{line}バルの出現やな{line}{page}"

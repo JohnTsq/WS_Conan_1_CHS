@@ -1,7 +1,7 @@
 .definelabel ROM_EXPANSION_OFFSET,0x100000
 
 .arm.little
-.createfile ".\build.ws",0
+.createfile ".\patched.ws",0
 .fill ROM_EXPANSION_OFFSET,0xFF
 .incbin ".\baserom.ws"
 
