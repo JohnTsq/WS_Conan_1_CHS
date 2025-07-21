@@ -23,6 +23,7 @@
 
 ; 图像
 .include "graphic\font.asm"
+.include "graphic\chapter_title.asm"
 
 .closefile
 
