@@ -1,11 +1,16 @@
 [project]
-name = "ws-conan1-chs"
+name = "ws-conan-1-chs"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
     "freetype-py>=2.5.1",
+    "ipykernel>=6.29.5",
     "numpy>=2.2.6",
     "pillow>=11.2.1",
+    "pypng",
 ]
+
+[tool.uv.sources]
+pypng = { git = "https://gitlab.com/drj11/pypng", rev = "pypng-0.20250521.0" }
