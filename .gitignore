@@ -7,6 +7,7 @@
 *.tilemap
 tool/armips
 tool/PixelPet
+*.dmp
 
 # Python-generated files
 __pycache__/
