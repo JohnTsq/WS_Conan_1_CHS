@@ -2,6 +2,11 @@
 *.ws
 # armips.exe
 *.ttf
+*.otf
+*.2bpp
+*.tilemap
+tool/armips
+tool/PixelPet
 
 # Python-generated files
 __pycache__/
