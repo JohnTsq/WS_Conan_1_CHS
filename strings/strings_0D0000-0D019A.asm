@@ -13,7 +13,7 @@ String0x0D0000:
 
 String0x0D003E:
 ; .strn "だんだん　見えてきた{line}ぞ！　もう少し　捜査{line}を続けよう{line}{page}"
-  .strn "一点点看到谜底了！　{line}再继续搜查一下吧　　{line}　　　　　{line}{page}"
+  .strn "一点点能看到谜底了！{line}再继续搜查一下吧　　{line}　　　　　{line}{page}"
 
 .endarea
 
@@ -33,7 +33,7 @@ String0x0D0078:
 
 String0x0D00B8:
 ; .strn "（カーソル４つ押しで{line}全問正解にできます）{line}{page}"
-  .strn "（通过按下４个光标　{line}可以全部正确回答。）{line}{page}"
+  .strn "（通过按下４个光标　{line}来全部正确回答吧。）{line}{page}"
 
 .endarea
 
