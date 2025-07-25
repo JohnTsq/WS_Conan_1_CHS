@@ -1143,15 +1143,15 @@ String0x0D97E0:
 
 String0x0D98C0:
 ; .strn "・青は「かわいい{line}青バラ」わたしの{line}左手にひかえる{line}{page}"
-  .strn "＊蓝色的“可爱蓝玫瑰”{line}在我的左手里{line}{line}{page}"
+  .strn "＊蓝色的“萌蓝玫瑰”{line}在我的左手里{line}{line}{page}"
 
 String0x0D98F6:
 ; .strn "・「悪魔の涙」は赤く{line}右手にあるのは{line}黄色い宝石{line}{page}"
-  .strn "＊红色是“恶魔泪光”{line}黄色的宝石{line}在我右手里{line}{page}"
+  .strn "＊红色是“泪眼恶魔”{line}黄色的宝石{line}在我右手里{line}{page}"
 
 String0x0D992A:
 ; .strn "・黄色い宝石の名は{line}「ソロモンのカギ」{line}{page}"
-  .strn "＊黄色宝石的名字是{line}“所罗门之钥”{line}{page}"
+  .strn "＊黄色宝石的名字是{line}“所罗门钥匙”{line}{page}"
 
 String0x0D9954:
 ; .strn "・中央の「ヴィーナス{line}の瞳」は無色の宝石だ{line}{page}"
@@ -1195,19 +1195,19 @@ String0x0D9B94:
 
 String0x0D9BCC:
 ; .strn "・「悪魔の涙」は{line}２文字目を読む{line}{page}"
-  .strn "＊“恶魔泪光”读第２个字{line}{page}"
+  .strn "＊“泪眼恶魔”读第２个字{line}{page}"
 
 String0x0D9BF0:
 ; .strn "・「ソロモンのカギ」{line}は　３番目に読む{line}{page}"
-  .strn "＊“所罗门钥匙”{line}要读第３个{line}{page}"
+  .strn "＊“所罗门钥匙”{line}读第３个字{line}{page}"
 
 String0x0D9C1A:
 ; .strn "・最後に読むのは{line}「悪魔の涙」{line}{page}"
-  .strn "＊最后要读的是{line}“恶魔泪光”{line}{page}"
+  .strn "＊最后要读的是{line}“泪眼恶魔”{line}{page}"
 
 String0x0D9C3C:
 ; .strn "・「かわいい青バラ」{line}は　３文字目を読む{line}{page}"
-  .strn "＊“可爱蓝玫瑰”要读{line}第３个字{line}{page}"
+  .strn "＊“萌蓝玫瑰”要读{line}第３个字{line}{page}"
 
 String0x0D9C68:
 ; .strn "・キッドのメッセージ{line}カード①を読んだ{line}{page}"
@@ -1239,15 +1239,15 @@ String0x0D9D4C:
 
 String0x0D9D90:
 ; .strn "暗号のとおりに　宝石{line}の名前の文字を読むと{line}…ウいンく？？{line}{page}"
-  .strn "按照暗号，照顺序读出{line}来是…ＺＨＡ　ＹＡＮ{line}…眨眼？？{line}{page}"
+  .strn "按照暗号　照顺序读{line}出来是…维玫钥眼{line}…维没有眼？？{line}{page}"
 
 String0x0D9DCE:
 ; .strn "灰原が少年探偵団に{line}宝探しゲームを{line}提案した　「誰」が{line}「どこ」に隠された{line}「何色のもの」を{line}探すかが問題らしい{line}特に　オレは{line}ハンデをつけられて{line}どこの何を探すか{line}わかりづらく{line}なっているんだって{line}{page}"
-  .strn "灰原提议少年侦探团{line}一起玩寻宝游戏{line}“谁”在“哪里”{line}要找“什么颜色”{line}的东西呢{line}为了刁难我，{line}好像不那么{line}容易破解呢{line}{line}{line}{line}{page}"
+  .strn "灰原提议少年侦探团{line}一起玩寻宝游戏{line}“谁”在“哪里”{line}要找“什么颜色”{line}的东西呢{line}是在考验我呢{line}好像不那么{line}容易破解的样子{line}{line}{line}{line}{page}"
 
 String0x0D9E98:
 ; .strn "・歩美は木の下に{line}あるもの　元太は{line}青いものをさがす{line}{page}"
-  .strn "＊步美的宝藏在树下，{line}元太要找蓝色的宝藏{line}{line}{page}"
+  .strn "＊步美的宝藏在树下{line}元太要找蓝色的宝藏{line}{line}{page}"
 
 String0x0D9ED0:
 ; .strn "・光彦は　緑色のもの{line}をさがす{line}{page}"
@@ -1283,11 +1283,11 @@ String0x0D9FC8:
 
 String0x0D9FDC:
 ; .strn "灰原が　少年探偵団に{line}出した宝さがし問題だ{line}オレはなにをさがす？{line}{page}"
-  .strn "灰原给侦探团出的寻宝{line}谜题，我要寻找的{line}是什么样的东西？{line}{page}"
+  .strn "灰原给侦探团出的寻宝{line}谜题　我要寻找的{line}是什么样的东西？{line}{page}"
 
 String0x0DA020:
 ; .strn "じゃ　べンチの下から{line}黄色のビー玉を{line}見つけてくるかな！{line}{page}"
-  .strn "就是说，我要在长椅{line}的下面去找{line}黄色的弹珠！{line}{page}"
+  .strn "就是说　我要在长椅{line}的下面去寻找{line}黄色的弹珠！{line}{page}"
 
 String0x0DA05C:
 ; .strn "キッドの手紙から{line}４つの宝石を集めた{line}オレたちは　宝石が{line}盗賊団「魔術師」に{line}関わっていることを{line}知った　宝石の暗号を{line}解けば宝の隠し場所が{line}わかるはずだ{line}「どの宝石」を「どの{line}アトラクション」の{line}「どの場所」に持って{line}行けばいいんだ？{line}{page}"
@@ -1295,7 +1295,7 @@ String0x0DA05C:
 
 String0x0DA14C:
 ; .strn "・宝石を置く場所は{line}海賊のドクロの口の中{line}カップの皿の下{line}{page}"
-  .strn "＊宝石要嵌入海盗{line}骷髅的嘴中，和{line}盘子的下面{line}{page}"
+  .strn "＊宝石要嵌入海盗{line}骷髅的口中{line}盘子的下面{line}{page}"
 
 String0x0DA188:
 ; .strn "・ルビーは{line}ランタンの下に{line}{page}"
@@ -1331,31 +1331,31 @@ String0x0DA2A6:
 
 String0x0DA2BA:
 ; .strn "宝石を　指示どおりの{line}場所にはめることで{line}なにかわかるのか？{line}{page}"
-  .strn "把宝石嵌入指定{line}的地点之后，能{line}知道些什么呢{line}{page}"
+  .strn "把宝石嵌入指定{line}的地点之后{line}能知道些什么呢{line}{page}"
 
 String0x0DA2FA:
 ; .strn "遊園地のこの場所に{line}それぞれの宝石を{line}はめれば　いいんだな{line}{page}"
-  .strn "在游乐园的这个地方{line}把宝石都嵌上就行了吧{line}{page}"
+  .strn "在游乐园的这里{line}把宝石都嵌上就行了吧{line}{page}"
 
 String0x0DA338:
 ; .strn "暗号通りに　宝石を{line}はめると　オレたちの{line}前に　新たな暗号が{line}浮かびあがってきた{line}どうやら地下の扉を{line}開くための暗号らしい{line}「どの宝石」を「どの{line}順」で「どのマーク」{line}にはめて「どの方向」{line}に動かせばいいのか？{line}指示どおりに動かせ{line}ば扉が開くはずだ{line}{page}"
-  .strn "根据暗号嵌入宝石以后{line}在我们面前出现了新的{line}暗号，看来这是一个能{line}开启通向地下的大门{line}的暗号。{line}“哪颗宝石”{line}该按照“什么顺序”{line}嵌入“哪个标志”{line}向“什么方向”{line}移动呢？{line}{line}{line}{page}"
+  .strn "根据暗号嵌入宝石以后{line}在我们面前出现了新的{line}暗号　看来这是一个能{line}开启通向地下的大门{line}的暗号{line}“哪颗宝石”{line}该按照“什么顺序”{line}嵌入“哪个标志”{line}向“什么方向”{line}移动　才能打开门呢？{line}{line}{line}{page}"
 
 String0x0DA434:
 ; .strn "・エメラルドは左に{line}最初の石は右に{line}クラブは下に動かす{line}{page}"
-  .strn "＊绿宝石嵌在左边{line}第１块石头向右{line}梅花向下移动{line}{page}"
+  .strn "＊绿宝石放在左边{line}第１块石头是向右{line}梅花是向下移动{line}{page}"
 
 String0x0DA46E:
 ; .strn "・サファイヤは下ヘ{line}スぺードは上ヘ{line}{page}"
-  .strn "＊蓝宝石向下{line}黑桃向上{line}{page}"
+  .strn "＊蓝宝石是向下{line}黑桃是向上{line}{page}"
 
 String0x0DA494:
 ; .strn "・アメジストは{line}ハートに{line}クラブは２番目に{line}{page}"
-  .strn "＊紫水晶嵌在{line}红桃上{line}第２块嵌在梅花上{line}{page}"
+  .strn "＊紫水晶放在{line}红桃里{line}第２块则是梅花{line}{page}"
 
 String0x0DA4C2:
 ; .strn "・ルビーは最後に動く{line}ダイヤのマークは{line}３番目だ{line}{page}"
-  .strn "＊红宝石是最后移动的{line}第３块要嵌入{line}方片标志{line}{page}"
+  .strn "＊最后动的是红宝石{line}第３块要放在{line}方块里{line}{page}"
 
 String0x0DA4F6:
 ; .strn "・エメラルドに秘め{line}られたメッセージ入手{line}{page}"
@@ -1387,19 +1387,19 @@ String0x0DA5F4:
 
 String0x0DA636:
 ; .strn "地下道の途中で{line}白骨死体を見つけた{line}オレたちは　どうやら{line}この問題を解かないと{line}この死体と　同じ運命{line}をたどりそうだ{line}問題のプレートにある{line}「ｇｉＭａｃ」を{line}どの「順番」で{line}「どう動かす」と{line}危険なトラップを{line}止められるんだろう？{line}{page}"
-  .strn "在地道里行进的途中{line}我们看见了白骨化的{line}尸体，看来我们不解开{line}这个谜题就会落得跟{line}尸体同样的下场。{line}该按照什么“顺序”{line}怎么移动浮雕上的{line}“ｇｉＭａｃ”{line}才能破解这{line}危险的陷阱呢？{line}{line}{line}{page}"
+  .strn "在地道里行进的途中{line}我们看见了白骨化的{line}尸体　看来我们不解开{line}这个谜题　就会落得跟{line}尸体同样的下场{line}该按照什么“顺序”{line}怎么移动浮雕上的{line}“ｇｉＭａｃ”{line}才能破解这{line}危险的陷阱呢？{line}{line}{line}{page}"
 
 String0x0DA720:
 ; .strn "・最初は　はずして{line}ｃ（シー）は逆さまに{line}{page}"
-  .strn "＊先取下一个浮雕，{line}ｃ的浮雕要颠倒过来{line}{page}"
+  .strn "＊第一个浮雕需要取下{line}ｃ的浮雕要颠倒过来{line}{page}"
 
 String0x0DA74C:
 ; .strn "・ｇ（ジイ）は２番目{line}ｉ（アイ）は手前に{line}引く{line}{page}"
-  .strn "＊第２个移动ｇ的浮雕{line}把ｉ的浮雕拉过来{line}{page}"
+  .strn "＊ｇ的浮雕第２个移动{line}ｉ的浮雕需要拉{line}{page}"
 
 String0x0DA77E:
 ; .strn "・最後は逆さまに{line}どれかは押す事{line}{page}"
-  .strn "＊最后颠倒浮雕{line}某个浮雕需要推{line}{page}"
+  .strn "＊最后的浮雕要颠倒{line}有个浮雕需要推{line}{page}"
 
 String0x0DA7A2:
 ; .strn "・謎の暗号①入手{line}{page}"
@@ -1427,27 +1427,27 @@ String0x0DA830:
 
 String0x0DA870:
 ; .strn "床にしきつめられた{line}トランプのマークの{line}どこかに　４つの{line}宝石をはめると{line}橋のトラップが止まる{line}仕掛けらしい{line}「どの宝石」を{line}「横からいくつ目」{line}「縦からいくつ目」{line}の「どのマーク」に{line}はめると　トラップを{line}止められるんだろう？{line}{page}"
-  .strn "把４颗宝分别石嵌入{line}这地砖上的某个{line}扑克牌图案，好像{line}就能化解这座桥的{line}陷阱。{line}“哪颗宝石”该嵌入{line}“横向第几格”{line}“纵向第几格”{line}的“哪个图案”里{line}才能关掉机关呢{line}{page}"
+  .strn "把４颗宝分别石嵌入{line}这地砖上的某个{line}扑克牌图案　好像{line}就能化解这座桥的{line}陷阱{line}“哪颗宝石”该嵌入{line}“横向第几格”{line}“纵向第几格”{line}的“哪个图案”里{line}才能关掉机关呢{line}{page}"
 
 String0x0DA958:
 ; .strn "・ルビーを谷から３に{line}横から２はダイヤの{line}マーク{line}{page}"
-  .strn "＊红宝石嵌入纵向第３{line}格，横向第２格是方片{line}{line}{page}"
+  .strn "＊纵向第３格是红宝石{line}横向第２格是方块{line}{line}{page}"
 
 String0x0DA98C:
 ; .strn "・エメラルドは{line}スぺードに{line}谷から４は横から３{line}{page}"
-  .strn "＊绿宝石嵌入黑桃，{line}纵向第４格是横向{line}第３格{line}{page}"
+  .strn "＊绿宝石放在黑桃{line}纵向第４格是横向{line}第３格{line}{page}"
 
 String0x0DA9BE:
 ; .strn "・ハートは横から４{line}サファイヤは{line}横から２{line}{page}"
-  .strn "＊红桃在横向第４格{line}蓝宝石嵌入横向{line}第２格{line}{page}"
+  .strn "＊红桃是横向第４格{line}蓝宝石是横向{line}第２格{line}{page}"
 
 String0x0DA9EC:
 ; .strn "・クラブは谷から４{line}スぺードは谷から２{line}{page}"
-  .strn "＊梅花是纵向４{line}黑桃是纵向２{line}{page}"
+  .strn "＊梅花是纵向第４格{line}黑桃是纵向第２格{line}{page}"
 
 String0x0DAA16:
 ; .strn "・アメジストは{line}クラブに{line}{page}"
-  .strn "＊紫水晶要嵌入{line}梅花{line}{page}"
+  .strn "＊紫水晶放在{line}梅花{line}{page}"
 
 String0x0DAA32:
 ; .strn "・謎の暗号①入手{line}{page}"
@@ -1479,19 +1479,19 @@ String0x0DAAAA:
 
 String0x0DAAEE:
 ; .strn "これで　指示どおりの{line}位置に宝石をはめて{line}宝物庫に行けるぞ！{line}{page}"
-  .strn "按照这个指示嵌入{line}宝石，就能前往{line}藏宝库了！{line}{page}"
+  .strn "按照这个指示嵌入{line}宝石　就能前往{line}藏宝库了！{line}{page}"
 
 String0x0DAB2E:
 ; .strn "宝物庫を開けるには{line}トランプのマークと{line}「ＭＡＧＩ」の１文字{line}を押し　次に{line}「ＣＩＡＮ」の１文字{line}を押す　という作業を{line}４回くり返さなくて{line}はならない　１〜４回{line}までの「マーク」と{line}「ＭＡＧＩ」と{line}「ＣＩＡＮ」の文字の{line}組み合わせを見つけろ{line}{page}"
-  .strn "想要打开藏宝库，{line}必须按下扑克牌图案，{line}“ＭＡＧＩ”的{line}某一个字母后再按下{line}“ＣＩＡＮ”的{line}某一个字母{line}要如此重复４次。{line}找到正确的顺序{line}和组合吧！{line}{line}{line}{line}{page}"
+  .strn "想要打开藏宝库{line}必须按下扑克牌图案{line}“ＭＡＧＩ”的某{line}个字母后再按下{line}“ＣＩＡＮ”的某{line}个字母{line}要如此重复４次{line}找到正确的顺序{line}和组合吧！{line}{line}{line}{line}{page}"
 
 String0x0DAC22:
 ; .strn "・先にＭＡＧＩから{line}１文字　次にＣＩＡＮ{line}から１文字を押す{line}{page}"
-  .strn "＊先按ＭＡＧＩ的一{line}个字，再按ＣＩＡＮ{line}的一个字{line}{page}"
+  .strn "＊先按ＭＡＧＩ的某{line}个字母　再按ＣＩＡＮ{line}的某个字母{line}{page}"
 
 String0x0DAC60:
 ; .strn "・一番最初はＧ{line}４回目の最後はＮ{line}{page}"
-  .strn "＊最初按下Ｇ{line}第４次最后按Ｎ{line}{page}"
+  .strn "＊最初要按的是Ｇ{line}最后第４次再按Ｎ{line}{page}"
 
 String0x0DAC84:
 ; .strn "・ＭＡＧＩがＭの時{line}ＣＩＡＮはＡ{line}{page}"
@@ -1499,19 +1499,19 @@ String0x0DAC84:
 
 String0x0DACA8:
 ; .strn "・スぺードマークは{line}３回目　ダイヤマーク{line}はＩを押さない{line}{page}"
-  .strn "＊第３轮要按下黑桃{line}图案，方片跟Ｉ不要{line}一起按{line}{page}"
+  .strn "＊第３轮要按下黑桃{line}图案　方片不是和Ｉ{line}一起按{line}{page}"
 
 String0x0DACE4:
 ; .strn "・クラブではＡを{line}押さない{line}ハートは先にＩを押す{line}{page}"
-  .strn "＊梅花跟Ａ不要一起按{line}按红桃前要先按Ｉ{line}{line}{page}"
+  .strn "＊梅花按的不是Ａ{line}按红桃前先按了Ｉ{line}{line}{page}"
 
 String0x0DAD18:
 ; .strn "・クラブはＣを押す{line}２回目のマークは{line}ダイヤ{line}{page}"
-  .strn "＊梅花跟Ｃ在一轮{line}第２轮要按下方片{line}{line}{page}"
+  .strn "＊梅花跟Ｃ一起按{line}第２轮按的是方块{line}{line}{page}"
 
 String0x0DAD48:
 ; .strn "・ＣＩＡＮのＩは{line}３回目に押される{line}{page}"
-  .strn "＊ＣＩＡＮ的Ｉ要{line}在第３轮按下{line}{page}"
+  .strn "＊ＣＩＡＮ的Ｉ是{line}在第３轮按{line}{page}"
 
 String0x0DAD6E:
 ; .strn "・スぺードは最初に{line}Ａを押す{line}{page}"
@@ -1555,15 +1555,15 @@ String0x0DAEAE:
 
 String0x0DAEC2:
 ; .strn "宝物庫をあける暗号か{line}さすがに手ごわいが{line}きっととけるはずだ！{line}{page}"
-  .strn "打开藏宝库的暗号{line}到底是不简单，但我{line}一定能解开！{line}{page}"
+  .strn "打开藏宝库的暗号{line}还真是不简单　但我{line}一定能解开！{line}{page}"
 
 String0x0DAF04:
 ; .strn "この順番に　この字を{line}おせば宝物庫がひらく{line}ついに宝が目の前に…{line}{page}"
-  .strn "按照这个顺序，按下{line}这个字母…那些宝藏{line}就在眼前了{line}{line}{page}"
+  .strn "按照这个顺序　按下{line}这个字母…那些宝藏{line}就在眼前了{line}{line}{page}"
 
 String0x0DAF48:
 ; .strn "どうしても開かない{line}宝箱にも　どうやら{line}仕掛けがあるようだ{line}「２０世紀」の文字を{line}「順番」通りに　ある{line}「方向」に動かせば{line}開くみたいだが…{line}この宝箱の中に{line}「魔術師」の秘密が{line}隠されているはずだ！{line}{page}"
-  .strn "这个无法打开的宝箱，{line}看来也暗含机关{line}“２０世纪”这几个字{line}按“顺序”向{line}“某方向”移动，{line}应该就能打开。{line}这宝箱里就藏有{line}“魔术师”的秘密{line}{line}{line}{page}"
+  .strn "这个无法打开的宝箱{line}看来也暗含机关{line}“２０世纪”这几个字{line}按“顺序”向{line}“某方向”移动{line}应该就能打开{line}这宝箱里就藏有{line}“魔术师”的秘密{line}{line}{line}{page}"
 
 String0x0DB012:
 ; .strn "・「２」は上に{line}「紀」は下に{line}{page}"
@@ -1603,7 +1603,7 @@ String0x0DB116:
 
 String0x0DB15A:
 ; .strn "飼育係と{line}動物のエサの袋の{line}対応表を再現する{line}{page}"
-  .strn "重现负责{line}的动物和动物饲料{line}袋的对照表{line}{page}"
+  .strn "重现各自负责{line}动物和饲料袋{line}的对照表{line}{page}"
 
 String0x0DB18A:
 ; .strn "コナンの担当は{line}コイである{line}{page}"
@@ -1611,7 +1611,7 @@ String0x0DB18A:
 
 String0x0DB1A8:
 ; .strn "緑の袋のエサは{line}歩美の担当の動物の{line}エサだ{line}{page}"
-  .strn "绿色袋子{line}是步美负责的动物的{line}饲料{line}{page}"
+  .strn "绿色袋子{line}是步美负责动物的{line}饲料袋{line}{page}"
 
 String0x0DB1D6:
 ; .strn "元太の担当は{line}カメではない{line}{page}"
@@ -1619,7 +1619,7 @@ String0x0DB1D6:
 
 String0x0DB1F4:
 ; .strn "ウサギ印のエサは{line}うさぎのエサで、カメの{line}エサはウラシマ印だ{line}{page}"
-  .strn "兔子图案的饲料{line}是兔子的，乌龟的饲料袋{line}印着浦岛图案{line}{page}"
+  .strn "兔子图案的饲料袋{line}是兔子的　乌龟的饲料袋{line}印着浦岛图案{line}{page}"
 
 String0x0DB234:
 ; .strn "００１　チュートリアル{line}{page}"
@@ -1627,7 +1627,7 @@ String0x0DB234:
 
 String0x0DB24E:
 ; .strn "元太のなくした{line}当番表を{line}再現せよ{line}{page}"
-  .strn "来重现{line}元太弄丢的{line}值日表吧{line}{page}"
+  .strn "来重现{line}元太弄丢的{line}职责表吧{line}{page}"
 
 String0x0DB274:
 ; .strn "やったぜ！{line}元太{line}感謝しろよな！{line}{page}"
@@ -1635,11 +1635,11 @@ String0x0DB274:
 
 String0x0DB298:
 ; .strn "阿笠博士の発明？が{line}米花公園で盗まれた{line}容疑者は４匹のネコだ{line}みんなの証言から{line}真犯人とそのねぐらを{line}わりだして、{line}発明品をとりもどそう{line}{page}"
-  .strn "阿笠博士的发明在{line}米花公园被偷了{line}嫌疑人是４只猫咪{line}根据大家的证言{line}推理出犯人和找出{line}它的巢穴，找回博士{line}的发明吧{line}{page}"
+  .strn "阿笠博士的发明在{line}米花公园被偷了{line}嫌疑人是４只猫咪{line}根据大家的证言{line}推理出犯人{line}和找出它的巢穴{line}找回博士的发明吧{line}{page}"
 
 String0x0DB324:
 ; .strn "トラは４番目の{line}ネコではない{line}{page}"
-  .strn "虎纹猫不是第{line}４个来觅食的{line}{page}"
+  .strn "４个来觅食的{line}不是虎纹猫{line}{page}"
 
 String0x0DB344:
 ; .strn "シロは１，２番目の{line}ネコではない{line}{page}"
@@ -1651,11 +1651,11 @@ String0x0DB368:
 
 String0x0DB39C:
 ; .strn "公園に１番目に{line}あらわれるネコは{line}米花デパートがねぐら{line}{page}"
-  .strn "公园第１个出来{line}觅食的猫，巢穴{line}在米花百货大楼{line}{page}"
+  .strn "公园的是第１个{line}出现觅食的猫{line}巢穴在米花百货大楼{line}{page}"
 
 String0x0DB3D6:
 ; .strn "クロは米花警察の{line}うらを{line}ねぐらにしている{line}{page}"
-  .strn "黑猫的巢穴在{line}米花警察局的背后{line}{page}"
+  .strn "黑猫的巢穴是在{line}米花警察局背后{line}{page}"
 
 String0x0DB404:
 ; .strn "ミケは２番目に{line}あらわれるネコだ{line}{page}"
@@ -1723,11 +1723,11 @@ String0x0DB70A:
 
 String0x0DB74E:
 ; .strn "元暴力団の男が　頭を{line}撃たれて　死んでいた{line}男の事務所から{line}見つかった４丁の{line}銃の中で　Ｍ８９Ｂ{line}という銃が使われた{line}らしい　銃の持ち主と{line}思われる４人の証言{line}から「誰」が「何国{line}製」の「どの銃」を{line}持っていたかわかれば{line}犯人もわかるはず！{line}{page}"
-  .strn "原黑帮成员死于头部{line}中弹，在他的事务所{line}找到了４把枪，{line}其中Ｍ８９Ｂ{line}好像被使用过{line}有４人被怀疑为凶手{line}知道了“谁”持有{line}“哪国制”的{line}“哪把枪”{line}应该就能锁定犯人！{line}{line}{line}{page}"
+  .strn "原黑帮成员死于头部{line}中弹　在他的事务所{line}找到了４把枪{line}其中Ｍ８９Ｂ{line}好像被使用过{line}有４人被怀疑为凶手{line}知道了“谁”持有{line}“哪国制”的{line}“哪把枪”{line}应该就能锁定犯人！{line}{line}{line}{page}"
 
 String0x0DB842:
 ; .strn "・望月「Ｍ８９Ｂは{line}イギリス製でも{line}ドイツ製でもない」{line}{page}"
-  .strn "＊望月“Ｍ８９Ｂ{line}既不是英国制也{line}不是德国制”{line}{page}"
+  .strn "＊望月“Ｍ８９Ｂ{line}既不是英国制{line}也不是德国制”{line}{page}"
 
 String0x0DB87C:
 ; .strn "・萩原「俺の銃は{line}イギリス製だ」{line}{page}"
