@@ -35,7 +35,7 @@ String0x005443:
 
 String0x0054B3:
 ; .strn "－消去しました－{line}{page}"
-  .strn "－删除了－　　　{line}{page}"
+  .strn "　－删除了－　　{line}{page}"
 
 String0x0054C7:
 ; .strn "　＜データ消去モード＞{line}このカートリッジのデータ{line}を消去します。{line}　{line}　　＊消去しますか？{line}　　　はい　　いいえ{line}{page}"
@@ -47,7 +47,7 @@ String0x00553B:
 
 String0x0055CD:
 ; .strn "やるね　見事だよ{line}小さな探偵くん！{line}{page}"
-  .strn "真厉害，干得好　{line}小小侦探先生！　{line}{page}"
+  .strn "真厉害　干得漂亮{line}小小侦探先生！　{line}{page}"
 
 String0x0055F3:
 ; .strn "真実はいつも一つ{line}……だろ？{line}{page}"
@@ -59,11 +59,11 @@ String0x005613:
 
 String0x005637:
 ; .strn "オイオイ　こりゃ{line}どーいうこった？{line}{page}"
-  .strn "喂喂，这是怎么　{line}一回事啊？　　　{line}{page}"
+  .strn "喂喂　　　　　　{line}这是怎么回事啊？{line}{page}"
 
 String0x00565D:
 ; .strn "セーブしました{line}{page}"
-  .strn "　　存档成功　{line}{page}"
+  .strn "　存档成功　　{line}{page}"
 
 .endarea
 
