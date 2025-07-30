@@ -3,15 +3,15 @@
 
 String0x0C0000:
 ; .strn "キッド！　なんて{line}だいたんなんだ{page}"
-  .strn "基德{line}胆子也太大了吧{page}"
+  .strn "基德！　　　　　{line}胆子也太大了吧{page}"
 
 String0x0C0022:
 ; .strn "キッドめ　いったい{line}何を　考えている{page}"
-  .strn "基德那家伙{line}到底在打算干什么　　{page}"
+  .strn "基德那家伙　　　　{line}到底在打算干什么{page}"
 
 String0x0C0048:
 ; .strn "ワシあての　プレゼント{line}じゃないのか{page}"
-  .strn "是给我的礼物吗{line}　　　　　　{page}"
+  .strn "是给我的礼物吗　　　　{line}　　　　　　{page}"
 
 String0x0C006E:
 ; .strn "キッドからの新たなメッセージ{page}"
@@ -19,19 +19,19 @@ String0x0C006E:
 
 String0x0C008C:
 ; .strn "これは　キッドからオレヘの{line}挑戦状にちがいない{page}"
-  .strn "这是特意给我们{line}下的挑战书　　　　{page}"
+  .strn "这是基德特意给我们　　　　{line}下的挑战书吧　{page}"
 
 String0x0C00BC:
 ; .strn "キッドのメッセージも　論理的に{line}推理すれば　解けるはず{page}"
-  .strn "记得留下的讯息　不是乱来的{line}仔细推理的话一定能解开{page}"
+  .strn "基德留下的讯息　　　　　　　　{line}仔细推理　就一定能解开{page}"
 
 String0x0C00F4:
 ; .strn "『マルバツール』の出番だぜ！{page}"
-  .strn "该“逻辑矩阵”出场了　　{page}"
+  .strn "是时候该“逻辑矩阵”出场了！{page}"
 
 String0x0C0112:
 ; .strn "（まいったな　目暮警部以外{line}　全員にキッドの可能性があるぞ）{page}"
-  .strn "（这下麻烦了　除了目暮警部{line}其他所有人都有可能是基德）　　　{page}"
+  .strn "（这下麻烦了　除了目暮警部{line}　其他所有人都有可能是基德）　　{page}"
 
 String0x0C0150:
 ; .strn "あら　コナンくん{page}"
@@ -39,15 +39,15 @@ String0x0C0150:
 
 String0x0C0162:
 ; .strn "そう言えば　さっきから{line}何　やってるの？{page}"
-  .strn "园子姐姐　从刚才开始{line}一直在干什么啊？{page}"
+  .strn "园子姐姐　　　　　　　{line}你在做什么啊？　{page}"
 
 String0x0C018C:
 ; .strn "だって　ここ　白鳥刑事が{line}はずしてるじゃない？{page}"
-  .strn "白鸟警官刚才不是{line}离开这里了吗？　　　　　{page}"
+  .strn "白鸟警官刚才　　　　　　{line}不是离开这里了嘛　　{page}"
 
 String0x0C01BC:
 ; .strn "『名探偵　鈴木園子』が{line}かわりに　見はっているのよ{page}"
-  .strn "就由我{line}“名侦探铃木园子”来换班啦{page}"
+  .strn "所以就由我　　　　　　{line}“名侦探铃木园子”来换班啦{page}"
 
 String0x0C01F0:
 ; .strn "その心配なら無用ですよ{page}"
@@ -59,23 +59,23 @@ String0x0C0208:
 
 String0x0C0224:
 ; .strn "？　蘭　その箱　どうしたの{page}"
-  .strn "？小兰　那个盒子是　　　　{page}"
+  .strn "？　小兰　那个盒子是　　　{page}"
 
 String0x0C0240:
 ; .strn "蘭：目暮警部が　お父さんあての{line}荷物だからって{page}"
-  .strn "小兰：是目暮警官交给我爸爸的{line}快递　　　　　{page}"
+  .strn "小兰：是目暮警官给我爸爸的快递{line}　　　　　　　{page}"
 
 String0x0C0270:
 ; .strn "蘭：…これ園子が　お父さんに{line}送った荷物よね？{page}"
-  .strn "小兰：…这个是园子寄给我爸爸{line}的快递对吧　　　{page}"
+  .strn "小兰：…这个是园子　　　　　{line}寄给我爸爸的对吧{page}"
 
 String0x0C02A0:
 ; .strn "園子：？　わたし　なーんも{line}送ってないよ{page}"
-  .strn "园子：？我什么也没有寄哦{line}　　　　　　{page}"
+  .strn "园子：？　我什么也没有寄哦{line}　　　　　　{page}"
 
 String0x0C02CA:
 ; .strn "コナン：！　それじゃ…{page}"
-  .strn "柯南：！那么说…　　　{page}"
+  .strn "柯南：！　那么说…　　{page}"
 
 String0x0C02E2:
 ; .strn "謎の宅配便だと？{page}"
@@ -83,11 +83,11 @@ String0x0C02E2:
 
 String0x0C02F4:
 ; .strn "もしかして　キッドからじゃない？{page}"
-  .strn "该不会是基德寄来的吧？　　　　　{page}"
+  .strn "该不会　是基德寄来的吧？　　　　{page}"
 
 String0x0C0316:
 ; .strn "そうか！　名探偵のオレを狙って{line}…まさか　バクダン？{page}"
-  .strn "是吗！盯上了我这个名侦探{line}该不会是　炸弹？　　{page}"
+  .strn "是吗！　目的是我这个名侦探　　{line}…该不会是　炸弹？　{page}"
 
 String0x0C034C:
 ; .strn "キッドは　そういうことはしないよ{page}"
@@ -95,7 +95,7 @@ String0x0C034C:
 
 String0x0C036E:
 ; .strn "なんで　お前にわかるんだ？{page}"
-  .strn "你为什么那么清楚？　　　　{page}"
+  .strn "你为什么那么清楚啊？　　　{page}"
 
 String0x0C038A:
 ; .strn "まあ　とにかく　警部たちを{line}呼んで　コレを開けてみよう{page}"
@@ -119,19 +119,19 @@ String0x0C0402:
 
 String0x0C041C:
 ; .strn "目暮警部　その件についての{line}報告が　さきほど入りました{page}"
-  .strn "目暮警部　关于这件事我收到{line}了最新的报告　　　　　　　{page}"
+  .strn "目暮警部　关于这件事　　　{line}我收到了最新的报告　　　　{page}"
 
 String0x0C0454:
 ; .strn "荷物は　近くのコンビニから{line}送られています　それで…{page}"
-  .strn "快递是从附近的便利店{line}寄出来的　而且……　　　{page}"
+  .strn "快递是从附近的便利店　　　{line}寄出来的　而且…　　　　{page}"
 
 String0x0C048A:
 ; .strn "？　どうした{page}"
-  .strn "？而且什么　{page}"
+  .strn "？　而且什么{page}"
 
 String0x0C0498:
 ; .strn "それで…コンビニヘ荷物を{line}持ってきた男なんですが{page}"
-  .strn "而且…在便利店寄快递的{line}那个男人　　　　　　　{page}"
+  .strn "而且…在便利店寄快递的　{line}那个男人　　　　　　　{page}"
 
 String0x0C04CA:
 ; .strn "どうやら中森警部らしいのです{page}"
@@ -139,31 +139,31 @@ String0x0C04CA:
 
 String0x0C04E8:
 ; .strn "中森警部！　キサマ　キッドだな！{page}"
-  .strn "中森警部！你小子就是基德吧！　　{page}"
+  .strn "中森警部！　你小子就是基德吧！　{page}"
 
 String0x0C050A:
 ; .strn "バカやろう！　そんなの{line}いつもの　キッドの変装だ{page}"
-  .strn "笨蛋！那肯定是基德{line}易容的啊　　　　　　　　{page}"
+  .strn "笨蛋！　　　　　　　　{line}那肯定是基德易容的啊　　{page}"
 
 String0x0C053C:
 ; .strn "それより　アンタこそ{line}本物の毛利探偵かね！{page}"
-  .strn "倒是你　你真的{line}是毛利侦探吗！　{page}"
+  .strn "倒是你　　　　　　　{line}真的是毛利侦探吗！　{page}"
 
 String0x0C0568:
 ; .strn "まずいな　このままじゃ　キッドの{line}思惑通りだ{page}"
-  .strn "不妙　这样下去要被基德{line}牵着鼻子走了　{page}"
+  .strn "不妙　这样就会被基德牵着鼻子走了{line}　　　　　{page}"
 
 String0x0C0596:
 ; .strn "とにかく　この宅配便の箱を{line}調ベよう{page}"
-  .strn "总之先调查一下　这个快递的{line}盒子吧　{page}"
+  .strn "总之先调查下　快递的盒子吧{line}　　　　{page}"
 
 String0x0C05BC:
 ; .strn "外箱{line}箱の中{line}マーク{line}カード{line}{page}"
-  .strn "外盒{line}盒内{line}标志{line}卡片{line}{page}"
+  .strn "外盒{line}盒内　{line}标志　{line}卡片　{line}{page}"
 
 String0x0C05DC:
 ; .strn "外箱{line}箱の中{line}マーク{line}{page}"
-  .strn "外盒{line}盒内{line}标志{line}{page}"
+  .strn "外盒{line}盒内　{line}标志　{line}{page}"
 
 String0x0C05F4:
 ; .strn "コナン：ふつうのダンボールだ{page}"
@@ -171,15 +171,15 @@ String0x0C05F4:
 
 String0x0C0612:
 ; .strn "コナン：あて先は…たしかに{line}『毛利小五郎様』だ{page}"
-  .strn "柯南：收件人的确是{line}“毛利小五郎”　　{page}"
+  .strn "柯南：收件人的确是…　　　{line}“毛利小五郎”　　{page}"
 
 String0x0C0642:
 ; .strn "コナン：差出人は『鈴木園子様』で{line}近くのコンビニから　発送している{page}"
-  .strn "柯南：发件人是“铃木园子”{line}从附近的便利店寄出的　　　　　　{page}"
+  .strn "柯南：发件人是“铃木园子”　　　　{line}是从附近的便利店寄出的　　　　　{page}"
 
 String0x0C0686:
 ; .strn "しかも　コンビニヘ　荷物を{line}持ってきたのは　中森警部…{page}"
-  .strn "而且去便利店寄东西的{line}是中森警部…　　　　　　　{page}"
+  .strn "而且　去便利店寄东西的　　{line}是中森警部…　　　　　　　{page}"
 
 String0x0C06BE:
 ; .strn "キッドの狙いは　なんだ？{page}"
@@ -187,35 +187,35 @@ String0x0C06BE:
 
 String0x0C06D8:
 ; .strn "こらこら　危険だから{line}さわってはイカンよ{page}"
-  .strn "不行不行　太危险了{line}不能乱碰哦　　　　{page}"
+  .strn "不行不行　太危险了　{line}不能乱碰哦　　　　{page}"
 
 String0x0C0702:
 ; .strn "（ちぇっ　中の音でも聞けば{line}　イロイロわかるのに…）{page}"
-  .strn "（切　如果能听听里面的声音{line}的话　说不定就能……）　{page}"
+  .strn "（切　如果能听听里面的声音{line}　说不定就能……）　　　　{page}"
 
 String0x0C0738:
 ; .strn "コナン：この猫のマークは　たしか{line}宅配会社のマークだったよな{page}"
-  .strn "柯南：这个猫咪的标志　就是那个{line}快递公司的标志吧　　　　　{page}"
+  .strn "柯南：这个猫咪的标志　　　　　　{line}就是那个快递公司的标志吧　{page}"
 
 String0x0C0776:
 ; .strn "コナン：あれ？　猫の口元に{line}カードが　はりつけてあるぞ！{page}"
-  .strn "柯南：咦？在猫咪的嘴边{line}贴着一张卡片哦！　　　　　　{page}"
+  .strn "柯南：咦？　在猫咪的嘴边　{line}贴着一张卡片哦！　　　　　　{page}"
 
 String0x0C07B0:
 ; .strn "園子：この猫のマークって{line}有名なデザイナーの作なのよ{page}"
-  .strn "园子：这个猫咪的标志{line}是位有名的艺术家设计的哦　　{page}"
+  .strn "园子：这个猫咪的标志　　{line}是一位有名的艺术家设计的哦{page}"
 
 String0x0C07E6:
 ; .strn "たしか…『四家』さんって{line}いうんだよね{page}"
-  .strn "应该是叫“四家”先生吧{line}　　　　　　{page}"
+  .strn "应该是叫…“四家”先生吧{line}　　　　　　{page}"
 
 String0x0C080E:
 ; .strn "けっこう　いい男よ{line}紹介してあげよっか？{page}"
-  .strn "是个不错的男人哦{line}要不要介绍给你啊－？{page}"
+  .strn "是个不错的男人哦　{line}要不要介绍给你啊？　{page}"
 
 String0x0C0838:
 ; .strn "ちょっと　もったいないけど{line}ワタシには『キッド様』がいるしね{page}"
-  .strn "虽然有点不甘心{line}不过我已经有“基德大人”了　　　{page}"
+  .strn "虽然有点不甘心吧　　　　　{line}不过我毕竟已经有“基德大人”了呢{page}"
 
 String0x0C0876:
 ; .strn "（コ　コイツ）{page}"
@@ -227,19 +227,19 @@ String0x0C0886:
 
 String0x0C08A4:
 ; .strn "なに！…これか{line}ん？　何か書いてあるぞ？{page}"
-  .strn "什么！…这是{line}嗯？这写着什么？　　　　{page}"
+  .strn "什么！…这是　{line}嗯？这写着什么？　　　　{page}"
 
 String0x0C08CE:
 ; .strn "『伝え聞く　宝石は{line}　青　赤　黄　そして　無色』{page}"
-  .strn "“据传闻　有四颗宝石{line}蓝　红　黄和透明”　　　{page}"
+  .strn "“据说　有四颗宝石{line}蓝　红　黄和无色”　　　　　{page}"
 
 String0x0C0900:
 ; .strn "『部屋の右に　左に　奥に{line}　そして　中央に』{page}"
-  .strn "“分别在房间的右　左{line}里　和中央”　　　{page}"
+  .strn "“分别在房间的右　左　　{line}深处　和中央”　　{page}"
 
 String0x0C092E:
 ; .strn "…なんだ　こりゃ？{page}"
-  .strn "…什么啊　这是？　{page}"
+  .strn "…这是什么啊？　　{page}"
 
 String0x0C0942:
 ; .strn "（キッドからのメッセージ！）{page}"
@@ -247,7 +247,7 @@ String0x0C0942:
 
 String0x0C0960:
 ; .strn "青は《かわいい青バラ》{line}わたしの左手に控える{page}"
-  .strn "蓝色的是拿“可爱蓝玫瑰”{line}在我的左手　　　　　{page}"
+  .strn "蓝色的是“萌蓝玫瑰”　　{line}在我的左手　　　　　{page}"
 
 String0x0C098E:
 ; .strn "《悪魔の涙》は赤く{line}右手にあるのは黄色い宝石{page}"
@@ -255,19 +255,19 @@ String0x0C098E:
 
 String0x0C09BC:
 ; .strn "黄色い宝石の名は{line}《ソロモンのカギ》{page}"
-  .strn "黄宝石的名字是{line}“所罗门之钥”　　{page}"
+  .strn "黄宝石的名字是　{line}“所罗门之钥”　　{page}"
 
 String0x0C09E2:
 ; .strn "中央にいる{line}《ヴィーナスの瞳》よ{page}"
-  .strn "在中央的{line}便是“维纳斯之眼”　{page}"
+  .strn "在中央的　{line}便是“维纳斯之眼”　{page}"
 
 String0x0C0A04:
 ; .strn "その　無色のすんだ瞳で{line}わたしを　見つめておくれ{page}"
-  .strn "那无色的清澈之眼啊{line}请注视我吧　　　　　　　{page}"
+  .strn "那无色的清澈之眼啊　　{line}请注视着我吧　　　　　　{page}"
 
 String0x0C0A36:
 ; .strn "『わたしは　すぐ　あなたのもとヘ{line}　…怪盗キッド』{page}"
-  .strn "“我现在　就将来到你的身边{line}…怪盗基德”　　　　　{page}"
+  .strn "“我现在　就将来到你的身边　　　{line}　…怪盗基德”　　{page}"
 
 String0x0C0A6A:
 ; .strn "キッドのヤツ　ナメやがって！{page}"
@@ -275,31 +275,31 @@ String0x0C0A6A:
 
 String0x0C0A88:
 ; .strn "だいじょうぶだ　こちらには{line}『眠りの小五郎』がついている{page}"
-  .strn "没关系　我们这边可是有{line}“沉睡的小五郎”啊　　　　　{page}"
+  .strn "没关系　我们这边可是有　　{line}“沉睡的小五郎”啊　　　　　{page}"
 
 String0x0C0AC2:
 ; .strn "えっ　わたしが…ですか？{page}"
-  .strn "嗯　我……我啊？　　　　{page}"
+  .strn "嗯　我…我啊？　　　　　{page}"
 
 String0x0C0ADC:
 ; .strn "（ははは…おっちゃんには{line}　ちょっと　キツいだろうな）{page}"
-  .strn "（哈哈哈…这对叔叔来说{line}有些强人所难了）　　　　　　{page}"
+  .strn "（哈哈哈…这对叔叔来说　{line}　有些强人所难了）　　　　　{page}"
 
 String0x0C0B14:
 ; .strn "とりあえず　どこか一人に{line}なれるところ…外かな{page}"
-  .strn "总之先找个可以一个人带着{line}的地方　　　　　　　{page}"
+  .strn "总之先找个安静的地方　　{line}…比如外面　{page}"
 
 String0x0C0B44:
 ; .strn "そこで　じっくり考えてみよう{page}"
-  .strn "再慢慢思考吧　　　　　　　　{page}"
+  .strn "再来慢慢思考吧　　　　　　　{page}"
 
 String0x0C0B62:
 ; .strn "キッドは　このメッセージで{line}何を言いたいんだ？{page}"
-  .strn "基德在这讯息里{line}到底想说什么？　　{page}"
+  .strn "基德在这讯息里　　　　　　{line}到底想说什么？　　{page}"
 
 String0x0C0B92:
 ; .strn "そうか！{page}"
-  .strn "是这样！{page}"
+  .strn "我懂了！{page}"
 
 String0x0C0B9C:
 ; .strn "　　＝　東都美術館　屋上　＝　　{page}"
@@ -315,11 +315,11 @@ String0x0C0BD0:
 
 String0x0C0BE8:
 ; .strn "だが　そう　たびたび　邪魔される{line}わけにも　いかないんでね{page}"
-  .strn "可你老是来打扰{line}我真是受不了啊　　　　　{page}"
+  .strn "可你老是来打扰我　　　　　　　　{line}还真是受不了啊　　　　　{page}"
 
 String0x0C0C24:
 ; .strn "キッドのヤツ　ハングライダーで{line}飛び立つ気だ！{page}"
-  .strn "基德那家伙　想用滑翔翼{line}逃走吗！　　　{page}"
+  .strn "基德那家伙　想用滑翔翼逃走吗！{line}　　　　　　　{page}"
 
 String0x0C0C54:
 ; .strn "チャンスは一度　一瞬の勝負だ{line}…どうする？{page}"
@@ -331,27 +331,27 @@ String0x0C0C80:
 
 String0x0C0CA0:
 ; .strn "あれ？　発射しない！？{page}"
-  .strn "怎么搞的？发射不了！？{page}"
+  .strn "怎么会？　发射不了！？{page}"
 
 String0x0C0CB8:
 ; .strn "おチビさん　これ　な〜んだ？{page}"
-  .strn "小侦探　你看我手里这个－　　{page}"
+  .strn "小侦探　你看这个是什么呀〜？{page}"
 
 String0x0C0CD6:
 ; .strn "あーーー！　オレの腕時計！！{line}いったい　いつ…あっ！{page}"
-  .strn "啊－－！是我的手表！{line}你这家伙！什么时候！！{page}"
+  .strn "啊！　是我的手表！　你这家伙{line}什么时候…啊！　　　　{page}"
 
 String0x0C0D0C:
 ; .strn "…おい　コナン　ちょっと{line}その腕時計を見せてみろ{page}"
-  .strn "…喂　柯南　把你的手表{line}借给我一下　　　　　　{page}"
+  .strn "…喂　柯南　把你的手表　{line}借给我看一下　　　　　{page}"
 
 String0x0C0D3E:
 ; .strn "えっ？　いいけど{line}オジちゃんの時計は？{page}"
-  .strn "嗯？可以哦{line}叔叔的手表呢？　　　{page}"
+  .strn "嗯？　可以哦　　{line}叔叔的手表呢？　　　{page}"
 
 String0x0C0D66:
 ; .strn "オレのは　さっきから{line}調子悪いんだよ…{page}"
-  .strn "我的手表从刚才开始{line}就出问题了…　　{page}"
+  .strn "我的手表从刚才开始　{line}就出问题了…　　{page}"
 
 String0x0C0D8E:
 ; .strn "（あの時か…やられた）{page}"
@@ -371,31 +371,31 @@ String0x0C0DD0:
 
 String0x0C0DF8:
 ; .strn "キッド：宝石は　そこに{line}隠しておく{page}"
-  .strn "基德：宝石我藏在{line}某个地方了{page}"
+  .strn "基德：宝石我藏在　　　{line}某个地方了{page}"
 
 String0x0C0E1C:
 ; .strn "キッド：なに　お前なら　すぐに{line}見つけられるさ{page}"
-  .strn "基德：凭你的话　肯定能{line}马上就找到吧　{page}"
+  .strn "基德：你应该　立刻就能找得到吧{line}　　　　　　　{page}"
 
 String0x0C0E4C:
 ; .strn "それじゃ　小さな探偵くん{line}アデュー！{page}"
-  .strn "那么再见了　小侦探{line}再－见！　{page}"
+  .strn "那么再见了　小侦探　　　{line}拜拜！　　{page}"
 
 String0x0C0E72:
 ; .strn "（また　閃光弾か　くそっ）{line}…待てっ　キッド！{page}"
-  .strn "（是闪光弹！可恶）{line}…基德　别跑！！　{page}"
+  .strn "（又是闪光弹　可恶）　　　{line}…基德　别跑！　　{page}"
 
 String0x0C0EA2:
 ; .strn "キッド：そうそう　次は{line}宝さがしに　つれてってやるよ！{page}"
-  .strn "基德：对了对了　下一次{line}我带你一起寻宝吧！　　　　　　{page}"
+  .strn "基德：对了对了　下一次{line}我带你一起去寻宝吧！　　　　　{page}"
 
 String0x0C0EDA:
 ; .strn "…けっきょく今回も　オレたちは{line}キッドをとり逃がしてしまった{page}"
-  .strn "…结果这次{line}我们也让基德跑掉了　　　　　{page}"
+  .strn "…结果这次　我们也让基德跑掉了{line}　　　　　　　　　　　　　　{page}"
 
 String0x0C0F18:
 ; .strn "キッドに利用されていた　小五郎の{line}おっちゃんは{page}"
-  .strn "被基德伪装的小五郎叔叔{line}　　　　　　{page}"
+  .strn "被基德伪装的小五郎叔叔　　　　　{line}　　　　　　{page}"
 
 String0x0C0F48:
 ; .strn "やはり　トイレで眠らされていた{page}"
@@ -403,23 +403,23 @@ String0x0C0F48:
 
 String0x0C0F68:
 ; .strn "『眠りの小五郎』も　ホントに{line}眠らされては　仕方がない…{page}"
-  .strn "“沉睡的小五郎”真的一直{line}在睡觉　真没办法…　　　　{page}"
+  .strn "“沉睡的小五郎”　　　　　　　{line}还真在睡觉　真是的…　　　{page}"
 
 String0x0C0FA2:
 ; .strn "という事で　おっちゃんは{line}株を下げずにすんだ{page}"
-  .strn "事件就在　叔叔什么{line}都不知道的情况下结束了{page}"
+  .strn "在叔叔一无所知的情况下　{line}事件就这样结束了　{page}"
 
 String0x0C0FD0:
 ; .strn "あとは『ヴィーナスの瞳』を{line}見つけ出すだけだが{page}"
-  .strn "剩下的　就只有找出{line}“维纳斯之眼”了　{page}"
+  .strn "剩下的　就只有找出　　　　{line}“维纳斯之眼”了　{page}"
 
 String0x0C1000:
 ; .strn "それにはキッドの　残した{line}メッセージを{page}"
-  .strn "看来　必须得{page}"
+  .strn "看来　必须得　　　　　　{line}　　　　　　{page}"
 
 String0x0C1028:
 ; .strn "解き明かさなくては　ならない{line}ようだ…{page}"
-  .strn "解开基德留下的讯息才行了{line}……　　{page}"
+  .strn "解开基德留下的讯息才行了…　{line}　　　　{page}"
 
 .endarea
 
@@ -433,19 +433,19 @@ String0x0C1050:
 
 String0x0C106C:
 ; .strn "ええーい　天下の『毛利小五郎』が{line}怪盗ごときに　負けてたまるか！{page}"
-  .strn "那怎么行　名侦探“毛利小五郎”{line}怎么能输给那种小偷呢　　　　　{page}"
+  .strn "那怎么行　名侦探“毛利小五郎”　{line}怎么能输给怪盗呢！　　　　　　{page}"
 
 String0x0C10AE:
 ; .strn "蘭！　もう一度　メッセージを{line}読んでくれ{page}"
-  .strn "小兰！再给我读一遍讯息！{line}　　　　　{page}"
+  .strn "小兰！　再给我读一遍讯息！　{line}　　　　　{page}"
 
 String0x0C10D8:
 ; .strn "はいはい…いくよ？{page}"
-  .strn "好吧好吧…要读咯？{page}"
+  .strn "好好…要读咯？　　{page}"
 
 String0x0C10EC:
 ; .strn "宝石は　本来　あるベき{line}場所に　戻した{page}"
-  .strn "我把宝石放回了　它本应{line}该在的地方　　{page}"
+  .strn "我把宝石放回了　　　　{line}它本属于的地方{page}"
 
 String0x0C1114:
 ; .strn "ヒントは４つの宝石にある{page}"
@@ -453,35 +453,35 @@ String0x0C1114:
 
 String0x0C112E:
 ; .strn "最初に読むのは　１文字目{line}次に読むのは３文字目{page}"
-  .strn "首先要读第１个字{line}然后读第３个字　　{page}"
+  .strn "第一个要读的是第１个字　{line}第二个要读第３个字　{page}"
 
 String0x0C115E:
 ; .strn "《悪魔の涙》は２文字目{line}《ソロモンのカギ》は３番目に{page}"
-  .strn "“恶魔泪光”是第２个{line}“所罗门之钥匙”是第３个{page}"
+  .strn "“泪眼恶魔”是第２个　{line}“所罗门之钥”是第３个　　　　{page}"
 
 String0x0C1194:
 ; .strn "《かわいい青バラ》は{line}３文字目を読み上げる{page}"
-  .strn "“可爱青玫瑰”是{line}第３个读　　　　　{page}"
+  .strn "“萌蓝玫瑰”　　　　{line}是第３个读　　　　　{page}"
 
 String0x0C11C0:
 ; .strn "最後に読むのは{line}《悪魔の涙》{page}"
-  .strn "最后读的是{line}“恶魔泪光”{page}"
+  .strn "最后要读的是　{line}“泪眼恶魔”{page}"
 
 String0x0C11DE:
 ; .strn "そうそう不粋な　だく点は{line}はずしてくれたまえ{page}"
-  .strn "对了　还要去掉{line}那不纯的浊点　{page}"
+  .strn "不过要记得去掉　　　　　{line}那不纯的浊点　　　{page}"
 
 String0x0C120C:
 ; .strn "…怪盗キッド　より{page}"
-  .strn "…怪盗基德　上　　{page}"
+  .strn "…怪盗基德　敬上　{page}"
 
 String0x0C1220:
 ; .strn "う〜〜〜ん　ということは{line}いや　待て　だとすると…{page}"
-  .strn "嗯－－－　这是什么意思{line}不对等一下　如果是这样…{page}"
+  .strn "嗯〜〜〜　这是什么意思　{line}不对　等下　如果是这样…{page}"
 
 String0x0C1254:
 ; .strn "毛利くん　もう遅いし　明日に{line}しては？{page}"
-  .strn "毛利老弟　已经很晚了　明天{line}再说吧？{page}"
+  .strn "已经很晚了　明天再说吧？　　{line}毛利老弟{page}"
 
 String0x0C127C:
 ; .strn "いえ　警部どの！　必ず{line}今日中に　見つけだします！{page}"
@@ -489,15 +489,15 @@ String0x0C127C:
 
 String0x0C12B0:
 ; .strn "こりゃ　どーしようもねえな{line}明日でいいと思ったけど{page}"
-  .strn "叔叔　真是拿你没办法啊{line}明天再找不也挺好的　　{page}"
+  .strn "叔叔　真是拿你没办法啊　　{line}明天再找不也挺好的　　{page}"
 
 String0x0C12E4:
 ; .strn "おっちゃんに　宝石のありかを{line}教えてやるか{page}"
-  .strn "就偷偷告诉叔叔　藏宝石{line}的位置吧　　{page}"
+  .strn "就偷偷告诉叔叔　宝石的位置吧{line}　　　　　　{page}"
 
 String0x0C1310:
 ; .strn "その前に　一応『マルバツール』で{line}確認しておくかな？{page}"
-  .strn "在那之前　先用“逻辑矩阵”{line}确认一下吧　　　　{page}"
+  .strn "在那之前　先用“逻辑矩阵”　　　{line}确认一下吧　　　　{page}"
 
 String0x0C1346:
 ; .strn "ボク　ちょっと外に出てるね{page}"
@@ -505,27 +505,27 @@ String0x0C1346:
 
 String0x0C1362:
 ; .strn "えっ　ちょっとコナンくん！{line}…行っちゃった{page}"
-  .strn "诶　柯南　等一下啦！{line}…走掉了　　　{page}"
+  .strn "诶　柯南　等一下啦！　　　{line}…走掉了　　　{page}"
 
 String0x0C138E:
 ; .strn "ん？　もしかして…{page}"
-  .strn "嗯？难道说…　　　{page}"
+  .strn "嗯？　难道说…　　{page}"
 
 String0x0C13A2:
 ; .strn "！　キッドのヤロウ…{line}あいかわらず　ロマンチストだぜ{page}"
-  .strn "！基德那家伙…{line}就是喜欢玩这种浪漫主义　　　　{page}"
+  .strn "！　基德那家伙…　　{line}就是喜欢玩这种浪漫主义啊　　　{page}"
 
 String0x0C13D8:
 ; .strn "宝石は　うばわれずに{line}すんだようだな{page}"
-  .strn "看来宝石没有被偷走{line}　　　　　　　{page}"
+  .strn "看来宝石没有被偷走啊{line}　　　　　　　{page}"
 
 String0x0C13FE:
 ; .strn "毛利くん　この意味は{line}キミでも　わからんかね{page}"
-  .strn "毛利老弟　这个东西{line}你可能也解不开吧　　　{page}"
+  .strn "毛利老弟　这个东西　{line}你可能也解不开吧　　　{page}"
 
 String0x0C142C:
 ; .strn "かんじんの　宝石は{line}いったい　どこなんだ{page}"
-  .strn "到最后　宝石究竟被{line}藏到哪里去了　　　　{page}"
+  .strn "到最后　宝石究竟是{line}被藏到哪里了呢　　　{page}"
 
 String0x0C1456:
 ; .strn "キッドからの最後のメッセージ{page}"
@@ -533,31 +533,31 @@ String0x0C1456:
 
 String0x0C1474:
 ; .strn "それを　解き明かせば　宝石を{line}とり戻せる　ということだ{page}"
-  .strn "如果能解开的话　应该就能{line}找回宝石了　　　　　　　{page}"
+  .strn "如果能解开的话　　　　　　　{line}应该就能找回宝石了　　　{page}"
 
 String0x0C14AC:
 ; .strn "…まあ　オレには　すぐ{line}解けたけど{page}"
-  .strn "…虽然我应该马上就能{line}解开　　　{page}"
+  .strn "…虽然马上就能解开　　{line}　　　　　{page}"
 
 String0x0C14D0:
 ; .strn "一応『マルバツール』で{line}確認しておくか{page}"
-  .strn "先用“逻辑矩阵”{line}确认一下吧　　{page}"
+  .strn "不过先用“逻辑矩阵”　{line}确认一下吧　　{page}"
 
 String0x0C14F8:
 ; .strn "宝石は第４展示室の{line}彫刻の眼の中に発見された{page}"
-  .strn "宝石在第４展览室的{line}雕像的眼睛中被找到了　　{page}"
+  .strn "宝石在第４展览室的{line}雕像的眼睛里被找到了　　{page}"
 
 String0x0C1526:
 ; .strn "宝石は　もともと　この像の{line}瞳だったと　わかった{page}"
-  .strn "听说这颗宝石本来就是这个{line}雕像的眼睛　　　　　{page}"
+  .strn "听说这颗宝石本来就是　　　{line}这个雕像的眼睛　　　{page}"
 
 String0x0C1558:
 ; .strn "探していたヴィーナスが{line}同じ美術館にあった{page}"
-  .strn "我们要找的那个维纳斯{line}就在同一个美术馆里　{page}"
+  .strn "我们要找的那个维纳斯　{line}就在同一个美术馆里{page}"
 
 String0x0C1584:
 ; .strn "『ウインクするヴィーナス』像の{line}ことだったとは…{page}"
-  .strn "就是那个“展翅的维纳斯”{line}…　　　　　　　{page}"
+  .strn "就是那个“眨眼的维纳斯”啊…　　{line}　　　　　　　{page}"
 
 String0x0C15B6:
 ; .strn "結果として　キッドには{line}逃げられたが　宝石は戻った{page}"
@@ -565,11 +565,11 @@ String0x0C15B6:
 
 String0x0C15EA:
 ; .strn "これで　一件落着{page}"
-  .strn "事件也告一段了了{page}"
+  .strn "事件也告一段落了{page}"
 
 String0x0C15FC:
 ; .strn "…の　はずだった{page}"
-  .strn "…吧　但是……　{page}"
+  .strn "…吧　不过　　　{page}"
 
 String0x0C160E:
 ; .strn "さあ　カラオケ行くわよ{page}"
@@ -577,31 +577,31 @@ String0x0C160E:
 
 String0x0C1626:
 ; .strn "園子ねーちゃん　徹夜明けなのに{line}元気だよね…{page}"
-  .strn "园子姐姐　明明一夜没睡{line}却这么精神…{page}"
+  .strn "园子姐姐　明明一夜没睡　　　　{line}却这么精神…{page}"
 
 String0x0C1654:
 ; .strn "今回も　キッドの姿を{line}見れなかったショックに{page}"
-  .strn "大概是这次也没见到{line}基德　受打击了吧　　　{page}"
+  .strn "这次她也没见到基德　{line}大概是受打击了吧　　　{page}"
 
 String0x0C1682:
 ; .strn "園子は　蘭とオレを　ムリヤリ{line}早朝カラオケに　誘ってきた{page}"
-  .strn "园子强行拉着小兰{line}去卡拉ＯＫ唱歌　　　　　{page}"
+  .strn "园子强行拉着小兰　　　　　　{line}去卡拉ＯＫ唱歌　　　　　{page}"
 
 String0x0C16BC:
 ; .strn "ねえ　園子{line}わたし　帰って　ねたいんだけど{page}"
-  .strn "园子{line}我想回去睡觉啦　　　　　　　　{page}"
+  .strn "哎　园子　{line}我想回去睡觉了啦　　　　　　　{page}"
 
 String0x0C16E8:
 ; .strn "だめだめ！　今日は　た〜っぷり{line}歌いまくるからね！{page}"
-  .strn "不行不行！今天我要唱{line}好多好多歌！　　　{page}"
+  .strn "不行不行！　今天我要唱〜　　　{line}好多好多歌！　　　{page}"
 
 String0x0C171C:
 ; .strn "（あーあ）{page}"
-  .strn "（哈…哈）{page}"
+  .strn "（哈　哈）{page}"
 
 String0x0C1728:
 ; .strn "レディース　アンド{line}ジェントルメン{page}"
-  .strn "女士们　先生们{page}"
+  .strn "女士们　先生们　　{line}　　　　　　　{page}"
 
 String0x0C174C:
 ; .strn "さあ　ショーの始まりだぜ{page}"
@@ -613,7 +613,7 @@ String0x0C1766:
 
 String0x0C1788:
 ; .strn "おや　背中に　何か　ついてますよ{page}"
-  .strn "嗯？您背上贴着什么东西哦　　　　{page}"
+  .strn "嗯？　您背上贴着什么东西哦　　　{page}"
 
 String0x0C17AA:
 ; .strn "とりましょう{page}"
@@ -621,7 +621,7 @@ String0x0C17AA:
 
 String0x0C17B8:
 ; .strn "ん　ああ　ありがとう{line}？　どうしたね　白鳥くん？{page}"
-  .strn "啊？啊　谢谢你啊白鸟{line}我看看是什么东西啊？　　　{page}"
+  .strn "嗯　啊　谢谢你啊白鸟{line}是什么东西啊？　　　　　　{page}"
 
 String0x0C17EA:
 ; .strn "こ　これは！{page}"
@@ -641,7 +641,7 @@ String0x0C1832:
 
 String0x0C1842:
 ; .strn "え？　なんですって？{line}『怪盗キッド』！？{page}"
-  .strn "诶？什么？{line}“怪盗基德”！？　{page}"
+  .strn "诶？　什么？　　　　{line}“怪盗基德”！？　{page}"
 
 String0x0C186C:
 ; .strn "！！{page}"
@@ -653,7 +653,7 @@ String0x0C1872:
 
 String0x0C188E:
 ; .strn "なんと　目暮警部の背中に{line}貼られて　届けられたらしい{page}"
-  .strn "居然直接贴到了{line}目暮警部的背上　　　　　　{page}"
+  .strn "居然直接贴到了　　　　　{line}目暮警部的背上　　　　　　{page}"
 
 String0x0C18C4:
 ; .strn "警察に　挑戦しているのか？{page}"
@@ -661,11 +661,11 @@ String0x0C18C4:
 
 String0x0C18E0:
 ; .strn "まったく　ふざけたヤローだぜ{page}"
-  .strn "真是个乱来的家伙　　　　　　{page}"
+  .strn "还真是个乱来的家伙啊　　　　{page}"
 
 String0x0C18FE:
 ; .strn "毛利くん　わざわざ呼び出して{line}すまなかったな{page}"
-  .strn "毛利老弟　特地把你叫来{line}不好意思啊　　{page}"
+  .strn "毛利老弟　特地把你叫来　　　{line}不好意思啊　　{page}"
 
 String0x0C192C:
 ; .strn "警察の　威信にかけても{line}必ず　ヤツをとらえたい{page}"
@@ -673,11 +673,11 @@ String0x0C192C:
 
 String0x0C195C:
 ; .strn "協力して{line}もらえるかね{page}"
-  .strn "你会来帮忙吧{page}"
+  .strn "怎么样　{line}你会来帮忙吧{page}"
 
 String0x0C1974:
 ; .strn "いやー　警部のためでしたら{line}いつでも　参上しますよ{page}"
-  .strn "那当然！只要是警部大人的{line}请求　我随叫随到！　　{page}"
+  .strn "当然　只要是警部大人的请求{line}我随叫随到！　　　　　{page}"
 
 String0x0C19A8:
 ; .strn "これが電話で話した{line}予告状のコピーだ{page}"
@@ -689,7 +689,7 @@ String0x0C19CE:
 
 String0x0C19DC:
 ; .strn "『キッドが恋する　４つの石は{line}　姫君のように　誇り高い』{page}"
-  .strn "“基德看中的那４颗宝石　　　{line}如同公主一般，引人注目”　{page}"
+  .strn "“基德看中的那４颗宝石　　　{line}如同公主一样　引人注目”　{page}"
 
 String0x0C1A16:
 ; .strn "『キッドは誓う　今夜こそ{line}　ひとりの姫を　この手の中に』{page}"
@@ -701,27 +701,27 @@ String0x0C1A50:
 
 String0x0C1A76:
 ; .strn "おとといキッドが見そめたのは{line}青いドレスのサファイヤ姫{page}"
-  .strn "前天与基德相遇的是穿着蓝色　{line}连衣裙的蓝宝石公主　　　{page}"
+  .strn "前天与基德相遇的　　　　　　{line}是蓝色连衣裙的蓝宝石公主{page}"
 
 String0x0C1AAE:
 ; .strn "サファイヤ姫とわかれたキッド{line}次の日　エメラルド姫と会う{page}"
-  .strn "与蓝宝石公主分别后的第二天　{line}基德见到了绿宝石公主　　　{page}"
+  .strn "与蓝宝石公主分别后　　　　　{line}第二天见到的是　绿宝石公主{page}"
 
 String0x0C1AE8:
 ; .strn "オパール姫と　会ったのは{line}米花博物館の展示室{page}"
-  .strn "与蛋白石公主的相见是在{line}米花博物馆的展览室{page}"
+  .strn "在米花博物馆的展览室　　{line}见到了蛋白石公主　{page}"
 
 String0x0C1B16:
 ; .strn "東都美術館での恋人は{line}ダイヤ姫かエメラルド姫か{page}"
-  .strn "在东都美术馆的恋人{line}那是钻石还是绿宝石呢　　{page}"
+  .strn "在东都美术馆的恋人　{line}是钻石还是绿宝石呢　　　{page}"
 
 String0x0C1B46:
 ; .strn "東都タワーの姫君に{line}心ひかれた夜もあった{page}"
-  .strn "在东都塔那一夜{line}我的心也曾被公主吸引{page}"
+  .strn "在东都塔那一夜　　{line}我的心也曾被公主吸引{page}"
 
 String0x0C1B70:
 ; .strn "３日前には博物館で{line}夕ベは教会で愛を語る{page}"
-  .strn "３天前在博物馆{line}昨夜则在教会倾诉爱意{page}"
+  .strn "３天前在博物馆　　{line}昨夜则在教会倾诉爱意{page}"
 
 String0x0C1B9A:
 ; .strn "今夜の約束は午後８時{page}"
@@ -729,7 +729,7 @@ String0x0C1B9A:
 
 String0x0C1BB0:
 ; .strn "こよいの恋のお相手が{line}警察しょくんに　わかるかな？{page}"
-  .strn "警察朋友们啊{line}你们知道我今夜的恋人是谁吗？{page}"
+  .strn "警察朋友们啊　　　　{line}你们知道我今夜的恋人是谁吗？{page}"
 
 String0x0C1BE4:
 ; .strn "恋に不粋な警官くんヘ{line}……怪盗キッド{page}"
@@ -741,35 +741,35 @@ String0x0C1C0A:
 
 String0x0C1C2C:
 ; .strn "いつもなら中森のヤツが{line}担当するんだが{page}"
-  .strn "虽然盗窃案一直都是{line}中森警官负责的　　{page}"
+  .strn "虽然盗窃案一直都是　　{line}中森警官负责的{page}"
 
 String0x0C1C54:
 ; .strn "色々あって　今回は{line}わたしが担当するんだよ{page}"
-  .strn "但是出了一些状况{line}所以这次由我来负责　　{page}"
+  .strn "但是出了一些状况　{line}所以这次由我来负责　　{page}"
 
 String0x0C1C80:
 ; .strn "わたしたちも通常の事件なら{line}いくらでも対応できるのですが{page}"
-  .strn "如果是普通的案件　凭我们{line}的实力　都可以轻松应对　　　{page}"
+  .strn "如果是普通的案件　　　　　{line}我们都可以轻松应对　　　　　{page}"
 
 String0x0C1CBA:
 ; .strn "このような『特殊』なケースは{line}なんともしがたく……{page}"
-  .strn "但是像这样“特别”的案子{line}我们就……　　　　　{page}"
+  .strn "但是像这样“特别”的案子　　{line}我们就……　　　　　{page}"
 
 String0x0C1CEE:
 ; .strn "ほとほと　弱っていたんだよ{line}頼むよ毛利くん！{page}"
-  .strn "这案子确实不是我们的长处{line}拜托了毛利老弟！{page}"
+  .strn "这案子确实不是我们的长处　{line}拜托了毛利老弟！{page}"
 
 String0x0C1D1C:
 ; .strn "まーかしてください　警部どの！{page}"
-  .strn "就交给我吧！警部大人！　　　　{page}"
+  .strn "就交给我吧　警部大人！　　　　{page}"
 
 String0x0C1D3C:
 ; .strn "この『毛利小五郎』の手にかかれば{line}あんなコソドロの１匹や２匹{page}"
-  .strn "只要有我这个“毛利小五郎”在场{line}这种小毛贼来他一两个　　　{page}"
+  .strn "只要有我这个“毛利小五郎”在场　{line}这种小毛贼来他一两个　　　{page}"
 
 String0x0C1D7A:
 ; .strn "とっとと捕まえてみせますよ！{line}わははは{page}"
-  .strn "还不都是手到擒来！{line}哇哈哈哈{page}"
+  .strn "还不都是手到擒来！　　　　　{line}哇哈哈哈{page}"
 
 String0x0C1DA2:
 ; .strn "……おもしれーじゃねーか{page}"
@@ -781,7 +781,7 @@ String0x0C1DBC:
 
 String0x0C1DEC:
 ; .strn "キッド　お前は　必ず{line}オレの手で　捕まえてみせるぜ！{page}"
-  .strn "基德　你听好了{line}我一定会亲手　把你抓住！　　{page}"
+  .strn "基德　　　　　　　　{line}我一定会亲手　把你抓住！　　{page}"
 
 String0x0C1E22:
 ; .strn "待てよ　そうでもないぞ……{page}"
@@ -789,7 +789,7 @@ String0x0C1E22:
 
 String0x0C1E3E:
 ; .strn "そうか！　わかったぜ！！{page}"
-  .strn "是这样！我懂了！　　　　{page}"
+  .strn "是这样！　我懂了！！　　{page}"
 
 String0x0C1E58:
 ; .strn "おや　コナン君じゃないか{page}"
@@ -797,7 +797,7 @@ String0x0C1E58:
 
 String0x0C1E72:
 ; .strn "うちの父について　なにか{line}わかったかい？{page}"
-  .strn "关于我们父亲的事　你知道{line}些什么了吗？　{page}"
+  .strn "关于我们父亲的事　　　　{line}知道些什么了吗{page}"
 
 String0x0C1E9C:
 ; .strn "あのルビーをかりたいって？{page}"
@@ -805,7 +805,7 @@ String0x0C1E9C:
 
 String0x0C1EB8:
 ; .strn "うん　おじさんの　捜査に{line}必要らしいんだ{page}"
-  .strn "嗯　毛利叔叔说查案子{line}需要用到　　　{page}"
+  .strn "嗯　毛利叔叔说查案子　　{line}需要用到　　　{page}"
 
 String0x0C1EE2:
 ; .strn "かまわないが　なぜ　あの宝石を{page}"
@@ -813,7 +813,7 @@ String0x0C1EE2:
 
 String0x0C1F02:
 ; .strn "『魔術師』って名前に{line}心当たりない？{page}"
-  .strn "你听过“魔术师”这个{line}名字吗　　　　{page}"
+  .strn "你听过“魔术师”　　{line}这个名字吗？　{page}"
 
 String0x0C1F28:
 ; .strn "…なるほどね{page}"
@@ -821,7 +821,7 @@ String0x0C1F28:
 
 String0x0C1F36:
 ; .strn "さすが　毛利小五郎{line}そこまで　わかっていたとは{page}"
-  .strn "不愧是毛利小五郎{line}连这个都知道了　　　　{page}"
+  .strn "不愧是毛利小五郎　{line}连这个都知道了　　　　{page}"
 
 String0x0C1F66:
 ; .strn "と　言いますと？{page}"
@@ -829,11 +829,11 @@ String0x0C1F66:
 
 String0x0C1F78:
 ; .strn "毛利探偵のおっしゃる通り{line}うちの父は『魔術師』のメンバーだ{page}"
-  .strn "毛利先生说的没错{line}我们父亲曾经是“魔术师”的成员　{page}"
+  .strn "毛利先生说的没错　　　　{line}我们父亲　曾经是“魔术师”的成员{page}"
 
 String0x0C1FB4:
 ; .strn "利：その品は　うちの父だけでなく{line}爵のいひん　でもあるからね{page}"
-  .strn "利　那个东西不止是属于父亲的{line}而且还是爵的遗物　　　　　{page}"
+  .strn "利：那个东西不止是属于父亲的　　{line}而且还是爵的遗物　　　　　{page}"
 
 String0x0C1FF2:
 ; .strn "敦：大事に　あつかってくれよ{page}"
@@ -841,47 +841,47 @@ String0x0C1FF2:
 
 String0x0C2010:
 ; .strn "お父さんって　ルビーについて{line}何も　言ってなかったの？{page}"
-  .strn "你们父亲　关于这颗红宝石{line}没说些什么吗？　　　　　{page}"
+  .strn "关于这颗红宝石　　　　　　　{line}你们的父亲没说些什么吗？{page}"
 
 String0x0C2048:
 ; .strn "『ルビーは　ランタンの下に』{line}そんなことを　言っていたよ{page}"
-  .strn "“红宝石在壁灯之下”{line}他说过这样的话　　　　　　{page}"
+  .strn "“红宝石在壁灯之下”　　　　{line}他说过这样的话　　　　　　{page}"
 
 String0x0C2082:
 ; .strn "『魔術師の遺産は今世紀中にしか{line}手に入らない』とも　言っていたね{page}"
-  .strn "还说过“想要魔术师的遗产就只能{line}在这个世纪”这样的话　　　　　　{page}"
+  .strn "“想要魔术师的遗产的话　　　　{line}就只能在这个世纪”　还这么说过　　{page}"
 
 String0x0C20C4:
 ; .strn "我々も　このことには{line}非常に興味がある{page}"
-  .strn "我们也对这个东西{line}很感兴趣　　　　{page}"
+  .strn "我们也对这个东西　　{line}很感兴趣　　　　{page}"
 
 String0x0C20EC:
 ; .strn "よろしい　君たちに　ルビーを{line}かすことにしよう{page}"
-  .strn "好吧　这个红宝石就借给{line}你们用吧　　　　{page}"
+  .strn "好吧　这个红宝石就借给你们吧{line}　　　　　　　　{page}"
 
 String0x0C211C:
 ; .strn "パンパカパーン　オレたちは{line}ルビーの短剣を手に入れた！{page}"
-  .strn "噔噔噔噔　得到了{line}红宝石短剑！　　　　　　　{page}"
+  .strn "噔噔噔噔　　　　　　　　　{line}得到了红宝石短剑！　　　　{page}"
 
 String0x0C2154:
 ; .strn "（オイオイ）{page}"
-  .strn "（喂－喂）　{page}"
+  .strn "（喂喂）　　{page}"
 
 String0x0C2162:
 ; .strn "よし　ルビーは手に入れた{line}次は…{page}"
-  .strn "好的　拿到红宝石了{line}下面…{page}"
+  .strn "好的　拿到红宝石了下面…{line}　　　{page}"
 
 String0x0C2184:
 ; .strn "宝石といっしょに残された{line}謎の言葉…{page}"
-  .strn "跟宝石一起留下的{line}这谜一般的话语…{page}"
+  .strn "跟宝石一起留下的　　　　{line}谜之话语…{page}"
 
 String0x0C21AA:
 ; .strn "『マルバツール』で　解析して{line}みよう{page}"
-  .strn "用“逻辑矩阵”来解析{line}看看吧{page}"
+  .strn "用“逻辑矩阵”来解析看看吧　{line}　　　{page}"
 
 String0x0C21D0:
 ; .strn "なにかが　わかるはずさ{page}"
-  .strn "肯定能弄明白些什么　　{page}"
+  .strn "应该能弄明白些什么　　{page}"
 
 String0x0C21E8:
 ; .strn "待てよ　すると…{page}"
@@ -893,7 +893,7 @@ String0x0C21FA:
 
 String0x0C2206:
 ; .strn "あら　まだ考えてるの？{page}"
-  .strn "怎么　你还在思考吗？　{page}"
+  .strn "啊呀　你还在思考吗？　{page}"
 
 String0x0C221E:
 ; .strn "科学的に考えるに…{line}{page}"
@@ -901,27 +901,27 @@ String0x0C221E:
 
 String0x0C2234:
 ; .strn "青　青　赤…あれ？{line}{page}"
-  .strn "蓝　蓝　红…咦？{line}{page}"
+  .strn "蓝　蓝　红…咦？　{line}{page}"
 
 String0x0C224A:
 ; .strn "（みんな　てこずってるみたいだ）{page}"
-  .strn "（大家好像遇到麻烦了）　　　　　{page}"
+  .strn "（大家好像遇到了什么麻烦）　　　{page}"
 
 String0x0C226C:
 ; .strn "みんなといっしょに　公園を{line}さがしまわるのも　いいけど{page}"
-  .strn "跟大家一起在公园里寻宝也{line}挺好玩的　　　　　　　　　{page}"
+  .strn "跟大家一起在公园里寻宝　　{line}也挺好玩的　　　　　　　　{page}"
 
 String0x0C22A4:
 ; .strn "まず　例の手帳で　考えを{line}まとめてみることね{page}"
-  .strn "总之还是先打开笔记{line}把线索总结一下吧　{page}"
+  .strn "总之还是先打开笔记　　　{line}把线索总结一下吧　{page}"
 
 String0x0C22D2:
 ; .strn "手がかりは　灰原から　ぜんぶ{line}聞き出した{page}"
-  .strn "灰原给出的提示{line}就这么多了{page}"
+  .strn "灰原给出的提示　　　　　　　{line}就这么多了{page}"
 
 String0x0C22FC:
 ; .strn "あとは『マルバツール』を使えば{line}すぐに　かくし場所は　わかるさ{page}"
-  .strn "接下来只要使用“逻辑矩阵”{line}马上就能知道藏宝的地方了　　　{page}"
+  .strn "接下来只要使用“逻辑矩阵”　　　{line}马上就能知道藏宝的地方了　　　{page}"
 
 String0x0C233C:
 ; .strn "盗賊団『魔術師』だと？{page}"
@@ -929,7 +929,7 @@ String0x0C233C:
 
 String0x0C2354:
 ; .strn "うん　２０年くらい前に　世界中を{line}にぎわせていた盗賊団だよね{page}"
-  .strn "嗯　就是那个大概在２０年前{line}全世界都有名的盗贼集团　　{page}"
+  .strn "嗯　就是那个大概在２０年前　　　{line}全世界都有名的盗贼集团　　{page}"
 
 String0x0C2392:
 ; .strn "おじさん　何か　知らない？{page}"
@@ -937,7 +937,7 @@ String0x0C2392:
 
 String0x0C23AE:
 ; .strn "盗賊団は捜査２課の担当だから{line}あのころ　捜査１課にいたオレが…{page}"
-  .strn "调查盗贼团伙是搜查２课的工作{line}当时我是搜查１课的人　　　　　　{page}"
+  .strn "调查盗贼团伙是搜查２课的工作{line}当时我是搜查１课的人…　　　　　{page}"
 
 String0x0C23EE:
 ; .strn "いや　待てよ　一度だけ{line}関わったことが　あったな{page}"
@@ -953,7 +953,7 @@ String0x0C2432:
 
 String0x0C2454:
 ; .strn "お　それだ！{page}"
-  .strn "啊对！没错！{page}"
+  .strn "啊！　没错！{page}"
 
 String0x0C2462:
 ; .strn "い…一家みな殺しぃ！{page}"
@@ -961,15 +961,15 @@ String0x0C2462:
 
 String0x0C2478:
 ; .strn "ああ　ちょうど１０年前のことだ{page}"
-  .strn "是啊，大概是１０年前的事了　　{page}"
+  .strn "是啊　大概是１０年前的事了　　{page}"
 
 String0x0C2498:
 ; .strn "それまで　殺しをやらなかった{line}『魔術師』の一味が{page}"
-  .strn "从来不杀人的“魔术师”{line}那一伙人　　　　　{page}"
+  .strn "从来不杀人的“魔术师”　　　{line}那一伙人　　　　　{page}"
 
 String0x0C24CA:
 ; .strn "突然　一家惨殺事件を{line}起こしたんだ{page}"
-  .strn "突然犯下了残杀一家人{line}的恶性事件　{page}"
+  .strn "突然犯下残杀一家人的{line}恶性事件　{page}"
 
 String0x0C24EE:
 ; .strn "それで　どうなったんだ？{page}"
@@ -977,11 +977,11 @@ String0x0C24EE:
 
 String0x0C2508:
 ; .strn "『魔術師』の一味のひとりが{line}捕まった{page}"
-  .strn "“魔术师”的其中一人{line}被逮捕了{page}"
+  .strn "“魔术师”的其中一人　　　{line}被逮捕了{page}"
 
 String0x0C252E:
 ; .strn "たぶん　仲間の通報でな{line}やつが殺人の実行犯だったらしい{page}"
-  .strn "应该是其他成员举报的{line}被逮捕的那个就是杀人犯　　　　{page}"
+  .strn "应该是其他成员举报的　{line}被逮捕的那个就是杀人犯　　　　{page}"
 
 String0x0C2566:
 ; .strn "でも　やつは　捕まった後も{page}"
@@ -989,15 +989,15 @@ String0x0C2566:
 
 String0x0C2582:
 ; .strn "仲間のこと　盗んだ宝石のことには{line}一切　口を閉じたままだったぜ{page}"
-  .strn "关于团伙和被盗宝石的事{line}全都闭口不谈　　　　　　　　{page}"
+  .strn "关于团伙和被盗宝石的事　　　　　{line}全都闭口不谈　　　　　　　　{page}"
 
 String0x0C25C2:
 ; .strn "じゃあ　その宝石は{page}"
-  .strn "那么　那个宝石…　{page}"
+  .strn "那么　那些宝石呢　{page}"
 
 String0x0C25D6:
 ; .strn "いまだ　米花市のどこかに{line}隠してあるって　ウワサだ{page}"
-  .strn "有传言　现在还藏在{line}米花市的某个角落里　　　{page}"
+  .strn "有传言　现在还藏在　　　{line}米花市的某个角落里　　　{page}"
 
 String0x0C260A:
 ; .strn "そうですか{page}"
@@ -1005,7 +1005,7 @@ String0x0C260A:
 
 String0x0C2616:
 ; .strn "ねえコナンくん　宝石は{line}全部　集まったみたいだけど{page}"
-  .strn "柯南　我们不是把宝石{line}都集齐了吗　　　　　　　　{page}"
+  .strn "柯南　我们不是把宝石　{line}都集齐了吗　　　　　　　　{page}"
 
 String0x0C264A:
 ; .strn "これから　どこ行くんだ？{page}"
@@ -1013,27 +1013,27 @@ String0x0C264A:
 
 String0x0C2664:
 ; .strn "ああ　それは　そんなに{line}むずかしくないよ{page}"
-  .strn "这个啊　不是那么{line}难想的事哦　　　{page}"
+  .strn "这个　还是比较容易想的{line}　　　　　　　　{page}"
 
 String0x0C268E:
 ; .strn "海賊　カップ　観覧車　コースター{line}全部　そろった場所といったら{page}"
-  .strn "海盗　茶杯　摩天轮　云霄飞车{line}有这些东西的地方　　　　　　{page}"
+  .strn "海盗　茶杯　摩天轮　云霄飞车　　{line}有这些东西的地方　　　　　　{page}"
 
 String0x0C26CE:
 ; .strn "あそこっきゃ　ねーだろ？{page}"
-  .strn "只有那里了　对吧　　　　{page}"
+  .strn "只有那里了　对吧？　　　{page}"
 
 String0x0C26E8:
 ; .strn "さあ　オレの分の宝は…{page}"
-  .strn "那么　我那一份宝藏该…{page}"
+  .strn "那么　我那一份宝藏…　{page}"
 
 String0x0C2700:
 ; .strn "どこを探すんだ？{page}"
-  .strn "在哪找呢？　　　{page}"
+  .strn "该在哪找呢？　　{page}"
 
 String0x0C2712:
 ; .strn "べンチの下{line}ごみ箱の近く{line}水のみ場{line}木の下{line}{page}"
-  .strn "椅子下{line}垃圾箱附近{line}饮水处{line}树下{line}{page}"
+  .strn "椅子之下　{line}垃圾箱附近　{line}饮水处　{line}树下　{line}{page}"
 
 String0x0C2740:
 ; .strn "何を探すんだ？{page}"
@@ -1041,15 +1041,15 @@ String0x0C2740:
 
 String0x0C2750:
 ; .strn "赤い…{line}青い…{line}黄色い…{line}緑の…{line}{page}"
-  .strn "红色…{line}蓝色…{line}黄色…{line}绿色…{line}{page}"
+  .strn "红色…{line}蓝色…{line}黄色的…{line}绿色…{line}{page}"
 
 String0x0C2774:
 ; .strn "あれ　そーだっけ？{page}"
-  .strn "嗯？是这样吗？　　{page}"
+  .strn "嗯？　是这样吗？　{page}"
 
 String0x0C2788:
 ; .strn "そう　べンチの下にある{line}黄色のビー玉だったな{page}"
-  .strn "对　就是椅子下面的{line}黄色的弹珠　　　　　{page}"
+  .strn "对　就是椅子下面的　　{line}黄色的弹珠　　　　　{page}"
 
 String0x0C27B6:
 ; .strn "べンチは向こうだな{page}"
@@ -1061,11 +1061,11 @@ String0x0C27CA:
 
 String0x0C27DA:
 ; .strn "なに？　見つかったの？{page}"
-  .strn "什么事？你找到了吗？　{page}"
+  .strn "怎么？　你找到了吗？　{page}"
 
 String0x0C27F2:
 ; .strn "ううん…あのね{page}"
-  .strn "嗯…那个……　{page}"
+  .strn "嗯…那个　　　{page}"
 
 String0x0C2802:
 ; .strn "？{page}"
@@ -1073,11 +1073,11 @@ String0x0C2802:
 
 String0x0C2806:
 ; .strn "さっき　コナンくんと{line}なに話してたの？{page}"
-  .strn "你刚才跟柯南{line}说什么了？　　　{page}"
+  .strn "你刚才　　　　　　　{line}跟柯南说什么了？{page}"
 
 String0x0C282E:
 ; .strn "…灰原さん　本当はやっぱり{line}コナンくんのこと　スキなの？{page}"
-  .strn "…灰原同学你说实话{line}其实你　喜欢柯南对吧　　　　{page}"
+  .strn "…灰原同学　　　　　　　　{line}其实你　喜欢柯南对吧？　　　{page}"
 
 String0x0C2868:
 ; .strn "…だったら　どうする？{page}"
@@ -1085,23 +1085,23 @@ String0x0C2868:
 
 String0x0C2880:
 ; .strn "困るよ{page}"
-  .strn "但是…{page}"
+  .strn "会担心{page}"
 
 String0x0C2888:
 ; .strn "だいじょうぷよ　彼のこと{line}そういう対象として　見てないから{page}"
-  .strn "放心吧　我可没把他当作{line}那样的对象来看待　　　　　　　　{page}"
+  .strn "放心吧　我可没把他当作　{line}那样的对象来看待　　　　　　　　{page}"
 
 String0x0C28C4:
 ; .strn "ホント？　よかった！{page}"
-  .strn "真的吗？太好了！　　{page}"
+  .strn "真的吗？　太好了　　{page}"
 
 String0x0C28DA:
 ; .strn "元太：おーい　歩美！{line}宝物　見つかったか？{page}"
-  .strn "元太：喂－步美！{line}你找到宝物了吗？　　{page}"
+  .strn "元太：喂　步美！　　{line}你找到宝物了吗？　　{page}"
 
 String0x0C2906:
 ; .strn "まだー！{page}"
-  .strn "还没－！{page}"
+  .strn "还没！　{page}"
 
 String0x0C2910:
 ; .strn "ふふ…{page}"
@@ -1117,43 +1117,43 @@ String0x0C2920:
 
 String0x0C2930:
 ; .strn "あの３人ヘのハンデさ{line}ほら　このビー…{page}"
-  .strn "给他们３个上一课{line}给你　这个弹……{page}"
+  .strn "给他们３个上一课而已{line}给你　这个弹……{page}"
 
 String0x0C2958:
 ; .strn "見つかりました！{line}この　ビー玉ですね！{page}"
-  .strn "我找到了！{line}是这个弹珠对吧！　　{page}"
+  .strn "我找到了！　　　{line}是这个弹珠对吧！　　{page}"
 
 String0x0C2980:
 ; .strn "…残念ね　江戸川くん{line}光彦くんが　一番のりね{page}"
-  .strn "…真遗憾江户川{line}光彦同学是第一个找到的{page}"
+  .strn "…真遗憾江户川　　　{line}光彦同学是第一个找到的{page}"
 
 String0x0C29AE:
 ; .strn "ま　いっか{page}"
-  .strn "也……行吧{page}"
+  .strn "也　行吧　{page}"
 
 String0x0C29BA:
 ; .strn "おーい　オレも　見つけたぜ{page}"
-  .strn "喂－我也找到了　　　　　　{page}"
+  .strn "喂　我也找到了　　　　　　{page}"
 
 String0x0C29D6:
 ; .strn "あたしも！　ほら　この{line}「手紙」でしょ？{page}"
-  .strn "我也找到了哦　你看是这{line}封“信”对吧？　{page}"
+  .strn "我也找到了哦　你看　　{line}是这封“信”吧？{page}"
 
 String0x0C2A00:
 ; .strn "え？　吉田さんのは{line}赤いビー玉のはずだけど{page}"
-  .strn "诶？给吉田同学准备{line}的是红色的弹珠哦　　　{page}"
+  .strn "诶？　给吉田同学的{line}是红色的弹珠哦　　　　{page}"
 
 String0x0C2A2C:
 ; .strn "でも　ちゃんと「吉田歩美さま」{line}あてに　なってるんだけど{page}"
-  .strn "但是这封信写着{line}“吉田步美”收啊　　　　{page}"
+  .strn "但是这封信写着　　　　　　　　{line}“吉田步美”收啊　　　　{page}"
 
 String0x0C2A66:
 ; .strn "！　歩美ちゃん　とにかく{line}中を見てみなよ{page}"
-  .strn "！步美　总之快看看{line}里面写了什么　{page}"
+  .strn "！　步美　总之快看看　　{line}里面写了什么　{page}"
 
 String0x0C2A90:
 ; .strn "ね　江戸川くん　これ{line}このマーク　見覚えない？{page}"
-  .strn "喂　江户川　你知道{line}这个标记吗　　　　　　　{page}"
+  .strn "喂　江户川　你知道　{line}这个标记吗？　　　　　　{page}"
 
 String0x0C2AC0:
 ; .strn "コナン：これは　もしかして…{page}"
@@ -1161,15 +1161,15 @@ String0x0C2AC0:
 
 String0x0C2ADE:
 ; .strn "灰原：そう　盗賊団『魔術師』の{line}トレードマークよ{page}"
-  .strn "灰原：对　是盗贼团“魔术师”的{line}标志　　　　　　{page}"
+  .strn "灰原：对　是盗贼团　　　　　　{line}“魔术师”的标志{page}"
 
 String0x0C2B10:
 ; .strn "じゃあ　よんでみるよ{line}えーっと…{page}"
-  .strn "那么　我要读了哦{line}我看看…　{page}"
+  .strn "那么　我要读了哦　　{line}我看看…　{page}"
 
 String0x0C2B32:
 ; .strn "愛らしい　おじょうさん{line}少年探偵団のみんなといっしょに{page}"
-  .strn "亲爱的小姐{line}请你跟少年侦探团的各位一起　　{page}"
+  .strn "亲爱的小姐　　　　　　{line}请你跟少年侦探团的各位一起　　{page}"
 
 String0x0C2B6A:
 ; .strn "世紀末の魔術師の　遺産を{line}探しに　旅立ちたまえ{page}"
@@ -1177,11 +1177,11 @@ String0x0C2B6A:
 
 String0x0C2B9A:
 ; .strn "ヒントは『東都美術館』の青いバラ{line}４つの宝石が　宝ヘと導く{page}"
-  .strn "提示是“东都美术馆”的蓝色玫瑰{line}４颗宝石将指引你找到宝藏{page}"
+  .strn "提示是“东都美术馆”的蓝色玫瑰　{line}４颗宝石将指引你找到宝藏{page}"
 
 String0x0C2BD6:
 ; .strn "『…２０世紀末の魔術師{line}　怪盗キッドより』{page}"
-  .strn "“…２０世纪末的魔术师{line}怪盗基德”　　　　{page}"
+  .strn "“…２０世纪末的魔术师{line}　怪盗基德敬上”　{page}"
 
 String0x0C2C02:
 ; .strn "なんだって！{page}"
@@ -1197,7 +1197,7 @@ String0x0C2C16:
 
 String0x0C2C24:
 ; .strn "『世紀末の魔術師』っていえば{line}夏美さんの　ひいおじいさん{page}"
-  .strn "“世纪末的魔术师”那不就是{line}夏美小姐的曾祖父　　　　　{page}"
+  .strn "“世纪末的魔术师”　那不就是{line}夏美小姐的曾祖父　　　　　{page}"
 
 String0x0C2C5E:
 ; .strn "香坂喜市氏のことでしょ{page}"
@@ -1213,7 +1213,7 @@ String0x0C2C7C:
 
 String0x0C2CB0:
 ; .strn "怪盗キッドから{line}少年探偵団ヘの挑戦状だ！{page}"
-  .strn "是怪盗基德给{line}少年侦探团下的挑战书！　{page}"
+  .strn "是怪盗基德　　{line}给少年侦探团下的挑战书！{page}"
 
 String0x0C2CDA:
 ; .strn "ボクたち　ついにやりましたね！{page}"
@@ -1221,23 +1221,23 @@ String0x0C2CDA:
 
 String0x0C2CFA:
 ; .strn "まずは『東都美術館』ね{line}みんな　はやく　行こうよ！{page}"
-  .strn "总之　各位{line}先出发去“东都美术馆”吧！{page}"
+  .strn "总之　各位　　　　　　{line}先去“东都美术馆”吧！　　{page}"
 
 String0x0C2D2E:
 ; .strn "キッドのやつ　いったい{line}どういうつもりだ？{page}"
-  .strn "基德那家伙{line}到底在打什么算盘　　　{page}"
+  .strn "基德那家伙　　　　　　{line}到底在打什么算盘？{page}"
 
 String0x0C2D5A:
 ; .strn "おやコナンくん{line}もう　用はすんだのかね{page}"
-  .strn "啊　柯南{line}事情都弄好了吧　　　　{page}"
+  .strn "啊　柯南　　　{line}事情都弄好了吧　　　　{page}"
 
 String0x0C2D82:
 ; .strn "（東都美術館の青いバラといえば{line}　絵にはまっている石のことだろ）{page}"
-  .strn "（东都美术馆的蓝色玫瑰　说起来{line}就是嵌在画里的那颗宝石吧）　　{page}"
+  .strn "（东都美术馆的蓝色玫瑰　说起来{line}　就是嵌在画里的那颗宝石吧）　　{page}"
 
 String0x0C2DC4:
 ; .strn "おや　コナンくん　きょうは{line}お友だちと　いっしょかね{page}"
-  .strn "喔　这不是柯南吗　跟朋友{line}一起来玩吗　　　　　　　{page}"
+  .strn "喔　这不是柯南吗　　　　　{line}跟朋友一起来玩吗　　　　{page}"
 
 String0x0C2DFA:
 ; .strn "あ　館長さん　こんにちは{page}"
@@ -1255,11 +1255,11 @@ String0x0C2E14:
 
 String0x0C2E22:
 ; .strn "調ベる話す移動撃つ通信キック{line}調ベる話す移動撃つ通信キック{line}コナン：ひと昔前　かなり派手に{line}活動していた盗賊団のマークだ{page}"
-  .strn "调查　对话移动发射通信　踢　{line}调查　对话移动发射通信　踢　{line}柯南：这是在多年前，招摇过市的{line}一个盗贼团的标志　　　　　　{page}"
+  .strn "调查　对话移动发射通信　踢　{line}调查　对话移动发射通信　踢　{line}柯南：这是在多年前曾经很有名的{line}一个盗贼团的标志　　　　　　{page}"
 
 String0x0C2E9C:
 ; .strn "江戸川くんから　この宝石が{line}はずれるって　聞いたんだけど{page}"
-  .strn "听江户川说　这个宝石{line}可以取下来　　　　　　　　　　{page}"
+  .strn "听江户川说　　　　　　　　{line}这个宝石可以取下来　　　　　{page}"
 
 String0x0C2ED6:
 ; .strn "本当なんですか？{page}"
@@ -1275,11 +1275,11 @@ String0x0C2F08:
 
 String0x0C2F26:
 ; .strn "元太：あれ　裏に　なんか{line}彫ってないか？{page}"
-  .strn "元太：这个背后　好像{line}刻着什么　　　{page}"
+  .strn "元太：这个背后　　　　　{line}好像刻着什么？{page}"
 
 String0x0C2F50:
 ; .strn "コナン：ちょっと　見せて{line}…これは！{page}"
-  .strn "柯南：给我看看{line}…这个是！{page}"
+  .strn "柯南：给我看看　　　　　{line}…这个是！{page}"
 
 String0x0C2F76:
 ; .strn "灰原：『魔術師』のマーク…{page}"
@@ -1291,7 +1291,7 @@ String0x0C2F92:
 
 String0x0C2FC2:
 ; .strn "『ヴィーナスの瞳』を守った{line}コナンくんの　たっての　頼みだ{page}"
-  .strn "既然是帮忙保护了{line}“维纳斯之眼”的柯南的请求　　{page}"
+  .strn "既然是帮忙保护了　　　　　{line}“维纳斯之眼”的柯南的请求　　{page}"
 
 String0x0C2FFE:
 ; .strn "信用しておかしするよ{page}"
@@ -1299,15 +1299,15 @@ String0x0C2FFE:
 
 String0x0C3014:
 ; .strn "ただし　必ず　返すこと{line}いいね？{page}"
-  .strn "但是一定要还给我哦{line}　　　　{page}"
+  .strn "但是一定要还回来哦　　{line}　　　　{page}"
 
 String0x0C3036:
 ; .strn "やったあ　はーい！{page}"
-  .strn "好的　我们保证！　{page}"
+  .strn "好的　好耶！　　　{page}"
 
 String0x0C304A:
 ; .strn "たしかに　バラのかざりがないと{line}いまいち　パッとしない絵だ{page}"
-  .strn "看来　没有玫瑰装饰的话{line}这就变成一幅不起眼的画了　{page}"
+  .strn "看来　没有玫瑰装饰的话　　　　{line}这就变成一幅不起眼的画了　{page}"
 
 String0x0C3086:
 ; .strn "『魔術師の　遺産　世紀末に{line}　扉　開かれん』{page}"
@@ -1315,7 +1315,7 @@ String0x0C3086:
 
 String0x0C30B4:
 ; .strn "『海賊の　どくろの口の中{line}　カップの　皿の下』{page}"
-  .strn "“在海贼的骷髅头的口中{line}在茶杯的盘子的下面”{page}"
+  .strn "“在海贼的骷髅头的口中　{line}在茶杯的盘子的下方”{page}"
 
 String0x0C30E4:
 ; .strn "なんだ　そりゃ？{page}"
@@ -1323,15 +1323,15 @@ String0x0C30E4:
 
 String0x0C30F6:
 ; .strn "この　額縁の　はしに{line}書いてあるわ{page}"
-  .strn "在这个画框的边上{line}写着这些话　{page}"
+  .strn "在这个画框的边上　　{line}写着这些话　{page}"
 
 String0x0C311A:
 ; .strn "コナン：これが　４つの宝石の{line}ひとつめか{page}"
-  .strn "柯南：这就是那４颗宝石的其中{line}一颗了　　{page}"
+  .strn "柯南：这就是那４颗宝石的　　{line}其中一颗了{page}"
 
 String0x0C3144:
 ; .strn "あとの　３つにも{line}心当たりが　あるの？{page}"
-  .strn "剩下的３颗{line}你有什么想法吗　　　{page}"
+  .strn "剩下的３颗　　　{line}你有什么想法吗？　　{page}"
 
 String0x0C316C:
 ; .strn "まあね{page}"
@@ -1339,23 +1339,23 @@ String0x0C316C:
 
 String0x0C3174:
 ; .strn "宝石といっしょに残された{line}謎の言葉…{page}"
-  .strn "跟宝石一起留下的　这谜一{line}般的话语…{page}"
+  .strn "跟宝石一起留下的　　　　{line}迷之话语…{page}"
 
 String0x0C319A:
 ; .strn "『マルバツール』で　解析して{line}みよう{page}"
-  .strn "用“逻辑矩阵”来解析{line}看看吧{page}"
+  .strn "用“逻辑矩阵”来分析看看吧　{line}　　　{page}"
 
 String0x0C31C0:
 ; .strn "なにかが　わかるはずさ{page}"
-  .strn "肯定能弄明白些什么　　{page}"
+  .strn "应该能弄明白些什么　　{page}"
 
 String0x0C31D8:
 ; .strn "すまないが　もう護送車が来たから{line}神父との面会なら　できないよ{page}"
-  .strn "抱歉啊　但是囚车已经来了{line}现在不能让你们跟神父见面　　{page}"
+  .strn "抱歉啊　但是囚车已经来了　　　　{line}现在不能让你们跟神父见面　　{page}"
 
 String0x0C3218:
 ; .strn "もうすぐ　護送車が来る{line}おとなしくしているんだ{page}"
-  .strn "囚车马上就要来了{line}你就老实一点吧　　　　{page}"
+  .strn "囚车马上就要来了　　　{line}你就老实一点吧　　　　{page}"
 
 String0x0C3248:
 ; .strn "……{page}"
@@ -1363,7 +1363,7 @@ String0x0C3248:
 
 String0x0C324E:
 ; .strn "目暮警部　ボク　ポール神父に{line}聞きたいことが　あるんだけど{page}"
-  .strn "目暮警部　我有话想问保罗神父{page}"
+  .strn "目暮警部　我有话想问保罗神父{line}　　　　　　　　　　　　　　{page}"
 
 String0x0C328A:
 ; .strn "ああ　コナンくんか{page}"
@@ -1371,23 +1371,23 @@ String0x0C328A:
 
 String0x0C329E:
 ; .strn "車を待っているところだから{line}手短かに　頼むよ{page}"
-  .strn "囚车正等着呢　你要问的话{line}就快点吧　　　　{page}"
+  .strn "囚车正等着呢　你要问的话　{line}就快一点吧　　　{page}"
 
 String0x0C32CC:
 ; .strn "盗賊団『魔術師』ですか…{line}これも　毛利さんの指示なんだね？{page}"
-  .strn "你说盗贼团“魔术师”？{line}是毛利先生让你问的吗？　　　　　{page}"
+  .strn "你说盗贼团“魔术师”…　　{line}是毛利先生让你问的吗？　　　　　{page}"
 
 String0x0C3308:
 ; .strn "え　うん　まあ{page}"
-  .strn "嗯……嗯　是啊{page}"
+  .strn "嗯　嗯　是啊　{page}"
 
 String0x0C3318:
 ; .strn "では　このエメラルドは{line}君たちが　持っておきたまえ{page}"
-  .strn "那么　这个绿宝石{line}就交给你们保管了　　　　　{page}"
+  .strn "那么　这个绿宝石　　　{line}就交给你们保管了　　　　　{page}"
 
 String0x0C334C:
 ; .strn "ポール神父　エメラルドの{line}ロザリオを　見せてほしいんだけど{page}"
-  .strn "保罗神父　我想看看那个{line}绿宝石的十字架　　　　　　　　　{page}"
+  .strn "保罗神父　我想看看那个　{line}绿宝石的十字架　　　　　　　　　{page}"
 
 String0x0C3388:
 ; .strn "エメラルドのロザリオ？{page}"
@@ -1395,15 +1395,15 @@ String0x0C3388:
 
 String0x0C33A0:
 ; .strn "ポール：まったく　あいつといい{page}"
-  .strn "保罗：给你看吧　就是这个　　　{page}"
+  .strn "保罗：真是的　就是这个　　　　{page}"
 
 String0x0C33C0:
 ; .strn "ポール：なんで　この宝石に{line}こだわるんですか？{page}"
-  .strn "保罗：怎么　你这么中意这颗{line}宝石啊　　　　　　{page}"
+  .strn "保罗：怎么　你这么中意　　{line}这颗宝石啊？　　　{page}"
 
 String0x0C33F0:
 ; .strn "見ろよ　やっぱ　こいつの裏にも{line}おんなじマークがあるぜ{page}"
-  .strn "你看{line}果然这个背后也刻着标记{page}"
+  .strn "你看　　　　　　　　　　　　　{line}果然这个背后也刻着标记{page}"
 
 String0x0C3428:
 ; .strn "コナン：目暮警部　このマークを{line}見てよ{page}"
@@ -1415,39 +1415,39 @@ String0x0C3450:
 
 String0x0C3488:
 ; .strn "ポール神父　この宝石は　どこで{line}手に入れたの？{page}"
-  .strn "保罗神父　这颗宝石你是从哪里{line}搞到手的？　　{page}"
+  .strn "保罗神父　你是怎么得到　　　　{line}这颗宝石的？　{page}"
 
 String0x0C34B8:
 ; .strn "教会の信者の形見です{line}たしか　遺言状には{page}"
-  .strn "是教会信徒的遗物{line}遗言里写着　　　　{page}"
+  .strn "那是教会信徒的遗物　{line}我记得　遗言里写着{page}"
 
 String0x0C34E2:
 ; .strn "『エメラルドは券売機の横に』{line}なんて　書かれて　ありましたよ{page}"
-  .strn "“绿宝石在售票机的旁边”{line}什么的　　　　　　　　　　　　{page}"
+  .strn "“绿宝石在售票机的旁边”　　{line}什么的　　　　　　　　　　　　{page}"
 
 String0x0C3520:
 ; .strn "ポール神父　ボク　この宝石を{line}かしてほしいんだ{page}"
-  .strn "保罗神父　我想借用这颗绿宝石{line}　　　　　　　　{page}"
+  .strn "保罗神父　我想借下这颗绿宝石{line}　　　　　　　　{page}"
 
 String0x0C3550:
 ; .strn "…まあ　ちゃんと　返して{line}くれるなら　かまいませんよ{page}"
-  .strn "…嗯　只要你们能保证{line}还给我的话，可以借给你们　{page}"
+  .strn "…嗯　只要你们能保证　　{line}还回来的话　可以借给你们哦{page}"
 
 String0x0C3586:
 ; .strn "よし　エメラルドは手に入れた{line}次は…{page}"
-  .strn "好的　绿宝石也拿到了{line}下面…{page}"
+  .strn "好的　绿宝石也拿到了　　　　{line}下面…{page}"
 
 String0x0C35AC:
 ; .strn "宝石といっしょに残された{line}謎の言葉…{page}"
-  .strn "跟宝石一起留下的　这谜一{line}般的话语…{page}"
+  .strn "跟宝石一起留下的　　　　{line}迷之话语…{page}"
 
 String0x0C35D2:
 ; .strn "『マルバツール』で　解析して{line}みよう{page}"
-  .strn "用“逻辑矩阵”来解析{line}看看吧{page}"
+  .strn "用“逻辑矩阵”来解析看看吧　{line}　　　{page}"
 
 String0x0C35F8:
 ; .strn "なにかが　わかるはずさ{page}"
-  .strn "肯定能弄明白些什么　　{page}"
+  .strn "应该能弄明白些什么　　{page}"
 
 String0x0C3610:
 ; .strn "待てよ　すると…{page}"
@@ -1459,55 +1459,55 @@ String0x0C3622:
 
 String0x0C362E:
 ; .strn "ああ　コナンくん{line}ちょっと今　忙しいんだ{page}"
-  .strn "啊　是柯南啊{line}现在我们正在忙哦　　　{page}"
+  .strn "啊　是柯南啊　　{line}现在我们正忙呢　　　　{page}"
 
 String0x0C3658:
 ; .strn "おや　コナンくん{line}何か　用かな{page}"
-  .strn "喔哦　是柯南啊{line}有什么事吗　{page}"
+  .strn "哦哦　是柯南啊　{line}有什么事吗　{page}"
 
 String0x0C3678:
 ; .strn "コナンくん　悪いが忙しいんだ{line}またな{page}"
-  .strn "抱歉啊柯南　现在很忙{line}一会见{page}"
+  .strn "抱歉啊柯南　现在很忙　　　　{line}一会见{page}"
 
 String0x0C369E:
 ; .strn "あのね　入り口のアメジストの{line}ウサギを　かしてほしいんだけど{page}"
-  .strn "那个　我想借用一下门口那个{line}嵌着紫水晶的兔子　　　　　　　{page}"
+  .strn "那个　我想借用一下门口那个　{line}嵌着紫水晶的兔子　　　　　　　{page}"
 
 String0x0C36DC:
 ; .strn "ああ　その宝石ね{line}勝手に持ってってかまわんよ{page}"
-  .strn "啊　那颗宝石啊{line}你拿去吧没关系　　　　　　{page}"
+  .strn "啊　那颗宝石啊　{line}你拿去吧　没关系　　　　　{page}"
 
 String0x0C370A:
 ; .strn "そのスポンサーも　この不景気で{line}ウチとは　もう何もないらしいしね{page}"
-  .strn "那个赞助商因为最近不景气{line}跟我们也没什么联系了　　　　　　{page}"
+  .strn "那个赞助商因为最近不景气　　　{line}跟我们也没什么联系了　　　　　　{page}"
 
 String0x0C374C:
 ; .strn "歩美：ヘ〜むらさき色の宝石なのね{page}"
-  .strn "步美：哇－是颗紫色的宝石啊　　　{page}"
+  .strn "步美：哇〜是颗紫色的宝石啊　　　{page}"
 
 String0x0C376E:
 ; .strn "元太：おい　コナン{line}プレートに　なんか書いてあるぜ{page}"
-  .strn "元太：喂　柯南{line}这木板上写着些什么哦　　　　　{page}"
+  .strn "元太：喂　柯南　　{line}这木板上写着些什么哦　　　　　{page}"
 
 String0x0C37A2:
 ; .strn "『アメジストはマリブの海賊{line}　コースターはルビー』か{page}"
-  .strn "“紫水晶是海盗船{line}云霄飞车是红宝石”　　　{page}"
+  .strn "“紫水晶是海盗船　　　　　{line}　云霄飞车是红宝石”　　{page}"
 
 String0x0C37D8:
 ; .strn "よし　アメジストは手に入れた{line}次は…{page}"
-  .strn "好的　拿到紫水晶了{line}下面…{page}"
+  .strn "好的　拿到紫水晶了　　　　　{line}下面…{page}"
 
 String0x0C37FE:
 ; .strn "宝石といっしょに残された{line}謎の言葉…{page}"
-  .strn "跟宝石一起留下的　这谜一{line}般的话语…{page}"
+  .strn "跟宝石一起留下的　　　　{line}迷之话语…{page}"
 
 String0x0C3824:
 ; .strn "『マルバツール』で　解析して{line}みよう{page}"
-  .strn "用“逻辑矩阵”来解析{line}看看吧{page}"
+  .strn "用“逻辑矩阵”来解析看看吧　{line}　　　{page}"
 
 String0x0C384A:
 ; .strn "なにかが　わかるはずさ{page}"
-  .strn "肯定能弄明白些什么　　{page}"
+  .strn "应该能弄明白些什么　　{page}"
 
 String0x0C3862:
 ; .strn "待てよ　すると…{page}"
@@ -1523,23 +1523,23 @@ String0x0C3880:
 
 String0x0C38A2:
 ; .strn "さあ　暗号の通り　宝石を{line}はめるぜ{page}"
-  .strn "好了　根据暗号　把宝石都{line}嵌上去吧{page}"
+  .strn "好了　把宝石都嵌上去吧　{line}照着暗号{page}"
 
 String0x0C38C6:
 ; .strn "灰原：アメジストのウサギを{line}ハートに　石を　右に{page}"
-  .strn "灰原：紫水晶的兔子在红桃上{line}石头向右　　　　　　{page}"
+  .strn "灰原：紫水晶的兔子　　　　{line}在红桃　石头向右　　{page}"
 
 String0x0C38F8:
 ; .strn "元太：サファイアのバラを{line}クラブに　石を　下におろし{page}"
-  .strn "元太：蓝宝石的玫瑰嵌在{line}梅花上，石头向下　　　　　{page}"
+  .strn "元太：蓝宝石的玫瑰　　　{line}在梅花　石头向下　　　　　{page}"
 
 String0x0C392E:
 ; .strn "光彦：エメラルドのロザリオを{line}ダイヤに　石は　左にですね{page}"
-  .strn "光彦：绿宝石的十字架放在{line}方片上，石头向左　　　　　{page}"
+  .strn "光彦：绿宝石的十字架　　　　{line}在方片　石头向左　　　　　{page}"
 
 String0x0C3968:
 ; .strn "歩美：さいごに　ルビーの短剣を{line}スぺードに　石を　上にあげて{page}"
-  .strn "步美：红宝石的短剑嵌在黑桃上{line}石头向上　　　　　　　　　　{page}"
+  .strn "步美：红宝石的短剑　　　　　{line}在黑桃　石头向上　　　　　　　{page}"
 
 String0x0C39A6:
 ; .strn "カチッ{page}"
@@ -1551,23 +1551,23 @@ String0x0C39AE:
 
 String0x0C39BA:
 ; .strn "ほ　どうやら{line}間にあった　ようやな{page}"
-  .strn "啊　看来我们{line}赶上了　　　　　　　{page}"
+  .strn "啊　　　　　{line}看来我们赶上了啊　　{page}"
 
 String0x0C39DE:
 ; .strn "まったく　ここに入ったのを{line}見た人が　いなかったら{page}"
-  .strn "真是的　如果不是正好看见{line}有人进来了　　　　　　{page}"
+  .strn "真是的　如果不是正好看见　{line}有人进来　　　　　　　{page}"
 
 String0x0C3A12:
 ; .strn "見つからない{line}ところだったわよ{page}"
-  .strn "根本就不可能{line}找到这里嘛　　　{page}"
+  .strn "根本就不可能{line}找得到这里嘛　　{page}"
 
 String0x0C3A32:
 ; .strn "は　服部！？　それに蘭まで{page}"
-  .strn "服…服部！？还有小兰　　　{page}"
+  .strn "服　服部！？　还有小兰　　{page}"
 
 String0x0C3A4E:
 ; .strn "ほー　それが『魔術師』の{line}遺産の　カギか{page}"
-  .strn "喔－那个就是“魔术师”的{line}遗产的钥匙啊　{page}"
+  .strn "喔　那个就是“魔术师”　{line}遗产的钥匙啊　{page}"
 
 String0x0C3A78:
 ; .strn "服部　なんで　こんなとこに{page}"
@@ -1575,31 +1575,31 @@ String0x0C3A78:
 
 String0x0C3A94:
 ; .strn "オレのとこにも　来たんや{line}キッドからの　手紙がな{page}"
-  .strn "我也收到了啊　基德的信{page}"
+  .strn "我也收到了啊　基德的信　{line}　　　　　　　　　　　{page}"
 
 String0x0C3AC6:
 ; .strn "なにぶん　ガキばかりやから{line}フォローしてほしいんやと{page}"
-  .strn "大概是因为你们都是些小鬼头{line}让我来照看你们吧　　　　{page}"
+  .strn "大概是因为你们都是些小鬼头{line}所以让我来照看你们吧　　{page}"
 
 String0x0C3AFC:
 ; .strn "それで　なんで{line}蘭まで　つれて来たんだ？{page}"
-  .strn "然后呢　为什么{line}小兰也跟来了　　　　　　{page}"
+  .strn "然后呢　　　　{line}为什么小兰也跟来了？　　{page}"
 
 String0x0C3B26:
 ; .strn "さっき　毛利のおっさんに{line}お前が　ここ行ったて聞いたんや{page}"
-  .strn "刚才啊　我去问毛利大叔{line}他说你到这里来了　　　　　　　{page}"
+  .strn "刚才啊　我去问毛利大叔　{line}他说你到这里来了　　　　　　　{page}"
 
 String0x0C3B60:
 ; .strn "したら　けっそうかえて{line}ついて来てなあ{page}"
-  .strn "然后她也慌慌张张地{line}跟着来了　　　{page}"
+  .strn "然后她就慌慌张张地　　{line}跟着一起来了　{page}"
 
 String0x0C3B88:
 ; .strn "おい　コナン　さっきから何{line}こそこそ　はなしてんだよ！{page}"
-  .strn "喂　柯南你从刚才开始{line}就偷偷摸摸地在干什么啊！　　{page}"
+  .strn "喂　柯南你在那边干什么啊！{line}　　　　　　　　　　　　　{page}"
 
 String0x0C3BC0:
 ; .strn "先に　行っちゃいますよー{page}"
-  .strn "我们要走了哦－　　　　　{page}"
+  .strn "我们要走了哦　　　　　　{page}"
 
 String0x0C3BDA:
 ; .strn "ああ{page}"
@@ -1607,11 +1607,11 @@ String0x0C3BDA:
 
 String0x0C3BE0:
 ; .strn "①観覧車{line}②Ｍカップ{line}③マリブの海賊{line}④Ｍコースター{line}　米花市ヘ{line}{page}"
-  .strn "　摩天轮{line}　旋转茶杯{line}　海盗船{line}　云霄飞车{line}　去米花市{line}{page}"
+  .strn "　摩天轮{line}　旋转茶杯{line}　海盗船　　　{line}　云霄飞车　　{line}　去米花市{line}{page}"
 
 String0x0C3C24:
 ; .strn "観覧車って　つまんねーよな{line}もっとスピードでねーのか？{page}"
-  .strn "摩天轮啊　真无聊{line}不能更快一点吗　　　　　　{page}"
+  .strn "摩天轮啊　真无聊　　　　　{line}速度就不能快一点吗　　　　{page}"
 
 String0x0C3C5C:
 ; .strn "コナン：すでに　エメラルドは{line}はめこんであるぞ{page}"
@@ -1623,7 +1623,7 @@ String0x0C3C8C:
 
 String0x0C3CB0:
 ; .strn "あれ　そーだっけ？{page}"
-  .strn "嗯？是这样吗？　　{page}"
+  .strn "嗯　是这样吗？　　{page}"
 
 String0x0C3CC4:
 ; .strn "よし　エメラルドを　はめこんだぞ{page}"
@@ -1631,11 +1631,11 @@ String0x0C3CC4:
 
 String0x0C3CE6:
 ; .strn "歩美：エメラルドの上に{line}何か文字が浮きだしてきたよ！{page}"
-  .strn "步美：绿宝石上有文字{line}浮现出来了！　　　　　　　　{page}"
+  .strn "步美：绿宝石上有文字　{line}浮现出来了！　　　　　　　　{page}"
 
 String0x0C3D1C:
 ; .strn "『エメラルドは左に{line}　最初の石は右に』{page}"
-  .strn "“绿宝石在左{line}最初要把石头向右”{page}"
+  .strn "“绿宝石在左　　　{line}最初要把石头向右”{page}"
 
 String0x0C3D44:
 ; .strn "『クラブは下に動かすこと』{page}"
@@ -1647,11 +1647,11 @@ String0x0C3D60:
 
 String0x0C3D86:
 ; .strn "うわ〜　見てるだけでも{line}目が回りそうですね{page}"
-  .strn "哇－光是看着都感觉头晕{line}　　　　　　　　　{page}"
+  .strn "哇〜　光是看着　　　　{line}都感觉头晕啊　　　{page}"
 
 String0x0C3DB2:
 ; .strn "コナン：すでに　サファイアは{line}はめこんであるぞ{page}"
-  .strn "柯南：蓝宝石已经嵌在上面了{line}　　　　　　　　{page}"
+  .strn "柯南：蓝宝石已经嵌在上面了　{line}　　　　　　　　{page}"
 
 String0x0C3DE2:
 ; .strn "皿の下に{line}どれをはめ込むんだ？{page}"
@@ -1659,7 +1659,7 @@ String0x0C3DE2:
 
 String0x0C3E02:
 ; .strn "あれ　そーだっけ？{page}"
-  .strn "嗯？是这样吗？　　{page}"
+  .strn "嗯　是这样吗？　　{page}"
 
 String0x0C3E16:
 ; .strn "よし　サファイアを　はめこんだぞ{page}"
@@ -1667,31 +1667,31 @@ String0x0C3E16:
 
 String0x0C3E38:
 ; .strn "元太：おい　お皿の上に{line}　なんか浮かんできたぜ！{page}"
-  .strn "元太：喂　盘子上{line}有什么浮现出来了！　　　{page}"
+  .strn "元太：喂　盘子上　　　{line}　有什么浮现出来了！　　{page}"
 
 String0x0C3E6A:
 ; .strn "『サファイヤは下ヘ{line}　スぺードは上ヘ』{page}"
-  .strn "“蓝宝石在下{line}黑桃在上”　　　　{page}"
+  .strn "“蓝宝石往下　　　{line}　黑桃往上”　　　{page}"
 
 String0x0C3E92:
 ; .strn "マリブの海賊って{line}あたし　大好きだけど…{page}"
-  .strn "我虽然最喜欢{line}海盗船了……　　　　　{page}"
+  .strn "我虽然最喜欢　　{line}海盗船了…　　　　　　{page}"
 
 String0x0C3EBC:
 ; .strn "宝さがしの方が{line}もっと　ワクワクするよね！{page}"
-  .strn "但是寻宝{line}更让人期待呢！　　　　　　{page}"
+  .strn "但是寻宝　　　{line}更让人期待呢！　　　　　　{page}"
 
 String0x0C3EE8:
 ; .strn "コナン：すでに　アメジストは{line}はめこんであるぞ{page}"
-  .strn "柯南：这里已经嵌上了紫水晶了{line}　　　　　　　　{page}"
+  .strn "柯南：紫水晶已经嵌上了　　　{line}　　　　　　　　{page}"
 
 String0x0C3F18:
 ; .strn "口の中に{line}どれをはめ込むんだ？{page}"
-  .strn "在口中{line}是要嵌入什么来着？　{page}"
+  .strn "在口中　{line}是要嵌入什么来着？　{page}"
 
 String0x0C3F38:
 ; .strn "あれ　そーだっけ？{page}"
-  .strn "嗯？是这样吗？　　{page}"
+  .strn "嗯　是这样吗？　　{page}"
 
 String0x0C3F4C:
 ; .strn "よし　アメジストをはめこんだぞ{page}"
@@ -1699,11 +1699,11 @@ String0x0C3F4C:
 
 String0x0C3F6C:
 ; .strn "灰原：どくろの目に　暗号が{line}浮かびあがってきたわ{page}"
-  .strn "灰原：骷髅的眼睛里{line}有暗号浮现出来了　　{page}"
+  .strn "灰原：骷髅的眼睛里　　　　{line}有暗号浮现出来了　　{page}"
 
 String0x0C3F9E:
 ; .strn "『アメジストはハートに{line}　クラブは２番目に』{page}"
-  .strn "“紫水晶要嵌在红桃上{line}梅花排在第２位”　　{page}"
+  .strn "“紫水晶要嵌在红桃上　{line}梅花排在第２位”　　{page}"
 
 String0x0C3FCC:
 ; .strn "（ミステリーコースターか…）{page}"
@@ -1711,19 +1711,19 @@ String0x0C3FCC:
 
 String0x0C3FEA:
 ; .strn "（いやでも　あの時のことを{line}　思い出しちまうぜ　くそっ）{page}"
-  .strn "（就算不情愿　还是会想起{line}那时候的事）　　　　　　　　{page}"
+  .strn "（就算不情愿　　　　　　　{line}　还是会想起那时候的事）　　{page}"
 
 String0x0C4024:
 ; .strn "コナン：すでに　ルビーは{line}はめこんであるぞ{page}"
-  .strn "柯南：红宝石{line}已经被嵌在上面了{page}"
+  .strn "柯南：红宝石　　　　　　{line}已经嵌在上面了　{page}"
 
 String0x0C4050:
 ; .strn "ランタンの下に{line}どれをはめ込むんだ？{page}"
-  .strn "壁灯地下面{line}要嵌入什么来着？　　{page}"
+  .strn "壁灯下面　　　{line}要嵌入什么来着？　　{page}"
 
 String0x0C4076:
 ; .strn "あれ　そーだっけ？{page}"
-  .strn "嗯？是这样吗？　　{page}"
+  .strn "嗯　是这样吗？　　{page}"
 
 String0x0C408A:
 ; .strn "よし　ルビーをはめこんだぞ{page}"
@@ -1731,11 +1731,11 @@ String0x0C408A:
 
 String0x0C40A6:
 ; .strn "光彦：見てください{line}ランタンの影に　文字が！{page}"
-  .strn "光彦：快看{line}壁灯的影子里有文字！　　{page}"
+  .strn "光彦：快看　　　　{line}壁灯的影子里有文字！　　{page}"
 
 String0x0C40D4:
 ; .strn "『ルビーは最後に動く{line}　ダイヤは３番目だ』{page}"
-  .strn "“红宝石排在最后{line}方片是第３个”　　　{page}"
+  .strn "“红宝石排在最后　　{line}　方片是第３个”　　{page}"
 
 String0x0C4100:
 ; .strn "おや{page}"
@@ -1743,11 +1743,11 @@ String0x0C4100:
 
 String0x0C4106:
 ; .strn "ここだけ　扉みたいに{line}開けられるみたいだぞ{page}"
-  .strn "这里好像有门{line}可以打开的样子　　　{page}"
+  .strn "这里好像有门　　　　{line}似乎可以打开　　　　{page}"
 
 String0x0C4132:
 ; .strn "コナン：洞窟だ！{line}奥にあるのは…扉か？{page}"
-  .strn "柯南：是洞穴！{line}这里面是…一扇门？　{page}"
+  .strn "柯南：是洞穴！　{line}这里面是…一扇门？　{page}"
 
 String0x0C415A:
 ; .strn "なんだか　暗くて不気味ですね{page}"
@@ -1755,11 +1755,11 @@ String0x0C415A:
 
 String0x0C4178:
 ; .strn "とにかく中にはいってみようよ{page}"
-  .strn "总之我们快进去看看吧　　　　{page}"
+  .strn "总之　我们快进去看看吧　　　{page}"
 
 String0x0C4196:
 ; .strn "コナン：また　宝石をはめる{line}らしい穴がある{page}"
-  .strn "柯南：好像又是可以嵌宝石的{line}凹槽　　　　　{page}"
+  .strn "柯南：似乎又是　　　　　　{line}嵌宝石的凹槽　{page}"
 
 String0x0C41C2:
 ; .strn "元太：この石　動くみたいだぜ{page}"
@@ -1767,7 +1767,7 @@ String0x0C41C2:
 
 String0x0C41E0:
 ; .strn "灰原：きっと　ここの扉にも{line}特殊な仕掛けがあるのよ{page}"
-  .strn "灰原：这里的门肯定也是用了{line}特殊机关上锁的　　　　{page}"
+  .strn "灰原：这里的门肯定也是用了{line}特殊的机关上锁了　　　{page}"
 
 String0x0C4214:
 ; .strn "一度　外に出よう{page}"
@@ -1783,11 +1783,11 @@ String0x0C4238:
 
 String0x0C4244:
 ; .strn "ルビー{line}サファイア{line}エメラルド{line}アメジスト{line}{page}"
-  .strn "红宝石{line}蓝宝石{line}绿宝石{line}紫水晶{line}{page}"
+  .strn "红宝石{line}蓝宝石　　{line}绿宝石　　{line}紫水晶　　{line}{page}"
 
 String0x0C4272:
 ; .strn "すごい！　平らになったよ{page}"
-  .strn "好厉害！路又变平整了　　{page}"
+  .strn "好厉害！　路又变平整了　{page}"
 
 String0x0C428C:
 ; .strn "成功みたいやな{page}"
@@ -1803,19 +1803,19 @@ String0x0C42AE:
 
 String0x0C42CE:
 ; .strn "え？　うん…{page}"
-  .strn "嗯？嗯……　{page}"
+  .strn "嗯？　嗯…　{page}"
 
 String0x0C42DC:
 ; .strn "蘭のやつ　どうしたんだ？{page}"
-  .strn "小兰她　怎么了　　　　　{page}"
+  .strn "小兰她　怎么了？　　　　{page}"
 
 String0x0C42F6:
 ; .strn "急に　オレの手をしっかり{line}にぎりしめたりして…{page}"
-  .strn "突然把我的手拉的这么紧{line}　　　　　　　　　　{page}"
+  .strn "突然把我的手拉的这么紧…{line}　　　　　　　　　　{page}"
 
 String0x0C4326:
 ; .strn "！　ははーん{page}"
-  .strn "！哈哈　懂了{page}"
+  .strn "！　哈哈　　{page}"
 
 String0x0C4334:
 ; .strn "蘭ねーちゃん　怖いんでしょ{page}"
@@ -1823,7 +1823,7 @@ String0x0C4334:
 
 String0x0C4350:
 ; .strn "そんなわけ……ううん{page}"
-  .strn "怎么可…唔嗯　是啊　{page}"
+  .strn "怎么可…唔嗯　是啊{page}"
 
 String0x0C4366:
 ; .strn "そうね　怖いよ{page}"
@@ -1831,7 +1831,7 @@ String0x0C4366:
 
 String0x0C4376:
 ; .strn "コナンくんが{line}いなくなるのが{page}"
-  .strn "害怕柯南{line}会突然不见　　{page}"
+  .strn "害怕柯南　　{line}会突然不见　　{page}"
 
 String0x0C4394:
 ; .strn "（蘭？）{page}"
@@ -1839,23 +1839,23 @@ String0x0C4394:
 
 String0x0C439E:
 ; .strn "話したっけ？　新一と最後に{line}まともに会ったのって{page}"
-  .strn "不是说过嘛？我最后一次{line}见到新一　　　　　　{page}"
+  .strn "不是说过嘛？　　　　　　　{line}我最后一次见到新一　{page}"
 
 String0x0C43D0:
 ; .strn "ここ　トロピカルランドなんだ{page}"
-  .strn "就是在这个多罗碧加乐园　　　{page}"
+  .strn "就是在这里　多罗碧加乐园　　{page}"
 
 String0x0C43EE:
 ; .strn "コナンくんがトロピカルランドに{line}行ったって聞いたら{page}"
-  .strn "我听说柯南你来多罗碧加乐园了{line}　　　　　　　　　{page}"
+  .strn "我听说柯南　你来多罗碧加乐园了{line}　　　　　　　　　{page}"
 
 String0x0C4422:
 ; .strn "なんだか　コナンくんまで{line}いなくなっちゃいそうな気がして{page}"
-  .strn "不知怎么的　我有一种柯南{line}也会消失不见的预感　　　　　　{page}"
+  .strn "不知怎么的　我有一种　　{line}柯南也会消失不见的感觉　　　　{page}"
 
 String0x0C445C:
 ; .strn "バカよね　とりこし苦労だって{line}わかってるんだけど……{page}"
-  .strn "我真笨　对吧　总是会操一些{line}没用的心……　　　　　{page}"
+  .strn "我真笨　对吧　总是会操一些　{line}没用的心……　　　　　{page}"
 
 String0x0C4492:
 ; .strn "（蘭…）{page}"
@@ -1867,11 +1867,11 @@ String0x0C449C:
 
 String0x0C44BE:
 ; .strn "光彦：カべは岩でごつごつ{line}してるのに{page}"
-  .strn "光彦：明明墙壁都是石头{line}不平整的{page}"
+  .strn "光彦：明明墙壁都是石头　{line}坑坑洼洼的{page}"
 
 String0x0C44E4:
 ; .strn "光彦：通路は　きれいに{line}ほそうされてるんですね{page}"
-  .strn "光彦：脚下的路面{line}却这么平整　　　　　　{page}"
+  .strn "光彦：脚下的路面　　　{line}却这么的平坦　　　　　{page}"
 
 String0x0C4514:
 ; .strn "平次：遊園地の地下にどうやって{line}こんなもん作ったんやろ{page}"
@@ -1879,11 +1879,11 @@ String0x0C4514:
 
 String0x0C454C:
 ; .strn "コナン：たぶん遊園地の建造に{line}かかわった誰かが{page}"
-  .strn "柯南：大概是跟游乐园的建造{line}有什么关系的人吧{page}"
+  .strn "柯南：大概是跟游乐园的建造　{line}有什么关系的人吧{page}"
 
 String0x0C457C:
 ; .strn "灰原：『魔術師』の関係者{line}なんでしょうね{page}"
-  .strn "灰原：也许是“魔术师”{line}的人也说不一定{page}"
+  .strn "灰原：也许是“魔术师”　{line}相关的人呢　　{page}"
 
 String0x0C45A6:
 ; .strn "…それにしても　ここ暗いわね{page}"
@@ -1895,7 +1895,7 @@ String0x0C45C4:
 
 String0x0C45E2:
 ; .strn "きゃー！{page}"
-  .strn "呀啊－！{page}"
+  .strn "呀啊！　{page}"
 
 String0x0C45EC:
 ; .strn "どうした歩美ちゃん！{page}"
@@ -1911,15 +1911,15 @@ String0x0C4618:
 
 String0x0C4634:
 ; .strn "…洞窟の水滴が　背中に{line}入っただけよ{page}"
-  .strn "…是洞窟的水滴　滴到{line}背上了　　　{page}"
+  .strn "…是洞窟的水滴　　　　{line}滴到背上了哦{page}"
 
 String0x0C465A:
 ; .strn "そうですよね　オバケなんて{line}非科学的ですもんね{page}"
-  .strn "就是说啊　怪物什么的{line}不符合科学啊　　　{page}"
+  .strn "就是说啊　怪物什么的　　　{line}不符合科学啊　　　{page}"
 
 String0x0C468A:
 ; .strn "そんなこと言うなら　光彦{line}お前が一番前を歩けよ{page}"
-  .strn "你这么说的话　光彦{line}你就走最前面啊　　　{page}"
+  .strn "你这么说的话　光彦　　　{line}那你就走最前面啊　　{page}"
 
 String0x0C46BA:
 ; .strn "そ　そんなあ{page}"
@@ -1927,11 +1927,11 @@ String0x0C46BA:
 
 String0x0C46C8:
 ; .strn "…ちょっと待って{line}前の方に何かあるみたいよ{page}"
-  .strn "…等一下{line}前面好像有什么东西　　　{page}"
+  .strn "…等一下　　　　{line}前面好像有什么东西　　　{page}"
 
 String0x0C46F4:
 ; .strn "何かあるって言うか{line}…誰か　いない？{page}"
-  .strn "比起东西　不如说{line}…好像有什么人？{page}"
+  .strn "比起东西　不如说　{line}…好像是什么人？{page}"
 
 String0x0C471A:
 ; .strn "もしかして怪盗キッド？{page}"
@@ -1939,19 +1939,19 @@ String0x0C471A:
 
 String0x0C4732:
 ; .strn "あのー　もしもし…{page}"
-  .strn "那个－你好…　　　{page}"
+  .strn "那个　你好…　　　{page}"
 
 String0x0C4746:
 ; .strn "光彦：うわーっ！{page}"
-  .strn "光彦：呜哇－！　{page}"
+  .strn "光彦：呜哇！　　{page}"
 
 String0x0C4758:
 ; .strn "歩美：きゃー！{page}"
-  .strn "步美：呀啊－！{page}"
+  .strn "步美：呀啊！　{page}"
 
 String0x0C4768:
 ; .strn "大変！　戻って{line}警察に知らせなきゃ！{page}"
-  .strn "不好！快回去{line}必须要快点报警！　　{page}"
+  .strn "不好！　快回去{line}必须要快点报警！　　{page}"
 
 String0x0C478E:
 ; .strn "ムダよ{page}"
@@ -1959,31 +1959,31 @@ String0x0C478E:
 
 String0x0C4796:
 ; .strn "さっき　扉を確認しようと思って{line}ちょっと入口に戻ったけど…{page}"
-  .strn "刚才　我想着确认一下那扇门{line}回到入口去看了看…　　　　{page}"
+  .strn "刚才　我去确认了一下门　　　　{line}就回到入口去看了看…　　　{page}"
 
 String0x0C47D2:
 ; .strn "入る時に開けといたはずの{line}扉が閉まっとった{page}"
-  .strn "我们进来的时候的那扇门{line}现在已经关上了　{page}"
+  .strn "我们进来的时候的那扇门　{line}现在已经关上了　{page}"
 
 String0x0C47FE:
 ; .strn "もしかして　キッドが{line}後から入りこんだの？{page}"
-  .strn "难道说　基德跟在{line}我们后面进来了？　　{page}"
+  .strn "难道说　　　　　　　{line}基德跟在后面进来了？{page}"
 
 String0x0C482A:
 ; .strn "とにかく　ここにいても{line}何もできない以上{page}"
-  .strn "总之　这样呆在原地{line}也不是办法　　　{page}"
+  .strn "总之　这样呆在原地　　{line}也不是办法　　　{page}"
 
 String0x0C4854:
 ; .strn "先に進むしかないわね{line}そのためには…{page}"
-  .strn "只能继续往前走了{line}为此…　　　　{page}"
+  .strn "只能继续往前走了　　{line}为此…　　　　{page}"
 
 String0x0C487A:
 ; .strn "ああ　この「トラップ」を{line}なんとかしねーとな{page}"
-  .strn "啊　得想办法解开这个{line}“机关”　　　　　{page}"
+  .strn "是啊　得想办法　　　　　{line}解开这个“机关”　{page}"
 
 String0x0C48A8:
 ; .strn "トラップ？{line}ワナのことですか？{page}"
-  .strn "机关？{line}是陷阱嘛？　　　　{page}"
+  .strn "机关？　　{line}是陷阱嘛？　　　　{page}"
 
 String0x0C48C8:
 ; .strn "そうや　暗くて　よう見えんが{page}"
@@ -1991,15 +1991,15 @@ String0x0C48C8:
 
 String0x0C48E6:
 ; .strn "この死体から先の通路は{line}いやにガタガタしとる{page}"
-  .strn "这个尸体后面的道路{line}有很多的突起　　　　{page}"
+  .strn "这个尸体后面的道路　　{line}有很多的突起　　　　{page}"
 
 String0x0C4914:
 ; .strn "ふむと作動するタイプの{line}トラップね{page}"
-  .strn "是站上就会启动的{line}机关吧　　{page}"
+  .strn "是站上就会启动的机关吧{line}　　　　　{page}"
 
 String0x0C4938:
 ; .strn "じゃあ　どうすれば{line}いいんだよ{page}"
-  .strn "那么要怎么办才好呢{line}　　　　　{page}"
+  .strn "那么　要怎么办呢　{line}　　　　　{page}"
 
 String0x0C4958:
 ; .strn "必ず　トラップを解除する方法が{line}あるはず{page}"
