@@ -2731,7 +2731,7 @@ String0x055D46:
 
 String0x055D74:
 ; .strn "長くつきあってるからこそ{line}……てこともあるわ{page}"
-  .strn "有时候就是因为在一起太久{line……更会这样　　　　{page}"
+  .strn "有时候就是因为在一起太久{line}……更会这样　　　　{page}"
 
 String0x055DA2:
 ; .strn "京子さん{page}"
