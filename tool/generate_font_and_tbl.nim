@@ -60,17 +60,18 @@ proc main(fontPath: string, fontSize: int, stringsFolder: Path, fontBinFolder: P
         charset.add getUniqueCharset(file)
     charset = deduplicate(charset)
     charset.sort(proc(a, b: Rune): int = cmp(a.int32, b.int32))
-    # echo charset
 
     var chsTbl = @jpnTbl
     var fontAsm = open(r"graphic\font.asm", fmWrite)
 
+    echo charset
     for chara in charset:
         if $chara notin chsTbl:
             chsTbl.add $chara
         elif chara.int32 in 0x4E00 .. 0x9FFF:
             var codepoint = chsTbl.find($chara)
-            writeLine(fontAsm, &".orga 0x{24*codepoint:06X}")
+            # echo "codepoint: ", &"0x{24*codepoint:06X}", " | char: ", chara
+            writeLine(fontAsm, &".orga 0x{24*codepoint:06X}\t; {chara}")
             writeLine(fontAsm, &"\t.incbin \"graphic\\font\\{codepoint and 0xFF:02X}{codepoint shr 8:02X}.bin\"")
             writeLine(fontAsm, "")
             writeFile(
