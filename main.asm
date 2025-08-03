@@ -20,10 +20,16 @@
 .include "strings\strings_0C0000-0CB6E2.asm"
 .include "strings\strings_0D0000-0D019A.asm"
 .include "strings\strings_0D621E-0DFD8A.asm"
+.loadtable "marubatsu_jpn.tbl"
+.include "strings\string_marubatsu.asm"
 
 ; 图像
 .include "graphic\font.asm"
+.include "graphic\marubatsu_font.asm"
 .include "graphic\chapter_title.asm"
+
+; marubatsu tileset hack
+.include "src\marubatsuFont.asm"
 
 .closefile
 
