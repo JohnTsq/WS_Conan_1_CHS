@@ -11,4 +11,5 @@ tool\PixelPet\PixelPet.exe ^
     Serialize-Tileset Export-Bytes "graphic\gfx_05CE24\0F07F0-0F209F_chs.2bpp" ^
     Serialize-Tilemap Export-Bytes "graphic\gfx_05CE24\0F0000_chs.tilemap" ^
     || exit /b 1
+uv run "tool\recompress_tileset.py" || exit /b 2
 exit /b 0
