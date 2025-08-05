@@ -28,3 +28,9 @@
     "graphic\gfx_05CE24\0F07F0-0F209F_chs.2bpp", \
     "graphic\gfx_05CE24\recompressed_0F07F0-0F209F_chs.bin", \
     0x0F0000,0x0F209F
+
+.insertgfx \
+    "graphic\gfx_05F7AD\0F209F_chs.tilemap", \
+    "graphic\gfx_05F7AD\0F288F-0F41A9_chs.2bpp", \
+    "graphic\gfx_05F7AD\recompressed_0F288F-0F41A9_chs.bin", \
+    0x0F209F,0x0F41A9
