@@ -24,6 +24,12 @@
 .endmacro
 
 .insertgfx \
+    "graphic\gfx_0BFBC1\017536_chs.tilemap", \
+    "graphic\gfx_0BFBC1\017D26-019654_chs.2bpp", \
+    "graphic\gfx_0BFBC1\recompressed_017D26-019654_chs.bin", \
+    0x17536,0x19654
+
+.insertgfx \
     "graphic\gfx_05CE24\0F0000_chs.tilemap", \
     "graphic\gfx_05CE24\0F07F0-0F209F_chs.2bpp", \
     "graphic\gfx_05CE24\recompressed_0F07F0-0F209F_chs.bin", \
