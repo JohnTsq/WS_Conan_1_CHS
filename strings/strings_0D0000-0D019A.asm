@@ -3,7 +3,7 @@
 
 String0x0D0000:
 ; .strn "／まだまだ　情報が{line}たりないな…もっと{line}なにか　あるはず…{line}{page}"
-  .strn "／情报还完全不够…{line}应该还有一点的吧…{line}　　　　　　　　　{line}{page}"
+  .strn "／情报还完全不够　{line}应该还有一点的吧…{line}　　　　　　　　　{line}{page}"
 
 .endarea
 
@@ -13,7 +13,7 @@ String0x0D0000:
 
 String0x0D003E:
 ; .strn "だんだん　見えてきた{line}ぞ！　もう少し　捜査{line}を続けよう{line}{page}"
-  .strn "一点点能看到谜底了！{line}再继续搜查一下吧　　{line}　　　　　{line}{page}"
+  .strn "一点点能看到谜底了！{line}再继续加把劲　　　　{line}搜查一下吧{line}{page}"
 
 .endarea
 
@@ -33,7 +33,7 @@ String0x0D0078:
 
 String0x0D00B8:
 ; .strn "（カーソル４つ押しで{line}全問正解にできます）{line}{page}"
-  .strn "（通过按下４个光标　{line}来全部正确回答吧。）{line}{page}"
+  .strn "（通过按下４个光标　{line}　来全部正确回答吧）{line}{page}"
 
 .endarea
 
@@ -53,7 +53,7 @@ String0x0D00E6:
 
 String0x0D00FA:
 ; .strn "難易度：{line}べストタイム{line}サイズ：{line}{page}"
-  .strn "难易度：{line}最快时间{line}大小：{line}{page}"
+  .strn "难易度：{line}最快时间　　{line}大小：　{line}{page}"
 
 .endarea
 
