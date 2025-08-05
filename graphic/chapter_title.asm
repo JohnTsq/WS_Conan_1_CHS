@@ -34,3 +34,9 @@
     "graphic\gfx_05F7AD\0F288F-0F41A9_chs.2bpp", \
     "graphic\gfx_05F7AD\recompressed_0F288F-0F41A9_chs.bin", \
     0x0F209F,0x0F41A9
+
+.insertgfx \
+    "graphic\gfx_0BE67C\0F41A9_chs.tilemap", \
+    "graphic\gfx_0BE67C\0F4999-0F61E0_chs.2bpp", \
+    "graphic\gfx_0BE67C\recompressed_0F4999-0F61E0_chs.bin", \
+    0x0F41A9,0x0F61E0
