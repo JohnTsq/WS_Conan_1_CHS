@@ -46,3 +46,9 @@
     "graphic\gfx_0CBD7D\0F69D0-0F82F9_chs.2bpp", \
     "graphic\gfx_0CBD7D\recompressed_0F69D0-0F82F9_chs.bin", \
     0x0F61E0,0x0F82F9
+
+.insertgfx \
+    "graphic\gfx_0CDB48\0F82F9_chs.tilemap", \
+    "graphic\gfx_0CDB48\0F8AE9-0FA5CB_chs.2bpp", \
+    "graphic\gfx_0CDB48\recompressed_0F8AE9-0FA5CB_chs.bin", \
+    0x0F82F9,0xFA5CB
