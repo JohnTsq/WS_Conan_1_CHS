@@ -26,7 +26,7 @@
 ; 图像
 .include "graphic\font.asm"
 .include "graphic\marubatsu_font.asm"
-.include "graphic\chapter_title.asm"
+.include "graphic\titles.asm"
 
 ; marubatsu tileset hack
 .include "src\marubatsuFont.asm"
