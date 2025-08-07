@@ -1,4 +1,4 @@
-D:\Users\John\Documents\GitHub\PixelPet\PixelPet\bin\Release\net7.0\PixelPet.exe ^
+tool\PixelPet\PixelPet.exe ^
     Import-Bitmap "graphic\gfx_0BFBB7\pal0_9C-42-73-00.png" Read-Palettes --palette-number 0 --palette-size 4 ^
     Import-Bitmap "graphic\gfx_0BFBB7\pal5_9C-DE-BD-FF.png" Read-Palettes --palette-number 5 --palette-size 4 --append^
     Import-Bytes "graphic\gfx_0BFBB7\0AE987-0AFCD4.2bpp" Deserialize-Tileset WS ^
