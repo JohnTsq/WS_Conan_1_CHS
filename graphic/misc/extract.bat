@@ -1,5 +1,6 @@
 tool\PixelPet\PixelPet.exe ^
     Import-Bytes "baserom.ws" ^
+    Import-Bitmap "graphic\misc\pal1_BD-73-FF-00.png" Read-Palettes --palette-number 1 --palette-size 4 ^
     Deserialize-Tileset WS --offset 0x0A7DA8 --tile-count 30 ^
     Deserialize-Tilemap WS --offset 0x0057B2 --tile-count 60 ^
     Render-Tilemap 10 6 ^
