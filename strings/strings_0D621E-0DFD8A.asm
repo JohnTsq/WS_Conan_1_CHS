@@ -3,71 +3,71 @@
 
 String0x0D621E:
 ; .strn "同級生の恵子が３日前{line}突然　行方不明に！{line}家の人や警察は家出と{line}思ってるみたいだが{line}オレは　恵子が何かの{line}事件に　まきこまれ{line}ていると推理したんだ{line}米花市のいろんな場所{line}で集めた証言から{line}恵子が３日前にどこに{line}行ったのか推理しよう{line}手がかりはそこにある{line}{page}"
-  .strn "我的同学惠子　３天前{line}突然失踪了！{line}她的家人和警察都认为{line}是离家出走{line}但是我却觉得惠子是被{line}卷入了什么事件里{line}从米花市的各个地方{line}搜集证词吧{line}一定能找到线索{line}{page}"
+  .strn "我的同学惠子　　　　{line}３天前突然失踪了！{line}她的家人和警察都认为{line}是离家出走　　　　{line}但是我却觉得惠子是被{line}卷入了什么事件里　{line}从米花市的各个地方　{line}来搜集证词吧　　　　{line}一定能够找到线索{line}从而推理出惠子的去向{line}　　　　　　　　　　{line}　　　　　　　　　　{line}{page}"
 
 String0x0D631E:
 ; .strn "・恵子は４日前{line}制服を着ていた{line}{page}"
-  .strn "＊惠子４天前{line}穿着制服{line}{page}"
+  .strn "＊惠子４天前　{line}穿着制服　　　{line}{page}"
 
 String0x0D6340:
 ; .strn "・赤い服を着た恵子を{line}米花公園で見かけた{line}{page}"
-  .strn "＊穿着红衣服的惠子{line}在米花公园被目击{line}{page}"
+  .strn "＊穿着红衣服的惠子　{line}在米花公园被目击{line}{page}"
 
 String0x0D636C:
 ; .strn "・黄色いカーディガン{line}をはおった恵子を{line}教会で見かけた{line}{page}"
-  .strn "＊穿着黄色针织衫的{line}惠子被看到在教会{line}{page}"
+  .strn "＊在教会看到了惠子　{line}穿着黄色针织衫　{line}　　　　　　　{line}{page}"
 
 String0x0D63A6:
 ; .strn "・恵子は米花シネマで{line}制服を着ていた{line}{page}"
-  .strn "＊惠子在米花电影院时{line}穿着制服{line}{page}"
+  .strn "＊惠子在米花电影院时{line}穿着制服　　　{line}{page}"
 
 String0x0D63CE:
 ; .strn "・恵子は５日前{line}米花公園にいた{line}{page}"
-  .strn "＊惠子５天前{line}去过米花公园{line}{page}"
+  .strn "＊惠子５天前　{line}去过米花公园　{line}{page}"
 
 String0x0D63F0:
 ; .strn "・恵子が{line}トロピカルランドに{line}行ったのは６日前だ{line}{page}"
-  .strn "＊惠子去多罗碧加乐园{line}是在６天前{line}{page}"
+  .strn "＊惠子　{line}去多罗碧加乐园　　{line}是在６天前　　　　{line}{page}"
 
 String0x0D6424:
 ; .strn "・恵子は４日前{line}米花シネマにいた{line}{page}"
-  .strn "＊惠子４天前去过{line}米花电影院{line}{page}"
+  .strn "＊惠子４天前　{line}去过米花电影院　{line}{page}"
 
 String0x0D6448:
 ; .strn "・６日前{line}青いジャケット姿の{line}恵子を見かけた{line}{page}"
-  .strn "＊６天前{line}惠子被看到穿着{line}蓝色外套{line}{page}"
+  .strn "＊６天前{line}惠子被看到　　　　{line}穿着蓝色外套　{line}{page}"
 
 String0x0D6478:
 ; .strn "・恵子の母から話を{line}聞いた{line}{page}"
-  .strn "＊听取了惠子母亲的{line}证词{line}{page}"
+  .strn "＊听取了惠子母亲的{line}证词　{line}{page}"
 
 String0x0D6496:
 ; .strn "・園子から話を聞いた{line}{page}"
-  .strn "＊听取了园子的证词{line}{page}"
+  .strn "＊听取了园子的证词　{line}{page}"
 
 String0x0D64AE:
 ; .strn "・英理おばさんから{line}話を聞いた{line}{page}"
-  .strn "＊听取了英理阿姨{line}的证词{line}{page}"
+  .strn "＊听取了英理阿姨的{line}证词　　　{line}{page}"
 
 String0x0D64D0:
 ; .strn "・映画館の窓口嬢から{line}話を聞いた{line}{page}"
-  .strn "＊听取了电影院售票员{line}的证词{line}{page}"
+  .strn "＊听取了电影院售票员{line}的证词　　{line}{page}"
 
 String0x0D64F4:
 ; .strn "・阿笠博士から話を{line}聞いた{line}{page}"
-  .strn "＊听取了阿笠博士的{line}证词{line}{page}"
+  .strn "＊听取了阿笠博士的{line}证词　{line}{page}"
 
 String0x0D6512:
 ; .strn "・灰原から話を聞いた{line}{page}"
-  .strn "＊听取了灰原的证词{line}{page}"
+  .strn "＊听取了灰原的证词　{line}{page}"
 
 String0x0D652A:
 ; .strn "・歩美たちから話①を{line}聞いた{line}{page}"
-  .strn "＊听取了步美的证词①{line}{page}"
+  .strn "＊听取了步美的证词①{line}　　　{line}{page}"
 
 String0x0D654A:
 ; .strn "・歩美たちから話②を{line}聞いた{line}{page}"
-  .strn "＊听取了步美的证词②{line}{page}"
+  .strn "＊听取了步美的证词②{line}　　　{line}{page}"
 
 String0x0D656A:
 ; .strn "女子高生連続誘拐事件{line}{page}"
@@ -75,51 +75,51 @@ String0x0D656A:
 
 String0x0D6582:
 ; .strn "ゆくえふめいになった{line}３日前に　恵子は{line}どこヘいったんだろう{line}{page}"
-  .strn "在失踪的３天前{line}惠子去了哪里呢{line}{page}"
+  .strn "在失踪的３天前　　　{line}惠子去了哪里呢　{line}　　　　　　　　　　{page}"
 
 String0x0D65C2:
 ; .strn "わかったぞ！　恵子が{line}さいごにいった場所は{line}米花教会だったんだ！{line}{page}"
-  .strn "我知道了！惠子最后{line}出现的地方　就是{line}米花教会！{line}{page}"
+  .strn "我知道了！　　　　　{line}惠子最后出现的地方　{line}就是米花教会！　　　{line}{page}"
 
 String0x0D6606:
 ; .strn "恵子の消息が　不明に{line}なったのは米花教会{line}だったことがわかった{line}神父たちは　彼らの{line}言葉から「誰」が{line}「どこ」で「誰と{line}話したか」を当てる{line}ゲームを提案した{line}このゲームに勝てば{line}行方不明になる直前の{line}恵子に会った神父と{line}話をさせてもらえるぞ{line}{page}"
-  .strn "惠子最后出现的地方{line}是米花教会{line}神父们提议让我们{line}玩一个猜猜“谁”{line}在“哪里”和{line}“跟谁交谈过”{line}的游戏。如果我们{line}赢了　就同意让我们{line}跟惠子失踪前曾见过{line}的那位神父交谈{line}{line}{page}"
+  .strn "惠子最后出现的地方　{line}是米花教会　　　　{line}神父们提议让我们　　{line}玩一个猜猜“谁”　{line}在“哪里”和　　{line}“跟谁交谈过”　　{line}的游戏　　　　　　{line}如果我们赢了　　{line}就同意让我们　　　{line}跟惠子失踪前曾见过的{line}那位神父交谈　　　{line}　　　　　　　　　　{line}{page}"
 
 String0x0D66FA:
 ; .strn "・ピエトロ神父は{line}１号室の{line}担当だった{line}{page}"
-  .strn "＊彼得罗神父是{line}１号房的负责人{line}{page}"
+  .strn "＊彼得罗神父是　{line}１号房的{line}负责人　　{line}{page}"
 
 String0x0D6724:
 ; .strn "・奥さんは{line}４号室に{line}入って行った{line}{page}"
-  .strn "＊某夫人进入{line}了４号房{line}{page}"
+  .strn "＊某夫人　{line}进入了　{line}４号房　　　{line}{page}"
 
 String0x0D674A:
 ; .strn "・ピエトロは{line}ヒゲなしの男性を{line}担当していた{line}{page}"
-  .strn "＊彼得罗听了{line}一个没有胡子的{line}男人的忏悔{line}{page}"
+  .strn "＊彼得罗听了{line}一个没有胡子的　{line}男性的忏悔　{line}{page}"
 
 String0x0D677A:
 ; .strn "・ヒゲありの男性は{line}３号室に{line}入っていった{line}{page}"
-  .strn "＊有胡子的男人{line}进入了３号房间{line}{page}"
+  .strn "＊有胡子的男人　　{line}进入了　{line}３号房间　　{line}{page}"
 
 String0x0D67A8:
 ; .strn "・４号室の担当は{line}トマス神父だった{line}１号室は男性だ{line}{page}"
-  .strn "＊负责４号房的是{line}托马斯神父{line}去１号房的是男性{line}{page}"
+  .strn "＊负责４号房的是{line}托马斯神父　去了{line}１号房的是男性{line}{page}"
 
 String0x0D67DE:
 ; .strn "・ジョン神父は３号室{line}でヒゲありの男性の{line}相談を受けていた{line}{page}"
-  .strn "＊约翰神父在３号房{line}听了有胡子的男人{line}的忏悔{line}{page}"
+  .strn "＊约翰神父在３号房　{line}听了有胡子的男性　{line}的忏悔　　　　　{line}{page}"
 
 String0x0D681C:
 ; .strn "・トマス神父は奥さん{line}の相談を受けていた{line}{page}"
-  .strn "＊托马斯神父接受了{line}某夫人的忏悔{line}{page}"
+  .strn "＊托马斯神父接受了　{line}某夫人的忏悔　　　{line}{page}"
 
 String0x0D6848:
 ; .strn "・ピエトロ神父の話{line}①を聞いた{line}{page}"
-  .strn "＊听取了彼得罗神父的{line}证词①{line}{page}"
+  .strn "＊听取了彼得罗神父{line}的证词①　{line}{page}"
 
 String0x0D686A:
 ; .strn "・ピエトロ神父の話{line}②を聞いた{line}{page}"
-  .strn "＊听取了彼得罗神父{line}的证词②{line}{page}"
+  .strn "＊听取了彼得罗神父{line}的证词②　{line}{page}"
 
 String0x0D688C:
 ; .strn "・トマス神父に話を{line}聞いた{line}{page}"
@@ -131,15 +131,15 @@ String0x0D68AA:
 
 String0x0D68CA:
 ; .strn "・ポール神父に話②を{line}聞いた{line}{page}"
-  .strn "＊听取了保罗神父的{line}证词②{line}{page}"
+  .strn "＊听取了保罗神父的　{line}证词②{line}{page}"
 
 String0x0D68EA:
 ; .strn "・ジョン神父に話を{line}聞いた{line}{page}"
-  .strn "＊听取了约翰神父的{line}证词{line}{page}"
+  .strn "＊听取了约翰神父的{line}证词　{line}{page}"
 
 String0x0D6908:
 ; .strn "・シスタークララに{line}話を聞いた{line}{page}"
-  .strn "＊听取了克拉拉修女{line}的证词{line}{page}"
+  .strn "＊听取了克拉拉修女{line}的证词　　{line}{page}"
 
 String0x0D692A:
 ; .strn "女子高生連続誘拐事件{line}{page}"
@@ -147,39 +147,39 @@ String0x0D692A:
 
 String0x0D6942:
 ; .strn "恵子は　どの部屋で{line}どの神父と{line}話したんだろうか？{line}{page}"
-  .strn "惠子在哪间房间{line}跟哪位神父谈了话？{line}{page}"
+  .strn "惠子是在哪间房间　{line}跟哪位神父{line}谈了话呢？　　　　{line}{page}"
 
 String0x0D6978:
 ; .strn "恵子は２号室で{line}ポール神父に　話を{line}きいてもらったようだ{line}{page}"
-  .strn "惠子应该是在{line}２号房跟保罗神父{line}谈过话{line}{page}"
+  .strn "惠子应该是在　{line}２号房跟保罗神父　{line}谈过话才对　　　　　{line}{page}"
 
 String0x0D69B4:
 ; .strn "蘭が　ポール神父に{line}さらわれちまった！{line}蘭には盗聴機と発信機{line}を　とりつけてあるが{line}どうやらバッテリーが{line}切れかかっていて{line}断片的な情報しか手に{line}入らない　神父が{line}「どこ」に「何の{line}ため」に「どの順番」{line}で行くのかを推理して{line}神父の車を追いかけろ{line}{page}"
-  .strn "小兰被保罗神父绑架了！{line}虽然在小兰身上装了{line}窃听器和发信器{line}但是电池就要没电了{line}只能获得断断续续的{line}情报。推理出神父{line}要去“哪里”要{line}“干什么”和“行{line}动顺序”，来追上{line}神父的车吧{line}{page}"
+  .strn "保罗神父绑架了小兰{line}虽然在小兰身上装了{line}窃听器和发信器　　　{line}但是电池就要没电了　{line}只能断断续续获得情报{line}推理出神父要去　{line}“哪里”要“干什么”{line}和“行动顺序”　　{line}来追上神父的车吧{line}　　　　　　　　　　{line}　　　　　　　　　　{line}　　　　　　　　　　{line}{page}"
 
 String0x0D6AAE:
 ; .strn "・図書館で本を返す{line}{page}"
-  .strn "＊去图书馆还书{line}{page}"
+  .strn "＊要去图书馆还书　{line}{page}"
 
 String0x0D6AC4:
 ; .strn "・最初に米花駅に行く{line}{page}"
-  .strn "＊首先要去米花站{line}{page}"
+  .strn "＊首先要去米花站　　{line}{page}"
 
 String0x0D6ADC:
 ; .strn "・チケットを{line}買いに行くのは{line}４番目だ{line}{page}"
-  .strn "＊去买票排在{line}第４项{line}{page}"
+  .strn "＊去买票　　{line}排在第４项　　{line}　　　　{line}{page}"
 
 String0x0D6B06:
 ; .strn "・２番目には{line}ケーキを買いに行く{line}{page}"
-  .strn "＊排第２的是{line}去买蛋糕{line}{page}"
+  .strn "＊排第２的是{line}去买蛋糕　　　　　{line}{page}"
 
 String0x0D6B2A:
 ; .strn "・３番目には{line}本を返す{line}{page}"
-  .strn "＊第３件事{line}是去还书{line}{page}"
+  .strn "＊第３件事　{line}是去还书{line}{page}"
 
 String0x0D6B44:
 ; .strn "・ケーキを買うのは{line}カフェ・ロイヤルだ{line}{page}"
-  .strn "＊买蛋糕是在{line}罗伊尔西点{line}{page}"
+  .strn "＊买蛋糕是在　　　{line}罗伊尔西点　　　　{line}{page}"
 
 String0x0D6B6E:
 ; .strn "・図書館は{line}３番目だ{line}{page}"
@@ -187,31 +187,31 @@ String0x0D6B6E:
 
 String0x0D6B86:
 ; .strn "・探偵事務所で会話①{line}を受信した{line}{page}"
-  .strn "＊在侦探事务所听到了{line}谈话①{line}{page}"
+  .strn "＊在侦探事务所听到了{line}谈话①　　{line}{page}"
 
 String0x0D6BAA:
 ; .strn "・探偵事務所で会話②{line}を受信した{line}{page}"
-  .strn "＊在侦探事务所听到了{line}谈话②{line}{page}"
+  .strn "＊在侦探事务所听到了{line}谈话②　　{line}{page}"
 
 String0x0D6BCE:
 ; .strn "・探偵事務所で会話③{line}を受信した{line}{page}"
-  .strn "＊在侦探事务所听到了{line}谈话③{line}{page}"
+  .strn "＊在侦探事务所听到了{line}谈话③　　{line}{page}"
 
 String0x0D6BF2:
 ; .strn "・帝丹小学校で会話④{line}を受信した{line}{page}"
-  .strn "＊在帝丹小学听到了{line}谈话④{line}{page}"
+  .strn "＊在帝丹小学听到了{line}谈话④　　　{line}{page}"
 
 String0x0D6C16:
 ; .strn "・帝丹小学校で会話⑤{line}を受信した{line}{page}"
-  .strn "＊在帝丹小学听到了{line}谈话⑤{line}{page}"
+  .strn "＊在帝丹小学听到了{line}谈话⑤　　　{line}{page}"
 
 String0x0D6C3A:
 ; .strn "・東都タワーで会話⑥{line}を受信した{line}{page}"
-  .strn "＊在东都塔听到了{line}谈话６{line}{page}"
+  .strn "＊在东都塔听到了　　{line}谈话⑥　　{line}{page}"
 
 String0x0D6C5E:
 ; .strn "・東都タワーで会話⑦{line}を受信した{line}{page}"
-  .strn "＊在东都塔听到了{line}谈话７{line}{page}"
+  .strn "＊在东都塔听到了　　{line}谈话⑦　　{line}{page}"
 
 String0x0D6C82:
 ; .strn "女子高生連続誘拐事件{line}{page}"
@@ -219,71 +219,71 @@ String0x0D6C82:
 
 String0x0D6C9A:
 ; .strn "ポール神父は最後に{line}どこにむかうんだ？{line}{page}"
-  .strn "保罗神父最后要去{line}的地方是？{line}{page}"
+  .strn "保罗神父最后　　　{line}要去的地方是？　　{line}{page}"
 
 String0x0D6CC4:
 ; .strn "トロピカルランド方面{line}の海に近い橋で待てば{line}車においつくぞ！{line}{page}"
-  .strn "在多罗碧加乐园那片海{line}附近的桥等着的话　就{line}能追上那辆车了！{line}{page}"
+  .strn "在多罗碧加乐园那片海{line}附近的桥等着的话　　{line}就能追上车子了！{line}{page}"
 
 String0x0D6D04:
 ; .strn "廃ビルの中に４つ部屋{line}がある　その内の{line}３つに女の子が{line}閉じこめられていて{line}ひとつにポール神父が{line}休けいしているらしい{line}「どの部屋」に{line}「誰」がいて{line}「暗証番号は何番」か{line}一味の　会話から{line}推理して　捕まった{line}女子高生を助けよう{line}{page}"
-  .strn "在废弃的大楼中{line}有４个房间{line}其中３间关着{line}女孩子　１间是{line}保罗神父在休息{line}从犯人的谈话中{line}推理出“哪间房”{line}里是“谁”{line}“密码是多少”{line}来救出被绑架{line}的女高中生吧{line}{page}"
+  .strn "在废弃的大楼中　　　{line}有４个房间　　　{line}有３间关着女生{line}剩余的１间是　　　{line}保罗神父在休息　　　{line}从犯人的谈话中　　　{line}推理“哪间房”{line}里的是“谁”{line}“密码是多少”　　　　{line}来救出被绑架的{line}女高中生吧　　　　{line}　　　　　　　　　{line}{page}"
 
 String0x0D6DEC:
 ; .strn "・ポールの部屋の{line}暗証番号は２２だ{line}{page}"
-  .strn "＊保罗的房间的{line}密码是２２{line}{page}"
+  .strn "＊保罗的房间的　{line}密码是２２　　　{line}{page}"
 
 String0x0D6E12:
 ; .strn "・蘭はハートの部屋に{line}閉じこめられている{line}{page}"
-  .strn "＊小兰被关在红桃的{line}房间里{line}{page}"
+  .strn "＊小兰被关在　　　　{line}红桃的房间里　　　{line}{page}"
 
 String0x0D6E3E:
 ; .strn "・ダイヤの部屋の{line}暗証番号は４７だ{line}{page}"
-  .strn "＊方块房间的密码{line}是４７{line}{page}"
+  .strn "＊方块房间的　　{line}密码是４７　　　{line}{page}"
 
 String0x0D6E64:
 ; .strn "・良子の部屋の{line}暗証番号は２６だ{line}{page}"
-  .strn "＊良子房间的{line}密码是２６{line}{page}"
+  .strn "＊良子房间的　{line}密码是２６　　　{line}{page}"
 
 String0x0D6E88:
 ; .strn "・スぺードの部屋の{line}暗証番号は２２だ{line}{page}"
-  .strn "＊黑桃房间的密码是{line}２２{line}{page}"
+  .strn "＊黑桃房间的　　　{line}密码是２２　　　{line}{page}"
 
 String0x0D6EB0:
 ; .strn "・恵子はダイヤの部屋{line}に閉じこめられている{line}{page}"
-  .strn "＊惠子被关在方块{line}房间里{line}{page}"
+  .strn "＊惠子被关在　　　　{line}方片的房间里　　　　{line}{page}"
 
 String0x0D6EDE:
 ; .strn "・クラブの部屋は{line}女の子だ{line}{page}"
-  .strn "＊梅花房间里的{line}是女孩子{line}{page}"
+  .strn "＊梅花房间里的　{line}是女孩子{line}{page}"
 
 String0x0D6EFC:
 ; .strn "・犯人たちの会話①を{line}聞いた{line}{page}"
-  .strn "＊听到了犯人们的{line}谈话①{line}{page}"
+  .strn "＊听到了犯人们的　　{line}谈话①{line}{page}"
 
 String0x0D6F1C:
 ; .strn "・犯人たちの会話②を{line}聞いた{line}{page}"
-  .strn "＊听到了犯人们的{line}谈话②{line}{page}"
+  .strn "＊听到了犯人们的　　{line}谈话②{line}{page}"
 
 String0x0D6F3C:
 ; .strn "・犯人たちの会話③を{line}聞いた{line}{page}"
-  .strn "＊听到了犯人们的{line}谈话③{line}{page}"
+  .strn "＊听到了犯人们的　　{line}谈话③{line}{page}"
 
 String0x0D6F5C:
 ; .strn "・犯人たちの会話④を{line}聞いた{line}{page}"
-  .strn "＊听到了犯人们的{line}谈话④{line}{page}"
+  .strn "＊听到了犯人们的　　{line}谈话④{line}{page}"
 
 String0x0D6F7C:
 ; .strn "・犯人たちの会話⑤を{line}聞いた{line}{page}"
-  .strn "＊听到了犯人们的{line}谈话⑤{line}{page}"
+  .strn "＊听到了犯人们的　　{line}谈话⑤{line}{page}"
 
 String0x0D6F9C:
 ; .strn "・部屋を調ベた{line}{page}"
-  .strn "＊调查了房间{line}{page}"
+  .strn "＊调查了房间　{line}{page}"
 
 String0x0D6FAE:
 ; .strn "・恵子から話を聞いた{line}{page}"
-  .strn "＊听取了惠子的证词{line}{page}"
+  .strn "＊听取了惠子的证词　{line}{page}"
 
 String0x0D6FC6:
 ; .strn "女子高生連続誘拐事件{line}{page}"
@@ -291,99 +291,99 @@ String0x0D6FC6:
 
 String0x0D6FDE:
 ; .strn "部屋ごとの{line}あんしょう番号って{line}なん番なんだろう？{line}{page}"
-  .strn "每个房间各自{line}的密码到底是{line}多少呢？{line}{page}"
+  .strn "每个房间　{line}各自的密码　　　　{line}到底是多少呢？　　{line}{page}"
 
 String0x0D7014:
 ; .strn "よし！　これで{line}女の子３人を{line}たすけだせるな！{line}{page}"
-  .strn "好！{line}这样就能救出{line}３个女孩子了！{line}{page}"
+  .strn "好！　　　　　{line}这样就能救出{line}３个女孩子了！　{line}{page}"
 
 String0x0D7046:
 ; .strn "ここはテレビスタジオ{line}小五郎のおっちゃんの{line}ゲスト出演のために{line}オレたちは沖野ヨーコ{line}が主演するサスぺンス{line}ドラマを見学している{line}ドラマ出演者の話から{line}ヨーコを含む４人の{line}出演者の「誰」が{line}「何の役」を演じて{line}「何番目」に出演{line}するか当ててみよう！{line}{page}"
-  .strn "这里是电视台的摄影棚{line}小五郎叔叔要客串出演{line}冲野洋子主演的悬疑{line}电视剧　从演员们的{line}对话中推理出“谁”{line}出演“什么角色”{line}“第几个上场”吧{line}{line}{line}{line}{line}{line}{page}"
+  .strn "这里是电视台的摄影棚{line}小五郎叔叔要客串出演{line}冲野洋子主演的　　{line}悬疑电视剧　　　　　{line}从演员们的对话中　　{line}推理出“谁”出演　　{line}“什么角色”　　　　{line}“第几个上场”吧　{line}　　　　　　　　{line}　　　　　　　　　{line}　　　　　　　　{line}　　　　　　　　　　{line}{page}"
 
 String0x0D7142:
 ; .strn "・ヨーコはヒロインで{line}全部のシーンに出る{line}{page}"
-  .strn "＊洋子作为女主角{line}要出演所有的镜头{line}{page}"
+  .strn "＊洋子作为女主角　　{line}要出演所有的镜头　{line}{page}"
 
 String0x0D716E:
 ; .strn "・俊樹は{line}ヨーコの彼氏の役だ{line}{page}"
-  .strn "＊俊树{line}饰演洋子的男朋友{line}{page}"
+  .strn "＊俊树　{line}饰演洋子的男朋友　{line}{page}"
 
 String0x0D718E:
 ; .strn "・洋二は{line}１番目に出番がある{line}{page}"
-  .strn "＊洋二{line}是第１个出演的{line}{page}"
+  .strn "＊洋二　{line}是第１个出演的　　{line}{page}"
 
 String0x0D71AE:
 ; .strn "・京子は{line}２番目に出番がある{line}{page}"
-  .strn "＊京子{line}排在第２位出演{line}{page}"
+  .strn "＊京子　{line}是第２个出演的　　{line}{page}"
 
 String0x0D71CE:
 ; .strn "・１番目は{line}容疑者の撮影だった{line}{page}"
-  .strn "＊第１个{line}是嫌疑人的镜头{line}{page}"
+  .strn "＊第１个　{line}是嫌疑人的镜头　　{line}{page}"
 
 String0x0D71F0:
 ; .strn "・彼氏の役は{line}３番目の撮影だ{line}{page}"
-  .strn "＊男友的镜头{line}排在第３位{line}{page}"
+  .strn "＊男友的镜头{line}排在第３个　　{line}{page}"
 
 String0x0D7210:
 ; .strn "・山岸から話を聞いた{line}{page}"
-  .strn "＊听取了山岸的证词{line}{page}"
+  .strn "＊听取了山岸的证词　{line}{page}"
 
 String0x0D7228:
 ; .strn "・洋二から話①を聞い{line}た{line}{page}"
-  .strn "＊听取了洋二的证词①{line}{line}{page}"
+  .strn "＊听取了洋二的证词①{line}　{line}{page}"
 
 String0x0D7244:
 ; .strn "・洋二から話②を聞い{line}た{line}{page}"
-  .strn "＊听取了洋二的证词②{line}{line}{page}"
+  .strn "＊听取了洋二的证词②{line}　{line}{page}"
 
 String0x0D7260:
 ; .strn "・監督から話を聞いた{line}{page}"
-  .strn "＊听取了导演的证词{line}{line}{page}"
+  .strn "＊听取了导演的证词　{line}{page}"
 
 String0x0D7278:
 ; .strn "・俊樹から話を聞いた{line}{page}"
-  .strn "＊听取了俊树的证词{line}{line}{page}"
+  .strn "＊听取了俊树的证词　{line}{page}"
 
 String0x0D7290:
 ; .strn "・洋二から話③を聞い{line}た{line}{page}"
-  .strn "＊听取了洋二的证词③{line}{line}{page}"
+  .strn "＊听取了洋二的证词③{line}　{line}{page}"
 
 String0x0D72AC:
 ; .strn "サスぺンスドラマ殺人{line}{page}"
-  .strn "悬疑电视剧杀人事件{line}{page}"
+  .strn "悬疑电视剧杀人事件　{line}{page}"
 
 String0x0D72C4:
 ; .strn "誰が　どんな順番で{line}どんな役を{line}やるんだろう？{line}{page}"
-  .strn "每个人是按照什么{line}顺序　饰演什么{line}角色呢？{line}{page}"
+  .strn "是谁　按照什么顺序{line}分别饰演了{line}什么角色呢？　{line}{page}"
 
 String0x0D72F6:
 ; .strn "容疑者役の洋二さん{line}ライバル役の京子さん{line}の順で撮影して…{line}{page}"
-  .strn "排在嫌疑人洋二{line}先生之后的是演对手的{line}京子小姐…{line}{page}"
+  .strn "排在嫌疑人洋二先生{line}之后的是演对手的　　{line}京子小姐…　　　{line}{page}"
 
 String0x0D7334:
 ; .strn "控え室で　京子さんが{line}何者かに殺された{line}スタジオを出たのは{line}４人だけ　しかも４人{line}とも　４時１５分を{line}はさんで　スタジオ{line}から２回も出たらしい{line}４人がそれぞれ{line}「何時」と「何時」に{line}スタジオから出たのか{line}推理しよう！{line}{page}"
-  .strn "京子小姐在休息室被{line}人杀害了{line}离开过摄影棚的有４{line}个人　在４点１５分{line}前后　那４个人分别{line}都离开过２次摄影棚{line}４个人是在“何时”{line}{line}离开摄影棚的呢{line}来推理一下吧！{line}{line}{page}"
+  .strn "京子小姐在休息室　　{line}被人杀害了　　　{line}离开过摄影棚的　　{line}有４个人　　　　　　{line}而且４点１５分前后{line}那４个人　　　　　{line}都离开过２次摄影棚　{line}那４个人是　　{line}“何时”与“何时”　{line}离开摄影棚的呢　　　{line}来推理下吧！{line}{page}"
 
 String0x0D7410:
 ; .strn "・２時半に{line}出たのは俊樹だ{line}{page}"
-  .strn "＊２点半{line}离开的是俊树{line}{page}"
+  .strn "＊２点半　{line}离开的是俊树　{line}{page}"
 
 String0x0D742E:
 ; .strn "・監督が出たのは{line}３時だった{line}{page}"
-  .strn "＊导演是在３点{line}离开的{line}{page}"
+  .strn "＊导演是在３点　{line}离开的　　{line}{page}"
 
 String0x0D744E:
 ; .strn "・２時半と６時に{line}出た人は{line}同じ人だ{line}{page}"
-  .strn "＊２点半和６点{line}离开的人是{line}同一个人{line}{page}"
+  .strn "＊２点半和６点　{line}离开的是{line}同一个人{line}{page}"
 
 String0x0D7476:
 ; .strn "・洋二は４時半に{line}出て行った{line}{page}"
-  .strn "＊洋二在４点半{line}离开过{line}{page}"
+  .strn "＊洋二在４点半　{line}离开过　　{line}{page}"
 
 String0x0D7496:
 ; .strn "・ヨーコは５時半に{line}スタジオを出た{line}{page}"
-  .strn "＊洋子在５点半{line}离开过摄影棚{line}{page}"
+  .strn "＊洋子在５点半　　{line}离开过摄影棚　{line}{page}"
 
 String0x0D74BC:
 ; .strn "・監督は５時に出た{line}{page}"
@@ -391,11 +391,11 @@ String0x0D74BC:
 
 String0x0D74D2:
 ; .strn "・同じ人が{line}４時と５時半に{line}出て行った{line}{page}"
-  .strn "＊同一个人{line}在４点和５点半{line}离开过{line}{page}"
+  .strn "＊在４点和{line}５点半离开的　{line}是同一个人{line}{page}"
 
 String0x0D74FC:
 ; .strn "・洋二は３時半に{line}出て行った{line}{page}"
-  .strn "＊洋二在３点半时{line}离开了{line}{page}"
+  .strn "＊洋二在３点半时{line}离开了　　{line}{page}"
 
 String0x0D751C:
 ; .strn "・蘭から話を聞いた{line}{page}"
@@ -403,35 +403,35 @@ String0x0D751C:
 
 String0x0D7532:
 ; .strn "・ヨーコから話①を{line}聞いた{line}{page}"
-  .strn "＊听取了洋子的{line}证词①{line}{page}"
+  .strn "＊听取了洋子的　　{line}证词①{line}{page}"
 
 String0x0D7550:
 ; .strn "・ヨーコから話②を{line}聞いた{line}{page}"
-  .strn "＊听取了样子的{line}证词②{line}{page}"
+  .strn "＊听取了洋子的　　{line}证词②{line}{page}"
 
 String0x0D756E:
 ; .strn "・俊樹から話を聞いた{line}{page}"
-  .strn "＊听取了俊树的证词{line}{page}"
+  .strn "＊听取了俊树的证词　{line}{page}"
 
 String0x0D7586:
 ; .strn "・小五郎から話を{line}聞いた{line}{page}"
-  .strn "＊听取了小五郎的{line}证词{line}{page}"
+  .strn "＊听取了小五郎的{line}证词　{line}{page}"
 
 String0x0D75A2:
 ; .strn "・監督から話を聞いた{line}{page}"
-  .strn "＊听取了导演的证词{line}{page}"
+  .strn "＊听取了导演的证词　{line}{page}"
 
 String0x0D75BA:
 ; .strn "・洋二から話を聞いた{line}{page}"
-  .strn "＊听取了洋二的证词{line}{page}"
+  .strn "＊听取了洋二的证词　{line}{page}"
 
 String0x0D75D2:
 ; .strn "・山岸から話を聞いた{line}{page}"
-  .strn "＊听取了山岸的证词{line}{page}"
+  .strn "＊听取了山岸的证词　{line}{page}"
 
 String0x0D75EA:
 ; .strn "サスぺンスドラマ殺人{line}{page}"
-  .strn "悬疑电视剧杀人事件{line}{page}"
+  .strn "悬疑电视剧杀人事件　{line}{page}"
 
 String0x0D7602:
 ; .strn "容疑者が１回目と２回{line}目それぞれ何時に出た{line}かでアリバイがわかる{line}{page}"
@@ -439,23 +439,23 @@ String0x0D7602:
 
 String0x0D7646:
 ; .strn "被害者の殺害時刻に{line}アリバイがないのは{line}２人にしぼられた{line}{page}"
-  .strn "在被害者死亡时间{line}没有不在场证明的{line}只有２个人{line}{page}"
+  .strn "在被害者死亡时间　{line}没有不在场证明的　{line}只有２个人　　　{line}{page}"
 
 String0x0D7682:
 ; .strn "殺人事件の調査中だが{line}忙しい仕事の監督や{line}芸能人たちは　別の{line}仕事のために　他の{line}場所に移動するらしい{line}ところが　仕事場所の{line}メモを　白鳥刑事が{line}オレに見せてくれない{line}こうなれば「誰」が{line}「どこ」に「何の仕{line}事」で行くのか自分で{line}推理するっきゃねーぜ{line}{page}"
-  .strn "在调查杀人事件的途中{line}工作繁忙的导演和{line}演员们都去了{line}别的工作场地{line}白鸟警官不告诉我{line}他们的去处{line}只能自己推理了{line}“谁”“去了哪”{line}“去干什么”呢？{line}来推理一下吧{line}{line}{line}{page}"
+  .strn "在调查杀人事件的途中{line}工作繁忙的导演　　{line}和演员们都去了　　{line}别的工作场地　　　{line}白鸟警官不告诉我　　{line}他们的去处　　　　　{line}所以只能自己推理了{line}“谁”“去了哪”　　{line}“去干什么”呢？　{line}来推理一下吧　　　{line}　　　　　　　　　　{line}　　　　　　　　　　{line}{page}"
 
 String0x0D7780:
 ; .strn "・ヨーコはアイドル誌{line}の取材がある{line}{page}"
-  .strn "＊洋子小姐要接受偶像{line}杂志的采访{line}{page}"
+  .strn "＊洋子小姐要接受偶像{line}杂志的采访　{line}{page}"
 
 String0x0D77A6:
 ; .strn "・帝丹小学校で{line}子供番組の撮影がある{line}{page}"
-  .strn "＊在帝丹小学{line}有儿童节目的拍摄工作{line}{page}"
+  .strn "＊在帝丹小学　{line}有儿童节目的拍摄工作{line}{page}"
 
 String0x0D77CE:
 ; .strn "・監督は{line}舞台あいさつに{line}米花シネマに行く{line}{page}"
-  .strn "＊导演要{line}去米花电影院{line}参与舞台见面会{line}{page}"
+  .strn "＊导演要{line}去米花电影院　{line}参与舞台见面会{line}{page}"
 
 String0x0D77FC:
 ; .strn "・グルメ番組は俊樹だ{line}{page}"
@@ -463,31 +463,31 @@ String0x0D77FC:
 
 String0x0D7814:
 ; .strn "・洋二は{line}帝丹小学校に行く{line}{page}"
-  .strn "＊洋二{line}要去帝丹小学{line}{page}"
+  .strn "＊洋二　{line}要去帝丹小学　　{line}{page}"
 
 String0x0D7832:
 ; .strn "・グルメ番組は{line}米花デパートで撮影だ{line}{page}"
-  .strn "＊美食节目{line}在米花百货大楼拍摄{line}{page}"
+  .strn "＊美食节目　　{line}在米花百货大楼拍摄　{line}{page}"
 
 String0x0D785A:
 ; .strn "・ヨーコから話を{line}聞いた{line}{page}"
-  .strn "＊听取了洋子的{line}证词{line}{page}"
+  .strn "＊听取了洋子的　{line}证词　{line}{page}"
 
 String0x0D7876:
 ; .strn "・小五郎から話を{line}聞いた{line}{page}"
-  .strn "＊听取了小五郎的{line}证词{line}{page}"
+  .strn "＊听取了小五郎的{line}证词　{line}{page}"
 
 String0x0D7892:
 ; .strn "・白鳥刑事から話を{line}聞いた{line}{page}"
-  .strn "＊听取了白鸟警官的{line}证词{line}{page}"
+  .strn "＊听取了白鸟警官的{line}证词　{line}{page}"
 
 String0x0D78B0:
 ; .strn "・俊樹から話を聞いた{line}{page}"
-  .strn "＊听取了俊树的证词{line}{page}"
+  .strn "＊听取了俊树的证词　{line}{page}"
 
 String0x0D78C8:
 ; .strn "・洋二から話を聞いた{line}{page}"
-  .strn "＊听取了洋二的证词{line}{page}"
+  .strn "＊听取了洋二的证词　{line}{page}"
 
 String0x0D78E0:
 ; .strn "・蘭から話を聞いた{line}{page}"
@@ -495,255 +495,255 @@ String0x0D78E0:
 
 String0x0D78F6:
 ; .strn "サスぺンスドラマ殺人{line}{page}"
-  .strn "悬疑电视剧杀人事件{line}{page}"
+  .strn "悬疑电视剧杀人事件　{line}{page}"
 
 String0x0D790E:
 ; .strn "さてと　みんな{line}どこに出かけたんだ？{line}{page}"
-  .strn "那么　大家{line}都去了哪里呢？{line}{page}"
+  .strn "那么　大家　　{line}都去了哪里呢？　　　{line}{page}"
 
 String0x0D7936:
 ; .strn "よし！　今わかった{line}場所に行けば　事件の{line}証言を聞けるな！{line}{page}"
-  .strn "好的！　前往这些{line}地方　就能问出{line}那些人的证词了{line}{page}"
+  .strn "好！　前往这些地方{line}就能问出　　　　　　{line}那些人的证词了！{line}{page}"
 
 String0x0D7974:
 ; .strn "殺された京子さんは{line}出演者と監督がみんな{line}殺したいほど京子さん{line}を　憎んでいる…{line}と言っていた　しかも{line}京子さんは　トラブル{line}メーカーで毎年誰か{line}と争っていた「誰」が{line}「いつから」京子さん{line}を「憎む理由」を{line}持つようになったのか{line}推理してみよう！{line}{page}"
-  .strn "导演和其他演员{line}都对京子小姐{line}有足够的恨意{line}而且京子小姐是个{line}经常制造麻烦的人{line}每年都有和他人{line}起矛盾{line}要推理出“谁”在{line}“什么时候”{line}和京子小姐{line}“有什么”矛盾{line}才行{line}{page}"
+  .strn "导演和其他演员　　{line}都对京子小姐　　　　{line}有足够的恨意　　　　{line}而且京子小姐是个{line}经常制造麻烦的人　　{line}每年都有和他人起矛盾{line}来推理出“谁”在　{line}“什么时候”　　　　{line}和京子小姐　　　　　{line}“有什么”矛盾吧！{line}　　　　　　　　　　{line}　　　　　　　　{line}{page}"
 
 String0x0D7A6E:
 ; .strn "・ヨーコは{line}京子にＣＭの仕事を{line}とられたことがある{line}{page}"
-  .strn "＊京子的{line}电视广告拍摄{line}被洋子取代了{line}{page}"
+  .strn "＊京子的　{line}电视广告拍摄　　　{line}被洋子取代了　　　{line}{page}"
 
 String0x0D7AA4:
 ; .strn "・４年前{line}誰かが京子に{line}お金をとられた{line}{page}"
-  .strn "＊４年前{line}有人被京子{line}拿走了钱{line}{page}"
+  .strn "＊４年前{line}有人被京子　{line}拿走了钱　　　{line}{page}"
 
 String0x0D7ACE:
 ; .strn "・俊樹は京子に{line}ふられた男ではない{line}{page}"
-  .strn "＊俊树不是那位{line}被京子甩掉的男人{line}{page}"
+  .strn "＊俊树不是那位{line}被京子甩掉的男人　{line}{page}"
 
 String0x0D7AF4:
 ; .strn "・監督は京子にふられ{line}ても　恋人を自殺に追{line}いこまれてもいない{line}{page}"
-  .strn "＊导演既没有被京子{line}甩掉　也不是恋人被{line}逼到自杀的那位{line}{page}"
+  .strn "＊导演不是被京子甩掉{line}那位　也不是恋人　　{line}被逼自杀的那位　　{line}{page}"
 
 String0x0D7B36:
 ; .strn "・恋人の自殺は{line}１年前におきた{line}{page}"
-  .strn "＊恋人自杀案{line}是１年前的事{line}{page}"
+  .strn "＊恋人自杀案　{line}是１年前的事　{line}{page}"
 
 String0x0D7B58:
 ; .strn "・最初に京子と{line}トラブルを{line}起こしたのは監督だ{line}{page}"
-  .strn "＊最初与京子{line}起纠纷的人{line}是导演{line}{page}"
+  .strn "＊最初与京子　{line}起纠纷的人{line}是导演　　　　　　{line}{page}"
 
 String0x0D7B8A:
 ; .strn "・洋二は３年前に{line}京子とトラブルを{line}起こした{line}{page}"
-  .strn "＊洋二是在３年前{line}跟京子起纠纷的{line}{line}{page}"
+  .strn "＊洋二是在３年前{line}跟京子起纠纷的　{line}　　　　{line}{page}"
 
 String0x0D7BBA:
 ; .strn "・ヨーコから話を{line}聞いた{line}{page}"
-  .strn "＊听取了洋子的{line}证词{line}{page}"
+  .strn "＊听取了洋子的　{line}证词　{line}{page}"
 
 String0x0D7BD6:
 ; .strn "・俊樹から話①を{line}聞いた{line}{page}"
-  .strn "＊听取了俊树的{line}证词①{line}{page}"
+  .strn "＊听取了俊树的　{line}证词①{line}{page}"
 
 String0x0D7BF2:
 ; .strn "・俊樹から話②を{line}聞いた{line}{page}"
-  .strn "＊听取了俊树的{line}证词②{line}{page}"
+  .strn "＊听取了俊树的　{line}证词②{line}{page}"
 
 String0x0D7C0E:
 ; .strn "・監督から話①を{line}聞いた{line}{page}"
-  .strn "＊听取了导演的{line}证词①{line}{page}"
+  .strn "＊听取了导演的　{line}证词①{line}{page}"
 
 String0x0D7C2A:
 ; .strn "・監督から話②を{line}聞いた{line}{page}"
-  .strn "＊听取了导演的{line}证词②{line}{page}"
+  .strn "＊听取了导演的　{line}证词②{line}{page}"
 
 String0x0D7C46:
 ; .strn "・洋二から話①を{line}聞いた{line}{page}"
-  .strn "＊听取了洋二的{line}证词①{line}{page}"
+  .strn "＊听取了洋二的　{line}证词①{line}{page}"
 
 String0x0D7C62:
 ; .strn "・洋二から話②を{line}聞いた{line}{page}"
-  .strn "＊听取了洋二的{line}证词②{line}{page}"
+  .strn "＊听取了洋二的　{line}证词②{line}{page}"
 
 String0x0D7C7E:
 ; .strn "サスぺンスドラマ殺人{line}{page}"
-  .strn "悬疑电视剧杀人事件{line}{page}"
+  .strn "悬疑电视剧杀人事件　{line}{page}"
 
 String0x0D7C96:
 ; .strn "みんな　どんなわけで{line}京子さんを{line}憎んでたんだろう？{line}{page}"
-  .strn "大家都是因为{line}什么原因{line}恨着京子小姐呢？{line}{page}"
+  .strn "大家都是因为什么原因{line}才会恨着　{line}京子小姐的呢？　　{line}{page}"
 
 String0x0D7CCE:
 ; .strn "動機はみんなあるけど{line}これだけじゃ　犯人の{line}決め手にはならない…{line}{page}"
-  .strn "每个人都有动机　这样{line}下去没法锁定犯人……{line}{line}{page}"
+  .strn "每个人都有动机　　　{line}这样下去　　　　　　{line}没办法锁定犯人…　　{line}{page}"
 
 String0x0D7D12:
 ; .strn "京子さんの殺害現場を{line}調ベたオレは　ついに{line}殺人犯がしくんでいた{line}トリックをみやぶった{line}このトリックを　実行{line}するには　あるものが{line}必要だ　オレは証言で{line}「だれが」どんな{line}「かさ」と「にもつ」{line}を持っていたかを{line}推理しなくちゃな！{line}犯人まであと１歩だぞ{line}{page}"
-  .strn "调查了京子小姐的被害{line}现场之后　我终于解开{line}了犯人的诡计　但是要{line}实现这个计谋必须要用{line}到某个东西　必须从证{line}词中推理出“谁”{line}拿着什么样的“伞”{line}和“物品”{line}离抓住犯人就剩１步了{line}{line}{line}{line}{page}"
+  .strn "调查了京子小姐的　　{line}被害现场之后　　　　{line}我解开了犯人的诡计　{line}但是要实现这个计谋　{line}必须要用到某个东西　{line}必须从证词中推理出　{line}“谁”拿着什么样的　{line}“伞”和“物品”　{line}离抓住犯人就剩１步了{line}　　　　　　　　{line}　　　　　　　　　{line}　　　　　　　　　　{line}{page}"
 
 String0x0D7E12:
 ; .strn "・リュックを{line}持った人は{line}たてじまのカサだ{line}{page}"
-  .strn "＊背着双肩包{line}的人拿着{line}竖条纹的伞{line}{page}"
+  .strn "＊背着双肩包{line}的人拿着　{line}条纹伞　　　　　{line}{page}"
 
 String0x0D7E40:
 ; .strn "・洋二はコンビニの{line}ビニール袋を{line}持っていた{line}{page}"
-  .strn "＊洋二拿着便利店{line}的塑料袋{line}{line}{page}"
+  .strn "＊洋二拿着便利店的{line}塑料袋　　　{line}　　　　　{line}{page}"
 
 String0x0D7E70:
 ; .strn "・ヨーコは{line}カメラを持っていた{line}{page}"
-  .strn "＊洋子拿着相机{line}{line}{page}"
+  .strn "＊洋子　　{line}拿着相机　　　　　{line}{page}"
 
 String0x0D7E92:
 ; .strn "・水玉のカサの人は{line}コンビニの帰りだった{line}{page}"
-  .strn "＊拿着雨点图案雨伞{line}的人是从便利店回来的{line}{page}"
+  .strn "＊拿着雨点伞的人　{line}是从便利店回来的　　{line}{page}"
 
 String0x0D7EBE:
 ; .strn "・監督はリュックを{line}持っていた{line}{page}"
-  .strn "＊导演背着双肩包{line}{line}{page}"
+  .strn "＊导演背着双肩包　{line}　　　　　{line}{page}"
 
 String0x0D7EE0:
 ; .strn "・ヨーコは{line}チェックのカサだ{line}{page}"
-  .strn "＊洋子小姐{line}拿着格子伞{line}{page}"
+  .strn "＊洋子小姐{line}拿着格子伞　　　{line}{page}"
 
 String0x0D7F00:
 ; .strn "・山岸から話を聞いた{line}{page}"
-  .strn "＊听取了山岸的证词{line}{page}"
+  .strn "＊听取了山岸的证词　{line}{page}"
 
 String0x0D7F18:
 ; .strn "・俊樹から話を聞いた{line}{page}"
-  .strn "＊听取了俊树的证词{line}{page}"
+  .strn "＊听取了俊树的证词　{line}{page}"
 
 String0x0D7F30:
 ; .strn "・監督から話①を{line}聞いた{line}{page}"
-  .strn "＊听取了导演的{line}证词①{line}{page}"
+  .strn "＊听取了导演的　{line}证词①{line}{page}"
 
 String0x0D7F4C:
 ; .strn "・監督から話②を{line}聞いた{line}{page}"
-  .strn "＊听取了导演的{line}证词②{line}{page}"
+  .strn "＊听取了导演的　{line}证词②{line}{page}"
 
 String0x0D7F68:
 ; .strn "・洋二から話①を{line}聞いた{line}{page}"
-  .strn "＊听取了洋二的{line}证词①{line}{page}"
+  .strn "＊听取了洋二的　{line}证词①{line}{page}"
 
 String0x0D7F84:
 ; .strn "・洋二から話②を{line}聞いた{line}{page}"
-  .strn "＊听取了洋二的{line}证词②{line}{page}"
+  .strn "＊听取了洋二的　{line}证词②{line}{page}"
 
 String0x0D7FA0:
 ; .strn "サスぺンスドラマ殺人{line}{page}"
-  .strn "悬疑电视剧杀人事件{line}{page}"
+  .strn "悬疑电视剧杀人事件　{line}{page}"
 
 String0x0D7FB8:
 ; .strn "このトリックには{line}持っていなくちゃ{line}いけないものがあるぞ{line}{page}"
-  .strn "要完成这个计谋{line}必须要用到{line}那样东西{line}{page}"
+  .strn "要完成这个计谋　{line}必须要用到　　　{line}那样东西　　　　　　{line}{page}"
 
 String0x0D7FF4:
 ; .strn "あれを持っていたのは{line}…そうか　俊樹さん{line}だったんだ{line}{page}"
-  .strn "带着那样东西的是{line}…对了{line}是俊树先生{line}{page}"
+  .strn "带着那样东西的是　　{line}…没错　　　　　　{line}是俊树先生{line}{page}"
 
 String0x0D802C:
 ; .strn "切り裂きジャックを{line}気どる推理作家桐崎爵{line}から　オレたちあてに{line}変な手紙が届いた{line}どうやら暗号で　オレ{line}たちの力をはかる{line}招待状らしい{line}「誰」が「どこ」で{line}「どんな合言葉」{line}を使って「どの車」{line}を待てばいいのか{line}推理してやるぜ…！{line}{page}"
-  .strn "自称开膛手杰克{line}的推理作家桐崎爵{line}给我们寄来了暗号信{line}想试探我们的实力{line}推理出“谁”要在{line}“哪”用{line}“什么暗语”{line}等“哪辆车”吧…！{line}{line}{line}{line}{line}{page}"
+  .strn "自称开膛手杰克的　{line}推理作家桐崎爵　　　{line}给我们寄来了暗号信　{line}想试探我们的实力{line}来推理出“谁”　　　{line}要在“哪里”　　{line}用“什么暗语”{line}等“哪辆车”吧！{line}　　　　　　　　{line}　　　　　　　　　{line}　　　　　　　　{line}　　　　　　　　　{line}{page}"
 
 String0x0D8116:
 ; .strn "・小五郎の合言葉は{line}｛霧｝ではない{line}{page}"
-  .strn "＊小五郎的暗语不是{line}“雾”{line}{page}"
+  .strn "＊小五郎的暗语　　{line}不是“雾”　　{line}{page}"
 
 String0x0D813C:
 ; .strn "・ドイツ車の{line}合言葉は｛ナイフ｝{line}{page}"
-  .strn "＊德国车的{line}暗语是“小刀”{line}{page}"
+  .strn "＊德国车暗语{line}是“小刀”　　　　{line}{page}"
 
 String0x0D8160:
 ; .strn "・東都タワーで{line}使う合言葉は｛謎｝{line}{page}"
-  .strn "＊东都塔的暗语{line}是“谜”{line}{page}"
+  .strn "＊东都塔的暗语{line}是“谜”　　　　　{line}{page}"
 
 String0x0D8186:
 ; .strn "・｛謎｝は{line}アメリカ車の合言葉だ{line}{page}"
-  .strn "＊“谜”{line}是美国车的暗语{line}{page}"
+  .strn "＊“谜”　{line}是美国车的暗语　　　{line}{page}"
 
 String0x0D81AA:
 ; .strn "・平次の待ち合わせ{line}場所は　米花シネマ{line}じゃない{line}{page}"
-  .strn "＊平次的会面地点{line}不在米花电影院{line}{line}{page}"
+  .strn "＊平次的会面地点　{line}不是米花电影院　　{line}　　　　{line}{page}"
 
 String0x0D81DE:
 ; .strn "・日本車に乗るのは{line}平次　合言葉は｛夜｝{line}{page}"
-  .strn "＊坐上日本车时的{line}暗语是“夜”{line}{page}"
+  .strn "＊乘坐日本车的平次{line}暗语是“夜”　　　　{line}{page}"
 
 String0x0D820A:
 ; .strn "・新一の合言葉は{line}｛ナイフ｝か｛謎｝{line}場所は東都タワー前{line}{page}"
-  .strn "＊新一的暗语是{line}“小刀”或者“谜”{line}地点是东都塔前{line}{page}"
+  .strn "＊新一的暗语是　{line}“小刀”或者“谜”{line}地点是东都塔　　　{line}{page}"
 
 String0x0D8246:
 ; .strn "・ジャックは米花公園{line}に現れる{line}合言葉は｛霧｝{line}{page}"
-  .strn "＊杰克会现身米花公园{line}暗语是{line}“雾”{line}{page}"
+  .strn "＊杰克现身地点是　　{line}米花公园{line}暗语是“雾”　　{line}{page}"
 
 String0x0D8278:
 ; .strn "・小五郎あての手紙{line}①を読んだ{line}{page}"
-  .strn "＊阅读了小五郎的信{line}①{line}{page}"
+  .strn "＊阅读了小五郎的信{line}①　　　　{line}{page}"
 
 String0x0D829A:
 ; .strn "・小五郎あての手紙{line}②を読んだ{line}{page}"
-  .strn "＊阅读了小五郎的信{line}②{line}{page}"
+  .strn "＊阅读了小五郎的信{line}②　　　　{line}{page}"
 
 String0x0D82BC:
 ; .strn "・小五郎あての手紙{line}③を読んだ{line}{page}"
-  .strn "＊阅读了小五郎的信{line}③{line}{page}"
+  .strn "＊阅读了小五郎的信{line}③　　　　{line}{page}"
 
 String0x0D82DE:
 ; .strn "・平次あての手紙①を{line}読んだ{line}{page}"
-  .strn "＊阅读了平次的信①{line}{line}{page}"
+  .strn "＊阅读了平次的信①　{line}　　　{line}{page}"
 
 String0x0D82FE:
 ; .strn "・平次あての手紙②を{line}読んだ{line}{page}"
-  .strn "＊阅读了平次的信②{line}{line}{page}"
+  .strn "＊阅读了平次的信②　{line}　　　{line}{page}"
 
 String0x0D831E:
 ; .strn "・平次あての手紙③を{line}読んだ{line}{page}"
-  .strn "＊阅读了平次的信③{line}{line}{page}"
+  .strn "＊阅读了平次的信③　{line}　　　{line}{page}"
 
 String0x0D833E:
 ; .strn "・新一あての手紙①を{line}読んだ{line}{page}"
-  .strn "＊阅读了新一的信①{line}{line}{page}"
+  .strn "＊阅读了新一的信①　{line}　　　{line}{page}"
 
 String0x0D835E:
 ; .strn "・新一あての手紙②を{line}読んだ{line}{page}"
-  .strn "＊阅读了新一的信②{line}{line}{page}"
+  .strn "＊阅读了新一的信②　{line}　　　{line}{page}"
 
 String0x0D837E:
 ; .strn "切り裂きジャック殺人{line}{page}"
-  .strn "开膛手杰克杀人事件{line}{page}"
+  .strn "开膛手杰克杀人事件　{line}{page}"
 
 String0x0D8396:
 ; .strn "オレは　どこに{line}行けばいいんだ？{line}{page}"
-  .strn "我需要去哪里{line}才对呢{line}{page}"
+  .strn "我需要去哪里　{line}才对呢？　　　　{line}{page}"
 
 String0x0D83BA:
 ; .strn "新一は{line}東都タワーで{line}アメリカ車を待つのか{line}{page}"
-  .strn "新一{line}看来是要在{line}东都塔前等一辆美国车{line}{page}"
+  .strn "新一　{line}应该是要在　{line}东都塔前等一辆美国车{line}{page}"
 
 String0x0D83E8:
 ; .strn "やっと邸に着いたと{line}思えば　また推理力の{line}テストらしい{line}今度は４人の会話から{line}「年の順」と「関係」{line}そして「犯人説は何」{line}か　推理することに…{line}ずいぶん複雑な関係の{line}きょうだいらしい…{line}{page}"
-  .strn "终于抵达了宅邸{line}但接下来好像还是{line}推理测试{line}这次要推理出４个人的{line}“大小”“关系”{line}和他们持有“怎样的{line}犯人假说”他们还真是挺{line}关系复杂的兄弟姐妹…{line}{line}{page}"
+  .strn "终于抵达了宅邸　　{line}但接下来好像　　　　{line}还是推理测试{line}这次要推理出４个人的{line}“大小”“关系”　　{line}和他们持有怎样的　　{line}“犯人假说”…　　　{line}他们还真是关系挺复杂{line}的兄弟姐妹啊…　　{line}{page}"
 
 String0x0D84A4:
 ; .strn "・爵（しゃく）は{line}医者説だ{line}{page}"
-  .strn "＊爵坚持医生说{line}{page}"
+  .strn "＊爵坚持医生说　{line}　　　　{line}{page}"
 
 String0x0D84C2:
 ; .strn "・利（とし）は貴族説{line}末っこは警官説{line}３番目は女性説{line}{page}"
-  .strn "＊利坚持贵族说{line}老４坚持警官说{line}老３坚持女性说{line}{page}"
+  .strn "＊利坚持贵族说　　　{line}老４坚持警官说{line}老３坚持女性说{line}{page}"
 
 String0x0D84FA:
 ; .strn "・爵（しゃく）は２番{line}目　後妻のつれ子の{line}倫（りん）は３番目{line}{page}"
-  .strn "＊爵排行老２{line}伦排行老３{line}是后妻带来的孩子{line}{page}"
+  .strn "＊爵排行老２　　　　{line}伦排行老３　　　　{line}是后妻带来的孩子　{line}{page}"
 
 String0x0D853A:
 ; .strn "・一番上は{line}先妻のつれ子だ{line}{page}"
-  .strn "＊老大是前妻{line}带来的孩子{line}{page}"
+  .strn "＊老大是　{line}前妻带来的孩子{line}{page}"
 
 String0x0D8558:
 ; .strn "・爵（しゃく）は先妻{line}の実子で　後妻の実子{line}は敦（あつし）だ{line}{page}"
-  .strn "＊爵是前妻的婚生子{line}后妻的婚生子是敦{line}{page}"
+  .strn "＊爵是前妻的婚生子　{line}后妻的婚生子是敦　　{line}　　　　　　　　{line}{page}"
 
 String0x0D8598:
 ; .strn "・後妻のつれ子は{line}女性説だ{line}{page}"
@@ -755,7 +755,7 @@ String0x0D85B6:
 
 String0x0D85D4:
 ; .strn "・利（とし）は{line}一番上だ{line}{page}"
-  .strn "＊利是老大{line}{page}"
+  .strn "＊利是老大　　{line}　　　　{line}{page}"
 
 String0x0D85F0:
 ; .strn "・倫の話①を聞いた{line}{page}"
@@ -791,111 +791,111 @@ String0x0D868A:
 
 String0x0D86A0:
 ; .strn "切り裂きジャック殺人{line}{page}"
-  .strn "开膛手杰克杀人事件{line}{page}"
+  .strn "开膛手杰克杀人事件　{line}{page}"
 
 String0x0D86B8:
 ; .strn "それぞれの関係と{line}どんなジャック論を{line}持ってるかだろ…{line}{page}"
-  .strn "他们是什么关系{line}又各自持有怎样的{line}犯人假说呢{line}{page}"
+  .strn "他们是什么关系　{line}又各自持有怎样的　{line}犯人假说呢…　　{line}{page}"
 
 String0x0D86F2:
 ; .strn "つまり父親が同じ{line}なのは爵と敦だけか{line}これじゃ　遺産は…{line}{page}"
-  .strn "也就是说{line}婚生子只有爵和敦{line}那么遗产就…{line}{page}"
+  .strn "也就是说　　　　{line}婚生子只有爵和敦　{line}那么遗产就…　　　{line}{page}"
 
 String0x0D872E:
 ; .strn "爵の殺害現場で警察の{line}現場検証が　行われて{line}いるころ４人の{line}父親の遺書が{line}読み上げられた{line}わかりにくい　遺書{line}だけど　４人の{line}「誰」が「いくら」{line}それと「何を{line}手に入れた」のか{line}わかれば　爵を殺した{line}犯人の動機もわかる！{line}{page}"
-  .strn "警察正在进行凶案现场{line}的勘察　同时４人父亲的{line}遗书被公开了　这封难懂{line}的遗书里也许隐藏了犯人{line}的动机！推理出“谁”{line}“能继承多少”以及{line}“能继承到什么”吧！{line}{page}"
+  .strn "警察正在进行　　　　{line}凶案现场的勘察　　　{line}与此同时　　　{line}４人父亲的　{line}遗书被公开了　{line}这封难懂的遗书里　{line}也许隐藏了　　{line}犯人的动机！　　　{line}推理出“谁”{line}“能继承多少”以及{line}“能继承到什么”吧！{line}　　　　　　　　　　{line}{page}"
 
 String0x0D880E:
 ; .strn "・株券を残すのは{line}利（とし）にだ{line}{page}"
-  .strn "＊股票留给了利{line}{page}"
+  .strn "＊股票留给了利　{line}　　　　　　　{page}"
 
 String0x0D8832:
 ; .strn "・１３億を渡すものに{line}屋敷を残す{line}{page}"
-  .strn "＊１３亿和宅邸留给了{line}同一个人{line}{page}"
+  .strn "＊１３亿和宅邸留给了{line}同一个人　{line}{page}"
 
 String0x0D8856:
 ; .strn "・倫（りん）には{line}１５億を残す{line}{page}"
-  .strn "＊给伦留下了１５亿{line}{page}"
+  .strn "＊１５亿留给了伦{line}　　　　　　{page}"
 
 String0x0D8878:
 ; .strn "・敦（あつし）には{line}１３億を残し　別邸を{line}倫（りん）に残す{line}{page}"
-  .strn "＊１３亿留给了敦　而{line}别馆留给了伦{line}{page}"
+  .strn "＊１３亿留给了敦　{line}别馆留给了伦　　　　{line}　　　　　　　　{line}{page}"
 
 String0x0D88B6:
 ; .strn "・コレクションは{line}１２億を渡す相手と{line}同じ相手に渡す{line}{page}"
-  .strn "＊１２亿和收藏品{line}留给了同一个人{line}{page}"
+  .strn "＊１２亿和收藏品{line}留给了同一个人　　{line}　　　　　　　{line}{page}"
 
 String0x0D88EE:
 ; .strn "・遺書①を読んだ{line}{page}"
-  .strn "＊阅读了遗书①{line}{page}"
+  .strn "＊阅读了遗书①　{line}{page}"
 
 String0x0D8902:
 ; .strn "・遺書②を読んだ{line}{page}"
-  .strn "＊阅读了遗书②{line}{page}"
+  .strn "＊阅读了遗书②　{line}{page}"
 
 String0x0D8916:
 ; .strn "・遺書③を読んだ{line}{page}"
-  .strn "＊阅读了遗书③{line}{page}"
+  .strn "＊阅读了遗书③　{line}{page}"
 
 String0x0D892A:
 ; .strn "・遺書④を読んだ{line}{page}"
-  .strn "＊阅读了遗书④{line}{page}"
+  .strn "＊阅读了遗书④　{line}{page}"
 
 String0x0D893E:
 ; .strn "・遺書⑤を読んだ{line}{page}"
-  .strn "＊阅读了遗书⑤{line}{page}"
+  .strn "＊阅读了遗书⑤　{line}{page}"
 
 String0x0D8952:
 ; .strn "切り裂きジャック殺人{line}{page}"
-  .strn "开膛手杰克杀人事件{line}{page}"
+  .strn "开膛手杰克杀人事件　{line}{page}"
 
 String0x0D896A:
 ; .strn "ジャックコレクション{line}は　誰が　受けつぐ{line}はずだったんだ？{line}{page}"
-  .strn "杰克收藏品到底{line}留给了谁呢？{line}{page}"
+  .strn "杰克收藏品到底　　　{line}是留给了谁呢？　　{line}　　　　　　　　{line}{page}"
 
 String0x0D89A8:
 ; .strn "みんなが欲しがる{line}コレクションは爵さん{line}がもらうはずだった…{line}{page}"
-  .strn "大家都想要的{line}收藏品　留给了爵{line}先生…{line}{page}"
+  .strn "大家都想要的　　{line}那个收藏品　　　　　{line}应该是留给了爵先生…{line}{page}"
 
 String0x0D89E8:
 ; .strn "オレと平次がはなれを{line}見張っていた時{line}４人の人間がはなれの{line}方にいったのをみた{line}その４人はどうやら{line}４兄弟らしい　でも{line}「だれが」「いつ」{line}はなれにいったんだ？{line}その時　爵の様子は{line}「どんな」だったか{line}そして兇器となるのは{line}「どれ」なんだろう？{line}{page}"
-  .strn "我和平次监视别馆时{line}看到有４个人前往过{line}别馆方向　应该就是{line}那４兄妹　但是到底{line}是“谁”在“什么{line}时候”呢　那时爵{line}是“什么样子”{line}凶器是“什么”呢{line}{line}{page}"
+  .strn "我和平次监视别馆时　{line}看到有４个人　{line}去过别馆方向　　　　{line}应该就是那４兄妹　{line}但是到底是“谁”　{line}在“什么时候”呢　{line}那时候的爵　　　　{line}是“什么样子”　　　{line}凶器是“什么”呢？{line}　　　　　　　　　{line}　　　　　　　　　　{line}　　　　　　　　　　{line}{page}"
 
 String0x0D8AE0:
 ; .strn "・敦（あつし）の部屋{line}にある彫刻刀は{line}兇器になる{line}{page}"
-  .strn "＊敦房间的雕刻刀{line}可能是凶器{line}{page}"
+  .strn "＊敦房间的雕刻刀　　{line}可能是凶器　　{line}　　　　　{line}{page}"
 
 String0x0D8B14:
 ; .strn "・爵（しゃく）は刃物{line}が一切だめで　刃物を{line}持っていなかった{line}{page}"
-  .strn "＊爵害怕锋利物　身边{line}从不带刀{line}{page}"
+  .strn "＊爵害怕锋利物品　　{line}身边从不带刀　　　　{line}　　　　　　　　{line}{page}"
 
 String0x0D8B54:
 ; .strn "・利（とし）は{line}爵に会った時{line}どなりちらされた{line}{page}"
-  .strn "＊利去见爵时{line}被大吼大叫了{line}{page}"
+  .strn "＊利去见爵时　{line}被大吼大叫了{line}　　　　　　　　{line}{page}"
 
 String0x0D8B86:
 ; .strn "・爵（しゃく）は２時{line}にコーヒーを{line}とりに来た{line}{page}"
-  .strn "＊爵在２点来取过咖啡{line}{page}"
+  .strn "＊爵在２点来取过咖啡{line}　　　　　　{line}　　　　　{line}{page}"
 
 String0x0D8BB8:
 ; .strn "・敦（あつし）は{line}４時にはなれを{line}訪れている{line}{page}"
-  .strn "＊敦是在４点{line}去见爵的{line}{page}"
+  .strn "＊敦是在４点　　{line}去见爵的　　　{line}　　　　　{line}{page}"
 
 String0x0D8BE8:
 ; .strn "・敦（あつし）は{line}爵に会えなかった{line}{page}"
-  .strn "＊敦没能见到爵{line}{page}"
+  .strn "＊敦没能见到爵　{line}　　　　　　　　{line}{page}"
 
 String0x0D8C0E:
 ; .strn "・くだものナイフを{line}持った人がいる時{line}爵は笑っていた{line}{page}"
-  .strn "＊拿着水果刀的人{line}见到爵时　爵笑了{line}{page}"
+  .strn "＊拿着水果刀的人　{line}见到爵时　爵笑了{line}　　　　　　　{line}{page}"
 
 String0x0D8C46:
 ; .strn "・利（とし）は１時に{line}アーミーナイフを{line}持っていた{line}{page}"
-  .strn "＊利在１点见爵时{line}身上带着军刀{line}{page}"
+  .strn "＊利在１点见爵时　　{line}身上带着军刀　　{line}　　　　　{line}{page}"
 
 String0x0D8C7C:
 ; .strn "・敦の部屋の机の上を{line}調ベた{line}{page}"
-  .strn "＊调查了敦房间里的桌子{line}{page}"
+  .strn "＊调查了敦房间的桌子{line}　　　{line}{page}"
 
 String0x0D8C9C:
 ; .strn "・庭で利の話①を{line}聞いた{line}{page}"
@@ -927,59 +927,59 @@ String0x0D8D4A:
 
 String0x0D8D66:
 ; .strn "切り裂きジャック殺人{line}{page}"
-  .strn "开膛手杰克杀人事件{line}{page}"
+  .strn "开膛手杰克杀人事件　{line}{page}"
 
 String0x0D8D7E:
 ; .strn "最後に爵さんと{line}会った人が　犯人…{line}それは　誰だ…？{line}{page}"
-  .strn "最后见到爵先生的{line}人就是犯人{line}那会是谁呢…？{line}{page}"
+  .strn "最后见爵先生的{line}就是犯人…　　　　{line}但那是谁呢…？　{line}{page}"
 
 String0x0D8DB6:
 ; .strn "敦さんは爵さんに会え{line}なかった　それじゃあ{line}最後に会ったのは…{line}{page}"
-  .strn "敦先生没能见到爵先生{line}那最后见到他的{line}就是…{line}{page}"
+  .strn "敦先生没能见到爵先生{line}那最后见到他的　　　{line}就是…　　　　　　{line}{page}"
 
 String0x0D8DF8:
 ; .strn "キッドのヤローから{line}また　キザな予告状が{line}送られて来やがった{line}宝石を　姫に例えた{line}この手紙は　今夜{line}ある宝石をどこかから{line}盗むという予告だ{line}キッドが「どこで」{line}「どの宝石」を盗む{line}つもりなのか　暗号を{line}解いて　キッドを{line}待ちかまえなくちゃな{line}{page}"
-  .strn "基德那家伙{line}又寄来了{line}棘手的预告函{line}还把宝石{line}比成了公主{line}这预告了他今晚{line}将会从“哪里”{line}偷走“哪颗宝石”{line}必须要解开暗号{line}阻止基德{line}{line}{line}{page}"
+  .strn "基德那家伙　　　　{line}又寄来了棘手的预告函{line}还把宝石比成了公主{line}这预告了他今晚　　{line}将会从“哪里”　{line}偷走“哪颗宝石”　　{line}必须要解开暗号　{line}来察觉基德才行　　{line}　　　　　　　　　{line}　　　　　　　　　　{line}　　　　　　　　{line}　　　　　　　　　　{line}{page}"
 
 String0x0D8EEC:
 ; .strn "・おとといキッドが{line}見そめたのは青い{line}ドレスのサファイヤ姫{line}{page}"
-  .strn "＊前天基德钟情的是{line}蓝色连衣裙的{line}蓝宝石公主{line}{page}"
+  .strn "＊前天基德见的是　{line}蓝宝石公主　　　{line}身着蓝色连衣裙　　　{line}{page}"
 
 String0x0D8F2A:
 ; .strn "・サファイヤ姫と{line}あった次の日{line}エメラルド姫と会う{line}{page}"
-  .strn "＊见到蓝宝石公主的{line}第二天　见到了绿宝石{line}公主{line}{page}"
+  .strn "＊见蓝宝石公主的{line}第二天　　　{line}见到了绿宝石公主　{line}{page}"
 
 String0x0D8F60:
 ; .strn "・オパール姫と会った{line}のは　米花博物館の{line}展示室{line}{page}"
-  .strn "＊与蛋白石公主相见{line}是在米花博物馆的{line}展览室{line}{page}"
+  .strn "＊与蛋白石公主相见　{line}是在米花博物馆的　{line}展览室{line}{page}"
 
 String0x0D8F94:
 ; .strn "・東都美術館の恋人は{line}ダイヤ姫か{line}エメラルド姫か{line}{page}"
-  .strn "＊在东都美术馆的恋人{line}是钻石还是{line}绿宝石公主呢？{line}{page}"
+  .strn "＊在东都美术馆的恋人{line}是钻石还是{line}绿宝石公主呢　{line}{page}"
 
 String0x0D8FC8:
 ; .strn "・３日前には博物館で{line}夕ベは教会で{line}愛を語る{line}{page}"
-  .strn "＊３天前在博物馆{line}昨夜在教会{line}诉说着爱意{line}{page}"
+  .strn "＊３天前是在博物馆　{line}昨夜是在教会{line}诉说爱意{line}{page}"
 
 String0x0D8FF8:
 ; .strn "・キッドからの予告状{line}①を読んだ{line}{page}"
-  .strn "＊阅读了基德的预告函{line}①{line}{page}"
+  .strn "＊阅读了基德的预告函{line}①　　　　{line}{page}"
 
 String0x0D901C:
 ; .strn "・キッドからの予告状{line}②を読んだ{line}{page}"
-  .strn "＊阅读了基德的预告函{line}②{line}{page}"
+  .strn "＊阅读了基德的预告函{line}②　　　　{line}{page}"
 
 String0x0D9040:
 ; .strn "・キッドからの予告状{line}③を読んだ{line}{page}"
-  .strn "＊阅读了基德的预告函{line}③{line}{page}"
+  .strn "＊阅读了基德的预告函{line}③　　　　{line}{page}"
 
 String0x0D9064:
 ; .strn "・キッドからの予告状{line}④を読んだ{line}{page}"
-  .strn "＊阅读了基德的预告函{line}④{line}{page}"
+  .strn "＊阅读了基德的预告函{line}④　　　　{line}{page}"
 
 String0x0D9088:
 ; .strn "・キッドからの予告状{line}⑤を読んだ{line}{page}"
-  .strn "＊阅读了基德的预告函{line}⑤{line}{page}"
+  .strn "＊阅读了基德的预告函{line}⑤　　　　{line}{page}"
 
 String0x0D90AC:
 ; .strn "謎の予告状事件{line}{page}"
@@ -987,47 +987,47 @@ String0x0D90AC:
 
 String0x0D90BE:
 ; .strn "キッドが今夜狙うのは{line}どの宝石だ？{line}{page}"
-  .strn "基德今晚盯上的是{line}哪颗宝石？{line}{page}"
+  .strn "基德今晚盯上的是　　{line}哪颗宝石？　{line}{page}"
 
 String0x0D90E4:
 ; .strn "東都美術館の{line}ダイヤモンドか！{line}ワクワクしてくるぜ！{line}{page}"
-  .strn "东都美术馆的钻石！{line}这还真令人激动！{line}{line}{page}"
+  .strn "东都美术馆的{line}钻石！　　　　　{line}这还真令人激动啊！　{line}{page}"
 
 String0x0D911C:
 ; .strn "宝石を　キッドから{line}守るため　警察と{line}おっちゃんが美術館を{line}警備する　「誰が」{line}「どの展示室」を{line}警備していて　その{line}展示室が「何を展示」{line}しているのか　また{line}「どんな特徴」がある{line}のか整理しよう{line}キッドを捕まえる{line}手がかりになるかも！{line}{page}"
-  .strn "为了不让宝石{line}被基德偷走{line}警察和叔叔{line}开始了美术馆的{line}守卫工作{line}整理出{line}“谁”负责{line}“哪间展览室”{line}“展品是什么”{line}以及{line}“有什么特征”{line}也许可以起到帮助{line}{page}"
+  .strn "为了不让宝石　　　{line}被基德偷走　　　{line}警察和叔叔　　　　　{line}开始了美术馆的　　{line}守卫工作　　　　{line}来整理出“谁”负责{line}“哪间展览室”　　　{line}“展品是什么”　　{line}以及“有什么特征”　{line}也许能起到帮助{line}　　　　　　　　{line}　　　　　　　　　　{line}{page}"
 
 String0x0D920C:
 ; .strn "・宝飾展示室は{line}出口がひとつだけだ{line}{page}"
-  .strn "＊首饰展览室的出口{line}只有一个{line}{page}"
+  .strn "＊首饰展览室　{line}只有一个出口　　　{line}{page}"
 
 String0x0D9232:
 ; .strn "・第１展示室は{line}入口に１番近い{line}現代アート展示室だ{line}{page}"
-  .strn "＊第１展览室是{line}离入口最近的{line}现代艺术展览室{line}{page}"
+  .strn "＊第１展览室是{line}离入口最近的　{line}现代艺术展览室　　{line}{page}"
 
 String0x0D9268:
 ; .strn "・第１展示室は{line}目暮警部が{line}警備する{line}{page}"
-  .strn "＊第１展览室由{line}目暮警部负责{line}{page}"
+  .strn "＊第１展览室　{line}是目暮负责{line}　　　　{line}{page}"
 
 String0x0D9290:
 ; .strn "・宝飾展示室は{line}小五郎が警備する{line}{page}"
-  .strn "＊首饰展览室{line}由小五郎负责{line}{page}"
+  .strn "＊首饰展览室　{line}是小五郎负责　　{line}{page}"
 
 String0x0D92B4:
 ; .strn "・第４展示室には{line}非常口がある{line}{page}"
-  .strn "＊第４展览室有{line}紧急出入口{line}{page}"
+  .strn "＊第４展览室　　{line}有紧急出口　{line}{page}"
 
 String0x0D92D6:
 ; .strn "・絵画の展示室は{line}扉が３つもある{line}{page}"
-  .strn "＊绘画展览室{line}有３扇门{line}{page}"
+  .strn "＊绘画展览室　　{line}有３扇门　　　{line}{page}"
 
 String0x0D92FA:
 ; .strn "・中森警部は{line}彫刻のある{line}第４展示室を警備する{line}{page}"
-  .strn "＊中森警部{line}负责展示雕像的{line}第４展览室{line}{page}"
+  .strn "＊中森负责　{line}展示雕像的{line}第４展览室　　　　　{line}{page}"
 
 String0x0D932C:
 ; .strn "・白鳥刑事は{line}第２展示室を警備する{line}{page}"
-  .strn "＊白鸟警官{line}负责第２展览室{line}{page}"
+  .strn "＊白鸟警官　{line}负责第２展览室　　　{line}{page}"
 
 String0x0D9352:
 ; .strn "・館長の話①を聞いた{line}{page}"
@@ -1067,39 +1067,39 @@ String0x0D941A:
 
 String0x0D942C:
 ; .strn "みんなの会話から{line}展示室の特徴が{line}わかるな{line}{page}"
-  .strn "通过大家的谈话{line}就能明白展览室的{line}特征了吧{line}{page}"
+  .strn "通过大家的谈话　{line}就能明白展览室{line}的特征吧{line}{page}"
 
 String0x0D945A:
 ; .strn "宝飾の展示をしている{line}第３展示室に{line}問題の宝石があるのか{line}{page}"
-  .strn "被盯上的宝石就在{line}展示首饰的第３展览室吧{line}{page}"
+  .strn "被盯上的宝石就在　　{line}展示首饰的　{line}第３展览室吧　　　　{line}{page}"
 
 String0x0D9496:
 ; .strn "園子に　変装した{line}キッドはトイレの中で{line}再び　誰かに{line}変装したようだ{line}トイレに入った４人{line}それぞれのトイレ{line}に「入った時間」と{line}トイレを「出た時間」{line}を確認しよう　誰が{line}キッドの　変装か{line}わかるかもしれない{line}さあ勝負の始まりだ！{line}{page}"
-  .strn "易容成园子的基德{line}在卫生间里再次易容{line}成了其他人　确认这{line}４个进出卫生间的人的{line}“进入时间”与“离开{line}时间”也许就能知道{line}到底是谁被易容了{line}胜负现在才要开始！{line}{page}"
+  .strn "易容成园子的基德{line}在卫生间里再次易容　{line}变成了其他人{line}确认这４个　　{line}进出卫生间的人的　{line}“进入时间”与　{line}“离开时间”　　　{line}也许就能知道　　　　{line}到底是谁被易容了　{line}来决一胜负吧！　{line}　　　　　　　　　{line}　　　　　　　　　　{line}{page}"
 
 String0x0D957E:
 ; .strn "・小五郎がトイレから{line}出たのは６時１５分{line}だった{line}{page}"
-  .strn "＊小五郎离开卫生间{line}是在６点１５分{line}{page}"
+  .strn "＊小五郎离开卫生间　{line}是在６点１５分　　{line}　　　{line}{page}"
 
 String0x0D95B2:
 ; .strn "・大久保館長は{line}５時４５分にトイレに{line}入った{line}{page}"
-  .strn "＊大久保馆长在{line}５点４５进入卫生间{line}{page}"
+  .strn "＊大久保馆长是{line}５点４５进入卫生间　{line}　　　{line}{page}"
 
 String0x0D95E2:
 ; .strn "・中森警部は{line}６時５分に{line}トイレに入った{line}{page}"
-  .strn "＊中森警部在{line}６点０５分进入{line}卫生间{line}{page}"
+  .strn "＊中森警部是{line}６点０５分{line}进入卫生间的　{line}{page}"
 
 String0x0D960E:
 ; .strn "・目暮警部が{line}トイレから出たのは{line}６時だった{line}{page}"
-  .strn "＊目暮警部{line}离开卫生间是在{line}６点{line}{page}"
+  .strn "＊目暮警部　{line}离开卫生间是在６点{line}　　　　　{line}{page}"
 
 String0x0D963E:
 ; .strn "・目暮警部がトイレに{line}入ったのは５時４５分{line}か５５分だ{line}{page}"
-  .strn "＊目暮警部进入卫生间{line}在５点４５分或５５分{line}{line}{page}"
+  .strn "＊目暮警部进入卫生间{line}是５点４５分或５５分{line}　　　　　{line}{page}"
 
 String0x0D9678:
 ; .strn "・５時４５分に{line}トイレに入った人は{line}６時５分に出た{line}{page}"
-  .strn "＊５点４５分进入{line}卫生间的人在{line}６点０５分离开了{line}{page}"
+  .strn "＊５点４５分　{line}进入卫生间的人是在{line}６点０５分离开{line}{page}"
 
 String0x0D96AE:
 ; .strn "・小五郎の話を聞いた{line}{page}"
@@ -1119,7 +1119,7 @@ String0x0D96F8:
 
 String0x0D9714:
 ; .strn "・白鳥刑事に手帳を{line}見せてもらった{line}{page}"
-  .strn "＊得到了白鸟警官{line}的笔记{line}{page}"
+  .strn "＊得到了白鸟警官　{line}的笔记　　　　{line}{page}"
 
 String0x0D973A:
 ; .strn "・白鳥刑事の話を{line}聞いた{line}{page}"
@@ -1131,47 +1131,47 @@ String0x0D9756:
 
 String0x0D9768:
 ; .strn "キッドの後に{line}トイレから出た人は{line}キッドの変装かも…{line}{page}"
-  .strn "在基德之后{line}离开卫生间的人{line}应该就是被易容的…{line}{page}"
+  .strn "在基德之后　{line}离开卫生间的人　　{line}应该就是被易容的…{line}{page}"
 
 String0x0D97A0:
 ; .strn "キッドが入った６時{line}より後にトイレから{line}出たのは…３人もいる{line}{page}"
-  .strn "基德进入卫生间{line}是６点　那之后出来的{line}有３个人…{line}{page}"
+  .strn "基德６点进了卫生间{line}那之后出来的　　　{line}有３个人…　　　　　{line}{page}"
 
 String0x0D97E0:
 ; .strn "謎の宅急便について{line}いたカードには{line}キッドからの手紙が{line}ついていた　この手紙{line}もまた　暗号になって{line}いる　「何色の宝石」{line}が「どこ」にあって{line}「どんな名前」なのか{line}わかれば　キッドが{line}言いたいことが{line}わかるかもしれないぞ{line}{page}"
-  .strn "贴在谜之快递盒上的{line}卡片　是基德的信{line}这封信里也写满了暗号{line}如果能弄明白{line}“什么颜色”“在哪”{line}“什么名字”的话{line}也许就能明白基德{line}的意思了{line}{page}"
+  .strn "贴在谜之快递盒　　{line}上的卡片　　　{line}是基德的信　　　　{line}这封信里也写满了暗号{line}如果能弄明白　　　　{line}“什么颜色”的宝石　{line}“在哪里”　　　　{line}叫“什么名字”的话　{line}也许就能明白　　　{line}基德的意思了　{line}　　　　　　　　　　{line}{page}"
 
 String0x0D98C0:
 ; .strn "・青は「かわいい{line}青バラ」わたしの{line}左手にひかえる{line}{page}"
-  .strn "＊蓝色的“萌蓝玫瑰”{line}在我的左手里{line}{line}{page}"
+  .strn "＊蓝色的　　　　{line}“萌蓝玫瑰”　　　{line}在我的左手里　{line}{page}"
 
 String0x0D98F6:
 ; .strn "・「悪魔の涙」は赤く{line}右手にあるのは{line}黄色い宝石{line}{page}"
-  .strn "＊红色是“泪眼恶魔”{line}黄色的宝石{line}在我右手里{line}{page}"
+  .strn "＊红色是“泪眼恶魔”{line}黄色的宝石　　{line}在我右手里{line}{page}"
 
 String0x0D992A:
 ; .strn "・黄色い宝石の名は{line}「ソロモンのカギ」{line}{page}"
-  .strn "＊黄色宝石的名字是{line}“所罗门钥匙”{line}{page}"
+  .strn "＊黄色宝石的名字是{line}“所罗门钥匙”　　{line}{page}"
 
 String0x0D9954:
 ; .strn "・中央の「ヴィーナス{line}の瞳」は無色の宝石だ{line}{page}"
-  .strn "＊当中的是无色的{line}“维纳斯之眼”{line}{page}"
+  .strn "＊当中的是无色的　　{line}“维纳斯之眼”　　　{line}{page}"
 
 String0x0D9982:
 ; .strn "・キッドのメッセージ{line}カード①を読んだ{line}{page}"
-  .strn "＊阅读了基德的{line}讯息卡①{line}{page}"
+  .strn "＊阅读了基德的　　　{line}讯息卡①{line}{page}"
 
 String0x0D99AC:
 ; .strn "・キッドのメッセージ{line}カード②を読んだ{line}{page}"
-  .strn "＊阅读了基德的{line}讯息卡②{line}{page}"
+  .strn "＊阅读了基德的　　　{line}讯息卡②{line}{page}"
 
 String0x0D99D6:
 ; .strn "・キッドのメッセージ{line}カード③を読んだ{line}{page}"
-  .strn "＊阅读了基德的{line}讯息卡③{line}{page}"
+  .strn "＊阅读了基德的　　　{line}讯息卡③{line}{page}"
 
 String0x0D9A00:
 ; .strn "・キッドのメッセージ{line}カード④を読んだ{line}{page}"
-  .strn "＊阅读了基德的{line}讯息卡④{line}{page}"
+  .strn "＊阅读了基德的　　　{line}讯息卡④{line}{page}"
 
 String0x0D9A2A:
 ; .strn "謎の予告状事件{line}{page}"
@@ -1179,55 +1179,55 @@ String0x0D9A2A:
 
 String0x0D9A3C:
 ; .strn "キッドからの手紙には{line}どんな意味が{line}あるんだろう？{line}{page}"
-  .strn "基德寄来的信{line}到底是什么{line}意思呢？{line}{page}"
+  .strn "基德寄来的信到底是　{line}什么意思呢？{line}　　　　　　　{line}{page}"
 
 String0x0D9A72:
 ; .strn "「ヴィーナスの瞳」が{line}中央って…まさか！？{line}{page}"
-  .strn "“维纳斯之眼”在{line}中央…难道说！？{line}{page}"
+  .strn "“维纳斯之眼”在中央…{line}难道说！？　　　　{line}{page}"
 
 String0x0D9AA0:
 ; .strn "屋上の対決でキッドが{line}オレに投げてよこした{line}カードの裏の暗号だ{line}「宝石の名前」の{line}「何文字目」かを{line}指示どおりの「順番」{line}で読めば　ヴィーナス{line}の瞳を隠した場所が{line}わかるらしい…{line}キッドには逃げられた{line}けど　宝石だけは{line}とり戻さなくちゃな！{line}{page}"
-  .strn "在屋顶上与基德的{line}对决最后　基德给了{line}我写着暗号的卡片{line}“宝石的名字”{line}的“第几个字”{line}按照“某种顺序”读{line}出来的话　就能知道{line}维纳斯之眼的所在{line}虽然让基德逃走了{line}但至少要找回宝石！{page}"
+  .strn "在屋顶上与基德对决后{line}基德给了我　　　　　{line}写着暗号的卡片　　{line}“宝石的名字”　　{line}的“第几个字”　　{line}按照“某种顺序”　　　{line}读出来的话　　　　　{line}就能知道维纳斯之眼{line}在哪里了…　　{line}虽然让基德逃走了　　{line}但至少　　　　　{line}要找回宝石！　　　　{line}{page}"
 
 String0x0D9B94:
 ; .strn "・最初に読むのは{line}１文字目　次に{line}読むのは　３文字目{line}{page}"
-  .strn "＊首先要读第１个字{line}然后读第３个字{line}{page}"
+  .strn "＊最先读第１个字{line}然后读第３个字{line}　　　　　　　　　{line}{page}"
 
 String0x0D9BCC:
 ; .strn "・「悪魔の涙」は{line}２文字目を読む{line}{page}"
-  .strn "＊“泪眼恶魔”读第２个字{line}{page}"
+  .strn "＊“泪眼恶魔”　{line}读第２个字　　{line}{page}"
 
 String0x0D9BF0:
 ; .strn "・「ソロモンのカギ」{line}は　３番目に読む{line}{page}"
-  .strn "＊“所罗门钥匙”{line}读第３个字{line}{page}"
+  .strn "＊“所罗门钥匙”　　{line}读第３个字　　　{line}{page}"
 
 String0x0D9C1A:
 ; .strn "・最後に読むのは{line}「悪魔の涙」{line}{page}"
-  .strn "＊最后要读的是{line}“泪眼恶魔”{line}{page}"
+  .strn "＊最后要读的是　{line}“泪眼恶魔”{line}{page}"
 
 String0x0D9C3C:
 ; .strn "・「かわいい青バラ」{line}は　３文字目を読む{line}{page}"
-  .strn "＊“萌蓝玫瑰”要读{line}第３个字{line}{page}"
+  .strn "＊“萌蓝玫瑰”　　　{line}要读第３个字　　　{line}{page}"
 
 String0x0D9C68:
 ; .strn "・キッドのメッセージ{line}カード①を読んだ{line}{page}"
-  .strn "＊阅读了基德的{line}讯息卡①{line}{page}"
+  .strn "＊阅读了基德的　　　{line}讯息卡①　　　　{line}{page}"
 
 String0x0D9C92:
 ; .strn "・キッドのメッセージ{line}カード②を読んだ{line}{page}"
-  .strn "＊阅读了基德的{line}讯息卡②{line}{page}"
+  .strn "＊阅读了基德的　　　{line}讯息卡②　　　　{line}{page}"
 
 String0x0D9CBC:
 ; .strn "・キッドのメッセージ{line}カード③を読んだ{line}{page}"
-  .strn "＊阅读了基德的{line}讯息卡③{line}{page}"
+  .strn "＊阅读了基德的　　　{line}讯息卡③　　　　{line}{page}"
 
 String0x0D9CE6:
 ; .strn "・キッドのメッセージ{line}カード④を読んだ{line}{page}"
-  .strn "＊阅读了基德的{line}讯息卡④{line}{page}"
+  .strn "＊阅读了基德的　　　{line}讯息卡④　　　　{line}{page}"
 
 String0x0D9D10:
 ; .strn "・キッドのメッセージ{line}カード⑤を読んだ{line}{page}"
-  .strn "＊阅读了基德的{line}讯息卡⑤{line}{page}"
+  .strn "＊阅读了基德的　　　{line}讯息卡⑤　　　　{line}{page}"
 
 String0x0D9D3A:
 ; .strn "謎の予告状事件{line}{page}"
@@ -1235,47 +1235,47 @@ String0x0D9D3A:
 
 String0x0D9D4C:
 ; .strn "キッドが「ヴィーナス{line}の瞳」を隠した場所の{line}暗号か…ふざけてるぜ{line}{page}"
-  .strn "基德留下的关于{line}“维纳斯之眼”{line}所在的暗号…真胡闹！{line}{page}"
+  .strn "基德留下的关于　　　{line}“维纳斯之眼”　　　　{line}所在地的暗号…真胡闹{line}{page}"
 
 String0x0D9D90:
 ; .strn "暗号のとおりに　宝石{line}の名前の文字を読むと{line}…ウいンく？？{line}{page}"
-  .strn "按照暗号　照顺序读{line}出来是…维玫钥眼{line}…维没有眼？？{line}{page}"
+  .strn "按照暗号的顺序读出来{line}结果是…维玫钥眼　　{line}…维没有眼？？{line}{page}"
 
 String0x0D9DCE:
 ; .strn "灰原が少年探偵団に{line}宝探しゲームを{line}提案した　「誰」が{line}「どこ」に隠された{line}「何色のもの」を{line}探すかが問題らしい{line}特に　オレは{line}ハンデをつけられて{line}どこの何を探すか{line}わかりづらく{line}なっているんだって{line}{page}"
-  .strn "灰原提议少年侦探团{line}一起玩寻宝游戏{line}“谁”在“哪里”{line}要找“什么颜色”{line}的东西呢{line}是在考验我呢{line}好像不那么{line}容易破解的样子{line}{line}{line}{line}{page}"
+  .strn "灰原提议少年侦探团{line}一起玩寻宝游戏{line}“谁”在“哪里”　{line}要找“什么颜色”　{line}的东西呢　　　　{line}是在考验我呢　　　{line}好像不是那么{line}容易破解的样子呢　{line}　　　　　　　　{line}　　　　　　{line}　　　　　　　　　{line}{page}"
 
 String0x0D9E98:
 ; .strn "・歩美は木の下に{line}あるもの　元太は{line}青いものをさがす{line}{page}"
-  .strn "＊步美的宝藏在树下{line}元太要找蓝色的宝藏{line}{line}{page}"
+  .strn "＊步美宝藏在树下{line}元太要找蓝色宝藏{line}　　　　　　　　{line}{page}"
 
 String0x0D9ED0:
 ; .strn "・光彦は　緑色のもの{line}をさがす{line}{page}"
-  .strn "＊光彦要找绿色的宝藏{line}{line}{page}"
+  .strn "＊光彦要找绿色宝藏　{line}　　　　{line}{page}"
 
 String0x0D9EF2:
 ; .strn "・木の下にあるのは{line}赤いもの　青いものは{line}ごみ箱の近くにある{line}{page}"
-  .strn "＊树下的是红色宝藏{line}蓝色宝藏在垃圾箱附近{line}{line}{page}"
+  .strn "＊树下的是红色宝藏{line}蓝色宝藏在垃圾桶旁边{line}　　　　　　　　　{line}{page}"
 
 String0x0D9F32:
 ; .strn "・コナンの担当は{line}水のみ場じゃない{line}{page}"
-  .strn "＊柯南的宝藏不在{line}饮水处{line}{page}"
+  .strn "＊柯南的宝藏　　{line}不在饮水处　　　{line}{page}"
 
 String0x0D9F58:
 ; .strn "・灰原のヒント①を{line}聞く{line}{page}"
-  .strn "＊听取了灰原的{line}提示①{line}{page}"
+  .strn "＊听取灰原的提示①{line}　　{line}{page}"
 
 String0x0D9F74:
 ; .strn "・灰原のヒント②を{line}聞く{line}{page}"
-  .strn "＊听取了灰原的{line}提示②{line}{page}"
+  .strn "＊听取灰原的提示②{line}　　{line}{page}"
 
 String0x0D9F90:
 ; .strn "・灰原のヒント③を{line}聞く{line}{page}"
-  .strn "＊听取了灰原{line}的提示③{line}{page}"
+  .strn "＊听取灰原的提示③{line}　　{line}{page}"
 
 String0x0D9FAC:
 ; .strn "・灰原のヒント④を{line}聞く{line}{page}"
-  .strn "＊听取了灰原的{line}提示④{line}{page}"
+  .strn "＊听取灰原的提示④{line}　　{line}{page}"
 
 String0x0D9FC8:
 ; .strn "世紀末の財宝事件{line}{page}"
@@ -1283,47 +1283,47 @@ String0x0D9FC8:
 
 String0x0D9FDC:
 ; .strn "灰原が　少年探偵団に{line}出した宝さがし問題だ{line}オレはなにをさがす？{line}{page}"
-  .strn "灰原给侦探团出的寻宝{line}谜题　我要寻找的{line}是什么样的东西？{line}{page}"
+  .strn "灰原给侦探团　　　　{line}出的寻宝谜题　　　　{line}我要寻找的是什么呢？{line}{page}"
 
 String0x0DA020:
 ; .strn "じゃ　べンチの下から{line}黄色のビー玉を{line}見つけてくるかな！{line}{page}"
-  .strn "就是说　我要在长椅{line}的下面去寻找{line}黄色的弹珠！{line}{page}"
+  .strn "所以　我要在长椅下面{line}去寻找　　　　{line}黄色的弹珠吧！　　{line}{page}"
 
 String0x0DA05C:
 ; .strn "キッドの手紙から{line}４つの宝石を集めた{line}オレたちは　宝石が{line}盗賊団「魔術師」に{line}関わっていることを{line}知った　宝石の暗号を{line}解けば宝の隠し場所が{line}わかるはずだ{line}「どの宝石」を「どの{line}アトラクション」の{line}「どの場所」に持って{line}行けばいいんだ？{line}{page}"
-  .strn "我们依照基德的信{line}搜集了４颗宝石{line}这４颗宝石与盗贼团{line}“魔术师”有关{line}如果能解开宝石的{line}暗号就能知道{line}宝藏的所在{line}“哪颗”宝石{line}该嵌入“哪个{line}游乐项目”的{line}“什么地方”呢？{line}{page}"
+  .strn "我们依照基德的信{line}搜集了４颗宝石　　{line}这４颗宝石与盗贼团{line}“魔术师”有关　　{line}如果能解开宝石暗号{line}就能知道宝藏的所在　{line}“哪颗”宝石　　　　{line}应该嵌入　　{line}“哪个游乐项目”的　{line}“什么地方”呢？　{line}　　　　　　　　　　{line}　　　　　　　　{line}{page}"
 
 String0x0DA14C:
 ; .strn "・宝石を置く場所は{line}海賊のドクロの口の中{line}カップの皿の下{line}{page}"
-  .strn "＊宝石要嵌入海盗{line}骷髅的口中{line}盘子的下面{line}{page}"
+  .strn "＊宝石要嵌入海盗　{line}骷髅的口中　　　　　{line}盘子的下面{line}{page}"
 
 String0x0DA188:
 ; .strn "・ルビーは{line}ランタンの下に{line}{page}"
-  .strn "＊红宝石{line}要嵌入壁灯下{line}{page}"
+  .strn "＊红宝石　{line}要嵌入壁灯下　{line}{page}"
 
 String0x0DA1A6:
 ; .strn "・アメジストは{line}マリブの海賊{line}コースターはルビー{line}{page}"
-  .strn "＊紫水晶对应{line}海盗船{line}云霄飞车对应红宝石{line}{page}"
+  .strn "＊紫水晶对应的{line}是海盗船　　{line}云霄飞车对应红宝石{line}{page}"
 
 String0x0DA1DA:
 ; .strn "・エメラルドは{line}券売機の横に{line}{page}"
-  .strn "＊绿宝石要嵌入{line}售票机边上{line}{page}"
+  .strn "＊绿宝石要嵌入{line}售票机边上　{line}{page}"
 
 String0x0DA1FA:
 ; .strn "・美術館でサファイア{line}とメッセージを入手{line}{page}"
-  .strn "＊在美术馆得到了{line}蓝宝石{line}{page}"
+  .strn "＊在美术馆　　　　　{line}得到了蓝宝石　　　{line}{page}"
 
 String0x0DA226:
 ; .strn "・桐崎邸でルビー{line}とメッセージを入手{line}{page}"
-  .strn "＊在桐崎宅邸得到{line}了红宝石和信息{line}{page}"
+  .strn "＊在桐崎宅邸　　{line}得到了红宝石和信息{line}{page}"
 
 String0x0DA24E:
 ; .strn "・ＴＶ局でアメジスト{line}とメッセージを入手{line}{page}"
-  .strn "＊在电视台得到了{line}紫水晶和信息{line}{page}"
+  .strn "＊在电视台　　　　　{line}得到了紫水晶和信息{line}{page}"
 
 String0x0DA27A:
 ; .strn "・警察署でエメラルド{line}とメッセージを入手{line}{page}"
-  .strn "＊在警察局得到了{line}绿宝石和信息{line}{page}"
+  .strn "＊在警察局　　　　　{line}得到了绿宝石和信息{line}{page}"
 
 String0x0DA2A6:
 ; .strn "世紀末の財宝事件{line}{page}"
@@ -1331,47 +1331,47 @@ String0x0DA2A6:
 
 String0x0DA2BA:
 ; .strn "宝石を　指示どおりの{line}場所にはめることで{line}なにかわかるのか？{line}{page}"
-  .strn "把宝石嵌入指定{line}的地点之后{line}能知道些什么呢{line}{page}"
+  .strn "把宝石嵌入指定地点后{line}又能知道些什么呢？{line}　　　　　　　　　{line}{page}"
 
 String0x0DA2FA:
 ; .strn "遊園地のこの場所に{line}それぞれの宝石を{line}はめれば　いいんだな{line}{page}"
-  .strn "在游乐园的这里{line}把宝石都嵌上就行了吧{line}{page}"
+  .strn "在游乐园的这些地方{line}把宝石都嵌上去　{line}就行了吧　　　　　　{line}{page}"
 
 String0x0DA338:
 ; .strn "暗号通りに　宝石を{line}はめると　オレたちの{line}前に　新たな暗号が{line}浮かびあがってきた{line}どうやら地下の扉を{line}開くための暗号らしい{line}「どの宝石」を「どの{line}順」で「どのマーク」{line}にはめて「どの方向」{line}に動かせばいいのか？{line}指示どおりに動かせ{line}ば扉が開くはずだ{line}{page}"
-  .strn "根据暗号嵌入宝石以后{line}在我们面前出现了新的{line}暗号　看来这是一个能{line}开启通向地下的大门{line}的暗号{line}“哪颗宝石”{line}该按照“什么顺序”{line}嵌入“哪个标志”{line}向“什么方向”{line}移动　才能打开门呢？{line}{line}{line}{page}"
+  .strn "根据暗号嵌入宝石后{line}在我们面前　　　　　{line}出现了新的暗号　　{line}看来这是一个暗号　{line}能开启通向地下的门{line}“哪颗宝石”　　　　{line}该按照“什么顺序”　{line}嵌入“哪个标志”　　{line}向“什么方向”移动　{line}才能打开门呢？　　　{line}　　　　　　　　　{line}　　　　　　　　{line}{page}"
 
 String0x0DA434:
 ; .strn "・エメラルドは左に{line}最初の石は右に{line}クラブは下に動かす{line}{page}"
-  .strn "＊绿宝石放在左边{line}第１块石头是向右{line}梅花是向下移动{line}{page}"
+  .strn "＊绿宝石放在左边　{line}第１块石头向右{line}梅花则是向下　　　{line}{page}"
 
 String0x0DA46E:
 ; .strn "・サファイヤは下ヘ{line}スぺードは上ヘ{line}{page}"
-  .strn "＊蓝宝石是向下{line}黑桃是向上{line}{page}"
+  .strn "＊蓝宝石是向下　　{line}黑桃是向上　　{line}{page}"
 
 String0x0DA494:
 ; .strn "・アメジストは{line}ハートに{line}クラブは２番目に{line}{page}"
-  .strn "＊紫水晶放在{line}红桃里{line}第２块则是梅花{line}{page}"
+  .strn "＊紫水晶是放在{line}红桃里　{line}第２块则是梅花　{line}{page}"
 
 String0x0DA4C2:
 ; .strn "・ルビーは最後に動く{line}ダイヤのマークは{line}３番目だ{line}{page}"
-  .strn "＊最后动的是红宝石{line}第３块要放在{line}方块里{line}{page}"
+  .strn "＊最后动的是红宝石　{line}第３块放在方块里{line}　　　　{line}{page}"
 
 String0x0DA4F6:
 ; .strn "・エメラルドに秘め{line}られたメッセージ入手{line}{page}"
-  .strn "＊通过绿宝石得到了{line}隐藏信息{line}{page}"
+  .strn "＊通过绿宝石得到了{line}隐藏信息　　　　　　{line}{page}"
 
 String0x0DA522:
 ; .strn "・サファイアに秘め{line}られたメッセージ入手{line}{page}"
-  .strn "＊通过蓝宝石得到了{line}隐藏信息{line}{page}"
+  .strn "＊通过蓝宝石得到了{line}隐藏信息　　　　　　{line}{page}"
 
 String0x0DA54E:
 ; .strn "・アメジストに秘め{line}られたメッセージ入手{line}{page}"
-  .strn "＊通过紫水晶得到了{line}隐藏信息{line}{page}"
+  .strn "＊通过紫水晶得到了{line}隐藏信息　　　　　　{line}{page}"
 
 String0x0DA57A:
 ; .strn "・ルビーに秘められた{line}メッセージ入手{line}{page}"
-  .strn "＊通过红宝石得到了{line}隐藏信息{line}{page}"
+  .strn "＊通过红宝石得到了　{line}隐藏信息　　　{line}{page}"
 
 String0x0DA5A2:
 ; .strn "世紀末の財宝事件{line}{page}"
@@ -1379,39 +1379,39 @@ String0x0DA5A2:
 
 String0x0DA5B6:
 ; .strn "どのトランプマークに{line}どの宝石をはめて{line}どう動かせばいい？{line}{page}"
-  .strn "向哪个扑克牌图案{line}嵌入哪个宝石{line}向什么方向移动呢？{line}{page}"
+  .strn "向哪个扑克牌图案　　{line}嵌入哪个宝石　　{line}向什么方向移动呢？{line}{page}"
 
 String0x0DA5F4:
 ; .strn "よし！　このとおりに{line}宝石を動かせば　とび{line}らが　ひらくはずだ{line}{page}"
-  .strn "好！按照这样移动宝石{line}就一定能打开这扇门{line}{page}"
+  .strn "好！按照这样移动宝石{line}就一定能打开这扇门　{line}　　　　　　　　　{line}{page}"
 
 String0x0DA636:
 ; .strn "地下道の途中で{line}白骨死体を見つけた{line}オレたちは　どうやら{line}この問題を解かないと{line}この死体と　同じ運命{line}をたどりそうだ{line}問題のプレートにある{line}「ｇｉＭａｃ」を{line}どの「順番」で{line}「どう動かす」と{line}危険なトラップを{line}止められるんだろう？{line}{page}"
-  .strn "在地道里行进的途中{line}我们看见了白骨化的{line}尸体　看来我们不解开{line}这个谜题　就会落得跟{line}尸体同样的下场{line}该按照什么“顺序”{line}怎么移动浮雕上的{line}“ｇｉＭａｃ”{line}才能破解这{line}危险的陷阱呢？{line}{line}{line}{page}"
+  .strn "在地道行进途中{line}我们看见了　　　　{line}白骨化的尸体　　　　{line}看来我们不解开谜题　{line}就会落得和尸体　　　{line}同样的下场　　{line}该按照什么“顺序”　{line}怎么移动浮雕上的{line}“ｇｉＭａｃ”{line}才能破解这　　　{line}危险的陷阱呢？　{line}　　　　　　　　　　{line}{page}"
 
 String0x0DA720:
 ; .strn "・最初は　はずして{line}ｃ（シー）は逆さまに{line}{page}"
-  .strn "＊第一个浮雕需要取下{line}ｃ的浮雕要颠倒过来{line}{page}"
+  .strn "＊第一个浮雕要取下{line}ｃ的浮雕要颠倒过来　{line}{page}"
 
 String0x0DA74C:
 ; .strn "・ｇ（ジイ）は２番目{line}ｉ（アイ）は手前に{line}引く{line}{page}"
-  .strn "＊ｇ的浮雕第２个移动{line}ｉ的浮雕需要拉{line}{page}"
+  .strn "＊第２个移动ｇ的浮雕{line}ｉ的浮雕需要拉　　{line}　　{line}{page}"
 
 String0x0DA77E:
 ; .strn "・最後は逆さまに{line}どれかは押す事{line}{page}"
-  .strn "＊最后的浮雕要颠倒{line}有个浮雕需要推{line}{page}"
+  .strn "＊最后的浮雕颠倒{line}有个浮雕需要推{line}{page}"
 
 String0x0DA7A2:
 ; .strn "・謎の暗号①入手{line}{page}"
-  .strn "＊得到谜之暗号１{line}{page}"
+  .strn "＊得到谜之暗号①{line}{page}"
 
 String0x0DA7B6:
 ; .strn "・謎の暗号②入手{line}{page}"
-  .strn "＊得到谜之暗号２{line}{page}"
+  .strn "＊得到谜之暗号②{line}{page}"
 
 String0x0DA7CA:
 ; .strn "・謎の暗号③入手{line}{page}"
-  .strn "＊得到谜之暗号３{line}{page}"
+  .strn "＊得到谜之暗号③{line}{page}"
 
 String0x0DA7DE:
 ; .strn "世紀末の財宝事件{line}{page}"
@@ -1419,35 +1419,35 @@ String0x0DA7DE:
 
 String0x0DA7F2:
 ; .strn "この暗号をとけば{line}トラップがはずれて{line}前の通路にすすめるぞ{line}{page}"
-  .strn "解开这个暗号{line}就能破解陷阱{line}向前进了！{line}{page}"
+  .strn "解开这个暗号　　{line}就能破解陷阱　　　{line}继续前进了　　　　　{line}{page}"
 
 String0x0DA830:
 ; .strn "「Ｍａｇｉｃ」の順に{line}文字を指示どおりに{line}動かせばいいんだな{line}{page}"
-  .strn "按照“Ｍａｇｉｃ”的{line}顺序和文字的指示来{line}移动就行了吧{line}{page}"
+  .strn "按照“Ｍａｇｉｃ”的{line}顺序和文字的指示来{line}来移动就行了吧　　{line}{page}"
 
 String0x0DA870:
 ; .strn "床にしきつめられた{line}トランプのマークの{line}どこかに　４つの{line}宝石をはめると{line}橋のトラップが止まる{line}仕掛けらしい{line}「どの宝石」を{line}「横からいくつ目」{line}「縦からいくつ目」{line}の「どのマーク」に{line}はめると　トラップを{line}止められるんだろう？{line}{page}"
-  .strn "把４颗宝分别石嵌入{line}这地砖上的某个{line}扑克牌图案　好像{line}就能化解这座桥的{line}陷阱{line}“哪颗宝石”该嵌入{line}“横向第几格”{line}“纵向第几格”{line}的“哪个图案”里{line}才能关掉机关呢{line}{page}"
+  .strn "把４颗宝分别石嵌入{line}这地砖上的　　　　{line}某个扑克牌图案　{line}好像就能化解　{line}这座桥的陷阱　　　　{line}“哪颗宝石”{line}该嵌入　　　　{line}“横向第几格”　　{line}“纵向第几格”的　{line}“哪个图案”里　　{line}才能关掉机关呢？　　{line}　　　　　　　　　　{line}{page}"
 
 String0x0DA958:
 ; .strn "・ルビーを谷から３に{line}横から２はダイヤの{line}マーク{line}{page}"
-  .strn "＊纵向第３格是红宝石{line}横向第２格是方块{line}{line}{page}"
+  .strn "＊纵向第３格是红宝石{line}横向第２格是方片　{line}　　　{line}{page}"
 
 String0x0DA98C:
 ; .strn "・エメラルドは{line}スぺードに{line}谷から４は横から３{line}{page}"
-  .strn "＊绿宝石放在黑桃{line}纵向第４格是横向{line}第３格{line}{page}"
+  .strn "＊绿宝石是黑桃{line}纵向第４格{line}的是横向第３格　　{line}{page}"
 
 String0x0DA9BE:
 ; .strn "・ハートは横から４{line}サファイヤは{line}横から２{line}{page}"
-  .strn "＊红桃是横向第４格{line}蓝宝石是横向{line}第２格{line}{page}"
+  .strn "＊红桃是横向第４格{line}蓝宝石是横向{line}第２格　{line}{page}"
 
 String0x0DA9EC:
 ; .strn "・クラブは谷から４{line}スぺードは谷から２{line}{page}"
-  .strn "＊梅花是纵向第４格{line}黑桃是纵向第２格{line}{page}"
+  .strn "＊梅花是纵向第４格{line}黑桃是纵向第２格　{line}{page}"
 
 String0x0DAA16:
 ; .strn "・アメジストは{line}クラブに{line}{page}"
-  .strn "＊紫水晶放在{line}梅花{line}{page}"
+  .strn "＊紫水晶要放在{line}梅花　　{line}{page}"
 
 String0x0DAA32:
 ; .strn "・謎の暗号①入手{line}{page}"
@@ -1475,23 +1475,23 @@ String0x0DAA96:
 
 String0x0DAAAA:
 ; .strn "橋のむこうの宝物庫に{line}たどりつくには　この{line}暗号をとかなくちゃな{line}{page}"
-  .strn "要前往桥对面的藏宝库{line}必须要解开这个暗号{line}{page}"
+  .strn "要前往桥对面的藏宝库{line}必须要解开这个暗号　{line}　　　　　　　　　　{line}{page}"
 
 String0x0DAAEE:
 ; .strn "これで　指示どおりの{line}位置に宝石をはめて{line}宝物庫に行けるぞ！{line}{page}"
-  .strn "按照这个指示嵌入{line}宝石　就能前往{line}藏宝库了！{line}{page}"
+  .strn "按照这个指示嵌入宝石{line}就能前往藏宝库了！{line}　　　　　　　　　{line}{page}"
 
 String0x0DAB2E:
 ; .strn "宝物庫を開けるには{line}トランプのマークと{line}「ＭＡＧＩ」の１文字{line}を押し　次に{line}「ＣＩＡＮ」の１文字{line}を押す　という作業を{line}４回くり返さなくて{line}はならない　１〜４回{line}までの「マーク」と{line}「ＭＡＧＩ」と{line}「ＣＩＡＮ」の文字の{line}組み合わせを見つけろ{line}{page}"
-  .strn "想要打开藏宝库{line}必须按下扑克牌图案{line}“ＭＡＧＩ”的某{line}个字母后再按下{line}“ＣＩＡＮ”的某{line}个字母{line}要如此重复４次{line}找到正确的顺序{line}和组合吧！{line}{line}{line}{line}{page}"
+  .strn "想要打开藏宝库　　{line}要按“扑克牌图案”{line}“ＭＡＧＩ”某个字母{line}接着按下　　{line}“ＣＩＡＮ”某个字母{line}要如此重复４次　　　{line}来找到正确的　　　{line}顺序和组合吧！　　　{line}　　　　　　　　　{line}　　　　　　　{line}　　　　　　　　　　{line}　　　　　　　　　　{line}{page}"
 
 String0x0DAC22:
 ; .strn "・先にＭＡＧＩから{line}１文字　次にＣＩＡＮ{line}から１文字を押す{line}{page}"
-  .strn "＊先按ＭＡＧＩ的某{line}个字母　再按ＣＩＡＮ{line}的某个字母{line}{page}"
+  .strn "＊先按ＭＡＧＩ某个{line}字母　再按ＣＩＡＮ　{line}某个字母　　　　{line}{page}"
 
 String0x0DAC60:
 ; .strn "・一番最初はＧ{line}４回目の最後はＮ{line}{page}"
-  .strn "＊最初要按的是Ｇ{line}最后第４次再按Ｎ{line}{page}"
+  .strn "＊最初要按Ｇ　{line}最后第４次再按Ｎ{line}{page}"
 
 String0x0DAC84:
 ; .strn "・ＭＡＧＩがＭの時{line}ＣＩＡＮはＡ{line}{page}"
@@ -1499,55 +1499,55 @@ String0x0DAC84:
 
 String0x0DACA8:
 ; .strn "・スぺードマークは{line}３回目　ダイヤマーク{line}はＩを押さない{line}{page}"
-  .strn "＊第３轮要按下黑桃{line}图案　方片不是和Ｉ{line}一起按{line}{page}"
+  .strn "＊第３轮要按下黑桃{line}方片不是和Ｉ一起按　{line}　　　　　　　{line}{page}"
 
 String0x0DACE4:
 ; .strn "・クラブではＡを{line}押さない{line}ハートは先にＩを押す{line}{page}"
-  .strn "＊梅花按的不是Ａ{line}按红桃前先按了Ｉ{line}{line}{page}"
+  .strn "＊梅花按的不是Ａ{line}按红桃前{line}先按Ｉ　　　　　　　{line}{page}"
 
 String0x0DAD18:
 ; .strn "・クラブはＣを押す{line}２回目のマークは{line}ダイヤ{line}{page}"
-  .strn "＊梅花跟Ｃ一起按{line}第２轮按的是方块{line}{line}{page}"
+  .strn "＊梅花跟Ｃ一起按　{line}第２轮按的是方块{line}　　　{line}{page}"
 
 String0x0DAD48:
 ; .strn "・ＣＩＡＮのＩは{line}３回目に押される{line}{page}"
-  .strn "＊ＣＩＡＮ的Ｉ是{line}在第３轮按{line}{page}"
+  .strn "＊ＣＩＡＮ的Ｉ是{line}在第３轮按　　　{line}{page}"
 
 String0x0DAD6E:
 ; .strn "・スぺードは最初に{line}Ａを押す{line}{page}"
-  .strn "＊按下黑桃后要先{line}按下Ａ{line}{page}"
+  .strn "＊按下黑桃后要先　{line}按下Ａ　{line}{page}"
 
 String0x0DAD8E:
 ; .strn "・アルファべットの{line}押し方①入手{line}{page}"
-  .strn "＊得到了按下字母的{line}线索①{line}{page}"
+  .strn "＊得到了按下字母的{line}线索①　　　{line}{page}"
 
 String0x0DADB2:
 ; .strn "・アルファべットの{line}押し方②入手{line}{page}"
-  .strn "＊得到了按下字母的{line}线索②{line}{page}"
+  .strn "＊得到了按下字母的{line}线索②　　　{line}{page}"
 
 String0x0DADD6:
 ; .strn "・アルファべットの{line}押し方③入手{line}{page}"
-  .strn "＊得到了按下字母的{line}线索③{line}{page}"
+  .strn "＊得到了按下字母的{line}线索③　　　{line}{page}"
 
 String0x0DADFA:
 ; .strn "・アルファべットの{line}押し方④入手{line}{page}"
-  .strn "＊得到了按下字母的{line}线索④{line}{page}"
+  .strn "＊得到了按下字母的{line}线索④　　　{line}{page}"
 
 String0x0DAE1E:
 ; .strn "・アルファべットの{line}押し方⑤入手{line}{page}"
-  .strn "＊得到了按下字母的{line}线索⑤{line}{page}"
+  .strn "＊得到了按下字母的{line}线索⑤　　　{line}{page}"
 
 String0x0DAE42:
 ; .strn "・アルファべットの{line}押し方⑥入手{line}{page}"
-  .strn "＊得到了按下字母的{line}线索⑥{line}{page}"
+  .strn "＊得到了按下字母的{line}线索⑥　　　{line}{page}"
 
 String0x0DAE66:
 ; .strn "・アルファべットの{line}押し方⑦入手{line}{page}"
-  .strn "＊得到了按下字母的{line}线索⑦{line}{page}"
+  .strn "＊得到了按下字母的{line}线索⑦　　　{line}{page}"
 
 String0x0DAE8A:
 ; .strn "・アルファべットの{line}押し方⑧入手{line}{page}"
-  .strn "＊得到了按下字母的{line}线索⑧{line}{page}"
+  .strn "＊得到了按下字母的{line}线索⑧　　　{line}{page}"
 
 String0x0DAEAE:
 ; .strn "世紀末の財宝事件{line}{page}"
@@ -1555,15 +1555,15 @@ String0x0DAEAE:
 
 String0x0DAEC2:
 ; .strn "宝物庫をあける暗号か{line}さすがに手ごわいが{line}きっととけるはずだ！{line}{page}"
-  .strn "打开藏宝库的暗号{line}还真是不简单　但我{line}一定能解开！{line}{page}"
+  .strn "打开藏宝库的暗号　　{line}还真是不简单　　　{line}但我一定能解开！　　{line}{page}"
 
 String0x0DAF04:
 ; .strn "この順番に　この字を{line}おせば宝物庫がひらく{line}ついに宝が目の前に…{line}{page}"
-  .strn "按照这个顺序　按下{line}这个字母…那些宝藏{line}就在眼前了{line}{line}{page}"
+  .strn "按照这个顺序　　　　{line}按下这个字母　　　　{line}那些宝藏就在眼前了…{line}{page}"
 
 String0x0DAF48:
 ; .strn "どうしても開かない{line}宝箱にも　どうやら{line}仕掛けがあるようだ{line}「２０世紀」の文字を{line}「順番」通りに　ある{line}「方向」に動かせば{line}開くみたいだが…{line}この宝箱の中に{line}「魔術師」の秘密が{line}隠されているはずだ！{line}{page}"
-  .strn "这个无法打开的宝箱{line}看来也暗含机关{line}“２０世纪”这几个字{line}按“顺序”向{line}“某方向”移动{line}应该就能打开{line}这宝箱里就藏有{line}“魔术师”的秘密{line}{line}{line}{page}"
+  .strn "这个难以开启的宝箱{line}看来也暗含机关　　{line}“２０世纪”这些字{line}按“顺序”向　　　　{line}“某方向”移动　　　{line}应该就能打开…　　{line}这个宝箱里　　　{line}恐怕就藏有　　{line}“魔术师”的秘密！{line}　　　　　　　　　　{line}{page}"
 
 String0x0DB012:
 ; .strn "・「２」は上に{line}「紀」は下に{line}{page}"
@@ -1579,15 +1579,15 @@ String0x0DB050:
 
 String0x0DB06E:
 ; .strn "・カギの解除方法①{line}入手{line}{page}"
-  .strn "＊得到了开锁方法①{line}{page}"
+  .strn "＊得到了开锁方法①{line}　　{page}"
 
 String0x0DB08A:
 ; .strn "・カギの解除方法②{line}入手{line}{page}"
-  .strn "＊得到了开锁方法②{line}{page}"
+  .strn "＊得到了开锁方法②{line}　　{page}"
 
 String0x0DB0A6:
 ; .strn "・カギの解除方法③{line}入手{line}{page}"
-  .strn "＊得到了开锁方法③{line}{page}"
+  .strn "＊得到了开锁方法③{line}　　{page}"
 
 String0x0DB0C2:
 ; .strn "世紀末の財宝事件{line}{page}"
@@ -1595,123 +1595,123 @@ String0x0DB0C2:
 
 String0x0DB0D6:
 ; .strn "「２０世紀」の字を{line}どこかに動かせばこの{line}宝箱がひらくんだな{line}{page}"
-  .strn "“２０世纪”这几个字{line}朝某方向移动{line}就能打开宝箱{line}{page}"
+  .strn "“２０世纪”这些字{line}朝某方向移动　　　　{line}应该就能打开宝箱　{line}{page}"
 
 String0x0DB116:
 ; .strn "こう動かせば…宝箱が{line}開く　さてさて中身は{line}いったいなんだろう？{line}{page}"
-  .strn "这样移动的话…就能{line}打开宝箱！来看看吧{line}里面藏着什么！{line}{page}"
+  .strn "这样移动的话…　　　{line}就能打开宝箱！　　　{line}来看看里面藏着什么？{line}{page}"
 
 String0x0DB15A:
 ; .strn "飼育係と{line}動物のエサの袋の{line}対応表を再現する{line}{page}"
-  .strn "重现各自负责{line}动物和饲料袋{line}的对照表{line}{page}"
+  .strn "重现各自{line}负责动物和饲料袋{line}的对照表吧　　　{line}{page}"
 
 String0x0DB18A:
 ; .strn "コナンの担当は{line}コイである{line}{page}"
-  .strn "柯南负责的是{line}鲤鱼{line}{page}"
+  .strn "柯南负责鲤鱼　{line}　　　　　{line}{page}"
 
 String0x0DB1A8:
 ; .strn "緑の袋のエサは{line}歩美の担当の動物の{line}エサだ{line}{page}"
-  .strn "绿色袋子{line}是步美负责动物的{line}饲料袋{line}{page}"
+  .strn "绿色袋子　　　{line}是步美负责的饲料袋{line}　　　{line}{page}"
 
 String0x0DB1D6:
 ; .strn "元太の担当は{line}カメではない{line}{page}"
-  .strn "元太负责的是{line}乌龟{line}{page}"
+  .strn "元太负责的　{line}不是乌龟　　{line}{page}"
 
 String0x0DB1F4:
 ; .strn "ウサギ印のエサは{line}うさぎのエサで、カメの{line}エサはウラシマ印だ{line}{page}"
-  .strn "兔子图案的饲料袋{line}是兔子的　乌龟的饲料袋{line}印着浦岛图案{line}{page}"
+  .strn "兔子图案的饲料袋{line}是兔子的　乌龟的饲料袋{line}印着浦岛图案　　　{line}{page}"
 
 String0x0DB234:
 ; .strn "００１　チュートリアル{line}{page}"
-  .strn "００１　教程{line}{page}"
+  .strn "００１　教程　　　　　{line}{page}"
 
 String0x0DB24E:
 ; .strn "元太のなくした{line}当番表を{line}再現せよ{line}{page}"
-  .strn "来重现{line}元太弄丢的{line}职责表吧{line}{page}"
+  .strn "来重现元太　　{line}弄丢的　{line}职责表吧{line}{page}"
 
 String0x0DB274:
 ; .strn "やったぜ！{line}元太{line}感謝しろよな！{line}{page}"
-  .strn "太好啦！{line}元太{line}要感谢柯南哦！{line}{page}"
+  .strn "太好啦！　{line}元太{line}要感谢柯南哦！{line}{page}"
 
 String0x0DB298:
 ; .strn "阿笠博士の発明？が{line}米花公園で盗まれた{line}容疑者は４匹のネコだ{line}みんなの証言から{line}真犯人とそのねぐらを{line}わりだして、{line}発明品をとりもどそう{line}{page}"
-  .strn "阿笠博士的发明在{line}米花公园被偷了{line}嫌疑人是４只猫咪{line}根据大家的证言{line}推理出犯人{line}和找出它的巢穴{line}找回博士的发明吧{line}{page}"
+  .strn "阿笠博士的发明？　{line}在米花公园被偷了　{line}嫌疑人是４只猫咪　　{line}根据大家的证言　{line}来推理出犯人　　　　{line}找出它的巢穴{line}找回博士的发明吧　　{line}{page}"
 
 String0x0DB324:
 ; .strn "トラは４番目の{line}ネコではない{line}{page}"
-  .strn "４个来觅食的{line}不是虎纹猫{line}{page}"
+  .strn "第４个来觅食的{line}不是虎纹猫　{line}{page}"
 
 String0x0DB344:
 ; .strn "シロは１，２番目の{line}ネコではない{line}{page}"
-  .strn "白猫不是第１，２个{line}出来觅食的{line}{page}"
+  .strn "白猫不是第１　２个{line}出来觅食的　{line}{page}"
 
 String0x0DB368:
 ; .strn "シロは毛利探偵事務所{line}のうらを{line}ねぐらにしている{line}{page}"
-  .strn "白猫的巢穴在{line}毛利侦探事务所背后{line}{page}"
+  .strn "白猫的巢穴　　　　　{line}是在　　{line}毛利侦探事务所后{line}{page}"
 
 String0x0DB39C:
 ; .strn "公園に１番目に{line}あらわれるネコは{line}米花デパートがねぐら{line}{page}"
-  .strn "公园的是第１个{line}出现觅食的猫{line}巢穴在米花百货大楼{line}{page}"
+  .strn "公园的是第１个{line}出现觅食的猫　　{line}巢穴在米花百货大楼　{line}{page}"
 
 String0x0DB3D6:
 ; .strn "クロは米花警察の{line}うらを{line}ねぐらにしている{line}{page}"
-  .strn "黑猫的巢穴是在{line}米花警察局背后{line}{page}"
+  .strn "黑猫的巢穴　　　{line}是在　{line}米花警察局背后　{line}{page}"
 
 String0x0DB404:
 ; .strn "ミケは２番目に{line}あらわれるネコだ{line}{page}"
-  .strn "三色猫是第２个{line}出来觅食的{line}{page}"
+  .strn "三色猫是第２个{line}出来觅食的　　　{line}{page}"
 
 String0x0DB428:
 ; .strn "４番目にあらわれる{line}ネコはクロだ{line}{page}"
-  .strn "第４个出来觅食的{line}是黑猫{line}{page}"
+  .strn "第４个出来觅食的　{line}是黑猫　　　{line}{page}"
 
 String0x0DB44C:
 ; .strn "００２　チュートリアル{line}{page}"
-  .strn "００２　教程{line}{page}"
+  .strn "００２　教程　　　　　{line}{page}"
 
 String0x0DB466:
 ; .strn "ドロボーネコと{line}そのねぐらをさがせ！{line}{page}"
-  .strn "找到小偷猫咪{line}和它的巢穴吧！{line}{page}"
+  .strn "找到小偷猫咪　{line}和它的巢穴吧！　　　{line}{page}"
 
 String0x0DB48E:
 ; .strn "やったぜ！{line}ミケに{line}おしおきだ！{line}{page}"
-  .strn "好的{line}抓住{line}三色猫了！{line}{page}"
+  .strn "好的！　　{line}抓住　{line}三色猫了！　{line}{page}"
 
 String0x0DB4B2:
 ; .strn "名探偵コナン劇場版{line}「世紀末の魔術師」から{line}の問題だよ！{line}イースターエッグを{line}ねらう４人の人々{line}それぞれの「仕事」と{line}エッグをねらう「理由」{line}をみんな　調ベてみよう{line}これが　さいごの{line}練習問題だ　ちゃんと{line}論理的に考えて{line}推理しようね{line}{page}"
-  .strn "来自名侦探柯南剧场{line}版“世纪末的魔術师”{line}的谜题！{line}调查出想要复活节{line}彩蛋的４个人他们的{line}“职业”和想要彩蛋的{line}“理由”吧{line}这是最后的练习问题了{line}要好好推理哦{line}{page}"
+  .strn "名侦探柯南剧场版　{line}“世纪末的魔術师”　　{line}的谜题！　　{line}来调查出想要　　　{line}复活节彩蛋的４人{line}他们的“职业”　　　{line}和想要彩蛋的“理由”吧{line}这是最后的练习问题了　{line}要好好推理哦　　{line}　　　　　　　　　　{line}　　　　　　　{line}　　　　　　{line}{page}"
 
 String0x0DB5A0:
 ; .strn "シングルスーツの人は{line}エッグをきぞうして{line}もらいたがっていた{line}{page}"
-  .strn "穿干练西装的人{line}想要得到彩蛋的捐赠{line}{page}"
+  .strn "穿干练西装的人　　　{line}想要得到彩蛋的捐赠{line}　　　　　　　　　{line}{page}"
 
 String0x0DB5E0:
 ; .strn "バイヤーはエッグの{line}買いつけにきた{line}{page}"
-  .strn "买家为了买彩蛋而来{line}{page}"
+  .strn "买家为了买彩蛋而来{line}　　　　　　　{line}{page}"
 
 String0x0DB606:
 ; .strn "寒川はエッグを{line}撮影したがった{line}{page}"
-  .strn "寒川想拍彩蛋{line}的照片{line}{page}"
+  .strn "寒川想给彩蛋　{line}拍照片　　　　{line}{page}"
 
 String0x0DB628:
 ; .strn "寒川はずっと{line}タイなしの服だった{line}{page}"
-  .strn "寒川一直穿着{line}休闲服装{line}{page}"
+  .strn "寒川一直穿着{line}休闲服　　　　　　{line}{page}"
 
 String0x0DB64C:
 ; .strn "乾はダブルのスーツを{line}きていた{line}{page}"
-  .strn "乾一直穿着华丽的西服{line}{page}"
+  .strn "乾一直穿着华丽的西服{line}　　　　{line}{page}"
 
 String0x0DB66E:
 ; .strn "セルゲイは大使館の{line}書記だ{line}{page}"
-  .strn "谢尔盖是大使馆的{line}书记{line}{page}"
+  .strn "谢尔盖是大使馆书记{line}　　　{line}{page}"
 
 String0x0DB68C:
 ; .strn "チャイナ服は学者{line}タイなしは映像作家{line}{page}"
-  .strn "穿旗袍的是学者{line}穿休闲服的是摄影师{line}{page}"
+  .strn "穿旗袍的是学者　{line}穿休闲服的是摄影师{line}{page}"
 
 String0x0DB6B4:
 ; .strn "チュートリアル{line}{page}"
-  .strn "教程{line}{page}"
+  .strn "教程　　　　　{line}{page}"
 
 String0x0DB6C6:
 ; .strn "全角３４５６７８９０{line}全角３４５６７８９０{line}全角３４５６７８９０{line}{page}"
@@ -1723,27 +1723,27 @@ String0x0DB70A:
 
 String0x0DB74E:
 ; .strn "元暴力団の男が　頭を{line}撃たれて　死んでいた{line}男の事務所から{line}見つかった４丁の{line}銃の中で　Ｍ８９Ｂ{line}という銃が使われた{line}らしい　銃の持ち主と{line}思われる４人の証言{line}から「誰」が「何国{line}製」の「どの銃」を{line}持っていたかわかれば{line}犯人もわかるはず！{line}{page}"
-  .strn "原黑帮成员死于头部{line}中弹　在他的事务所{line}找到了４把枪{line}其中Ｍ８９Ｂ{line}好像被使用过{line}有４人被怀疑为凶手{line}知道了“谁”持有{line}“哪国制”的{line}“哪把枪”{line}应该就能锁定犯人！{line}{line}{line}{page}"
+  .strn "一位原黑帮男性　　　{line}死于头部中弹　　　　{line}在他的事务所　{line}找到了４把枪　　{line}其中Ｍ８９Ｂ　　　{line}好像被使用过　　　{line}有４人被怀疑为凶手　{line}知道了“谁”持有　{line}“哪国制”的　　　{line}“哪把枪”　　　　{line}应该就能锁定犯人！　{line}　　　　　　　　　{line}{page}"
 
 String0x0DB842:
 ; .strn "・望月「Ｍ８９Ｂは{line}イギリス製でも{line}ドイツ製でもない」{line}{page}"
-  .strn "＊望月：“Ｍ８９Ｂ{line}不是英国制{line}也不是德国制”{line}{page}"
+  .strn "＊望月：“Ｍ８９Ｂ{line}不是英国制　　{line}也不是德国制”　　{line}{page}"
 
 String0x0DB87C:
 ; .strn "・萩原「俺の銃は{line}イギリス製だ」{line}{page}"
-  .strn "＊萩原：“我的枪是{line}英国制”{line}{page}"
+  .strn "＊萩原：“我的枪是{line}英国制”　　{line}{page}"
 
 String0x0DB8A0:
 ; .strn "・望月「俺はアメリカ{line}製の銃しか使わない」{line}{page}"
-  .strn "＊望月：“我只爱用{line}美国枪”{line}{page}"
+  .strn "＊望月：“我只爱用　{line}美国制”　　　　　　{line}{page}"
 
 String0x0DB8CE:
 ; .strn "・河野「アダムスも{line}Ｍ８９Ｂもアメリカ製{line}の銃じゃない」{line}{page}"
-  .strn "＊河野：“亚当斯和{line}Ｍ８９Ｂ都不是美国{line}制的枪”{line}{page}"
+  .strn "＊河野：“亚当斯和{line}Ｍ８９Ｂ都不是　　　{line}美国制的枪”　{line}{page}"
 
 String0x0DB90A:
 ; .strn "・石崎「俺の銃は{line}ワルサーＰ３８だ」{line}{page}"
-  .strn "＊石崎：“我的枪{line}是瓦尔特Ｐ３８”{line}{page}"
+  .strn "＊石崎：“我的枪{line}是瓦尔特Ｐ３８”　{line}{page}"
 
 String0x0DB932:
 ; .strn "銃殺事件{line}{page}"
@@ -1751,35 +1751,35 @@ String0x0DB932:
 
 String0x0DB93E:
 ; .strn "宝石専門の怪盗が{line}捕まった　だが盗ん{line}だ４つの宝石のありか{line}がわからない　さて{line}「どの宝石」が{line}「どの順番」で{line}「どこに隠された」か{line}突き止められるかな？{line}ちなみに宝石は全部{line}違う場所に隠されて{line}いるぞ{line}{page}"
-  .strn "一个专偷宝石的{line}怪盗被抓住了{line}但是４个被盗的{line}宝石却不知所踪{line}你能查明{line}“哪颗宝石”{line}按“什么顺序”{line}“被藏到了哪里”吗？{line}顺带一提{line}４颗宝石被藏在了{line}不同的地方{line}{page}"
+  .strn "一个专偷宝石的　{line}怪盗被抓住了　　　{line}但是４个被盗的宝石　{line}却不知所踪　　　　{line}你能查明　　　{line}“哪颗宝石”　　{line}按“什么顺序”　　　　{line}“被藏到了哪里”吗？　{line}４颗宝石是被藏在了{line}不同的地方哦　　　{line}　　　{line}{page}"
 
 String0x0DBA0C:
 ; .strn "・最初に隠したのは{line}たしかダイヤモンド{line}だったぜ{line}{page}"
-  .strn "＊最初藏起来的{line}是钻石{line}{line}{page}"
+  .strn "＊最初藏起来的　　{line}是钻石　　　　　　{line}　　　　{line}{page}"
 
 String0x0DBA40:
 ; .strn "・エメラルドとルビー{line}は貸金庫には隠して{line}いない{line}{page}"
-  .strn "＊绿宝石我藏到了{line}保险库里{line}{line}{page}"
+  .strn "＊绿宝石藏到了　　　{line}保险库里　　　　　{line}　　　{line}{page}"
 
 String0x0DBA74:
 ; .strn "・コインロッカーに{line}行ったのは貸金庫の{line}すぐ後だったな{line}{page}"
-  .strn "＊在保险库之后{line}我去了{line}车站储物箱{line}{page}"
+  .strn "＊在保险库之后　　{line}我去了出租柜　　　{line}　　　　　　　{line}{page}"
 
 String0x0DBAAE:
 ; .strn "・２番目に行った場所{line}にルビーを隠した{line}{page}"
-  .strn "＊在第２个去的地方{line}我藏了红宝石{line}{page}"
+  .strn "＊第２个地方　　　　{line}藏了红宝石　　　{line}{page}"
 
 String0x0DBAD8:
 ; .strn "・エメラルドを隠した{line}のは　サファイアより{line}後だったぜ{line}{page}"
-  .strn "＊在绿宝石之前{line}我先藏了蓝宝石{line}{line}{page}"
+  .strn "＊在绿宝石之前　　　{line}我先藏了蓝宝石　　　{line}　　　　　{line}{page}"
 
 String0x0DBB12:
 ; .strn "・最後に行ったのは{line}倉庫だったぞ{line}{page}"
-  .strn "＊我最后去的地方{line}是仓库{line}{page}"
+  .strn "＊最后的地方　　　{line}是仓库　　　{line}{page}"
 
 String0x0DBB36:
 ; .strn "・自宅に戻ったのは{line}コインロッカーや{line}貸金庫より後だな{line}{page}"
-  .strn "＊去完车站储物箱{line}和保险库之后{line}我才回的家{line}{page}"
+  .strn "＊去完出租柜　　　{line}和保险库之后　　{line}我才回的家　　　{line}{page}"
 
 String0x0DBB70:
 ; .strn "宝石を見つけろ{line}{page}"
@@ -1787,171 +1787,171 @@ String0x0DBB70:
 
 String0x0DBB82:
 ; .strn "兇悪犯罪グループが{line}捕まった　メンバーの{line}４人の仕事は　要人の{line}暗殺　若い女性社員の{line}殺害　警察官殺害{line}夫婦殺害の４つ{line}証言からメンバーの{line}「誰」が「いつ」{line}「どの犯罪」を犯した{line}のか推理してみてくれ{line}{page}"
-  .strn "一个犯罪集团{line}被逮捕了{line}其中４人犯下的{line}案件有　暗杀要人{line}杀害女社员{line}杀害警察{line}杀害夫妇{line}根据证词推理出{line}“谁”在“什么时候”{line}“犯了什么罪”吧{line}{page}"
+  .strn "一个犯罪集团　　　{line}被逮捕了　　　　　　{line}其中４人　　　　　　{line}犯下的案件有　　　　{line}暗杀要人　　　　{line}杀害女社员　　{line}杀害警察和杀害夫妇{line}根据证词推理出　{line}“谁”在“什么时候”{line}“犯了什么罪”吧　　{line}{page}"
 
 String0x0DBC4E:
 ; .strn "・イーグル「失敗した{line}タイガーは　１０ヶ月{line}前にクビにした」{line}{page}"
-  .strn "＊老鹰：“老虎任务{line}失败　在１０个月{line}前就被开除了”{line}{page}"
+  .strn "＊老鹰：“老虎任务　{line}失败　在１０个月前　{line}就被开除了”　　{line}{page}"
 
 String0x0DBC8E:
 ; .strn "・ウルフ「警察官を{line}殺したのはボクだ」{line}{page}"
-  .strn "＊老狼：“杀警察的{line}是我”{line}{page}"
+  .strn "＊老狼：“杀警察的{line}是我”　　　　　　{line}{page}"
 
 String0x0DBCB8:
 ; .strn "・ウルフ「ボクは{line}キャリア９カ月の{line}新入りさ」{line}{page}"
-  .strn "＊老狼：“我只是{line}个入职９个月的{line}新人”{line}{page}"
+  .strn "＊老狼：“我是刚{line}来９个月的新人”{line}　　　　　{line}{page}"
 
 String0x0DBCEA:
 ; .strn "・べアー「女を殺す仕{line}事が来たのは半年前だ{line}が　オレは関係ない」{line}{page}"
-  .strn "＊大熊：“杀女人的{line}任务是半年前的{line}和我无关”{line}{page}"
+  .strn "＊大熊：“杀女人的　{line}任务是半年前的　　　{line}和我无关”　　　　　{line}{page}"
 
 String0x0DBD2E:
 ; .strn "・タイガー「べアーの{line}後に仕事を受けたの{line}はワシさ」{line}{page}"
-  .strn "＊老虎：“在大熊之后{line}接了活的是我”{line}{line}{page}"
+  .strn "＊老虎：“在大熊之后{line}接了活的是我”　　{line}　　　　　{line}{page}"
 
 String0x0DBD66:
 ; .strn "殺しの経歴{line}{page}"
-  .strn "杀人履历{line}{page}"
+  .strn "杀人履历　{line}{page}"
 
 String0x0DBD74:
 ; .strn "浅賀家の父は{line}マンガの本の１巻から{line}４巻にへソクリを{line}わけて隠していたが{line}４人の家族がそれぞれ{line}へソクリをとって{line}しまった　「誰」が{line}「いつ」「何巻」に{line}隠されていた「何円」{line}をとったのか{line}推理してみてくれ{line}{page}"
-  .strn "浅贺家的爸爸{line}在漫画书的１到４卷中{line}藏入了私房钱{line}但是却被４位{line}家人拿走了{line}“谁”在“什么时候”{line}从“哪一卷”里拿了{line}“多少钱”呢？{line}{page}"
+  .strn "浅贺家的爸爸{line}在漫画书的１到４卷中{line}藏入了私房钱　　{line}但是却被　　　　　{line}４位家人拿走了　　　{line}是“谁”　　　　{line}在“什么时候”　　{line}从“哪一卷”里　　{line}拿了“多少钱”呢？　{line}来推理一下吧{line}　　　　　　　　{line}{page}"
 
 String0x0DBE46:
 ; .strn "・兄「２万　１万{line}６千　３千があった中{line}から６千をもらった」{line}{page}"
-  .strn "＊哥哥：“有２万{line}１万　６千　３千{line}其中我拿了６千”{line}{page}"
+  .strn "＊哥哥：“有２万{line}１万　６千　３千　　{line}其中我拿了６千”　　{line}{page}"
 
 String0x0DBE86:
 ; .strn "・母「私は１番お金が{line}多いのをとった」{line}{page}"
-  .strn "＊妈妈：“我拿的{line}最多”{line}{page}"
+  .strn "＊妈妈：“我拿的　　{line}是最多的”　　　{line}{page}"
 
 String0x0DBEB0:
 ; .strn "・弟「ボクがとった時{line}１巻　２巻　４巻には{line}お金はなかった」{line}{page}"
-  .strn "＊弟弟：“我看的时候{line}１卷２卷和４卷里已经{line}没有钱了”{line}{page}"
+  .strn "＊弟弟：“我看的时候{line}１卷２卷和４卷里　　{line}已经没有钱了”　{line}{page}"
 
 String0x0DBEF0:
 ; .strn "・姉「３巻は　２番目{line}に多くお金が入って{line}いたみたい」{line}{page}"
-  .strn "＊姐姐：“第３卷里的{line}私房钱好像是第２多{line}的”{line}{page}"
+  .strn "＊姐姐：“第３卷里的{line}私房钱好像是　　　{line}第２多的”　{line}{page}"
 
 String0x0DBF2A:
 ; .strn "・父「今日の昼前には{line}すでに合計９千円なく{line}なっていた」{line}{page}"
-  .strn "＊爸爸：“今天上午{line}的时候已经少了９千{line}块钱了”{line}{page}"
+  .strn "＊爸爸：“今天上午时{line}已经少了９千块钱了”{line}　　　　　　{line}{page}"
 
 String0x0DBF66:
 ; .strn "・兄「俺が４巻を{line}とったけど　お金は{line}３巻より少ないよ」{line}{page}"
-  .strn "＊哥哥：“我拿的是{line}第４卷　钱比第３卷{line}里还要少啊”{line}{page}"
+  .strn "＊哥哥：“我拿的{line}是第４卷　里面的钱{line}比第３卷还要少呢”{line}{page}"
 
 String0x0DBFA2:
 ; .strn "・弟「お母さんは昼に{line}とったんだって」{line}{page}"
-  .strn "＊弟弟：“妈妈{line}上午就已经拿了”{line}{page}"
+  .strn "＊弟弟：“妈妈上午时{line}就已经拿了”　　{line}{page}"
 
 String0x0DBFCC:
 ; .strn "・姉「１巻は２巻より{line}へソクリの額は{line}少なかったわ」{line}{page}"
-  .strn "＊姐姐：“１卷里的{line}私房钱比２卷里{line}要少”{line}{page}"
+  .strn "＊姐姐：“１卷里的钱{line}比２卷里要少”{line}　　　　　　　{line}{page}"
 
 String0x0DC004:
 ; .strn "消えたヘそくり{line}{page}"
-  .strn "消失的私房钱{line}{page}"
+  .strn "消失的私房钱　{line}{page}"
 
 String0x0DC016:
 ; .strn "ケーキを作るために{line}料理クラブのメンバー{line}が　色々な材料を{line}持って来たが　材料を{line}入れる順番と分量を{line}忘れてしまったようだ{line}「誰」が「どの材料」{line}を持ってきて{line}「どの順番」と「どの{line}分量」で使うはず{line}だったかわかるかな？{line}{page}"
-  .strn "为了制作蛋糕{line}料理俱乐部成员带来了{line}各式各样的材料{line}但是加入材料的顺序{line}和分量给忘了{line}“谁”带来了“什么{line}材料”该按“什么{line}顺序”“使用多少”{line}呢？{line}{page}"
+  .strn "为了制作蛋糕　　　{line}料理俱乐部成员带来了{line}各式各样的材料　{line}但是加入材料的顺序　{line}和各自的分量给忘了{line}那么是“谁”　　　　{line}带来的“什么材料”按{line}“什么顺序”{line}要“使用多少”呢？　{line}　　　　　　　　{line}　　　　　　　　　　{line}{page}"
 
 String0x0DC0F6:
 ; .strn "・中沢「私の担当じゃ{line}ないけど　小麦粉が{line}いちばん多いわ」{line}{page}"
-  .strn "＊中泽：“虽然不是我{line}负责　但是小麦粉{line}需要的是最多的”{line}{page}"
+  .strn "＊中泽：“虽然不是我{line}负责的　但是小麦粉{line}需要的是最多的”{line}{page}"
 
 String0x0DC134:
 ; .strn "・笹本「４ばん目に使{line}うのは　さとうよ」{line}{page}"
-  .strn "＊笹本：“第４个加入{line}的是砂糖”{line}{page}"
+  .strn "＊笹本：“第４个加的{line}是砂糖”　　　　　{line}{page}"
 
 String0x0DC160:
 ; .strn "・竹村「小麦粉は{line}最初に使う材料ね」{line}{page}"
-  .strn "＊竹村：“小麦粉{line}是最早加入的吧”{line}{page}"
+  .strn "＊竹村：“小麦粉{line}是最早加入的吧”　{line}{page}"
 
 String0x0DC188:
 ; .strn "・赤池「私の担当は{line}卵で　５５グラム{line}使うわよ」{line}{page}"
-  .strn "＊赤池：“我负责的{line}鸡蛋要加５５克”{line}{line}{page}"
+  .strn "＊赤池：“我负责的{line}鸡蛋要加５５克”{line}　　　　　{line}{page}"
 
 String0x0DC1BC:
 ; .strn "・竹村「私が持ってき{line}たべーキングパウダー{line}は３番目じゃない」{line}{page}"
-  .strn "＊竹村：“我带来{line}的发面粉不是第３个{line}加入的”{line}{page}"
+  .strn "＊竹村：“我带来的　{line}发面粉不是第３个加”{line}　　　　　　　　　{line}{page}"
 
 String0x0DC1FE:
 ; .strn "・中沢「２番目の材料{line}は　たしか５グラム{line}使うの」{line}{page}"
-  .strn "＊中泽：“第２个加入{line}的材料应该是需要{line}５克”{line}{page}"
+  .strn "＊中泽：“第２个加的{line}材料应该是５克”　{line}　　　　{line}{page}"
 
 String0x0DC234:
 ; .strn "ケーキを作ろう{line}{page}"
-  .strn "来做蛋糕吧{line}{page}"
+  .strn "来做蛋糕吧　　{line}{page}"
 
 String0x0DC246:
 ; .strn "４人の不審人物が警{line}察につかまった　４人{line}はそれぞれカバンを持{line}っていて　中には彼ら{line}の犯罪の証拠が入って{line}いたが　ちょっとした{line}ミスで「誰」が{line}「どのカバン」に{line}「何を入れた」か{line}わからなくなった{line}カバンと中身と持ち主{line}を当てられるかな？{line}{page}"
-  .strn "有４个可疑分子被警察{line}抓住了　４个人都分别{line}带着包　包中装着犯罪{line}证据　但是因为一些小{line}状况　现在弄不清{line}“谁”的“什么包”里{line}装了“什么”{line}你能推理出来吗？{line}{page}"
+  .strn "有４个可疑分子　　{line}被警察抓住了　　　　{line}４个人都分别带着包　{line}包中装着犯罪证据　　{line}但是因为一些小状况　{line}现在弄不清“谁”的　{line}“什么包”里　{line}装了“什么”　　{line}你能推理出来吗？{line}　　　　　　　　{line}　　　　　　　　　　{line}　　　　　　　　　{line}{page}"
 
 String0x0DC33A:
 ; .strn "・森と八木が持って{line}いたのはボストン{line}バックじゃない{line}{page}"
-  .strn "＊森和八木的包{line}不是旅行挎包{line}{page}"
+  .strn "＊森和八木的包　　{line}不是旅行挎包　　{line}　　　　　　　{line}{page}"
 
 String0x0DC372:
 ; .strn "・デイパックには{line}武器が入っていた{line}{page}"
-  .strn "＊小背包里{line}装有武器{line}{page}"
+  .strn "＊小背包里　　　{line}装有武器　　　　{line}{page}"
 
 String0x0DC398:
 ; .strn "・麻薬を持っていた{line}のは丸山だった{line}{page}"
-  .strn "＊带着毒品的人是{line}丸山{line}{page}"
+  .strn "＊带着毒品的是丸山{line}　　　　　　　{line}{page}"
 
 String0x0DC3BE:
 ; .strn "・八木のカバンは{line}セカンドバッグ{line}じゃなかった{line}{page}"
-  .strn "＊八木的包不是{line}手包{line}{page}"
+  .strn "＊八木的包　　　{line}不是手包　　　{line}　　　　　　{line}{page}"
 
 String0x0DC3F0:
 ; .strn "・ナイフが入っていた{line}のは　セカンドバッグ{line}かスーツケースだった{line}{page}"
-  .strn "＊装小刀的是手提包{line}或者旅行箱{line}{page}"
+  .strn "＊装小刀的是手提包　{line}或者旅行箱　　　　　{line}　　　　　　　　　　{line}{page}"
 
 String0x0DC434:
 ; .strn "・森のカバンには{line}ブラジャーはなかった{line}{page}"
-  .strn "＊森的包里没有胸罩{line}{line}{page}"
+  .strn "＊森的包里　　　{line}不是胸罩　　　　　　{line}{page}"
 
 String0x0DC45E:
 ; .strn "・岡田が持っていた{line}カバンはスーツケース{line}だった{line}{page}"
-  .strn "＊冈田拿着的是旅行箱{line}{page}"
+  .strn "＊冈田拿的是旅行箱{line}　　　　　　　　　　{line}　　　{line}{page}"
 
 String0x0DC492:
 ; .strn "カバンは語る…{line}{page}"
-  .strn "包包诉说着…{line}{page}"
+  .strn "包包诉说着…　{line}{page}"
 
 String0x0DC4A4:
 ; .strn "ビーチで女性が殺され{line}た　容疑者はホテルの{line}宿泊客の４人　ホテル{line}のカメラマンがとった{line}写真が　アリバイ証明{line}の手がかりだったが{line}何者かに盗まれていた{line}犯行時刻前後の{line}９時５０分から１０時{line}３０分の間に「誰」が{line}「何時」に「どこ」に{line}いたか推理しよう{line}{page}"
-  .strn "在海滩有一名女性被{line}杀害了　嫌疑人是{line}宾馆的４名客人{line}宾馆的摄影师拍{line}下的照片可以当作{line}不在场证明　但是却被{line}偷走了　推理出在{line}犯罪时间前后的{line}９点５０分到{line}１０点３０分之间{line}“谁”“什么时候”{line}“在哪里”吧！{line}{page}"
+  .strn "在海滩有一名女性被害{line}嫌疑人是４名客人　　{line}宾馆的摄影师　　　　{line}拍下的照片可以当作　{line}不在场证明　　　　　{line}但是却被偷走了　　{line}推理出在　　　　　　{line}犯罪时间前后的{line}９点５０分到　　　　{line}１０点３０分之间　　{line}“谁”“什么时候”　{line}“在哪里”吧！　　{line}{page}"
 
 String0x0DC5A2:
 ; .strn "・カメラマン「中庭の{line}次に　バーで写真を{line}とったと思います」{line}{page}"
-  .strn "＊摄影师：“离开庭院{line}之后我去了酒吧{line}拍照片”{line}{page}"
+  .strn "＊摄影师：“离开庭院{line}后我去了酒吧拍照”{line}　　　　　　　　　{line}{page}"
 
 String0x0DC5E2:
 ; .strn "・砂川「私は部屋にい{line}るところを　写真に{line}とってもらったわ」{line}{page}"
-  .strn "＊砂川：“我在房间{line}里的时候　请摄影师{line}来拍了照片”{line}{page}"
+  .strn "＊砂川：“我在房间时{line}请摄影师来拍了照”{line}　　　　　　　　　{line}{page}"
 
 String0x0DC622:
 ; .strn "・池間「徳永さんに話{line}を聞いて　私も写真を{line}とってもらったわ」{line}{page}"
-  .strn "＊池间：“听了德永{line}的推荐　我也去拍了{line}照片”{line}{page}"
+  .strn "＊池间：“听德永推荐{line}我就也去拍了照片”　{line}　　　　　　　　　{line}{page}"
 
 String0x0DC664:
 ; .strn "・カメラマン「ロビー{line}で写真をとったのは{line}１０時より後です」{line}{page}"
-  .strn "＊摄影师：“在大厅{line}拍摄照片是１０点{line}之后的事了”{line}{page}"
+  .strn "＊摄影师：“在大厅　{line}拍摄照片是　　　　{line}１０点之后了”　　{line}{page}"
 
 String0x0DC6A4:
 ; .strn "・島屋「私が写真を{line}とってもらったのは{line}たしか　中庭よ」{line}{page}"
-  .strn "＊岛屋：“我是在{line}庭院里拍的照片”{line}{page}"
+  .strn "＊岛屋：“我是在　{line}庭院里拍的照片”　{line}　　　　　　　　{line}{page}"
 
 String0x0DC6E0:
 ; .strn "・カメラマン「客室で{line}写真をとったのは{line}１０時２０分でした」{line}{page}"
-  .strn "＊摄影师：“在客房{line}拍照片是在１０点{line}２０分的时候”{line}{page}"
+  .strn "＊摄影师：“在客房　{line}拍照片是在　　　{line}１０点２０分的时候”{line}{page}"
 
 String0x0DC720:
 ; .strn "・カメラマン「最後に{line}ロビーで写真をとって{line}仕事を終えました」{line}{page}"
-  .strn "＊摄影师：“最后在大厅{line}拍完照片之后　我就{line}下班了”{line}{page}"
+  .strn "＊摄影师：“最后　　{line}在大厅拍完照片之后　{line}我就下班了”　　　{line}{page}"
 
 String0x0DC762:
 ; .strn "消えた写真{line}{page}"
@@ -1959,43 +1959,43 @@ String0x0DC762:
 
 String0x0DC770:
 ; .strn "米花市には　行列がで{line}きるほど有名なケーキ{line}屋が４つある　どの店{line}にもそれぞれに人気の{line}ケーキがあるようだ{line}さて　甘いもの好きの{line}人たちのウワサ話を{line}聞いて　それぞれの{line}「店の名前」と「一番{line}人気のケーキ」と{line}「値段」を当てよう{line}{page}"
-  .strn "在米花市有４家{line}受欢迎的蛋糕店{line}每家店都有{line}自己的特色蛋糕{line}那么{line}根据甜食爱好者们的话{line}来推理出“店名”{line}“人气蛋糕”和{line}“价格”吧！{line}{line}{line}{page}"
+  .strn "在米花市有４家　　　{line}受欢迎的蛋糕店　　　{line}每家店都有　　　　　{line}自己的特色蛋糕　　　{line}那么　　　　　　　{line}根据甜食爱好者们的话{line}来推理出“店名”　{line}“人气蛋糕”　　　{line}还有“价格”吧！　　{line}　　　　　　　　{line}　　　　　　　　　{line}{page}"
 
 String0x0DC858:
 ; .strn "・うさぎ屋で人気の{line}イチゴショートは{line}一番高くも安くもない{line}{page}"
-  .strn "＊兔子坊的草莓蛋糕{line}不是最贵的也不是{line}最便宜的{line}{page}"
+  .strn "＊兔子坊的草莓蛋糕{line}不是最贵的　　　{line}也不是最便宜的　　　{line}{page}"
 
 String0x0DC896:
 ; .strn "・ビーグルの一番人気{line}はシュークリームか{line}チョコのケーキだよ{line}{page}"
-  .strn "＊皮克尔最受欢迎的是{line}奶油点心或者{line}巧克力蛋糕{line}{page}"
+  .strn "＊皮克尔最受欢迎的是{line}奶油点心　　　　　{line}或者巧克力蛋糕　　{line}{page}"
 
 String0x0DC8D6:
 ; .strn "・フランセはチーズ{line}ケーキかチョコケーキ{line}が人気なんだよ{line}{page}"
-  .strn "＊佛朗森最受欢迎的{line}是起司蛋糕或者巧克力{line}蛋糕{line}{page}"
+  .strn "＊佛朗森最受欢迎的{line}是起司蛋糕　　　　　{line}或者巧克力蛋糕{line}{page}"
 
 String0x0DC912:
 ; .strn "・一番人気のケーキが{line}一番安いのはフランセ{line}でもビーグルでもない{line}{page}"
-  .strn "＊最便宜的那个蛋糕{line}不是佛朗森的也不是{line}皮克尔的{line}{page}"
+  .strn "＊最便宜的那个蛋糕　{line}不是佛朗森的　　　　{line}也不是皮克尔的　　　{line}{page}"
 
 String0x0DC956:
 ; .strn "・行列ができるほどの{line}超人気チーズケーキは{line}４００円より高い{line}{page}"
-  .strn "＊很受喜爱的高人气{line}起司蛋糕售价超过{line}４００日元{line}{page}"
+  .strn "＊很受喜爱的高人气　{line}起司蛋糕的售价　　　{line}超过４００日元　{line}{page}"
 
 String0x0DC996:
 ; .strn "・人気のケーキの中で{line}一番安いのは　チョコ{line}のケーキじゃないよ{line}{page}"
-  .strn "＊人气蛋糕中最便宜{line}的不是巧克力蛋糕{line}{page}"
+  .strn "＊人气蛋糕中最便宜的{line}不是巧克力蛋糕　　　{line}　　　　　　　　　{line}{page}"
 
 String0x0DC9D8:
 ; .strn "・パンダ屋で一番人気{line}はチーズケーキ　では{line}ないらしい{line}{page}"
-  .strn "＊熊猫坊的人气蛋糕{line}不是起司蛋糕{line}{page}"
+  .strn "＊熊猫坊的人气蛋糕　{line}不是起司蛋糕　　　　{line}　　　　　{line}{page}"
 
 String0x0DCA12:
 ; .strn "・ビーグルの人気{line}ケーキは　コイン１枚{line}で買えるよ{line}{page}"
-  .strn "＊皮克尔的人气蛋糕{line}售价是１００日元或{line}５００日元{line}{page}"
+  .strn "＊皮克尔人气蛋糕{line}只需要一枚５００日元{line}的硬币　　{line}{page}"
 
 String0x0DCA48:
 ; .strn "おいしいケーキ{line}{page}"
-  .strn "美味的蛋糕{line}{page}"
+  .strn "美味的蛋糕　　{line}{page}"
 
 String0x0DCA5A:
 ; .strn "町内新聞を出している{line}メンバーが「町内のお{line}いしい店」という特集{line}で記事を書こうとして{line}いるが　お店の正しい{line}データがわからなく{line}なってしまった{line}「お店の名前」と{line}「食ベられるもの」{line}「何丁目」にあって{line}「定休日」がいつか{line}を推理してみよう{line}{page}"
