@@ -2699,7 +2699,7 @@ String0x0C6126:
 
 String0x0C613C:
 ; .strn "盗賊団『魔術師』のマークよ{page}"
-  .strn "是盗贼团“魔术师”的标志　{page}"
+  .strn "是盗贼团“魔术师”的标志哦　{page}"
 
 String0x0C6158:
 ; .strn "④宝物庫前{line}　米花市街地図{line}{page}"
@@ -2747,7 +2747,7 @@ String0x0C6302:
 
 String0x0C633C:
 ; .strn "『クラブではＡを押さない{line}　ハートは先にＩを押す』{page}"
-  .strn "“梅花按下的不是Ａ　　　{line}　红桃之前要按下Ｉ”　　{page}"
+  .strn "“梅花按下的不是Ａ　　　{line}　红桃要按下Ｉ”　　　　{page}"
 
 String0x0C6370:
 ; .strn "『クラブはＣを押す{line}　２回目のマークはダイヤ』{page}"
@@ -2763,7 +2763,7 @@ String0x0C63C8:
 
 String0x0C63E6:
 ; .strn "灰原：盗賊団『魔術師』のマークよ{page}"
-  .strn "灰原：是盗贼团“魔术师”的标志哦{page}"
+  .strn "灰原：是盗贼团“魔术师”的标志哦　{page}"
 
 String0x0C6408:
 ; .strn "歩美：大きな絵だよね{page}"
