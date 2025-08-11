@@ -1,4 +1,4 @@
-import std/[algorithm, re, sequtils, strformat, strutils, tables, unicode, paths]
+import std/[algorithm, re, sequtils, strformat, strutils, tables, unicode]
 import freetype
 
 proc getCharsets(textPath: string): TableRef[int, seq[Rune]] =

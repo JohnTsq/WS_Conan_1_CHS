@@ -1,4 +1,4 @@
-import strutils, re, sets, prelude, sequtils, unicode, freetype, strformat, algorithm, std/[paths, private/osdirs]
+import strutils, re, sequtils, unicode, freetype, strformat, algorithm, std/[paths, private/osdirs]
 
 proc tblToSeq(tblPath: string): seq[string] =
     var tbl: seq[string] = @[]
