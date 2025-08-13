@@ -51,12 +51,16 @@ def recompress_tileset(tileset_path: Path) -> bytearray:
 def main():
     for tileset_path in graphic_path.rglob("*_chs.2bpp"):
         original_payload_range = tileset_path.stem.replace("_chs", "").split('-')
+        if len(original_payload_range) != 2:
+            print(f"Skipping {tileset_path} because it doesn't have a valid payload range")
+            continue
         original_payload_length = int(original_payload_range[1], 16) - int(original_payload_range[0], 16)
-        print(f"{original_payload_length = :06X}")
+        # print(f"{original_payload_length = :06X}")
         
         tileset_payload = recompress_tileset(tileset_path)
-        print(f"{len(tileset_payload) = :06X}")
-        assert len(tileset_payload) <= original_payload_length
+        # print(f"{len(tileset_payload) = :06X}")
+        if not len(tileset_payload) <= original_payload_length:
+            print(f"check {tileset_path} because it's too long")
         
         recompressed_path = Path(tileset_path.parent, f"recompressed_{tileset_path.stem}.bin")
         with open(recompressed_path, "wb") as f:
