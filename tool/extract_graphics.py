@@ -127,3 +127,16 @@ if __name__ == "__main__":
             
         # decompress tileset
         decompress_tileset(segment_bytes, offset_tileset_chunk)
+    
+    dir_path = Path('graphic', 'rotating')
+    segment_base = 0x10_0000 - (0x0100_0000 - (0xFA << 16))
+    segment_bytes = None
+    with open(rom_path, "rb") as f:
+        f.seek(segment_base)
+        segment_bytes = f.read(0x10000)
+        
+    offset_tileset_chunk = 0xA2E1
+    decompress_tileset(segment_bytes, offset_tileset_chunk)
+    
+    offset_tileset_chunk = 0xA025
+    decompress_tileset(segment_bytes, offset_tileset_chunk)
