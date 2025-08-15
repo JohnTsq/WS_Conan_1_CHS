@@ -1487,7 +1487,7 @@ String0x0DAB2E:
 
 String0x0DAC22:
 ; .strn "・先にＭＡＧＩから{line}１文字　次にＣＩＡＮ{line}から１文字を押す{line}{page}"
-  .strn "・先按ＭＡＧＩ某个{line}字母　再按ＣＩＡＮ　{line}某个字母　　　　{line}{page}"
+  .strn "・先按ＭＡＧＩ的某{line}个字母　再按ＣＩＡＮ{line}的某个字母　　　{line}{page}"
 
 String0x0DAC60:
 ; .strn "・一番最初はＧ{line}４回目の最後はＮ{line}{page}"
@@ -1643,7 +1643,7 @@ String0x0DB324:
 
 String0x0DB344:
 ; .strn "シロは１，２番目の{line}ネコではない{line}{page}"
-  .strn "白猫不是第１　２个{line}出来觅食的　{line}{page}"
+  .strn "白猫不是第１、２个{line}出来觅食的　{line}{page}"
 
 String0x0DB368:
 ; .strn "シロは毛利探偵事務所{line}のうらを{line}ねぐらにしている{line}{page}"
@@ -1679,7 +1679,7 @@ String0x0DB48E:
 
 String0x0DB4B2:
 ; .strn "名探偵コナン劇場版{line}「世紀末の魔術師」から{line}の問題だよ！{line}イースターエッグを{line}ねらう４人の人々{line}それぞれの「仕事」と{line}エッグをねらう「理由」{line}をみんな　調ベてみよう{line}これが　さいごの{line}練習問題だ　ちゃんと{line}論理的に考えて{line}推理しようね{line}{page}"
-  .strn "名侦探柯南剧场版　{line}「世纪末的魔術师」　　{line}的谜题！　　{line}来调查出想要　　　{line}复活节彩蛋的４人{line}他们的「职业」　　　{line}和想要彩蛋的「理由」吧{line}这是最后的练习问题了　{line}要好好推理哦　　{line}　　　　　　　　　　{line}　　　　　　　{line}　　　　　　{line}{page}"
+  .strn "名侦探柯南剧场版　{line}「世纪末的魔术师」　　{line}的谜题！　　{line}来调查出想要　　　{line}复活节彩蛋的４人{line}他们的「职业」　　　{line}和想要彩蛋的「理由」吧{line}这是最后的练习问题了　{line}要好好推理哦　　{line}　　　　　　　　　　{line}　　　　　　　{line}　　　　　　{line}{page}"
 
 String0x0DB5A0:
 ; .strn "シングルスーツの人は{line}エッグをきぞうして{line}もらいたがっていた{line}{page}"
@@ -1791,7 +1791,7 @@ String0x0DBB82:
 
 String0x0DBC4E:
 ; .strn "・イーグル「失敗した{line}タイガーは　１０ヶ月{line}前にクビにした」{line}{page}"
-  .strn "・老鹰：「老虎任务　{line}失败　在１０个月前　{line}就被开除了」　　{line}{page}"
+  .strn "・老鹰：「老虎任务　{line}失败，在１０个月前　{line}就被开除了」　　{line}{page}"
 
 String0x0DBC8E:
 ; .strn "・ウルフ「警察官を{line}殺したのはボクだ」{line}{page}"
@@ -1855,7 +1855,7 @@ String0x0DC004:
 
 String0x0DC016:
 ; .strn "ケーキを作るために{line}料理クラブのメンバー{line}が　色々な材料を{line}持って来たが　材料を{line}入れる順番と分量を{line}忘れてしまったようだ{line}「誰」が「どの材料」{line}を持ってきて{line}「どの順番」と「どの{line}分量」で使うはず{line}だったかわかるかな？{line}{page}"
-  .strn "为了制作蛋糕　　　{line}料理俱乐部成员带来了{line}各式各样的材料　{line}但是加入材料的顺序　{line}和各自的分量给忘了{line}那么是「谁」　　　　{line}带来的「什么材料」按{line}「什么顺序」{line}要「使用多少」呢？　{line}　　　　　　　　{line}　　　　　　　　　　{line}{page}"
+  .strn "为了制作蛋糕　　　{line}料理俱乐部成员带来了{line}各式各样的材料　{line}但是加入材料的顺序　{line}和各自的分量给忘了{line}那么是「谁」　　　　{line}带来的「什么材料」　{line}按「什么顺序」{line}要「使用多少」呢？　{line}　　　　　　　　{line}　　　　　　　　　{line}{page}"
 
 String0x0DC0F6:
 ; .strn "・中沢「私の担当じゃ{line}ないけど　小麦粉が{line}いちばん多いわ」{line}{page}"
@@ -1903,7 +1903,7 @@ String0x0DC398:
 
 String0x0DC3BE:
 ; .strn "・八木のカバンは{line}セカンドバッグ{line}じゃなかった{line}{page}"
-  .strn "・八木的包　　　{line}不是手包　　　{line}　　　　　　{line}{page}"
+  .strn "・八木的包　　　{line}不是手提包　　{line}　　　　　　{line}{page}"
 
 String0x0DC3F0:
 ; .strn "・ナイフが入っていた{line}のは　セカンドバッグ{line}かスーツケースだった{line}{page}"
@@ -1999,11 +1999,11 @@ String0x0DCA48:
 
 String0x0DCA5A:
 ; .strn "町内新聞を出している{line}メンバーが「町内のお{line}いしい店」という特集{line}で記事を書こうとして{line}いるが　お店の正しい{line}データがわからなく{line}なってしまった{line}「お店の名前」と{line}「食ベられるもの」{line}「何丁目」にあって{line}「定休日」がいつか{line}を推理してみよう{line}{page}"
-  .strn "报社想推出美食特辑{line}但是却搞丢了店铺{line}具体信息的资料{line}推理出「店铺的名字」{line}「店内美食」在{line}「几丁目」和{line}「休息日」是哪一天{line}吧？{line}{line}{line}{line}{line}{line}{line}{page}"
+  .strn "报社想推出美食特辑　{line}但是却搞丢了店铺　　{line}具体信息的资料　　　{line}推理出「店铺的名字」{line}「店内美食」在{line}「几丁目」和{line}「休息日」是哪一天{line}吧？{line}{line}{line}{line}{line}{line}{line}{page}"
 
 String0x0DCB4E:
 ; .strn "・アイリスは　水曜日{line}と日曜日は　営業{line}{page}"
-  .strn "・爱丽丝在周三和{line}周日是营业的{line}{page}"
+  .strn "・爱丽丝在周三和　　{line}周日是营业的　　{line}{page}"
 
 String0x0DCB78:
 ; .strn "・うめは２丁目で　水{line}曜日は開いていた　あ{line}そこは喫茶店じゃない{line}{page}"
