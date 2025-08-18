@@ -2067,7 +2067,7 @@ String0x0DCF86:
 
 String0x0DCFC6:
 ; .strn "・住民Ｂ「公園で白い{line}シャツを燃やしている{line}人を見たわ」{line}{page}"
-  .strn "・邻居Ｂ：「在公园看到{line}有人烧掉了一个白色的{line}衬衫」{line}{page}"
+  .strn "・邻居Ｂ：「在公园看到{line}有人烧掉了一件白色的{line}衬衫」{line}{page}"
 
 String0x0DD002:
 ; .strn "・住民Ｃ「川の方で{line}ナイフを捨てた人を{line}見たよ」{line}{page}"
@@ -2075,7 +2075,7 @@ String0x0DD002:
 
 String0x0DD036:
 ; .strn "・夫「３番目にジーパ{line}ンを捨て　その前には{line}ごみ捨て場に行った」{line}{page}"
-  .strn "・丈夫：「第３样扔掉的{line}是牛仔裤　在此前{line}我去了垃圾场」{line}{page}"
+  .strn "・丈夫：「第３样扔掉的{line}是牛仔裤　在此之前{line}我去了垃圾场」{line}{page}"
 
 String0x0DD07A:
 ; .strn "兇器はどこヘ{line}{page}"
@@ -2155,7 +2155,7 @@ String0x0DD566:
 
 String0x0DD576:
 ; .strn "はやりの歌が４曲入っ{line}た　カセットテープが{line}あるが曲の題名などを{line}書いた紙を　なくして{line}しまった　テープを{line}聞いた人の話から{line}「歌のタイトル」と{line}「歌のジャンル」{line}それを歌う「歌手」と{line}テープに入っていた{line}「順番」を当ててみて{line}くれないかな{line}{page}"
-  .strn "磁带里录入了４首{line}流行音乐{line}但是记录着歌名{line}的纸条不见了{line}从听过磁带的人{line}证词里推理{line}出「歌名」{line}「歌曲类型」{line}「歌手」和{line}「顺序」吧！{line}{line}{line}{page}"
+  .strn "磁带里录入了４首{line}流行音乐{line}但是记录着歌名{line}的纸条不见了{line}从听过磁带的人{line}证词里推理出{line}「歌名」{line}「歌曲类型」{line}「歌手」和{line}「顺序」吧！{line}{line}{line}{page}"
 
 String0x0DD66A:
 ; .strn "・かがやく季節は{line}アニメの歌じゃないよ{line}{page}"
