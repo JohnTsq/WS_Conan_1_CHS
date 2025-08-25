@@ -239,7 +239,7 @@ String0x0D6E12:
 
 String0x0D6E3E:
 ; .strn "・ダイヤの部屋の{line}暗証番号は４７だ{line}{page}"
-  .strn "・方块房间的　　{line}密码是４７　　　{line}{page}"
+  .strn "・方片房间的　　{line}密码是４７　　　{line}{page}"
 
 String0x0D6E64:
 ; .strn "・良子の部屋の{line}暗証番号は２６だ{line}{page}"
@@ -299,7 +299,7 @@ String0x0D7014:
 
 String0x0D7046:
 ; .strn "ここはテレビスタジオ{line}小五郎のおっちゃんの{line}ゲスト出演のために{line}オレたちは沖野ヨーコ{line}が主演するサスぺンス{line}ドラマを見学している{line}ドラマ出演者の話から{line}ヨーコを含む４人の{line}出演者の「誰」が{line}「何の役」を演じて{line}「何番目」に出演{line}するか当ててみよう！{line}{page}"
-  .strn "这里是电视台的摄影棚{line}小五郎叔叔要客串出演{line}冲野洋子主演的　{line}悬疑电视剧　　{line}从演员们的对话中　　{line}推理出　{line}是「谁」出演　　　{line}是「什么角色」　　{line}是「第几个上场」吧　{line}　　　　{line}　　　　{line}　　　　{line}{page}"
+  .strn "这里是电视台的摄影棚{line}小五郎叔叔要客串出演{line}冲野洋子主演的　　{line}悬疑电视剧　　　　　{line}从演员们的对话中　　{line}推理出　　　　　　　{line}是「谁」出演　　　　{line}是「什么角色」　　{line}「第几个上场」吧{line}　　　　　　　　　{line}　　　　　　　　{line}　　　　　　　　　　{line}{page}"
 
 String0x0D7142:
 ; .strn "・ヨーコはヒロインで{line}全部のシーンに出る{line}{page}"
@@ -443,7 +443,7 @@ String0x0D7646:
 
 String0x0D7682:
 ; .strn "殺人事件の調査中だが{line}忙しい仕事の監督や{line}芸能人たちは　別の{line}仕事のために　他の{line}場所に移動するらしい{line}ところが　仕事場所の{line}メモを　白鳥刑事が{line}オレに見せてくれない{line}こうなれば「誰」が{line}「どこ」に「何の仕{line}事」で行くのか自分で{line}推理するっきゃねーぜ{line}{page}"
-  .strn "在调查杀人事件的途中{line}工作繁忙的导演　　{line}和演员们都去了　　{line}别的工作场地　　　{line}白鸟警官不告诉我　{line}他们的去处　　{line}所以只能自己推理了{line}「谁」「去了哪儿」　{line}「去干什么」呢？　{line}来推理一下吧　{line}　　{line}　　{line}{page}"
+  .strn "在调查杀人事件的途中{line}工作繁忙的导演　　{line}和演员们都去了　　{line}别的工作场地　　　{line}白鸟警官不告诉我　　{line}他们的去处　　　　　{line}所以只能自己推理了{line}「谁」「去了哪儿」　{line}「去干什么」呢？　{line}来推理一下吧　　　{line}　　　　　　　　　　{line}　　　　　　　　　　{line}{page}"
 
 String0x0D7780:
 ; .strn "・ヨーコはアイドル誌{line}の取材がある{line}{page}"
@@ -499,11 +499,11 @@ String0x0D78F6:
 
 String0x0D790E:
 ; .strn "さてと　みんな{line}どこに出かけたんだ？{line}{page}"
-  .strn "那么　大家{line}都去了哪儿呢？{line}{page}"
+  .strn "那么　大家　　{line}都去了哪儿呢？　　　{line}{page}"
 
 String0x0D7936:
 ; .strn "よし！　今わかった{line}場所に行けば　事件の{line}証言を聞けるな！{line}{page}"
-  .strn "好！　前往这些地方{line}就能问出　　{line}那些人的证词了！{line}{page}"
+  .strn "好！　前往这些地方{line}就能问出　　　　　　{line}那些人的证词了！{line}{page}"
 
 String0x0D7974:
 ; .strn "殺された京子さんは{line}出演者と監督がみんな{line}殺したいほど京子さん{line}を　憎んでいる…{line}と言っていた　しかも{line}京子さんは　トラブル{line}メーカーで毎年誰か{line}と争っていた「誰」が{line}「いつから」京子さん{line}を「憎む理由」を{line}持つようになったのか{line}推理してみよう！{line}{page}"
@@ -819,7 +819,7 @@ String0x0D8856:
 
 String0x0D8878:
 ; .strn "・敦（あつし）には{line}１３億を残し　別邸を{line}倫（りん）に残す{line}{page}"
-  .strn "・１３亿留给了敦　{line}别馆留给了伦　　　　{line}　　　　　　　　{line}{page}"
+  .strn "・１３亿留给了敦　{line}别墅留给了伦　　　　{line}　　　　　　　　{line}{page}"
 
 String0x0D88B6:
 ; .strn "・コレクションは{line}１２億を渡す相手と{line}同じ相手に渡す{line}{page}"
@@ -995,39 +995,39 @@ String0x0D90E4:
 
 String0x0D911C:
 ; .strn "宝石を　キッドから{line}守るため　警察と{line}おっちゃんが美術館を{line}警備する　「誰が」{line}「どの展示室」を{line}警備していて　その{line}展示室が「何を展示」{line}しているのか　また{line}「どんな特徴」がある{line}のか整理しよう{line}キッドを捕まえる{line}手がかりになるかも！{line}{page}"
-  .strn "为了不让宝石　　　{line}被基德偷走　　　{line}警察和叔叔　　　　　{line}开始了美术馆的　　{line}警备工作　　　　{line}来整理出　　　　　{line}「谁」负责　　　　　{line}「哪间展览室」　　{line}「展品是什么」　　　{line}以及　　　　　{line}「有什么特征」　{line}也许能起到帮助！　　{line}{page}"
+  .strn "为了不让宝石　　　{line}被基德偷走　　　{line}警察和叔叔　　　　　{line}开始了美术馆的　　{line}警备工作　　　　{line}来整理出　　　　　{line}「谁」负责　　　　　{line}「哪间展厅」　　　{line}「展品是什么」　　　{line}以及　　　　　{line}「有什么特征」　{line}也许能起到帮助！　　{line}{page}"
 
 String0x0D920C:
 ; .strn "・宝飾展示室は{line}出口がひとつだけだ{line}{page}"
-  .strn "・首饰展览室　{line}只有一个出口　　　{line}{page}"
+  .strn "・首饰展厅　　{line}只有一个出口　　　{line}{page}"
 
 String0x0D9232:
 ; .strn "・第１展示室は{line}入口に１番近い{line}現代アート展示室だ{line}{page}"
-  .strn "・第１展览室是{line}离入口最近的　{line}现代艺术展览室　　{line}{page}"
+  .strn "・第１展厅是　{line}离入口最近的　{line}现代艺术展览室　　{line}{page}"
 
 String0x0D9268:
 ; .strn "・第１展示室は{line}目暮警部が{line}警備する{line}{page}"
-  .strn "・第１展览室　{line}是目暮负责{line}警备　　{line}{page}"
+  .strn "・第１展厅　　{line}是目暮负责{line}警备　　{line}{page}"
 
 String0x0D9290:
 ; .strn "・宝飾展示室は{line}小五郎が警備する{line}{page}"
-  .strn "・首饰展览室　{line}是小五郎负责警备{line}{page}"
+  .strn "・首饰展厅　　{line}是小五郎负责警备{line}{page}"
 
 String0x0D92B4:
 ; .strn "・第４展示室には{line}非常口がある{line}{page}"
-  .strn "・第４展览室　　{line}有紧急出口　{line}{page}"
+  .strn "・第４展厅　　　{line}有紧急出口　{line}{page}"
 
 String0x0D92D6:
 ; .strn "・絵画の展示室は{line}扉が３つもある{line}{page}"
-  .strn "・绘画展览室　　{line}有３扇门　　　{line}{page}"
+  .strn "・绘画展厅　　　{line}有３扇门　　　{line}{page}"
 
 String0x0D92FA:
 ; .strn "・中森警部は{line}彫刻のある{line}第４展示室を警備する{line}{page}"
-  .strn "・中森负责　{line}展示雕像的{line}第４展览室的警备　　{line}{page}"
+  .strn "・中森负责　{line}展示雕像的{line}第４展厅的警备　　　{line}{page}"
 
 String0x0D932C:
 ; .strn "・白鳥刑事は{line}第２展示室を警備する{line}{page}"
-  .strn "・白鸟警官　{line}负责第２展览室警备　{line}{page}"
+  .strn "・白鸟警官　{line}负责第２展厅的警备　{line}{page}"
 
 String0x0D9352:
 ; .strn "・館長の話①を聞いた{line}{page}"
@@ -1067,11 +1067,11 @@ String0x0D941A:
 
 String0x0D942C:
 ; .strn "みんなの会話から{line}展示室の特徴が{line}わかるな{line}{page}"
-  .strn "通过大家的谈话　{line}就能明白展览室{line}的特征吧{line}{page}"
+  .strn "通过大家的谈话　{line}就能明白展厅　{line}的特征吧{line}{page}"
 
 String0x0D945A:
 ; .strn "宝飾の展示をしている{line}第３展示室に{line}問題の宝石があるのか{line}{page}"
-  .strn "被盯上的宝石就在　　{line}展示首饰的　{line}第３展览室吧　　　　{line}{page}"
+  .strn "被盯上的宝石就在　　{line}展示首饰的　{line}第３展厅吧　　　　　{line}{page}"
 
 String0x0D9496:
 ; .strn "園子に　変装した{line}キッドはトイレの中で{line}再び　誰かに{line}変装したようだ{line}トイレに入った４人{line}それぞれのトイレ{line}に「入った時間」と{line}トイレを「出た時間」{line}を確認しよう　誰が{line}キッドの　変装か{line}わかるかもしれない{line}さあ勝負の始まりだ！{line}{page}"
@@ -1355,7 +1355,7 @@ String0x0DA494:
 
 String0x0DA4C2:
 ; .strn "・ルビーは最後に動く{line}ダイヤのマークは{line}３番目だ{line}{page}"
-  .strn "・最后动的是红宝石　{line}第３块放在方块里{line}　　　　{line}{page}"
+  .strn "・最后动的是红宝石　{line}第３块要放方片里{line}　　　　{line}{page}"
 
 String0x0DA4F6:
 ; .strn "・エメラルドに秘め{line}られたメッセージ入手{line}{page}"
@@ -1507,7 +1507,7 @@ String0x0DACE4:
 
 String0x0DAD18:
 ; .strn "・クラブはＣを押す{line}２回目のマークは{line}ダイヤ{line}{page}"
-  .strn "・梅花跟Ｃ一起按　{line}第２轮按的是方块{line}　　　{line}{page}"
+  .strn "・梅花跟Ｃ一起按　{line}第２轮按的是方片{line}　　　{line}{page}"
 
 String0x0DAD48:
 ; .strn "・ＣＩＡＮのＩは{line}３回目に押される{line}{page}"
@@ -1999,7 +1999,7 @@ String0x0DCA48:
 
 String0x0DCA5A:
 ; .strn "町内新聞を出している{line}メンバーが「町内のお{line}いしい店」という特集{line}で記事を書こうとして{line}いるが　お店の正しい{line}データがわからなく{line}なってしまった{line}「お店の名前」と{line}「食ベられるもの」{line}「何丁目」にあって{line}「定休日」がいつか{line}を推理してみよう{line}{page}"
-  .strn "报社想推出美食特辑　{line}但是却搞丢了店铺　　{line}具体信息的资料　　　{line}推理出「店铺的名字」{line}「店内美食」在{line}「几丁目」和{line}「休息日」是哪一天{line}吧？{line}{line}{line}{line}{line}{line}{line}{page}"
+  .strn "报社想推出美食特辑　{line}但是却搞丢了店铺　　{line}具体信息的资料　　　{line}推理出「店铺的名字」{line}和「店内美食」　　　{line}在「几丁目」　　　{line}以及「休息日」{line}是哪一天吧　　　{line}　　　　　　　　　{line}　　　　　　　　　{line}　　　　　　　　　{line}　　　　　　　　{line}{page}"
 
 String0x0DCB4E:
 ; .strn "・アイリスは　水曜日{line}と日曜日は　営業{line}{page}"
@@ -2007,259 +2007,259 @@ String0x0DCB4E:
 
 String0x0DCB78:
 ; .strn "・うめは２丁目で　水{line}曜日は開いていた　あ{line}そこは喫茶店じゃない{line}{page}"
-  .strn "・梅花在２丁目{line}周三会营业{line}梅花不是咖啡厅{line}{page}"
+  .strn "・梅花在２丁目　　　{line}是周三营业　　　　　{line}并且不是咖啡厅　　　{line}{page}"
 
 String0x0DCBBC:
 ; .strn "・カレー屋の名前は{line}パンジーで　３丁目{line}じゃなかった{line}{page}"
-  .strn "・咖喱店三色堇{line}不在３丁目{line}{line}{page}"
+  .strn "・咖喱店三色堇　　{line}不在３丁目　　　　{line}　　　　　　{line}{page}"
 
 String0x0DCBF4:
 ; .strn "・１丁目の店は{line}月曜日もやっていた{line}{page}"
-  .strn "・１丁目的店{line}周一在营业{line}{page}"
+  .strn "・１丁目的店　{line}是周一营业　　　　{line}{page}"
 
 String0x0DCC1A:
 ; .strn "・ラーメン屋さくらの{line}定休日は　月曜日で{line}３丁目ではない{line}{page}"
-  .strn "・拉面店樱花{line}休息日是周一{line}而且不在３丁目{line}{page}"
+  .strn "・拉面店樱花　　　　{line}休息日是周一　　　{line}而且不在３丁目{line}{page}"
 
 String0x0DCC56:
 ; .strn "定休日はいつ？{line}{page}"
-  .strn "何日休息？{line}{page}"
+  .strn "何日休息？　　{line}{page}"
 
 String0x0DCC68:
 ; .strn "あるデパートで一度に{line}４人の迷子が出て{line}迷子案内係がパニック{line}を起こしてしまった{line}案内係のかわりに{line}送られてきた情報から{line}「どの子」が「何才」{line}で「どこで迷子に{line}なった」か　また{line}「誰の子供」なのかを{line}推理してやってくれ{line}{page}"
-  .strn "某个商场里来了４个{line}迷路的孩子{line}办公室乱作了一团{line}请你推理出{line}「哪个孩子」{line}「几岁」在哪迷路的「{line}」是谁的孩子「吧{line}{line}{line}{line}{line}{page}"
+  .strn "某个商场里来了４个　{line}迷路的孩子　　　{line}办公室乱作了一团　　{line}请你推理出　　　　{line}「哪位孩子」　　{line}是「几岁」　　　　　{line}「在哪迷路的」　　　　{line}「谁的孩子」吧{line}　　　　　　　　{line}　　　　　　　　　　{line}　　　　　　　　　{line}{page}"
 
 String0x0DCD48:
 ; .strn "・中村さんは{line}おもちゃ売場で子供を{line}見失ったそうです{line}{page}"
-  .strn "・中村先生的孩子{line}在玩具卖场走丢了{line}{page}"
+  .strn "・中村先生　{line}孩子在玩具卖场走丢了{line}　　　　　　　　{line}{page}"
 
 String0x0DCD80:
 ; .strn "・竹原さんの子供は{line}まさと　という男の子{line}です{line}{page}"
-  .strn "・竹原先生的孩子是{line}一个叫正人的男孩{line}{page}"
+  .strn "・竹原先生的孩子是{line}一个叫正人的男孩　　{line}　　{line}{page}"
 
 String0x0DCDB2:
 ; .strn "・２才のきょうこ{line}ちゃんは　紳士服売場{line}で発見されました{line}{page}"
-  .strn "・２岁的杏子{line}是在男士服装卖场{line}被找到的{line}{page}"
+  .strn "・２岁的杏子　　{line}是在男士服装卖场　　{line}被找到的　　　　{line}{page}"
 
 String0x0DCDEE:
 ; .strn "・斉藤さんの子供は{line}４才だそうです{line}{page}"
-  .strn "・齐藤先生的孩子{line}４岁了{line}{page}"
+  .strn "・齐藤先生的孩子　{line}４岁了　　　　{line}{page}"
 
 String0x0DCE14:
 ; .strn "・中村さんの子供は{line}３才でも　ゆかちゃん{line}でもないそうです{line}{page}"
-  .strn "・中村先生的孩子{line}不是３岁{line}名字也不是由香{line}{page}"
+  .strn "・中村先生的孩子　{line}不是３岁　　　　　　{line}名字也不是由香　{line}{page}"
 
 String0x0DCE52:
 ; .strn "・食品売場にいたのは{line}男の子でした{line}{page}"
-  .strn "・在食品卖场的是一个{line}男孩子{line}{page}"
+  .strn "・在食品卖场的　　　{line}是一个男孩子{line}{page}"
 
 String0x0DCE78:
 ; .strn "迷子のお世話{line}{page}"
-  .strn "迷路的孩子{line}{page}"
+  .strn "照顾迷路孩子{line}{page}"
 
 String0x0DCE88:
 ; .strn "マンションで　主婦が{line}殺された　死体は首を{line}しめられ　胸を刺され{line}ていた　犯人は彼女の{line}夫に間違いないのだが{line}兇器や証拠品は捨てら{line}れた後のようだ{line}夫の自供と住民の証言{line}から「どの兇器や証拠{line}品」を「どの順番で」{line}「どこに捨てた」か{line}推理してみてくれ{line}{page}"
-  .strn "在公寓里一名主妇{line}被杀害了{line}尸体脖子有勒痕{line}胸口也被刺了一刀{line}犯人应该就是她的丈夫{line}但是凶器和证据{line}都被处理了{line}根据丈夫的自诉{line}和邻居的证词来推理{line}出「哪样凶器与证据」{line}按「什么顺序」{line}「扔到了哪里」吧{line}{page}"
+  .strn "在公寓里一名主妇　　{line}被杀害了　　　　　　{line}尸体脖子有勒痕　　　{line}胸口也被刺了一刀　　{line}犯人应该就是她的丈夫{line}但是凶器和证据　　　{line}都被处理了　　{line}根据丈夫的自诉　　　{line}和邻居的证词来推理出{line}「哪样凶器与证据」　{line}按「什么顺序」　　{line}「扔到了哪里」吧{line}{page}"
 
 String0x0DCF86:
 ; .strn "・住民Ａ「ロープを{line}捨てた人は　ナイフは{line}持ってなかったよ」{line}{page}"
-  .strn "・邻居Ａ：「扔绳子的{line}那个人没有带刀」{page}"
+  .strn "・邻居Ａ：「那个人{line}扔绳子时并没有带刀」{line}　　　　　　　　　{line}{page}"
 
 String0x0DCFC6:
 ; .strn "・住民Ｂ「公園で白い{line}シャツを燃やしている{line}人を見たわ」{line}{page}"
-  .strn "・邻居Ｂ：「在公园看到{line}有人烧掉了一件白色的{line}衬衫」{line}{page}"
+  .strn "・邻居Ｂ：「在公园里{line}有人烧掉了一件　　　{line}白色衬衫」　{line}{page}"
 
 String0x0DD002:
 ; .strn "・住民Ｃ「川の方で{line}ナイフを捨てた人を{line}見たよ」{line}{page}"
-  .strn "・邻居Ｃ：「看到有人{line}在河边人扔掉了刀」{line}{page}"
+  .strn "・邻居Ｃ：「有人　{line}在河边人扔掉了刀」{line}　　　　{line}{page}"
 
 String0x0DD036:
 ; .strn "・夫「３番目にジーパ{line}ンを捨て　その前には{line}ごみ捨て場に行った」{line}{page}"
-  .strn "・丈夫：「第３样扔掉的{line}是牛仔裤　在此之前{line}我去了垃圾场」{line}{page}"
+  .strn "・丈夫：「第３样扔的{line}是牛仔裤　我去垃圾场{line}是在此之前」　　　　{line}{page}"
 
 String0x0DD07A:
 ; .strn "兇器はどこヘ{line}{page}"
-  .strn "凶器行踪{line}{page}"
+  .strn "凶器行踪　　{line}{page}"
 
 String0x0DD08A:
 ; .strn "米花大学の中村教授が{line}自宅の寝室で殺された{line}現場の状況から　教授{line}宅を最後に訪れた人物{line}が　持参した物で{line}教授を殺害したことが{line}判明した{line}４人の中の「誰」が{line}「どの順番」に訪れて{line}「持参した物」は何か{line}それぞれの証言から{line}推理しよう{line}{page}"
-  .strn "米花大学的中村教授{line}在家里的卧室被杀害了{line}从现场状况来看{line}是最后拜访教授的人{line}用随身带的东西{line}杀害了教授{line}从４人的证词中{line}推理出「谁」{line}按「什么顺序」{line}带着「什么东西」{line}拜访了教授吧！{line}{line}{line}{page}"
+  .strn "米花大学的中村教授　{line}在家里的卧室被杀害了{line}从现场状况来看　　　{line}是最后拜访教授的人　{line}用随身带的东西　{line}杀害了教授　　　　　{line}接下来　{line}从４人的证词中　　{line}推理出「谁」　　　　{line}按「什么顺序」　　　{line}带着「什么东西」　{line}见了教授吧{line}{page}"
 
 String0x0DD176:
 ; .strn "・中川「牧は日本刀を{line}教授に見せてくると{line}言っていたね」{line}{page}"
-  .strn "・中川：「牧说他要带着{line}日本刀来给教授看」{line}{line}{page}"
+  .strn "・中川：「牧说他要带{line}日本刀来给教授看」{line}　　　　　　　{line}{page}"
 
 String0x0DD1B2:
 ; .strn "・牧「教授の家を出た{line}時　げんかん先で田村{line}とすれちがったな」{line}{page}"
-  .strn "・牧：「从教授家出来的{line}时候　我和{line}田村擦肩而过了」{line}{page}"
+  .strn "・牧：「离开教授家时{line}我看到田村来了」　　{line}　　　　　　　　　{line}{page}"
 
 String0x0DD1F4:
 ; .strn "・田村「ボクが来た時{line}別にゴルフクラブは{line}見なかったよ」{line}{page}"
-  .strn "・田村：「我来的时候{line}没看见高尔夫球杆」{line}{line}{page}"
+  .strn "・田村：「我来的时候{line}没看到高尔夫球杆」{line}　　　　　　　{line}{page}"
 
 String0x0DD230:
 ; .strn "・大橋「ネクタイは{line}私が持参した物では{line}ない」{line}{page}"
-  .strn "・大桥：「我带去的{line}东西不是领带」{line}{line}{page}"
+  .strn "・大桥：「我带的　{line}不是领带」　　　　{line}　　　{line}{page}"
 
 String0x0DD262:
 ; .strn "・牧「オレと会った時{line}教授は　もらい物の{line}ネクタイをしてたな」{line}{page}"
-  .strn "・牧：「我见教授的时候{line}他正带着{line}刚收到的领带」{line}{page}"
+  .strn "・牧：「我见教授时　{line}他已经带着领带了」{line}　　　　　　　　　　{line}{page}"
 
 String0x0DD2A4:
 ; .strn "・中川「私の後に　誰{line}か　日本刀を持って{line}きたみたいだね」{line}{page}"
-  .strn "・中川：「我离开后{line}好像有人{line}带着日本刀来了」{line}{page}"
+  .strn "・中川：「我离开后　{line}不知是谁　　　　　{line}带着日本刀来了」{line}{page}"
 
 String0x0DD2E2:
 ; .strn "最後の来客者{line}{page}"
-  .strn "最后的访客{line}{page}"
+  .strn "最后的访客　{line}{page}"
 
 String0x0DD2F2:
 ; .strn "サヤカたちは４人で{line}おスシ屋さんで４種{line}類のスシを注文した{line}スシをにぎる職人も{line}４人で　サヤカたち{line}それぞれにスシを{line}にぎった　「誰」が{line}「どのスシ」を食ベ{line}「どの職人」が{line}そのスシをにぎったか{line}当ててみてくれ{line}{page}"
-  .strn "沙耶香和朋友４人{line}在寿司店点了４种寿司{line}店里寿司师傅也有４人{line}猜猜看是「哪位寿司{line}师傅」给「谁」捏了{line}「哪种寿司」吧{line}{line}{line}{line}{line}{line}{page}"
+  .strn "沙耶香和朋友４人在{line}寿司店点了４种寿司{line}寿司师傅也有４人　{line}猜猜看是　　　　　{line}「哪位寿司师傅」　{line}给「谁」捏了　　{line}「哪种寿司」吧　　{line}　　　　　　　　　{line}　　　　　　　{line}　　　　　　　　　　{line}　　　　　　　{line}{page}"
 
 String0x0DD3C8:
 ; .strn "・きよし「エリカは{line}トロのにぎりを{line}食ってないな」{line}{page}"
-  .strn "・清志：「绘里香吃的{line}不是金枪鱼寿司吧」{line}{line}{page}"
+  .strn "・清志：「绘里香　{line}吃的不是　　　{line}金枪鱼寿司」　{line}{page}"
 
 String0x0DD3FE:
 ; .strn "・あおい「オレは{line}タコとサバは{line}にぎってない」{line}{page}"
-  .strn "・苍井：「我没有捏{line}章鱼和{line}青花鱼寿司」{line}{page}"
+  .strn "・苍井：「我捏的{line}不是章鱼和　{line}青花鱼寿司」　{line}{page}"
 
 String0x0DD430:
 ; .strn "・のぶみち「マキは{line}サバを食ベていたな」{line}{page}"
-  .strn "・信道：「真木吃的{line}不是青花鱼寿司」{line}{page}"
+  .strn "・信道：「真木吃的{line}不是青花鱼寿司」　　{line}{page}"
 
 String0x0DD45C:
 ; .strn "・たかひろ「のぶみち{line}がタコをにぎってた」{line}{page}"
-  .strn "・贵广：「信道捏的是{line}章鱼寿司」{line}{page}"
+  .strn "・贵广：「信道捏的是{line}章鱼寿司」　　　　　{line}{page}"
 
 String0x0DD48A:
 ; .strn "・サヤカ「きよしか{line}のぶみちが　にぎった{line}スシを食ベた」{line}{page}"
-  .strn "・沙耶香：「我吃的是{line}清志或者信道{line}捏的寿司」{line}{page}"
+  .strn "・沙耶香：「我吃的{line}是清志或者信道　　　{line}捏的寿司」　　{line}{page}"
 
 String0x0DD4C6:
 ; .strn "・ノリコ「たかひろの{line}スシをマキが{line}食ベてた」{line}{page}"
-  .strn "・典子：「贵广捏的寿司{line}是真木吃的」{line}{page}"
+  .strn "・典子：「贵广的寿司{line}是真木吃的」{line}　　　　　{line}{page}"
 
 String0x0DD4F8:
 ; .strn "・エリカ「ノリコは{line}あおいのスシを{line}ほおばってた」{line}{page}"
-  .strn "・绘里香：「典子吃了{line}苍井捏的寿司」{line}{page}"
+  .strn "・绘里香：「典子　{line}吃的是　　　　{line}苍井捏的寿司」{line}{page}"
 
 String0x0DD52E:
 ; .strn "・マキ「ノリコの{line}食ベた　アジは{line}おいしそうだった」{line}{page}"
-  .strn "・真木：「典子吃的那个{line}竹荚鱼寿司{line}好像很好吃」{line}{page}"
+  .strn "・真木：「典子　{line}吃的竹荚鱼寿司{line}好像很好吃」　　　{line}{page}"
 
 String0x0DD566:
 ; .strn "おスシと職人{line}{page}"
-  .strn "寿司师傅{line}{page}"
+  .strn "寿司师傅　　{line}{page}"
 
 String0x0DD576:
 ; .strn "はやりの歌が４曲入っ{line}た　カセットテープが{line}あるが曲の題名などを{line}書いた紙を　なくして{line}しまった　テープを{line}聞いた人の話から{line}「歌のタイトル」と{line}「歌のジャンル」{line}それを歌う「歌手」と{line}テープに入っていた{line}「順番」を当ててみて{line}くれないかな{line}{page}"
-  .strn "磁带里录入了４首{line}流行音乐{line}但是记录着歌名{line}的纸条不见了{line}从听过磁带的人{line}证词里推理出{line}「歌名」{line}「歌曲类型」{line}「歌手」和{line}「顺序」吧！{line}{line}{line}{page}"
+  .strn "磁带里录入了４首　　{line}流行音乐　　　　　　{line}但是记录着歌名的　　{line}纸条不见了　　　　　{line}来从听过磁带的人　{line}证词里推理出　　{line}「歌名」　　　　　{line}「歌曲类型」　　{line}「歌手」　　　　　　{line}和「顺序」吧！　　{line}　　　　　　　　　　{line}　　　　　　{line}{page}"
 
 String0x0DD66A:
 ; .strn "・かがやく季節は{line}アニメの歌じゃないよ{line}{page}"
-  .strn "・光辉的季节{line}不是动漫歌曲啦{line}{page}"
+  .strn "・光辉的季节　　{line}不是动漫歌曲啦　　　{line}{page}"
 
 String0x0DD694:
 ; .strn "・４番目の歌を歌って{line}いるのは　まみか{line}ザ　モンキーだと思う{line}{page}"
-  .strn "・第４首歌我记得{line}歌手是麻美还是{line}查蒙奇来着{line}{page}"
+  .strn "・第４首歌我记得　　{line}歌手是麻美　　　{line}还是查蒙奇来着　　　{line}{page}"
 
 String0x0DD6D4:
 ; .strn "・１番目の歌はアニメ{line}の歌だけど　ザ　モン{line}キーの歌じゃないよね{line}{page}"
-  .strn "・第１首是个动漫歌曲{line}但不是查蒙奇唱的{line}{page}"
+  .strn "・第１首是个动漫歌曲{line}但不是查蒙奇唱的　　{line}　　　　　　　　　　{line}{page}"
 
 String0x0DD718:
 ; .strn "・４番目の歌は　どう{line}聞いても　演歌じゃ{line}ないでしょう{line}{page}"
-  .strn "・第４首歌{line}怎么听都不像是演歌{line}{line}{page}"
+  .strn "・第４首歌　　　　　{line}怎么听都不像是演歌{line}　　　　　　{line}{page}"
 
 String0x0DD752:
 ; .strn "・かがやく季節は{line}まみの歌だよ　彼女は{line}ロック歌手じゃないよ{line}{page}"
-  .strn "・光辉的季节{line}是麻美的歌哦{line}她可不是摇滚歌手啦{line}{page}"
+  .strn "・光辉的季节　　{line}是麻美的歌　　　　　{line}她可不是摇滚歌手哦　{line}{page}"
 
 String0x0DD792:
 ; .strn "・ザ　モンキーは{line}ラップは歌わないよ{line}{page}"
-  .strn "・查蒙奇不是做{line}说唱歌曲的{line}{page}"
+  .strn "・查蒙奇　　　　{line}不是做说唱歌曲的　{line}{page}"
 
 String0x0DD7BA:
 ; .strn "・３番目の曲名は{line}だんごの親子でしょう{line}演歌じゃないね{line}{page}"
-  .strn "・第３首歌叫{line}团子家族对吧{line}那不是演歌哦{line}{page}"
+  .strn "・第３首歌叫　　{line}团子家族　　　　　　{line}那不是演歌哦　{line}{page}"
 
 String0x0DD7F4:
 ; .strn "・２番目の歌の歌声は{line}ようこだ　題名は{line}かもね　だったよ{line}{page}"
-  .strn "・第二首歌{line}是洋子唱的{line}名字叫「也许吧」{line}{page}"
+  .strn "・第二首歌　　　　　{line}是洋子唱的　　　{line}名字叫「也许吧」{line}{page}"
 
 String0x0DD830:
 ; .strn "なんの歌かな？{line}{page}"
-  .strn "是什么歌啊？{line}{page}"
+  .strn "是什么歌啊？　{line}{page}"
 
 String0x0DD842:
 ; .strn "ある資産家の末っ子が{line}誘拐された{line}犯人から届いた{line}脅迫状には　１億円を{line}４つに分け　家族が{line}持って来いとあった{line}「誰」が「何色の{line}カバン」に「いくら」{line}入れて「どの場所」に{line}持って行けばいいか{line}推理してくれ{line}{page}"
-  .strn "某个有钱人家的{line}小儿子被绑架了{line}犯人寄来的恐吓信{line}要求让４位家人{line}在不同的地点交付{line}总计１亿日元的赎金{line}推理出「谁」{line}要拿着「什么颜色的包」{line}在「什么地方」{line}「交多少钱」吧{line}{line}{page}"
+  .strn "某个有钱人家的小儿子{line}被绑架了　{line}犯人寄的恐吓信{line}要求让４位家人　　　{line}在不同的地点交付　{line}总计１亿日元的赎金{line}推理出「谁」　　{line}要拿「什么颜色的包」{line}在「什么地方」　　　{line}「交多少钱」吧　　{line}　　　　　　{line}{page}"
 
 String0x0DD914:
 ; .strn "・姉は　黒いカバンを{line}持って　電話ボックス{line}に来い{line}{page}"
-  .strn "・姐姐要带着黑色的包{line}到电话亭来{line}{line}{page}"
+  .strn "・姐姐要带着黑色的包{line}到电话亭来　　　　　{line}　　　{line}{page}"
 
 String0x0DD94A:
 ; .strn "・二千万円は　トイレ{line}に持って来るな　母親{line}や兄にも持たせるな{line}{page}"
-  .strn "・两千万不是带到厕所{line}也不是让母亲{line}或者哥哥带来{line}{page}"
+  .strn "・两千万不要带到厕所{line}也不要让母亲或哥哥带{line}　　　　　　　　　{line}{page}"
 
 String0x0DD98C:
 ; .strn "・目立つと　困るから{line}父親や兄に　赤い{line}カバンを持たせるな{line}{page}"
-  .strn "・为了不那么显眼{line}父亲或哥哥{line}不许拿红色的包{line}{page}"
+  .strn "・为了不那么显眼　　{line}父亲或哥哥　　　{line}不许拿红色的包　　{line}{page}"
 
 String0x0DD9CA:
 ; .strn "・一千万円は　父親が{line}公園のべンチまで{line}持って来るんだ{line}{page}"
-  .strn "・一千万由父亲带到{line}公园的长椅来{line}{line}{page}"
+  .strn "・一千万由父亲带到　{line}公园的长椅来　　{line}　　　　　　　{line}{page}"
 
 String0x0DDA04:
 ; .strn "・四千万円を{line}コインロッカーに{line}持って来るな{line}{page}"
-  .strn "・四千万放到{line}车站的储存柜里{line}{line}{page}"
+  .strn "・四千万放到{line}车站的储存柜里　{line}　　　　　　{line}{page}"
 
 String0x0DDA34:
 ; .strn "・トイレやべンチに{line}青いカバンを{line}持って来るな{line}{page}"
-  .strn "・蓝色的包不要{line}带到卫生间{line}或者长椅这边来{line}{page}"
+  .strn "・蓝色的包不要　　{line}带到厕所　　{line}或者长椅这边{line}{page}"
 
 String0x0DDA66:
 ; .strn "身代金をはこベ{line}{page}"
-  .strn "交付赎金{line}{page}"
+  .strn "交付赎金　　　{line}{page}"
 
 String0x0DDA78:
 ; .strn "米花市の　高校　公園{line}ホテル　デパートの４{line}つの場所に　時限爆弾{line}を　仕掛けたと{line}テロリストの予告状{line}が届いた　爆弾は{line}それぞれのパスワード{line}で止めることができる{line}「どこの爆弾」が{line}「何時」に爆発し{line}「どのパスワード」で{line}止めることができる？{line}{page}"
-  .strn "米花市的高中、公园、{line}酒店和百货大楼{line}被安装了定时炸弹{line}恐怖分子寄来了预告函{line}炸弹可以分别{line}用密码来解除{line}「哪个炸弹」{line}「什么时候爆炸」{line}用「什么密码」{line}能解除呢？{line}{line}{line}{page}"
+  .strn "米花市的高中、公园、{line}酒店和百货大楼　　　{line}被安装了定时炸弹　　{line}恐怖分子　　　{line}寄来了预告函　　　{line}炸弹可以分别　　{line}用密码来解除　　　　{line}所以「哪个炸弹」　　{line}「什么时候爆炸」{line}用「什么密码」　{line}能解除呢？　　　　　{line}　　　　　　　　　　{line}{page}"
 
 String0x0DDB6E:
 ; .strn "・公園の爆弾を{line}止めるパスワードは{line}マーブルではない{line}{page}"
-  .strn "・公园那颗炸弹的{line}密码不是马布尔{line}{line}{page}"
+  .strn "・公园那颗炸弹{line}密码不是马布尔　　{line}　　　　　　　　{line}{page}"
 
 String0x0DDBA6:
 ; .strn "・高校の爆弾を{line}止める　パスワードは{line}ホームズかマーブル{line}{page}"
-  .strn "・高中那颗炸弹的{line}密码是福尔摩斯{line}或者马布尔{line}{page}"
+  .strn "・高中那颗炸弹{line}密码是福尔摩斯　　　{line}或者马布尔　　　　{line}{page}"
 
 String0x0DDBE2:
 ; .strn "・ホテルの爆弾を{line}止める　パスワードは{line}ルパンだ{line}{page}"
-  .strn "・酒店那颗炸弹的{line}密码是鲁邦{line}{line}{page}"
+  .strn "・酒店那颗炸弹的{line}密码是鲁邦　　　　　{line}　　　　{line}{page}"
 
 String0x0DDC16:
 ; .strn "・デパートの爆弾は{line}ポアロの　パスワード{line}では止められない{line}{page}"
-  .strn "・百货大楼的那颗炸弹{line}用波罗这个密码{line}是解除不了的{line}{page}"
+  .strn "・百货大楼的炸弹　{line}密码不是波洛　　　　{line}　　　　　　　　{line}{page}"
 
 String0x0DDC54:
 ; .strn "・３時に爆発する{line}爆弾を止める{line}パスワードはマーブル{line}{page}"
-  .strn "・３点爆炸的那颗{line}炸弹的密码是{line}马布尔{line}{page}"
+  .strn "・３点爆炸的那颗{line}炸弹的密码是{line}马布尔　　　　　　　{line}{page}"
 
 String0x0DDC8C:
 ; .strn "・デパートの爆弾は{line}最初に爆発しない{line}{page}"
-  .strn "・酒店的炸弹不会{line}第一个爆炸{line}{page}"
+  .strn "・酒店的炸弹不会　{line}第一个爆炸　　　{line}{page}"
 
 String0x0DDCB4:
 ; .strn "・公園の爆弾は{line}２時か４時に爆発する{line}{page}"
-  .strn "・公园的炸弹{line}是在２点还是４点呢{line}{page}"
+  .strn "・公园的炸弹　{line}是在２点还是４点呢　{line}{page}"
 
 String0x0DDCDC:
 ; .strn "・ホテルの爆弾は最後{line}に爆発する{line}{page}"
-  .strn "・酒店的炸弹{line}会在最后爆炸哦{line}{page}"
+  .strn "・酒店的炸弹会在　　{line}最后爆炸哦{line}{page}"
 
 String0x0DDD00:
 ; .strn "ばくは予告事件{line}{page}"
@@ -2267,147 +2267,147 @@ String0x0DDD00:
 
 String0x0DDD12:
 ; .strn "当たると評判の占い屋{line}ここでは４人の占い師{line}が　それぞれ東西南北{line}と書かれた部屋で{line}星占い　タロット{line}手相　人相で占う{line}「どの占い」が{line}「どの部屋」で{line}占いの「人気は何番」{line}か　みんなの話から{line}推理してみてくれ{line}{page}"
-  .strn "在一间很受欢迎的{line}占卜店里有４名占卜师{line}他们分别在东西南北{line}四间屋子里使用占星术、{line}塔罗牌、看手相、{line}看面相来为人占卜{line}通过大家的对话{line}来推理「哪种占卜」{line}在「哪个房间」{line}「人气排第几吧」{line}{line}{page}"
+  .strn "在一间很受欢迎的　　{line}占卜店里有４名占卜师{line}他们分别在东西南北　{line}四间屋子里　　　{line}使用占星术、　　{line}塔罗牌、看手相、{line}看面相来占卜　{line}通过大家的对话{line}来推理「哪种占卜」　{line}在「哪个房间」　　{line}「人气排第几吧」{line}{page}"
 
 String0x0DDDE8:
 ; .strn "・東の部屋が一番当た{line}ると　評判らしいよ{line}{page}"
-  .strn "・东房间好像是占卜{line}之中最佳的哦{line}{page}"
+  .strn "・东房间好像是占卜里{line}人气最佳的哦　　　{line}{page}"
 
 String0x0DDE14:
 ; .strn "・南の部屋は星占い{line}じゃなかったわ{line}{page}"
-  .strn "・南房间不是占星术{line}占卜的那位{line}{page}"
+  .strn "・南房间的不是　　{line}占星术占卜　　{line}{page}"
 
 String0x0DDE3A:
 ; .strn "・北の部屋は西ほど{line}人気はない{line}{page}"
-  .strn "・北房间的人气不如{line}西房间{line}{page}"
+  .strn "・北房间的人气不如{line}西房间　　{line}{page}"
 
 String0x0DDE5C:
 ; .strn "・星占いはタロット{line}占いの次に人気よ{line}{page}"
-  .strn "・占星术的人气{line}仅次于塔罗牌{line}{page}"
+  .strn "・占星术的人气　　{line}仅次于塔罗牌　　{line}{page}"
 
 String0x0DDE84:
 ; .strn "・北と東の部屋から{line}出て来た人がタロット{line}と人相の話をしていた{line}{page}"
-  .strn "・北、东房间里出来的人{line}在谈论着塔罗牌和{line}面相的话题{line}{page}"
+  .strn "・北、东房间里　　{line}出来的人在谈论着　　{line}塔罗牌和面相　　　　{line}{page}"
 
 String0x0DDEC6:
 ; .strn "・星占いは２番人気{line}なんだって{line}{page}"
-  .strn "・占星术的人气排第２{line}{page}"
+  .strn "・占星术的人气　　{line}排第２　　{line}{page}"
 
 String0x0DDEE8:
 ; .strn "・手相占いは　人相{line}占いより当たらない{line}らしい{line}{page}"
-  .strn "・看手相的好像{line}不如看面相的{line}{page}"
+  .strn "・看手相的好像　　{line}不如看面相的　　　{line}　　　{line}{page}"
 
 String0x0DDF1A:
 ; .strn "・確か南の部屋より北{line}の方が当たるよ　でも{line}北は３番人気だけどね{line}{page}"
-  .strn "・北房间比南房间更好{line}虽然北房间的人气{line}也只排第３啦{line}{page}"
+  .strn "・北房间比南房间更好{line}虽然北房间的人气　　{line}也只排第３啦　　　　{line}{page}"
 
 String0x0DDF5E:
 ; .strn "占いのやかた{line}{page}"
-  .strn "占卜的方法{line}{page}"
+  .strn "占卜的位置　{line}{page}"
 
 String0x0DDF6E:
 ; .strn "ある家の主人が{line}毒殺された　主人が{line}飲んだものの中に{line}毒が入っていたらしい{line}「いつ」「どの場所」{line}で「何色のカップ」{line}を使って「何を{line}飲んだ」かを{line}メイドの証言から{line}推理してみてくれ{line}{page}"
-  .strn "某家的主人被毒杀了{line}从主人喝的东西中{line}检测出了毒药{line}从女仆的证词中{line}推理出主人{line}「什么时候」{line}在「什么地方」{line}用「什么颜色的杯子」{line}「喝了什么」吧{line}{line}{page}"
+  .strn "某家的主人　　{line}被毒杀了　　　　　{line}从主人喝的东西中{line}检测出了毒药　　　　{line}从女仆的证词中　　　{line}推理出主人　　　　{line}是「什么时候」{line}在「哪里」用{line}「什么颜色杯子」{line}「喝了什么」吧　{line}{page}"
 
 String0x0DE028:
 ; .strn "・赤いのは　紅茶を飲{line}むためのカップで{line}他のものは入れません{line}{page}"
-  .strn "・红色杯子{line}是喝红茶专用的{line}从不会倒其他的东西{line}{page}"
+  .strn "・红色杯子　　　　　{line}是喝红茶专用的　{line}不会倒其他东西　　　{line}{page}"
 
 String0x0DE068:
 ; .strn "・食堂ではホット{line}ミルクを飲むことに{line}なっていました{line}{page}"
-  .strn "・在餐厅{line}主人喝过热牛奶{line}{page}"
+  .strn "・在餐厅　　　　{line}主人喝过热牛奶　　{line}　　　　　　　{line}{page}"
 
 String0x0DE0A0:
 ; .strn "・白いカップには{line}コーヒーを入れて{line}お昼に飲んだのです{line}{page}"
-  .strn "・主人在上午{line}用白色的杯子喝过咖啡{line}{line}{page}"
+  .strn "・主人在上午　　{line}用白色的杯子　　{line}喝过咖啡　　　　　{line}{page}"
 
 String0x0DE0DA:
 ; .strn "・朝は　べッドの中で{line}何か１ぱい飲んで{line}おられました{line}{page}"
-  .strn "・主人早上好像{line}在床上喝过一杯{line}什么{line}{page}"
+  .strn "・主人早上好像　　　{line}在床上喝过一杯　{line}　　　　　　{line}{page}"
 
 String0x0DE112:
 ; .strn "・黒いカップは　朝も{line}夜も使わないことに{line}なっています{line}{page}"
-  .strn "・黑色的那个杯子{line}早上和晚上都不会用{line}{page}"
+  .strn "・黑色的那个杯子　　{line}早上和晚上都不会用{line}　　　　　　{line}{page}"
 
 String0x0DE14C:
 ; .strn "・番茶は　緑のカップ{line}には　いれないように{line}していました{line}{page}"
-  .strn "・绿茶不会用{line}绿色的杯子来装{line}{page}"
+  .strn "・绿茶不会用　　　　{line}绿色的杯子来装　　　{line}　　　　　　{line}{page}"
 
 String0x0DE188:
 ; .strn "・リビングルームで{line}飲んでいたのは{line}番茶ではありません{line}{page}"
-  .strn "・在客厅喝的那杯{line}不是绿茶{line}{page}"
+  .strn "・在客厅喝的那杯　{line}不是绿茶　　　{line}　　　　　　　　　{line}{page}"
 
 String0x0DE1C2:
 ; .strn "毒いりカップ{line}{page}"
-  .strn "涂毒杯子{line}{page}"
+  .strn "涂毒杯子　　{line}{page}"
 
 String0x0DE1D2:
 ; .strn "冬の日の深夜　米花市{line}で１時間おきに　４回{line}の放火事件が起きた{line}間もなく　放火をした{line}容疑者が４人捕まった{line}「誰」が「何時」に{line}「どの場所」で{line}「何に火をつけた」か{line}わかるかな？{line}{page}"
-  .strn "在某个冬天的夜晚{line}米花市每隔１个小时{line}发生了４起纵火案{line}很快有４个嫌疑人被捕{line}「谁」在「什么时候」{line}在「什么地方」{line}「把什么点着了」呢{line}{line}{line}{page}"
+  .strn "在某个冬天的夜晚　　{line}米花市每隔１个小时　{line}共发生了４起纵火案{line}很快有４个嫌疑人被捕{line}那么是「谁」在　　　{line}「什么时候」　　　{line}在「什么地方」{line}「把什么点着」了呢？{line}　　　　　　{line}{page}"
 
 String0x0DE288:
 ; .strn "・アパートが燃えた{line}のは３時だが　それは{line}桑原ではない{line}{page}"
-  .strn "・住宅是３点着火的{line}但不是桑原干的{line}{page}"
+  .strn "・住宅是３点着火的{line}但不是桑原干的　　　{line}　　　　　　{line}{page}"
 
 String0x0DE2C2:
 ; .strn "・中原は　車に火を{line}つけた{line}{page}"
-  .strn "・中原放火点着了{line}一辆车{line}{page}"
+  .strn "・中原放火点着了　{line}一辆车{line}{page}"
 
 String0x0DE2E0:
 ; .strn "・スーパーでビニール{line}が燃えたが　それは{line}１時ではない{line}{page}"
-  .strn "・超市塑料袋{line}被点燃那件事{line}不是在１点发生的{line}{page}"
+  .strn "・超市塑料袋　　　　{line}不是在１点被点燃的{line}　　　　　　{line}{page}"
 
 String0x0DE31A:
 ; .strn "・江畑は　学校で放火{line}した　燃えたのは{line}ごみ箱ではない{line}{page}"
-  .strn "・江畑在学校了纵火{line}但着火的不是垃圾箱{line}{page}"
+  .strn "・江畑在学校了纵火　{line}但着火的　　　　{line}不是垃圾箱　　{line}{page}"
 
 String0x0DE354:
 ; .strn "・野口の犯行は{line}１２時だった{line}{page}"
-  .strn "・野口是在１２点{line}纵火的{line}{page}"
+  .strn "・野口是在　　{line}１２点纵火的{line}{page}"
 
 String0x0DE374:
 ; .strn "・桑原が放火したの{line}は銀行ではない{line}{page}"
-  .strn "・桑原纵火的地方{line}不是银行{line}{page}"
+  .strn "・桑原纵火的地方　{line}不是银行　　　{line}{page}"
 
 String0x0DE39A:
 ; .strn "放火犯はだれ？{line}{page}"
-  .strn "纵火犯人是？{line}{page}"
+  .strn "纵火犯人是？　{line}{page}"
 
 String0x0DE3AC:
 ; .strn "今日空き巣が捕まった{line}取り調ベを進めると{line}近ごろ起きていた{line}空き巣事件と　同一犯{line}だとわかった{line}「犯行日」と{line}「被害者」と{line}「被害金額」　そして{line}「盗まれたもの」を{line}わりだしてくれ！{line}{page}"
-  .strn "经过调查{line}今天抓住的{line}闯空门犯人还犯下了{line}其他几件闯空门案件{line}搞清楚「日期」{line}「受害人」{line}「被盗金额」和{line}「被盗物品」吧！{line}{line}{line}{page}"
+  .strn "经过调查　　　　　　{line}今天抓住的　　　　{line}闯空门犯人　　　{line}还犯下了其他几件　　{line}闯空门案件　{line}来搞清楚　　{line}「日期」　　{line}「受害人」　　　　　{line}「被盗金额」和　　{line}「被盗物品」吧！{line}{page}"
 
 String0x0DE466:
 ; .strn "・医者の家からとった{line}のは金券だよ{line}{page}"
-  .strn "・在医生家{line}偷的是证券{line}{page}"
+  .strn "・在医生家　　　　　{line}偷的是证券　{line}{page}"
 
 String0x0DE48C:
 ; .strn "・つぼは５日前に手に{line}入れたぜ{line}{page}"
-  .strn "・壶是在５天前{line}偷到的{line}{page}"
+  .strn "・壶是在５天前偷到的{line}　　　　{line}{page}"
 
 String0x0DE4AE:
 ; .strn "・一番高かったのは{line}ダイヤだったな{line}{page}"
-  .strn "・最贵的东西是{line}那颗钻石{line}{page}"
+  .strn "・最贵的东西是　　{line}那颗钻石　　　{line}{page}"
 
 String0x0DE4D4:
 ; .strn "・俳優からは５万しか{line}とれなかった{line}{page}"
-  .strn "・在演员家只偷到了{line}５万日元{line}{page}"
+  .strn "・在演员家只偷到了　{line}５万日元　　{line}{page}"
 
 String0x0DE4FA:
 ; .strn "・今日入ったのは確か{line}弁護士の家だったな{line}{page}"
-  .strn "・今天潜入的是律师家{line}{line}{page}"
+  .strn "・今天潜入的是律师家{line}　　　　　　　　　{line}{page}"
 
 String0x0DE526:
 ; .strn "・昨日は３０万の{line}かせぎがあり{line}まずまずの仕事だった{line}{page}"
-  .strn "・昨天搞到手了{line}３０万日元{line}还不错{line}{page}"
+  .strn "・昨天搞到手了　{line}３０万日元　{line}还不错　　　　　　　{line}{page}"
 
 String0x0DE55E:
 ; .strn "・教師からは１５万も{line}とれなかった{line}{page}"
-  .strn "・从教师那里搞到了{line}１５万日元{line}{page}"
+  .strn "・从教师那里搞到了　{line}１５万日元　{line}{page}"
 
 String0x0DE584:
 ; .strn "・俳優の家に入った{line}のは教師より前だった{line}{page}"
-  .strn "・潜入演员家是在{line}潜入教师家之前{line}{page}"
+  .strn "・潜入演员家是在　{line}潜入教师家之前　　　{line}{page}"
 
 String0x0DE5B0:
 ; .strn "空き巣の余罪{line}{page}"
@@ -2415,31 +2415,31 @@ String0x0DE5B0:
 
 String0x0DE5C0:
 ; .strn "警察が犯罪者グループ{line}の一員を捕まえた{line}男の話によると{line}メンバーはあと４人{line}いるらしいが{line}全員の居場所は{line}覚えていない{line}「誰」が「何丁目」の{line}「どのアジト」に{line}隠れているかを{line}男の話から推理しよう{line}{page}"
-  .strn "警察逮捕了{line}某犯罪集团成员{line}审问出还有{line}另外４名犯罪分子{line}但不记得{line}全员的所在{line}根据证词推断{line}「谁」藏在{line}「几丁目」的{line}「几号安全屋」吧{line}{line}{page}"
+  .strn "警察逮捕了　　　　　{line}某犯罪集团成员　{line}审问出还有　　{line}另外４名犯罪分子　{line}但记不清全员{line}具体的所在地了{line}根据证词　　{line}来推断出　　　　　　{line}「谁」藏在　　　{line}「几丁目」的　{line}「几号安全屋」吧　　{line}{page}"
 
 String0x0DE688:
 ; .strn "・米花１丁目には{line}河合か河口がいる{line}{page}"
-  .strn "・藏在米花１丁目的{line}是河合或者河口{line}{page}"
+  .strn "・米花１丁目藏的{line}是河合或者河口　{line}{page}"
 
 String0x0DE6AE:
 ; .strn "・米花３丁目にあるの{line}はアジト１号かアジト{line}２号のどちらかだ{line}{page}"
-  .strn "・米花３丁目的那间{line}是１号安全屋或者{line}２号安全屋{line}{page}"
+  .strn "・米花３丁目的那间　{line}是１号或者２号安全屋{line}　　　　　　　　{line}{page}"
 
 String0x0DE6EE:
 ; .strn "・河口は　間違いなく{line}アジト３号にいる{line}{page}"
-  .strn "・河口肯定是藏在{line}３号安全屋里{line}{page}"
+  .strn "・河口肯定是藏在　　{line}３号安全屋里　　{line}{page}"
 
 String0x0DE718:
 ; .strn "・豊田はとなり町には{line}いないぜ{line}{page}"
-  .strn "・丰田没藏在隔壁街区{line}{page}"
+  .strn "・丰田没藏在隔壁街区{line}　　　　{line}{page}"
 
 String0x0DE73A:
 ; .strn "・アジト２号があるの{line}は米花２丁目か{line}となり町のどちらかだ{line}{page}"
-  .strn "・２号安全屋{line}是在米花２丁目{line}还是隔壁街区来着{line}{page}"
+  .strn "・２号安全屋　　　　{line}是在米花２丁目{line}或者隔壁街区　　　　{line}{page}"
 
 String0x0DE778:
 ; .strn "・沖田は新入りだから{line}アジト４号の場所は{line}知らないんだ{line}{page}"
-  .strn "・冲田还是个新人{line}所以他不知道４号{line}安全屋的地址{line}{page}"
+  .strn "・冲田还是个新人　　{line}还不知道４号安全屋{line}在哪里　　　{line}{page}"
 
 String0x0DE7B2:
 ; .strn "・河合がいるのは{line}米花２丁目だな{line}{page}"
@@ -2447,71 +2447,71 @@ String0x0DE7B2:
 
 String0x0DE7D6:
 ; .strn "仲間はどこに？{line}{page}"
-  .strn "藏身之所{line}{page}"
+  .strn "伙伴藏身之所？{line}{page}"
 
 String0x0DE7E8:
 ; .strn "カジノバーで　ギャン{line}ブルをしていた　赤井{line}青野　黄島　黒崎{line}という４人のチンピラ{line}が　とばくの容疑で{line}警察に　捕まった{line}４人の証言から{line}「誰」が「どのギャン{line}ブル」をして{line}「チップをいくら」{line}もうけたか推理しよう{line}{page}"
-  .strn "在赌场赌钱的{line}４个小混混{line}赤井、青野、黄岛、{line}黑崎被警察逮捕了{line}根据证词推理出{line}「谁」进行了{line}「什么赌博」{line}「得到了多少筹码」吧！{line}{line}{line}{line}{page}"
+  .strn "在赌场赌钱的　　　　{line}４个小混混　　　　　{line}赤井、青野、黄岛{line}还有黑崎被警察逮捕了{line}根据证词来推理出　{line}「谁」进行了　　{line}「什么赌博」　{line}「得到了多少筹码」吧{line}　　　　　　{line}　　　　　　　　　{line}　　　　　　　　　　{line}{page}"
 
 String0x0DE8C2:
 ; .strn "・赤井は　スロットも{line}ポーカーも　して{line}いない{line}{page}"
-  .strn "・赤井没玩老虎机{line}也没玩扑克{line}{line}{page}"
+  .strn "・赤井玩的不是老虎机{line}也不是扑克　　　{line}　　　{line}{page}"
 
 String0x0DE8F4:
 ; .strn "・青野は　ポーカーを{line}していた{line}{page}"
-  .strn "・青野玩的是扑克{line}{page}"
+  .strn "・青野玩的是扑克　　{line}　　　　{line}{page}"
 
 String0x0DE916:
 ; .strn "・黄島は　スロットを{line}していなかった{line}{page}"
-  .strn "・黄岛没玩老虎机{line}{page}"
+  .strn "・黄岛玩的不是老虎机{line}　　　　　　　{line}{page}"
 
 String0x0DE93E:
 ; .strn "・バカラよりは{line}ルーレットが{line}もうかった{line}{page}"
-  .strn "・比起百家乐{line}轮盘要更赚啊{line}{page}"
+  .strn "・比起百家乐　{line}轮盘要更赚啊{line}　　　　　{line}{page}"
 
 String0x0DE96A:
 ; .strn "・青野は　スロットを{line}していたヤツより{line}もうけた{line}{page}"
-  .strn "・青野比那个玩{line}老虎机的家伙{line}赚得更多{line}{page}"
+  .strn "・青野比那个　　　　{line}玩老虎机的家伙　{line}赚得更多{line}{page}"
 
 String0x0DE99E:
 ; .strn "・バカラをしていた{line}ヤツのもうけは{line}一番少なかった{line}{page}"
-  .strn "・玩百家乐的{line}那个人赚得最少{line}{line}{page}"
+  .strn "・玩百家乐的　　　{line}那个人赚得最少{line}　　　　　　　{line}{page}"
 
 String0x0DE9D4:
 ; .strn "・スロットで３００{line}かせいだヤツが{line}いた{line}{page}"
-  .strn "・有人用老虎机{line}赚到了３００筹码{line}{line}{page}"
+  .strn "・有人用老虎机赚了{line}３００筹码　　{line}　　{line}{page}"
 
 String0x0DEA00:
 ; .strn "・赤井のもうけは{line}黄島よりも{line}少なかった{line}{page}"
-  .strn "・赤井赚到的筹码{line}比黄岛的更少{line}{line}{page}"
+  .strn "・赤井赚到的筹码{line}比黄岛要少{line}　　　　　{line}{page}"
 
 String0x0DEA2C:
 ; .strn "カジノバー事件{line}{page}"
-  .strn "赌博酒吧事件{line}{page}"
+  .strn "赌博酒吧事件　{line}{page}"
 
 String0x0DEA3E:
 ; .strn "はるか　なつみ　あき{line}え　ふゆこの４人はそ{line}れぞれ月曜から木曜日{line}の間の別々の日に{line}彼氏とデートした{line}彼の名前は　ひでき{line}さとる　よういち{line}てっペい　浮気を{line}している人はいない{line}「誰」が「誰の彼」で{line}「何曜日にデートした」{line}か推理してくれ{line}{page}"
-  .strn "春香、夏实、{line}秋绘、冬子４人{line}从周一到周四{line}分别跟男朋友约会{line}男朋友们的名字分别是{line}秀树、聪、{line}{line}洋一、折平{line}四人都是一一对应{line}来推理出{line}「谁」的「男友是谁」{line}在「哪一天约会」吧{line}{page}"
+  .strn "春香、夏实、　　　　{line}秋绘、冬子４人　　　{line}从周一到周四　　　　{line}分别跟男朋友约会{line}男友们名字分别是{line}秀树、聪、　　　　{line}洋一、折平　　　{line}四人都是一一对应{line}来推理出「谁」的　{line}「男友是谁」　　　　{line}在「哪一天约会」吧　　{line}　　　　　　　{line}{page}"
 
 String0x0DEB30:
 ; .strn "・なつみは月曜日に{line}デートしたの{line}{page}"
-  .strn "・夏实是在周一约会{line}{line}{page}"
+  .strn "・夏实是在周一约会{line}　　　　　　{line}{page}"
 
 String0x0DEB54:
 ; .strn "・水曜日にさとるくん{line}がデートしてるのを{line}見たわ{line}{page}"
-  .strn "・周三我看见{line}聪在约会哦{line}{line}{page}"
+  .strn "・周三我看见　　　　{line}聪在约会　　　　　{line}　　　{line}{page}"
 
 String0x0DEB88:
 ; .strn "・はるかの彼は{line}よういちくんなの{line}{page}"
-  .strn "・春香的男朋友{line}是洋一哦{line}{page}"
+  .strn "・春香的男朋友{line}是洋一　　　　　{line}{page}"
 
 String0x0DEBAC:
 ; .strn "・さとるくんの彼女は{line}ふゆこじゃないわ{line}{page}"
-  .strn "・聪的女朋友{line}不是冬子哦{line}{page}"
+  .strn "・聪的女朋友　　　　{line}不是冬子　　　　{line}{page}"
 
 String0x0DEBD6:
 ; .strn "・てっペいくんがデー{line}トした次の日に　ひで{line}きくんはデートしたの{line}{page}"
-  .strn "・在折平约会的第二天{line}秀树也去约会了{line}{line}{page}"
+  .strn "・在折平约会的第二天{line}秀树也去约会了　　　{line}　　　　　　　　　　{line}{page}"
 
 String0x0DEC1A:
 ; .strn "ウキウキデート{line}{page}"
@@ -2519,35 +2519,35 @@ String0x0DEC1A:
 
 String0x0DEC2C:
 ; .strn "今日は帝丹高校卓球部{line}のナナの誕生日で{line}ロッカー　クツ{line}カバン　ジャージ{line}の中に　部員４人が{line}プレゼントを入れた{line}「誰」が「どの場所」{line}に「どのプレゼント」{line}を「どの順番」で{line}置いたか　わかるかな{line}{page}"
-  .strn "帝丹高中乒乓球部的{line}奈奈今天过生日{line}其他４名部员在储{line}物柜，鞋子，包包{line}和运动服里{line}藏起了生日礼物{line}你能猜出「{line}谁」在「什么地方」{line}按「什么顺序」{line}藏起了「什么礼物」{line}吗？{line}{page}"
+  .strn "帝丹高中乒乓球部的　{line}奈奈今天过生日{line}其他４名部员在　{line}储物柜、鞋子、　{line}包包和运动服里　　{line}藏起了生日礼物　　{line}你能猜出「谁」　　　{line}在「什么地方」　　　{line}按「什么顺序」　{line}藏了「什么礼物」吗　{line}{page}"
 
 String0x0DECF4:
 ; .strn "・マイコ「私が来た時{line}アユミは　まだ{line}来ていなかった」{line}{page}"
-  .strn "・舞子：{line}「我来的时候{line}步美还没有到哦」{line}{line}{page}"
+  .strn "・舞子：「我来的时候{line}步美还没有到」{line}　　　　　　　　{line}{page}"
 
 String0x0DED2E:
 ; .strn "・ユウコ「シールは{line}最後に　登校した人{line}が貼ったんだって」{line}{page}"
-  .strn "・夕子：{line}「贴纸是最后一个来{line}学校的人贴的」{line}{page}"
+  .strn "・夕子：　　　　　{line}「贴纸是最后一个来{line}学校的人贴的」　　{line}{page}"
 
 String0x0DED6C:
 ; .strn "・アユミ「ナナのクツ{line}を見たら　時計が{line}入っていた」{line}{page}"
-  .strn "・步美：「看到奈奈的{line}鞋子的时候{line}里面放着手表」{line}{page}"
+  .strn "・步美：「我看奈奈的{line}鞋子里放着手表」{line}　　　　　　{line}{page}"
 
 String0x0DEDA4:
 ; .strn "・ナツコ「私が来た時{line}３人が　準備運動を{line}始めていたよ」{line}{page}"
-  .strn "・奈津子：「我来的时候{line}已经有３个人在做{line}准备运动了」{line}{page}"
+  .strn "・奈津子：「我来那会{line}已经有３个人在　　{line}做准备运动了」{line}{page}"
 
 String0x0DEDE0:
 ; .strn "・マイコ「ジャージの{line}胸につけちゃった」{line}{page}"
-  .strn "・舞子：「我放在运动服{line}的胸口了」{line}{page}"
+  .strn "・舞子：「我放在　　{line}运动服的胸口了」　{line}{page}"
 
 String0x0DEE0C:
 ; .strn "・ユウコ「私が来た時{line}花があったわよ」{line}{page}"
-  .strn "・夕子：「我来的时候看{line}见花束了」{line}{page}"
+  .strn "・夕子：「我来的时候{line}看见花束了」　　{line}{page}"
 
 String0x0DEE36:
 ; .strn "・ナツコ「ロッカー{line}に入れたのは　私」{line}{page}"
-  .strn "・奈津子：「我的礼物{line}放进了储物柜里」{line}{page}"
+  .strn "・奈津子：「礼物　{line}我放进了储物柜里」{line}{page}"
 
 String0x0DEE60:
 ; .strn "送り主はだれ？{line}{page}"
@@ -2555,23 +2555,23 @@ String0x0DEE60:
 
 String0x0DEE72:
 ; .strn "ある女の子が　好きな{line}人が４人もいて困って{line}いる　４人ともスポー{line}ツマンで　彼女には{line}順位がつけられない{line}彼女のひとり言から{line}彼女が「何部」の{line}「誰」のことを{line}「何番目」に好き{line}なのか　気づかせて{line}やってほしい{line}{page}"
-  .strn "女孩喜欢上了４个男孩{line}４个男孩都是{line}体育社团的学生{line}从她的评价中{line}分析出她{line}「第几喜欢」{line}「什么部的」{line}「谁」{line}吧{line}{line}{line}{page}"
+  .strn "女孩喜欢上了４个男孩{line}４个男孩都是　　　　{line}体育社团的学生　　　{line}从她的评价中　　　{line}来分析出她　　　　{line}是「第几喜欢」　　{line}「什么部的」　　{line}「谁」吧　　　{line}　　　　　　　　{line}　　　　　　　　　{line}　　　　　　{line}{page}"
 
 String0x0DEF48:
 ; .strn "・１番好きな人は{line}名前に「まつ」が{line}つく人だな{line}{page}"
-  .strn "・第１喜欢的人{line}名字里有一个{line}「松」字哦{line}{page}"
+  .strn "・第１喜欢的人　{line}名字里有一个　　{line}「松”字哦{line}{page}"
 
 String0x0DEF7A:
 ; .strn "・３番めに好きな人は{line}球技をしている人かな{line}{page}"
-  .strn "・第３喜欢的人从事{line}球类运动{line}{page}"
+  .strn "・第３喜欢的人　　　{line}从事的是球类运动　　{line}{page}"
 
 String0x0DEFA8:
 ; .strn "・水泳部の松下くんも{line}ステキよね{line}{page}"
-  .strn "・游泳部的松下真的{line}很帅气呢{line}{page}"
+  .strn "・游泳部的松下真的　{line}很帅气呢　{line}{page}"
 
 String0x0DEFCC:
 ; .strn "・大滝くんは{line}ビリじゃないわね{line}{page}"
-  .strn "・大泷倒也不{line}是排在最后的那个{line}{page}"
+  .strn "・大泷也不是{line}排在最后的那个啦{line}{page}"
 
 String0x0DEFEE:
 ; .strn "・野球部の人は２番か{line}４番か迷うな〜{line}{page}"
@@ -2579,11 +2579,11 @@ String0x0DEFEE:
 
 String0x0DF016:
 ; .strn "・小松くんは２番目に{line}決定！{line}{page}"
-  .strn "・小松就排第２吧！{line}{line}{page}"
+  .strn "・小松就排第２吧！　{line}　　　{line}{page}"
 
 String0x0DF036:
 ; .strn "・大野くんは剣道部{line}じゃないわね{line}{page}"
-  .strn "・大野不是剑道部的{line}{line}{page}"
+  .strn "・大野不是剑道部的{line}　　　　　　{line}{page}"
 
 String0x0DF05A:
 ; .strn "恋人選び{line}{page}"
@@ -2591,191 +2591,191 @@ String0x0DF05A:
 
 String0x0DF066:
 ; .strn "引退した刑事が　昔の{line}殺人事件について{line}思い出している{line}「そういえば　２人組{line}の犯人がおこした事件{line}が４つあったな…」{line}さて「誰と誰が共犯」{line}で「何年前」に{line}「どんな手口」で{line}殺人を犯したのか{line}推理してみよう{line}{page}"
-  .strn "退休警察回忆起{line}从前的杀人事件{line}「说起来有４起{line}凶手是２人一组的{line}杀人案啊」{line}推理出{line}「谁和谁一组」{line}在「几年前」{line}通过{line}「怎样的手段」{line}犯下了杀人案吧{line}{page}"
+  .strn "退休警察回忆起　　　{line}从前的杀人事件　{line}「说起来有４起{line}凶手是２人一组的　　{line}杀人案啊…」　　　　{line}来推理出　　　　　{line}「谁和谁一组」　　　{line}在「几年前」　{line}是通过　　　　　{line}「怎样的手段」　{line}犯下了杀人案吧{line}{page}"
 
 String0x0DF13A:
 ; .strn "・山形は宮城と組んで{line}いたな　殺された人は{line}気の毒に…{line}{page}"
-  .strn "・山形跟宫城是一组的{line}真为受害人感到惋惜…{line}{line}{page}"
+  .strn "・山形跟宫城是一组的{line}真为受害人感到惋惜…{line}　　　　　{line}{page}"
 
 String0x0DF174:
 ; .strn "・今年は２人で首を{line}しめて殺した{line}事件があった{line}{page}"
-  .strn "・今年有２起{line}受害人被勒死{line}的杀人案{line}{page}"
+  .strn "・今年有２起杀人案{line}受害人被勒死{line}　　　　　　{line}{page}"
 
 String0x0DF1A6:
 ; .strn "・殺人みすいに終わっ{line}た事件は　山口の殺人{line}の３年前にあった{line}{page}"
-  .strn "・杀人未遂那起案件{line}是「山口杀人案」{line}是３年前发生的{line}{page}"
+  .strn "・杀人未遂那起案件　{line}是“山口杀人案”　　{line}是３年前发生的{line}{page}"
 
 String0x0DF1E6:
 ; .strn "・名前の上２文字が同{line}じ人物が　共犯だった{line}ことはなかったな{line}{page}"
-  .strn "・名字里{line}有２个字相同的人{line}不是共犯{line}{page}"
+  .strn "・名字里　　　　　　{line}有２个字相同的人　　{line}不是共犯　　　　{line}{page}"
 
 String0x0DF226:
 ; .strn "・香川が　殺人を犯し{line}たのは今年ではない{line}{page}"
-  .strn "・香川犯下的杀人案{line}不是今年发生的{line}{page}"
+  .strn "・香川犯下的杀人案　{line}不是今年发生的　　{line}{page}"
 
 String0x0DF252:
 ; .strn "・福岡は３年前に事件{line}を起こした　共犯は{line}長野ではなかったな{line}{page}"
-  .strn "・福冈是在３年前{line}犯下的案件{line}但共犯不是长野{line}{page}"
+  .strn "・福冈是在３年前　　{line}犯下的案件　　　　{line}但共犯不是长野　　{line}{page}"
 
 String0x0DF292:
 ; .strn "・長野が犯罪を犯した{line}のはバラバラ事件より{line}も最近のことだ{line}{page}"
-  .strn "・长野犯下的杀人案{line}是那起分尸杀人{line}之后的事了{line}{page}"
+  .strn "・长野犯下的杀人案　{line}是那起分尸杀人　　　{line}之后的事了　　{line}{page}"
 
 String0x0DF2D0:
 ; .strn "・福島が銃殺事件を{line}起こしたのは２年より{line}昔のことになるな{line}{page}"
-  .strn "・福岛犯下的枪杀案{line}至少是２年前的事了{line}{line}{page}"
+  .strn "・福岛犯下的枪杀案{line}至少是２年前的事了　{line}　　　　　　　　{line}{page}"
 
 String0x0DF30E:
 ; .strn "８人の犯罪者{line}{page}"
-  .strn "８名凶手{line}{page}"
+  .strn "８名凶手　　{line}{page}"
 
 String0x0DF31E:
 ; .strn "若い女性が死体で見つ{line}かった。死亡推定時刻{line}は午前９時　女に恨み{line}を持つ容疑者は４人{line}だが証言のメモが{line}バラバラになって{line}しまった　「容疑者」{line}と「被害者との関係」{line}「何時」に「どんな{line}理由」で被害者に{line}会っていたかわかれば{line}犯人を捕まえられるぞ{line}{page}"
-  .strn "一名年轻女子被杀害了{line}死亡时间推测{line}是在上午９点{line}记录着４名对女子{line}抱有恨意的嫌疑人{line}证词的纸条却一团糟了{line}来推理出「嫌疑人」和{line}「被害人的关系」{line}「什么时候」{line}「以什么理由见过{line}被害人」　应该对抓捕{line}犯人能起到帮助{line}{page}"
+  .strn "一名年轻女子被杀害了{line}推测死亡是在上午９点{line}但记录着４名对女子有{line}恨意的嫌疑人证词的{line}纸条却一团糟了　{line}推理出「嫌疑人」{line}和「被害人的关系」　{line}「什么时候」　　　　{line}「以什么理由」　　{line}见过被害人　　　{line}应该对抓捕犯人　　　{line}能起到帮助　　　　　{line}{page}"
 
 String0x0DF418:
 ; .strn "・８時より前にテレビ{line}の音がうるさいと{line}となりの人が来た{line}{page}"
-  .strn "・８点的时候邻居{line}来抗议过电视的{line}声音太吵{line}{page}"
+  .strn "・８点的时候邻居　　{line}来抗议过　　　　{line}电视声音太吵　　{line}{page}"
 
 String0x0DF454:
 ; .strn "・被害者の兄は川原よ{line}り前に来た　恋愛の話{line}ではないようだった{line}{page}"
-  .strn "・被害者的哥哥是在{line}川原之前来的　谈论的{line}不是恋爱的话题{line}{page}"
+  .strn "・被害者的哥哥是在　{line}川原之前来的　　　　{line}谈的不是恋爱话题　{line}{page}"
 
 String0x0DF496:
 ; .strn "・最初に来た人は谷口{line}ではない　谷口は仕事{line}の話をして帰った{line}{page}"
-  .strn "・最早来的人不是谷口{line}谷口在谈完工作以后{line}就回去了{line}{page}"
+  .strn "・最早来的人不是谷口{line}谷口在谈完工作以后　{line}就回去了　　　　{line}{page}"
 
 String0x0DF4D6:
 ; .strn "・７時より遅い時間に{line}恋人が来た　恋愛の話{line}ではなかったようだ{line}{page}"
-  .strn "・恋人是在７点之后{line}来的　但谈话内容{line}与恋爱无关{line}{page}"
+  .strn "・恋人在７点之后来的{line}但谈话内容与恋爱无关{line}　　　　　　　　　{line}{page}"
 
 String0x0DF518:
 ; .strn "・被害者のお兄さんの{line}名前は　森ではない{line}{page}"
-  .strn "・被害者的哥哥{line}名字不是森{line}{page}"
+  .strn "・被害者的哥哥　　　{line}名字不是森　　　　{line}{page}"
 
 String0x0DF544:
 ; .strn "・３番目に来たのは{line}ひらがなで４文字の{line}名前の人ではない{line}{page}"
-  .strn "・第３个来的人是森{line}或者山田{line}{line}{page}"
+  .strn "・第３个来的人是森{line}或者山田　　　　　{line}　　　　　　　　{line}{page}"
 
 String0x0DF580:
 ; .strn "・被害者の家のとなり{line}に住んでいるのは山田{line}か谷口だったと思う{line}{page}"
-  .strn "・被害者家隔壁住着的{line}应该是是山田或者谷口{line}{line}{page}"
+  .strn "・被害者家隔壁住着的{line}应该是是山田或者谷口{line}　　　　　　　　　{line}{page}"
 
 String0x0DF5C2:
 ; .strn "・恋愛の相談を　した{line}のは森だ{line}{page}"
-  .strn "・来谈论恋爱话题的人{line}是森{line}{page}"
+  .strn "・来谈论恋爱话题的人{line}是森　　{line}{page}"
 
 String0x0DF5E4:
 ; .strn "犯人は誰だ！{line}{page}"
-  .strn "真凶是谁！{line}{page}"
+  .strn "真凶是谁！　{line}{page}"
 
 String0x0DF5F4:
 ; .strn "偶然　プロスナイパー{line}の秘密メモを入手した{line}「何曜日」に{line}「どの国」で「誰」を{line}狙い「どんな結果{line}だった」か推理しよう{line}彼は水曜と土曜　日曜{line}は休むことにしている{line}また今週は４カ国で{line}それぞれ違う人間を{line}狙っているぞ{line}{page}"
-  .strn "偶然捡到了{line}职业杀手的笔记{line}推理出「星期几」{line}在「什么国家」{line}刺杀「谁」{line}「结果如何」吧{line}杀手在周三、{line}周六、周日休息了{line}而本周他在４个国家{line}暗杀了不同的人{line}{line}{page}"
+  .strn "偶然捡到了　　　　　{line}职业杀手的笔记　　　{line}来推理出　　{line}「星期几」　　　　　{line}在「什么国家」　{line}刺杀「谁」　　　　　{line}「结果如何」吧　　　{line}杀手周三、六、日休息{line}而本周他在４个国家{line}暗杀了不同的人　　{line}　　　　　　{line}{page}"
 
 String0x0DF6D0:
 ; .strn "・アメリカでは　博士{line}を狙った{line}{page}"
-  .strn "・在美国要暗杀的{line}是博士{line}{page}"
+  .strn "・在美国要暗杀的　　{line}是博士　{line}{page}"
 
 String0x0DF6F2:
 ; .strn "・火〜水曜日は　仕事{line}をしたが　イギリス{line}から出なかった{line}{page}"
-  .strn "・周二到周三{line}都进行了工作{line}但是没离开英国{line}{page}"
+  .strn "・周二到周三的工作　{line}都没有离开英国　　{line}　　　　　　　{line}{page}"
 
 String0x0DF72E:
 ; .strn "・ブラジルでは{line}マフィアを狙ったが{line}木曜日ではない{line}{page}"
-  .strn "・在巴西暗杀的{line}是黑手党{line}那一天不是周四{line}{page}"
+  .strn "・在巴西暗杀的{line}是黑手党　　　　　{line}那一天不是周四{line}{page}"
 
 String0x0DF764:
 ; .strn "・木曜日の仕事は…{line}失敗した{line}逃げられたのだ{line}{page}"
-  .strn "・周四的工作失败了{line}被目标逃走了{line}{line}{page}"
+  .strn "・周四的工作…　　{line}失败了　{line}被目标逃走了　{line}{page}"
 
 String0x0DF794:
 ; .strn "・フランスでの仕事は{line}まずまずな仕事を{line}した日より前だった{line}{page}"
-  .strn "・在法国的工作是{line}在那场马马虎虎的{line}工作之前{line}{page}"
+  .strn "・在法国的工作是　　{line}在那场马马虎虎的{line}工作之前　　　　　{line}{page}"
 
 String0x0DF7D2:
 ; .strn "・スターを狙った日の{line}３日後の仕事は{line}カンぺキだった{line}{page}"
-  .strn "・狙杀明星的三天后{line}的那次工作{line}堪称完美{line}{page}"
+  .strn "・狙杀明星的三天后　{line}的那次工作　　{line}堪称完美　　　{line}{page}"
 
 String0x0DF80A:
 ; .strn "プロの１週間{line}{page}"
-  .strn "杀手的一周{line}{page}"
+  .strn "杀手的一周　{line}{page}"
 
 String0x0DF81A:
 ; .strn "シエーヌ　マリリン{line}ヨッシー　ケイトの{line}４人の女の子が　夏休{line}みの読書感想文を書く{line}ために図書館で本を借{line}りた{line}「誰」が「何ぺージ」{line}分の「何の本」を{line}借りて「どんな感想」{line}だったか当ててくれ{line}{page}"
-  .strn "香奈儿、玛里琳、{line}耀西和凯特４个女孩{line}在暑假为了写读后感{line}前往图书馆借书{line}猜猜看「谁」{line}借了「多厚」的{line}「什么书」而写下了{line}「怎样的读后感」吧{line}{line}{line}{page}"
+  .strn "香奈儿、玛里琳、　{line}耀西和凯特４个女孩{line}在暑假为了写读后感　{line}前往图书馆借书　　　{line}猜猜看「谁」　　　　{line}借了{line}「多厚」的「什么书」{line}而写下了　　　　{line}「怎样的读后感」吧　{line}　　　　　　　　　{line}{page}"
 
 String0x0DF8DE:
 ; .strn "・「たびだち」は{line}１５０ぺージだったよ{line}{page}"
-  .strn "・「旅行」{line}有１５０页哦{line}{page}"
+  .strn "・「旅行」　　　{line}有１５０页　　　　　{line}{page}"
 
 String0x0DF908:
 ; .strn "・「ときめき」には{line}ドキドキしたけど{line}ヨッシーは読んでない{line}{page}"
-  .strn "・「悸动」读起来{line}让人心跳加速{line}但是耀西却没有读过{line}{page}"
+  .strn "・「悸动」读起来　{line}让人心跳加速　　{line}但是耀西却没有读过　{line}{page}"
 
 String0x0DF946:
 ; .strn "・「うんめい」はワク{line}ワクした本よりぺージ{line}数が多かったよ{line}{page}"
-  .strn "・「命运」比起那本{line}令人兴奋的书要更{line}厚一些{line}{page}"
+  .strn "・「命运」比起那本　{line}令人兴奋的书　　　　{line}要更厚一些　　{line}{page}"
 
 String0x0DF984:
 ; .strn "・「うんめい」を読ん{line}だのは　マリリン{line}ではない{line}{page}"
-  .strn "・「命运」那本书{line}玛里琳没有读过{line}{line}{page}"
+  .strn "・「命运」那本书　　{line}玛里琳没有读过　{line}　　　　{line}{page}"
 
 String0x0DF9B8:
 ; .strn "・ケイトが読んだ本は{line}「うんめい」よりペー{line}ジ数が多かったの{line}{page}"
-  .strn "・凯特读的书{line}比「命运」还要{line}更厚一些{line}{page}"
+  .strn "・凯特读的书　　　　{line}比「命运」还要　　　{line}更厚一些　　　　{line}{page}"
 
 String0x0DF9F8:
 ; .strn "・シエーヌはウルウル{line}したと言っていたよ{line}{page}"
-  .strn "・香奈儿说她的书{line}读起来令人落泪{line}{page}"
+  .strn "・香奈儿说她的书　　{line}读起来令人落泪　　{line}{page}"
 
 String0x0DFA24:
 ; .strn "・「つりきち」はビク{line}ビクしない本だったな{line}{page}"
-  .strn "・「钓鱼」不是什么{line}让人提心吊胆的书啊{line}{page}"
+  .strn "・「钓鱼」不是什么　{line}让人不安的书啊　　　{line}{page}"
 
 String0x0DFA52:
 ; .strn "・シエーヌが読んだ本{line}は　ワクワクした本{line}よりぺージ数が少ない{line}{page}"
-  .strn "・香奈儿读的书{line}比起令人兴奋的那本{line}要更薄一些{line}{page}"
+  .strn "・香奈儿读的书　　　{line}比起令人兴奋的那本{line}要更薄一些　　　　　{line}{page}"
 
 String0x0DFA94:
 ; .strn "読書の感想は？{line}{page}"
-  .strn "读书笔记是？{line}{page}"
+  .strn "读书笔记是？　{line}{page}"
 
 String0x0DFAA6:
 ; .strn "とあるぺンションで{line}４人の女性の死体が{line}発見された　最後に{line}死んだ人物が残した{line}メモには「私たち４人{line}は１人ずつ殺しました{line}死因も　死亡時刻も{line}それぞれ違います」と{line}書かれていた{line}４人は「何を使って」{line}「何時」に「誰を{line}殺した」のだろうか？{line}{page}"
-  .strn "在某别墅里有４名女{line}性被害了，最后一个{line}死者留下了字条，{line}「我们４人之间，{line}互相杀害了１人，{line}每个人的死因、死亡时间，{line}都不相同」４个人分别是{line}「什么时候」{line}被「什么东西」和「谁」line}杀死的呢？{line}{line}{line}{page}"
+  .strn "在某别墅里　　　　{line}有４名女性被害了　{line}而最后一个死者　　{line}留下了字条　　　　{line}「我们４人之间　　　{line}各自互相将彼此杀害了{line}每个人的死因、　　{line}死亡时间都不相同」　{line}４个人分别是{line}「什么时候」　　　　{line}被「什么东西」　{line}和「谁」杀死的呢？　{line}{page}"
 
 String0x0DFB9A:
 ; .strn "・検事Ａ「１人も{line}自殺はしていない{line}ようだね」{line}{page}"
-  .strn "・检察官Ａ：{line}「她们中没有人{line}是自杀的」{line}{page}"
+  .strn "・检察官Ａ：　　{line}「她们中没有人　{line}是自杀的」{line}{page}"
 
 String0x0DFBCC:
 ; .strn "・検事Ｂ「つまり{line}８時に死んだ人は{line}毒殺されたのですね」{line}{page}"
-  .strn "・检察官Ｂ：{line}「就是说８点死的{line}人是被毒杀的对吧」{line}{page}"
+  .strn "・检察官Ｂ：　　{line}「所以８点死的人{line}是被毒杀的」　　　　{line}{page}"
 
 String0x0DFC08:
 ; .strn "・検事Ａ「それ以外は{line}考えられん　２番目{line}に死んだのは陽子だ」{line}{page}"
-  .strn "・检察官Ａ：「不会有错{line}另外第２个{line}死者是阳子」{line}{page}"
+  .strn "・检察官Ａ：　　　　{line}「另外　　　　　　{line}第２个死者是阳子」　{line}{page}"
 
 String0x0DFC4A:
 ; .strn "・検事Ｂ「和美より{line}敬子が　先に死んだ{line}ようですね」{line}{page}"
-  .strn "・检察官Ｂ：{line}「敬子应该是死在{line}和美之前吧」{line}{page}"
+  .strn "・检察官Ｂ：　　　{line}「敬子应该是死在　{line}和美之前」　{line}{page}"
 
 String0x0DFC82:
 ; .strn "・検事Ａ「和美の直接{line}の死因はショック死で{line}出血も多い」{line}{page}"
-  .strn "・检察官Ａ：「和美的{line}直接死因是休克{line}出血量很大」{line}{page}"
+  .strn "・检察官Ａ：　　　　{line}「和美的死因是休克　{line}出血量很大」{line}{page}"
 
 String0x0DFCBE:
 ; .strn "・検事Ｂ「毒薬を{line}使った殺人は　薬剤師{line}の敬子の犯行ですね」{line}{page}"
-  .strn "・检察官Ｂ：「使用{line}毒药杀人的是身为{line}药剂师的敬子对吧」{line}{page}"
+  .strn "・检察官Ｂ：　　{line}「使用毒药杀人的是　{line}身为药剂师的敬子」　{line}{page}"
 
 String0x0DFCFE:
 ; .strn "・検事Ａ「外傷のない{line}死体の右手には　銃が{line}にぎられているな」{line}{page}"
-  .strn "・检察官Ａ：「没有外伤{line}的那具尸体{line}右手拿的是手枪啊」{line}{page}"
+  .strn "・检察官Ａ：　　　　{line}「没有外伤的那具尸体{line}右手拿的是手枪」　{line}{page}"
 
 String0x0DFD40:
 ; .strn "・検事Ｂ「陽子は{line}花びんで殴られた傷が{line}致命傷でした」{line}{page}"
-  .strn "・检察官Ｂ：「阳子{line}的致命伤是被花瓶{line}殴打的伤口」{line}{page}"
+  .strn "・检察官Ｂ：　　{line}「阳子的致命伤是花瓶{line}殴打的伤口」　{line}{page}"
 
 String0x0DFD7A:
 ; .strn "謎の連鎖殺人{line}{page}"
