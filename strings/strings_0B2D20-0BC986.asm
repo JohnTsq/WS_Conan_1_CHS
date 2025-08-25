@@ -2915,7 +2915,7 @@ String0x0B9504:
 
 String0x0B9538:
 ; .strn "ここが　宝飾展示室ですか{page}"
-  .strn "这里就是首饰展览室啊　　{page}"
+  .strn "这里就是首饰展厅啊　　　{page}"
 
 String0x0B9552:
 ; .strn "それで『ヴィーナスの瞳』は？{page}"
@@ -3063,7 +3063,7 @@ String0x0B9B0A:
 
 String0x0B9B36:
 ; .strn "宝飾品の展示場に{line}展示してありますよ{page}"
-  .strn "正在首饰展览馆里{line}展示着呢　　　　　{page}"
+  .strn "正在首饰展厅里　{line}展示着呢　　　　　{page}"
 
 String0x0B9B5C:
 ; .strn "あそこは　出口がひとつだけ{line}ですから{page}"
@@ -3079,7 +3079,7 @@ String0x0B9BAA:
 
 String0x0B9BD6:
 ; .strn "ここは　第１展示室ですよね{page}"
-  .strn "这里是第１展览室对吧　　　{page}"
+  .strn "这里是第１展厅对吧　　　　{page}"
 
 String0x0B9BF2:
 ; .strn "（う　ムシされている）{line}ねえ……{page}"
@@ -3127,15 +3127,15 @@ String0x0B9D72:
 
 String0x0B9D8A:
 ; .strn "第１展示室は　まかせたまえ{page}"
-  .strn "第１展览室就交给我吧　　　{page}"
+  .strn "第１展厅就交给我吧　　　　{page}"
 
 String0x0B9DA6:
 ; .strn "第１展示室は　ワシが責任者となり{line}キッドの侵入を阻止する{page}"
-  .strn "第１展览室就由我来负责　　　　　{line}一定不会让基德进来的　{page}"
+  .strn "第１展厅就由我来负责　　　　　　{line}一定不会让基德进来的　{page}"
 
 String0x0B9DE0:
 ; .strn "じゃあ　宝石のある展示場は{line}このワタシに　おまかせください{page}"
-  .strn "那么宝石展览室　　　　　　{line}就交给我来负责吧　　　　　　　{page}"
+  .strn "那么宝石展厅　　　　　　　{line}就交给我来负责吧　　　　　　　{page}"
 
 String0x0B9E1C:
 ; .strn "他は　特に　ありません{page}"
@@ -3147,15 +3147,15 @@ String0x0B9E34:
 
 String0x0B9E66:
 ; .strn "…第４展示室にある非常口が{line}気になりますな{page}"
-  .strn "…第４展览室有一个紧急出口{line}我有点担心　　{page}"
+  .strn "…第４展厅有一个紧急出口　{line}我有点担心　　{page}"
 
 String0x0B9E92:
 ; .strn "絵画の展示室は　扉が３つも{line}ありますし{page}"
-  .strn "绘画展览室　也有３扇门　　{line}　　　　　{page}"
+  .strn "绘画展厅　　也有３扇门　　{line}　　　　　{page}"
 
 String0x0B9EBA:
 ; .strn "第４展示室は　この中森に{line}おまかせください{page}"
-  .strn "第４展览室　　　　　　　{line}就交给我中森吧　{page}"
+  .strn "第４展厅　　　　　　　　{line}就交给我中森吧　{page}"
 
 String0x0B9EE6:
 ; .strn "中森警部はどうします？{page}"
@@ -3163,15 +3163,15 @@ String0x0B9EE6:
 
 String0x0B9EFE:
 ; .strn "ワタシは　彫刻の展示場を{page}"
-  .strn "我就负责雕刻展览室吧　　{page}"
+  .strn "我就负责雕刻展厅吧　　　{page}"
 
 String0x0B9F18:
 ; .strn "すると第４展示室ですな{page}"
-  .strn "那就是第４展览室了　　{page}"
+  .strn "那就是第４展厅了　　　{page}"
 
 String0x0B9F30:
 ; .strn "では　ワタシは　最後に{line}残った第２展示室を{page}"
-  .strn "那么我就负责剩下的　　{line}第２展览室好了　　{page}"
+  .strn "那么我就负责剩下的　　{line}第２展厅好了　　　{page}"
 
 String0x0B9F5C:
 ; .strn "あ　コナンくん{line}見とり図　見る？{page}"
@@ -3191,11 +3191,11 @@ String0x0B9FA6:
 
 String0x0B9FCE:
 ; .strn "①第１展示室{line}②第２展示室{line}③第３展示室{line}④第４展示室{line}　米花市ヘ{line}{page}"
-  .strn "　第１展览室{line}　第２展览室{line}　第３展览室{line}　第４展览室{line}　去米花市{line}{page}"
+  .strn "　第１展厅　{line}　第２展厅　{line}　第３展厅{line}　第４展厅　{line}　去米花市{line}{page}"
 
 String0x0BA014:
 ; .strn "①第１展示室{line}②第２展示室{line}③第３展示室{line}④第４展示室{line}{page}"
-  .strn "　第１展览室{line}　第２展览室{line}　第３展览室{line}　第４展览室{line}{page}"
+  .strn "　第１展厅　{line}　第２展厅　{line}　第３展厅　{line}　第４展厅　{line}{page}"
 
 String0x0BA04E:
 ; .strn "ここはまかせてくれたまえ{page}"
@@ -3203,7 +3203,7 @@ String0x0BA04E:
 
 String0x0BA068:
 ; .strn "＝　東都美術館　第１展示室　＝　{page}"
-  .strn "＝　东都美术馆　第１展览室　＝　{page}"
+  .strn "＝　东都美术馆　第１展厅　＝　　{page}"
 
 String0x0BA08A:
 ; .strn "（へンな　彫刻が{line}　色々　並んでいるな）{page}"
@@ -3239,7 +3239,7 @@ String0x0BA184:
 
 String0x0BA198:
 ; .strn "＝　東都美術館　第２展示室　＝　{page}"
-  .strn "＝　东都美术馆　第２展览室　＝　{page}"
+  .strn "＝　东都美术馆　第２展厅　＝　　{page}"
 
 String0x0BA1BA:
 ; .strn "やあ　コナンくん{line}毛利さんのお手伝いかい？{page}"
@@ -3267,7 +3267,7 @@ String0x0BA28A:
 
 String0x0BA2B2:
 ; .strn "＝　東都美術館　第３展示室　＝　{page}"
-  .strn "＝　东都美术馆　第３展览室　＝　{page}"
+  .strn "＝　东都美术馆　第３展厅　＝　　{page}"
 
 String0x0BA2D4:
 ; .strn "おや……たしか　コナン君と{line}言ったかな？{page}"
@@ -3287,7 +3287,7 @@ String0x0BA33E:
 
 String0x0BA34E:
 ; .strn "館長さん　どうして{line}宝飾展示室に絵があるの？{page}"
-  .strn "馆长先生　为什么　{line}首饰展览室会有画呢？　　{page}"
+  .strn "馆长先生　为什么　{line}首饰展厅会有画呢？　　　{page}"
 
 String0x0BA37C:
 ; .strn "ああ　これはだね{line}ちょっと　特別な絵なんだ{page}"
@@ -3367,7 +3367,7 @@ String0x0BA622:
 
 String0x0BA642:
 ; .strn "＝　東都美術館　第４展示室　＝　{page}"
-  .strn "＝　东都美术馆　第４展览室　＝　{page}"
+  .strn "＝　东都美术馆　第４展厅　＝　　{page}"
 
 String0x0BA664:
 ; .strn "なんだ？　ここは子供の遊び場じゃ{line}ないぞ！{page}"
@@ -3707,15 +3707,15 @@ String0x0BB278:
 
 String0x0BB2A8:
 ; .strn "第２展示室に向かったようだが{page}"
-  .strn "她向着第２展览室去了　　　　{page}"
+  .strn "她向着第２展厅去了　　　　　{page}"
 
 String0x0BB2C6:
 ; .strn "（第２展示室か）{page}"
-  .strn "（第２展览室啊）{page}"
+  .strn "（第２展厅啊）　{page}"
 
 String0x0BB2D8:
 ; .strn "蘭ねーちゃん　園子ねーちゃん{line}第２展示室まで　つきあって！{page}"
-  .strn "小兰姐姐　园子姐姐　　　　　{line}快跟我来第２展览室！　　　　{page}"
+  .strn "小兰姐姐　园子姐姐　　　　　{line}快跟我来第２展厅！　　　　　{page}"
 
 String0x0BB314:
 ; .strn "え　ちょっと　コナンくん！{page}"
@@ -3823,7 +3823,7 @@ String0x0BB6B2:
 
 String0x0BB6E6:
 ; .strn "この第２展示室は　ワタシに{line}どーんとまかせなさい！{page}"
-  .strn "这个第２展览室　　　　　　{line}就放心的交给我吧！　　{page}"
+  .strn "这个第２展厅　　　　　　　{line}就放心的交给我吧！　　{page}"
 
 String0x0BB71A:
 ; .strn "ははは……{page}"
@@ -3835,7 +3835,7 @@ String0x0BB726:
 
 String0x0BB754:
 ; .strn "まさか！　展示の配置は　今日{line}決めたものですよ{page}"
-  .strn "怎么可能！　展览室的布置　　{line}是今日才决定的　{page}"
+  .strn "怎么可能！　展厅的布置　　　{line}是今日才决定的　{page}"
 
 String0x0BB784:
 ; .strn "今日は　他に客も入れてませんし{page}"
@@ -3999,7 +3999,7 @@ String0x0BBCD8:
 
 String0x0BBD16:
 ; .strn "なぜ　キッドは　あらかじめ{line}配置を知ることができた？{page}"
-  .strn "为什么基德会事先知道　　　{line}展览室的布置？　　　　　{page}"
+  .strn "为什么基德会事先知道　　　{line}展厅的布置？　　　　　　{page}"
 
 String0x0BBD4C:
 ; .strn "待てよ…あの箱に　貼りつけて{line}あったカード{page}"
