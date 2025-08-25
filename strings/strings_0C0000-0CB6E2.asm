@@ -545,7 +545,7 @@ String0x0C14D0:
 
 String0x0C14F8:
 ; .strn "宝石は第４展示室の{line}彫刻の眼の中に発見された{page}"
-  .strn "宝石在第４展览室的{line}雕像的眼睛里被找到了　　{page}"
+  .strn "宝石在第４展厅的　{line}雕像的眼睛里被找到了　　{page}"
 
 String0x0C1526:
 ; .strn "宝石は　もともと　この像の{line}瞳だったと　わかった{page}"
@@ -709,7 +709,7 @@ String0x0C1AAE:
 
 String0x0C1AE8:
 ; .strn "オパール姫と　会ったのは{line}米花博物館の展示室{page}"
-  .strn "在米花博物馆的展览室　　{line}见到了蛋白石公主　{page}"
+  .strn "在米花博物馆的展厅里　　{line}见到了蛋白石公主　{page}"
 
 String0x0C1B16:
 ; .strn "東都美術館での恋人は{line}ダイヤ姫かエメラルド姫か{page}"
