@@ -2607,7 +2607,7 @@ String0x0DF1A6:
 
 String0x0DF1E6:
 ; .strn "・名前の上２文字が同{line}じ人物が　共犯だった{line}ことはなかったな{line}{page}"
-  .strn "・名字里　　　　　　{line}有２个字相同的人　　{line}不是共犯　　　　{line}{page}"
+  .strn "・名字里　　　　　　{line}有汉字相同的人　　　{line}不是共犯　　　　{line}{page}"
 
 String0x0DF226:
 ; .strn "・香川が　殺人を犯し{line}たのは今年ではない{line}{page}"
