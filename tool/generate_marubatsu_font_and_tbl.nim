@@ -55,6 +55,16 @@ proc glyphBytes(fontPath: string, fontSize: int, chara: string): array[16, byte]
             val = (bitmap.buffer[row * bitmap.pitch.uint32].int shr bit) and 1
             result[(7 - bit) * 2] = result[(7 - bit) * 2] or (val shl ((8 - bitmap.rows) + row)).byte
             result[(7 - bit) * 2 + 1] = result[(7 - bit) * 2]
+    
+    if chara.runeAt(0) == "一".runeAt(0):
+        result = [0x10.byte, 0x10.byte,
+                  0x10.byte, 0x10.byte,
+                  0x10.byte, 0x10.byte,
+                  0x10.byte, 0x10.byte,
+                  0x10.byte, 0x10.byte,
+                  0x10.byte, 0x10.byte,
+                  0x10.byte, 0x10.byte,
+                     0.byte,    0.byte]
 
     discard FT_Done_Face(face)
     discard FT_Done_FreeType(lib)
