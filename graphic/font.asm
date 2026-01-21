@@ -1039,6 +1039,9 @@
 .orga 0x0054D8	; 林
 	.incbin "graphic\font\8903.bin"
 
+.orga 0x0043B0	; 枚
+	.incbin "graphic\font\D202.bin"
+
 .orga 0x004DA0	; 果
 	.incbin "graphic\font\3C03.bin"
 
@@ -1573,9 +1576,6 @@
 .orga 0x001530	; 行
 	.incbin "graphic\font\E200.bin"
 
-.orga 0x000510	; 術
-	.incbin "graphic\font\3600.bin"
-
 .orga 0x005DA8	; 街
 	.incbin "graphic\font\E703.bin"
 
@@ -1726,9 +1726,6 @@
 .orga 0x0060F0	; 阪
 	.incbin "graphic\font\0A04.bin"
 
-.orga 0x006AC8	; 阻
-	.incbin "graphic\font\7304.bin"
-
 .orga 0x0018A8	; 阿
 	.incbin "graphic\font\0701.bin"
 
@@ -1790,4 +1787,4 @@
 	.incbin "graphic\font\F600.bin"
 
 .orga 0x007338
-	.incbin "graphic\font\CD04-B208.bin"
+	.incbin "graphic\font\CD04-BC08.bin"
