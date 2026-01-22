@@ -5,6 +5,9 @@ tool\PixelPet\PixelPet.exe ^
     Generate-Tilemap WS ^
     Serialize-Tileset Export-Bytes "graphic\misc\menu_chs.2bpp" ^
     Serialize-Tilemap Export-Bytes "graphic\misc\menu_chs.tilemap" ^
+    Import-Bitmap "graphic\misc\marubatsu_menu_chs.png" --format 32BPP ^
+    Generate-Tilemap WS --no-reduce ^
+    Serialize-Tileset Export-Bytes "graphic\misc\marubatsu_menu_chs.2bpp" ^
     Import-Bitmap "graphic\misc\pal0_73-9C-CE-42.png" Read-Palettes --palette-number 0 --palette-size 4 ^
     Convert-Palettes 32BPP ^
     Import-Bitmap "graphic\misc\index_chs.png" --format 32BPP ^
