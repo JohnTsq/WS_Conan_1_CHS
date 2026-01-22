@@ -9,6 +9,7 @@ tool/armips
 tool/PixelPet
 *.dmp
 *.bin
+*.ram
 
 # Python-generated files
 __pycache__/
