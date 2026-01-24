@@ -113,6 +113,7 @@ def main():
                 string_to_pointer_map.append((string_address, None))
                 break
             if (string_address & 0xFFFF) == script_data16:
+                next(bank0B_scripts_data16)
                 string_to_pointer_map.append((string_address, script_data16_address))
                 break
     
