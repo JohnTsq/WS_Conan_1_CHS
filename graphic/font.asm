@@ -1,3 +1,6 @@
+.orga 0x005358	; ’
+	.incbin "graphic\font\7903.bin"
+
 .orga 0x000FF0	; 一
 	.incbin "graphic\font\AA00.bin"
 

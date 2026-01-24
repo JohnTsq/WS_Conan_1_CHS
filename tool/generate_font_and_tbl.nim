@@ -68,7 +68,7 @@ proc main(fontPath: string, fontSize: int, stringsFolder: Path, fontBinFolder: P
     for chara in charset:
         if $chara notin chsTbl:
             chsTbl.add $chara
-        elif chara.int32 in 0x4E00 .. 0x9FFF:
+        elif chara.int32 in 0x4E00 .. 0x9FFF or chara.int32 == 0x2019:
             var codepoint = chsTbl.find($chara)
             # echo "codepoint: ", &"0x{24*codepoint:06X}", " | char: ", chara
             writeLine(fontAsm, &".orga 0x{24*codepoint:06X}\t; {chara}")
