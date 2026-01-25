@@ -60,6 +60,7 @@
 .include "graphic\titles.asm"
 .include "graphic\misc.asm"
 .include "graphic\rotating.asm"
+.include "graphic\stats.asm"
 
 ; marubatsu tileset hack
 .include "src\marubatsuFont.asm"
