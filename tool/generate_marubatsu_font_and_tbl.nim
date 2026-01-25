@@ -65,6 +65,15 @@ proc glyphBytes(fontPath: string, fontSize: int, chara: string): array[16, byte]
                   0x10.byte, 0x10.byte,
                   0x10.byte, 0x10.byte,
                      0.byte,    0.byte]
+    elif chara.runeAt(0) == "口".runeAt(0):
+        result = [0x7C.byte, 0x7C.byte,
+                  0x44.byte, 0x44.byte,
+                  0x44.byte, 0x44.byte,
+                  0x44.byte, 0x44.byte,
+                  0x44.byte, 0x44.byte,
+                  0x7C.byte, 0x7C.byte,
+                     0.byte,    0.byte,
+                     0.byte,    0.byte]
 
     discard FT_Done_Face(face)
     discard FT_Done_FreeType(lib)
