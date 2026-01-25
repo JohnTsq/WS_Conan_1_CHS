@@ -110,7 +110,7 @@
 .orga 0x04DC00
 	.incbin "graphic\marubatsu_font\marubatsu_1B.bin"
 
-; BM亚利制原史国大威密尔当德意斯月望森河特琦瓦石美英萩野＆
+; 亚利制原史国大威密尔当德意斯月望森河特琦瓦石美英萩野＆ＢＭ
 .orga 0x04E400
 	.incbin "graphic\marubatsu_font\marubatsu_1C.bin"
 

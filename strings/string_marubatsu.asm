@@ -1151,7 +1151,7 @@
   ; .marubatsu "スミスアンドウエッソン　"
     .marubatsu "史密斯＆威森　"
   ; .marubatsu "エム８９ビー　"
-    .marubatsu "M８９B　"
+    .marubatsu "Ｍ８９Ｂ　"
   ; .marubatsu "ワルサーピー３８　"
     .marubatsu "瓦尔特３８　"
   ; .marubatsu "アダムス　"
