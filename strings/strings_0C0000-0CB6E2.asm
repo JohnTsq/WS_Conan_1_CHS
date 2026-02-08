@@ -2391,7 +2391,7 @@ String0x0C562C:
 
 String0x0C5642:
 ; .strn "ごくろうだったね{line}ぼうやたち{page}"
-  .strn "真是幸苦了　　　{line}小家伙们　{page}"
+  .strn "真是辛苦了　　　{line}小家伙们　{page}"
 
 String0x0C5660:
 ; .strn "なんや　お前は？{page}"
