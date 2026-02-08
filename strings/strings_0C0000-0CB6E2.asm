@@ -3419,7 +3419,7 @@ String0x0C7950:
 
 String0x0C7962:
 ; .strn "おう！　ハラハラしたぜ！{page}"
-  .strn "是啊！　看的我心一直跳！{page}"
+  .strn "是啊！　看得我心一直跳！{page}"
 
 String0x0C797C:
 ; .strn "わたし　感動して　泣いちゃったよ{page}"
@@ -3447,11 +3447,11 @@ String0x0C7A52:
 
 String0x0C7A84:
 ; .strn "それぞれの　仕事と服装と{line}なぜ鈴木財閥に来たか覚えてる？{page}"
-  .strn "你还记得他们的工作　　　{line}穿的衣服和来铃木财团的理由吗？{page}"
+  .strn "你还记得他们的工作、　　{line}穿的衣服和来铃木财团的理由吗？{page}"
 
 String0x0C7ABE:
 ; .strn "シングルのスーツの人は　エッグを{line}寄贈してほしかったみたい{page}"
-  .strn "穿着干练西装的人好像是希望可以　{line}获得复活节彩蛋的捐赠　　{page}"
+  .strn "穿着干练西服的人好像是希望可以　{line}获得复活节彩蛋的捐赠　　{page}"
 
 String0x0C7AFA:
 ; .strn "バイヤーは　エッグの{line}買いつけに来たんですよね{page}"
@@ -3463,11 +3463,11 @@ String0x0C7B2A:
 
 String0x0C7B54:
 ; .strn "寒川（さがわ）は　ずっと{line}タイなしの服でいた人ね{page}"
-  .strn "寒川先生　是一直穿着　　{line}休闲的衣服的那个人吧　{page}"
+  .strn "寒川先生　是一直穿着　　{line}休闲服的那个人吧　　　{page}"
 
 String0x0C7B86:
 ; .strn "乾（いぬい）さんは　ダブルの{line}スーツを着ていた人よ{page}"
-  .strn "乾先生是　一直穿着　　　　　{line}华丽西装的那个人哦　{page}"
+  .strn "乾先生是　一直穿着　　　　　{line}华丽西服的那个人哦　{page}"
 
 String0x0C7BBA:
 ; .strn "セルゲイさんは　大使館の{line}書記でしたよね{page}"
@@ -3475,7 +3475,7 @@ String0x0C7BBA:
 
 String0x0C7BE4:
 ; .strn "チャイナ服は学者だったぜ{line}タイなしは映像作家だ{page}"
-  .strn "穿旗袍的人是学者　　　　{line}穿休闲装的是摄影师　{page}"
+  .strn "穿旗袍的人是学者　　　　{line}穿休闲服的是摄影师　{page}"
 
 String0x0C7C14:
 ; .strn "そう　その通り！{line}じゃあ　これで答えはわかるな！{page}"
@@ -3523,7 +3523,7 @@ String0x0C7D4A:
 
 String0x0C7D72:
 ; .strn "証言１{line}シングルスーツの人は{page}"
-  .strn "证言１{line}穿干练领西装的人　　{page}"
+  .strn "证词１{line}穿干练领西服的人　　{page}"
 
 String0x0C7D90:
 ; .strn "エッグを寄贈して{line}もらいたがっていた{page}"
@@ -3531,27 +3531,27 @@ String0x0C7D90:
 
 String0x0C7DB6:
 ; .strn "証言２{line}バイヤーはエッグの{line}買いつけに来た{page}"
-  .strn "证言２{line}买家是来买彩蛋的　{line}　　　{page}"
+  .strn "证词２{line}买家是来买彩蛋的　{line}　　　{page}"
 
 String0x0C7DE2:
 ; .strn "証言３{line}寒川（さがわ）はエッ{line}グを撮影したがった{page}"
-  .strn "证言３{line}寒川先生希望可以　　{line}对彩蛋进行摄影　　{page}"
+  .strn "证词３{line}寒川先生希望可以　　{line}对彩蛋进行摄影　　{page}"
 
 String0x0C7E14:
 ; .strn "証言４{line}寒川（さがわ）はずっ{line}とタイなしの服だった{page}"
-  .strn "证言４{line}寒川先生一直穿休闲服{line}　　　　　　　　　　{page}"
+  .strn "证词４{line}寒川先生一直穿休闲服{line}　　　　　　　　　　{page}"
 
 String0x0C7E48:
 ; .strn "証言５{line}乾（いぬい）はダブル{line}のスーツを着ていた{page}"
-  .strn "证言５{line}乾先生一直穿着　　　{line}华丽的西装　　　　{page}"
+  .strn "证词５{line}乾先生一直穿着　　　{line}华丽西服　　　　　{page}"
 
 String0x0C7E7A:
 ; .strn "証言６{line}セルゲイは大使館の{line}書記だ{page}"
-  .strn "证言６{line}谢尔盖是大使馆的　{line}书记　{page}"
+  .strn "证词６{line}谢尔盖是大使馆的　{line}书记　{page}"
 
 String0x0C7E9E:
 ; .strn "証言７{line}チャイナ服は{line}学者{page}"
-  .strn "证言７{line}穿旗袍的人是{line}学者{page}"
+  .strn "证词７{line}穿旗袍的人是{line}学者{page}"
 
 String0x0C7EBA:
 ; .strn "タイなしは{line}映像作家{page}"
@@ -3583,7 +3583,7 @@ String0x0C7F86:
 
 String0x0C7FA6:
 ; .strn "乾（いぬい）さんは{line}ダブルのスーツだろ{page}"
-  .strn "乾先生一直穿着　　{line}华丽的西装对吧　　{page}"
+  .strn "乾先生一直穿着　　{line}华丽西服对吧　　{page}"
 
 String0x0C7FCE:
 ; .strn "うん{page}"
@@ -3599,11 +3599,11 @@ String0x0C8006:
 
 String0x0C8026:
 ; .strn "あ　そうか　それなら{line}乾（いぬい）さんは{line}ダブルだから…{page}"
-  .strn "啊　对了　这么一来　{line}因为乾先生穿着　　{line}华丽的西装…　{page}"
+  .strn "啊　对了　这么一来　{line}因为乾先生穿着　　{line}华丽西服…　　{page}"
 
 String0x0C8060:
 ; .strn "ダブルのらんの書記と{line}撮影に×がつくのね{page}"
-  .strn "在华丽西装和书记与　{line}摄影的地方要画上×{page}"
+  .strn "在华丽西服和书记与　{line}摄影的地方要画上×{page}"
 
 String0x0C808A:
 ; .strn "じゃあ　実際に{line}つけてみるわね{page}"
@@ -3643,11 +3643,11 @@ String0x0C81B6:
 
 String0x0C81D0:
 ; .strn "乾（いぬい）さんが{line}ダブルで…{page}"
-  .strn "乾先生穿着　　　　{line}华丽西装…{page}"
+  .strn "乾先生穿着　　　　{line}华丽西服…{page}"
 
 String0x0C81F0:
 ; .strn "ダブルがバイヤーと{line}わかったとたん{page}"
-  .strn "穿华丽西装的是买家{line}　　　　{page}"
+  .strn "穿华丽西服的是买家{line}　　　　{page}"
 
 String0x0C8214:
 ; .strn "両方のラインが{line}重なったとこに〇が{line}ついたみたい{page}"
@@ -3699,7 +3699,7 @@ String0x0C8390:
 
 String0x0C83A4:
 ; .strn "ダブルの人は買いつけ{line}だから　ここも〇{page}"
-  .strn "华丽西装的人　　　　{line}是来买东西的　　{page}"
+  .strn "华丽西服的人　　　　{line}是来买东西的　　{page}"
 
 String0x0C83CC:
 ; .strn "あっ！　ここも〇ね{page}"
@@ -3707,7 +3707,7 @@ String0x0C83CC:
 
 String0x0C83E0:
 ; .strn "さっき　自動的に{line}書記は　シングルに{line}なったよね{page}"
-  .strn "刚才书记那一栏　{line}不是在干练西装那里{line}画了〇吗　{page}"
+  .strn "刚才书记那一栏　{line}不是在干练西服那里{line}画了〇吗　{page}"
 
 String0x0C8412:
 ; .strn "書記は{line}セルゲイさんだから{page}"
@@ -3715,7 +3715,7 @@ String0x0C8412:
 
 String0x0C842E:
 ; .strn "セルゲイさんは{line}シングルね{page}"
-  .strn "所以他穿着　　{line}干练西装　{page}"
+  .strn "所以他穿着　　{line}干练西服　{page}"
 
 String0x0C844A:
 ; .strn "うふふっ{line}ここも〇ね{page}"
@@ -3723,11 +3723,11 @@ String0x0C844A:
 
 String0x0C8460:
 ; .strn "シングルは{line}寄贈だから{page}"
-  .strn "干练西装的{line}人想要捐赠{page}"
+  .strn "干练西服的{line}人想要捐赠{page}"
 
 String0x0C8478:
 ; .strn "シングルの{line}セルゲイさんは{line}寄贈ね{page}"
-  .strn "干练西装的{line}谢尔盖先生想要{line}捐赠　{page}"
+  .strn "干练西服的{line}谢尔盖先生想要{line}捐赠　{page}"
 
 String0x0C849C:
 ; .strn "あっ　ここも〇{page}"
@@ -3771,7 +3771,7 @@ String0x0C8588:
 
 String0x0C859E:
 ; .strn "ダブルのスーツの人で{line}バイヤーで買いつけにきたの{page}"
-  .strn "穿着华丽西装　　　　{line}想买下复活节彩蛋的买家　　{page}"
+  .strn "穿着华丽西服　　　　{line}想买下复活节彩蛋的买家　　{page}"
 
 String0x0C85D0:
 ; .strn "セルゲイさんは…{page}"
@@ -3779,7 +3779,7 @@ String0x0C85D0:
 
 String0x0C85E2:
 ; .strn "シングルのスーツの人で{line}書記で寄贈してもらいたがっている{page}"
-  .strn "穿着干练西装的书记　　{line}希望得到复活节彩蛋的捐赠　　　　{page}"
+  .strn "穿着干练西服的书记　　{line}希望得到复活节彩蛋的捐赠　　　　{page}"
 
 String0x0C861C:
 ; .strn "寒川（さがわ）さんは…{page}"
@@ -3787,7 +3787,7 @@ String0x0C861C:
 
 String0x0C8634:
 ; .strn "タイなしの人で映像作家{line}エッグを撮影したがっているの{page}"
-  .strn "穿着休闲装的摄影师　　{line}想要拍彩蛋的照片　　　　　　{page}"
+  .strn "穿着休闲服的摄影师　　{line}想要拍彩蛋的照片　　　　　　{page}"
 
 String0x0C866A:
 ; .strn "青蘭（セイラン）さんは…{page}"
@@ -3803,7 +3803,7 @@ String0x0C86B8:
 
 String0x0C86D2:
 ; .strn "たいしたもんじゃない{page}"
-  .strn "好厉害的推理的小把戏{page}"
+  .strn "好厉害的推理小把戏　{page}"
 
 String0x0C86E8:
 ; .strn "うふふ　コナンくんのおかげよ{line}ありがとう！{page}"
