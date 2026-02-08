@@ -3351,7 +3351,7 @@ String0x0C76C0:
 
 String0x0C76C6:
 ; .strn "オレたちを　あざ笑うかのように{line}エッグを奪ったキッドは　空ヘ{line}{page}"
-  .strn "就像在是戏笑一般　基德偷走彩蛋{line}朝着夜空飞去了　　　　　　　{line}{page}"
+  .strn "就像是在戏笑我们一般　基德偷走彩蛋{line}朝着夜空飞去了　　　　　{line}{page}"
 
 String0x0C7706:
 ; .strn "ダキューーーン！！{line}{page}"
