@@ -4439,7 +4439,7 @@ String0x0CA0EC:
 
 String0x0CA108:
 ; .strn "おお　これじゃ！{line}みんな　よくやってくれたのー{page}"
-  .strn "喔喔　感谢！　　{line}大家幸苦了　　　　　　　　　{page}"
+  .strn "喔喔　感谢！　　{line}大家辛苦了　　　　　　　　　{page}"
 
 String0x0CA138:
 ; .strn "博士　弁当なんかと一緒にするから{line}ネコにとられるんですよ{page}"
