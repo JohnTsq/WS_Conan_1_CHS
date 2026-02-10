@@ -3739,7 +3739,7 @@ String0x0583A8:
 
 String0x0583E0:
 ; .strn "オレが　トラブったのは{line}３年前……になるのかな{page}"
-  .strn "我是在……三年前{line}跟她有的纠纷　　　　　{page}"
+  .strn "我是在……３年前{line}跟她有的纠纷　　　　　{page}"
 
 String0x058410:
 ; .strn "京子のやつ……{page}"
