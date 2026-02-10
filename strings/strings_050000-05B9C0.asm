@@ -2419,7 +2419,7 @@ String0x0552C8:
 
 String0x0552FA:
 ; .strn "ポール：チケットを買うのは{line}４番目だ…{page}"
-  .strn "保罗：买票放在第四项…　　{line}　　　　{page}"
+  .strn "保罗：买票放在第４项…　　{line}　　　　{page}"
 
 String0x055322:
 ; .strn "ポール：そこから　一番近い{line}ルートで　橋を渡って…{page}"
