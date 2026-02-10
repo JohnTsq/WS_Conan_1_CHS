@@ -3679,15 +3679,15 @@ String0x058140:
 
 String0x05817A:
 ; .strn "うん！　京子さんに　お金を{line}取られた人って　誰なの？{page}"
-  .strn "嗯！我想知道被京子小姐{line}、了钱的人是谁　　　　　{page}"
+  .strn "嗯！我想知道被京子小姐{line}骗了钱的人是谁　　　　　　　{page}"
 
 String0x0581B0:
 ; .strn "４年前のトラブルだね{line}さあ　誰のことかな？{page}"
-  .strn "是４年前那件事吧{line}哼，会是谁呢？　　　{page}"
+  .strn "是４年前那件事吧{line}哼，会是谁呢？　　　　　{page}"
 
 String0x0581DC:
 ; .strn "これだけは　言っとくけど{line}京子にふられたのはオレじゃないぜ{page}"
-  .strn "我就告诉你一件事吧{line}被京子甩了的那个人，可不是我　　{page}"
+  .strn "我就告诉你一件事吧{line}被京子甩了的那个人，可不是我　　　　　{page}"
 
 String0x058218:
 ; .strn "関係者全員から　だいたい{line}話は聞き出せたな{page}"
