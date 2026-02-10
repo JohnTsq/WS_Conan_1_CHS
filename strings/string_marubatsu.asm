@@ -150,7 +150,7 @@
   ; .marubatsu "ダイヤ　"
     .marubatsu "方片　　"
   ; .marubatsu "ハート　"
-    .marubatsu "红心　　"
+    .marubatsu "红桃　　"
   ; .marubatsu "クラブ　"
     .marubatsu "梅花　　"
 
