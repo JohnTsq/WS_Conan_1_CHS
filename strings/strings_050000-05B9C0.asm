@@ -3599,7 +3599,7 @@ String0x057E38:
 
 String0x057E48:
 ; .strn "わたしが　知ってるのは{line}恋人を自殺に追いこまれた男と{page}"
-  .strn "我倒是听说过有　　　　{line}恋人被逼自杀的男人　　　　　{page}"
+  .strn "我倒是听说过有　　　　{line}被恋人逼到自杀的男人　　　　{page}"
 
 String0x057E7E:
 ; .strn "京子とつきあっていて{line}ひどい　ふられ方をした男だな{page}"
