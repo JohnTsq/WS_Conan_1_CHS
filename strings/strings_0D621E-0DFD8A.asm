@@ -231,7 +231,7 @@ String0x0D6D04:
 
 String0x0D6DEC:
 ; .strn "・ポールの部屋の{line}暗証番号は２２だ{line}{page}"
-  .strn "・保罗的房间的　{line}密码是２２　　　{line}{page}"
+  .strn "・保罗的房间　{line}密码是２２　　　{line}{page}"
 
 String0x0D6E12:
 ; .strn "・蘭はハートの部屋に{line}閉じこめられている{line}{page}"
@@ -523,7 +523,7 @@ String0x0D7ACE:
 
 String0x0D7AF4:
 ; .strn "・監督は京子にふられ{line}ても　恋人を自殺に追{line}いこまれてもいない{line}{page}"
-  .strn "・导演不是被京子甩掉{line}那个　也没有被恋人　{line}逼到自杀　　　　　{line}{page}"
+  .strn "・导演不是被京子甩掉{line}那个　也不是恋人　{line}被逼自杀的那个　　{line}{page}"
 
 String0x0D7B36:
 ; .strn "・恋人の自殺は{line}１年前におきた{line}{page}"
@@ -583,7 +583,7 @@ String0x0D7D12:
 
 String0x0D7E12:
 ; .strn "・リュックを{line}持った人は{line}たてじまのカサだ{line}{page}"
-  .strn "・背着双肩包{line}的人拿着　{line}条纹伞　　　　　{line}{page}"
+  .strn "・背着帆布包{line}的人　{line}拿着条纹伞　　　　　{line}{page}"
 
 String0x0D7E40:
 ; .strn "・洋二はコンビニの{line}ビニール袋を{line}持っていた{line}{page}"
@@ -599,7 +599,7 @@ String0x0D7E92:
 
 String0x0D7EBE:
 ; .strn "・監督はリュックを{line}持っていた{line}{page}"
-  .strn "・导演背着双肩包　{line}　　　　　{line}{page}"
+  .strn "・导演背着帆布包　{line}　　　　　{line}{page}"
 
 String0x0D7EE0:
 ; .strn "・ヨーコは{line}チェックのカサだ{line}{page}"
@@ -1023,7 +1023,7 @@ String0x0D92D6:
 
 String0x0D92FA:
 ; .strn "・中森警部は{line}彫刻のある{line}第４展示室を警備する{line}{page}"
-  .strn "・中森负责　{line}展示雕像的{line}第４展厅的警备　　　{line}{page}"
+  .strn "・中森负责　{line}展示雕刻的{line}第４展厅的警备　　　{line}{page}"
 
 String0x0D932C:
 ; .strn "・白鳥刑事は{line}第２展示室を警備する{line}{page}"
@@ -1295,7 +1295,7 @@ String0x0DA05C:
 
 String0x0DA14C:
 ; .strn "・宝石を置く場所は{line}海賊のドクロの口の中{line}カップの皿の下{line}{page}"
-  .strn "・宝石要嵌入海盗　{line}骷髅的口中　　　　　{line}盘子的下面{line}{page}"
+  .strn "・宝石要嵌入海盗船{line}骷髅的口中　还有茶杯{line}盘子的下面{line}{page}"
 
 String0x0DA188:
 ; .strn "・ルビーは{line}ランタンの下に{line}{page}"
@@ -1435,7 +1435,7 @@ String0x0DA958:
 
 String0x0DA98C:
 ; .strn "・エメラルドは{line}スぺードに{line}谷から４は横から３{line}{page}"
-  .strn "・绿宝石是黑桃{line}纵向第４格{line}的是横向第３格　　{line}{page}"
+  .strn "・绿宝石是黑桃{line}而纵向第４格{line}是横向第３格　　{line}{page}"
 
 String0x0DA9BE:
 ; .strn "・ハートは横から４{line}サファイヤは{line}横から２{line}{page}"
@@ -1491,31 +1491,31 @@ String0x0DAC22:
 
 String0x0DAC60:
 ; .strn "・一番最初はＧ{line}４回目の最後はＮ{line}{page}"
-  .strn "・最初要按Ｇ　{line}最后第４次再按Ｎ{line}{page}"
+  .strn "・第１轮按Ｇ{line}第４轮按后Ｎ{line}{page}"
 
 String0x0DAC84:
 ; .strn "・ＭＡＧＩがＭの時{line}ＣＩＡＮはＡ{line}{page}"
-  .strn "・ＭＡＧＩ按Ｍ之时{line}ＣＩＡＮ按Ａ{line}{page}"
+  .strn "・ＭＡＧＩ按Ｍ同时{line}ＣＩＡＮ按Ａ{line}{page}"
 
 String0x0DACA8:
 ; .strn "・スぺードマークは{line}３回目　ダイヤマーク{line}はＩを押さない{line}{page}"
-  .strn "・第３轮要按下黑桃{line}方片不是和Ｉ一起按　{line}　　　　　　　{line}{page}"
+  .strn "・第３轮按黑桃{line}方片不要按Ｉ　{line}　　　　　　　{line}{page}"
 
 String0x0DACE4:
 ; .strn "・クラブではＡを{line}押さない{line}ハートは先にＩを押す{line}{page}"
-  .strn "・梅花按的不是Ａ{line}按红桃前{line}先按Ｉ　　　　　　　{line}{page}"
+  .strn "・梅花不要按Ａ{line}红桃要按{line}先Ｉ　　　　　　　{line}{page}"
 
 String0x0DAD18:
 ; .strn "・クラブはＣを押す{line}２回目のマークは{line}ダイヤ{line}{page}"
-  .strn "・梅花跟Ｃ一起按　{line}第２轮按的是方片{line}　　　{line}{page}"
+  .strn "・梅花和Ｃ一起按　{line}第２轮按方片{line}　　　{line}{page}"
 
 String0x0DAD48:
 ; .strn "・ＣＩＡＮのＩは{line}３回目に押される{line}{page}"
-  .strn "・ＣＩＡＮ的Ｉ是{line}在第３轮按　　　{line}{page}"
+  .strn "・ＣＩＡＮ里的Ｉ{line}在第３轮按　　　{line}{page}"
 
 String0x0DAD6E:
 ; .strn "・スぺードは最初に{line}Ａを押す{line}{page}"
-  .strn "・按下黑桃后要先　{line}按下Ａ　{line}{page}"
+  .strn "・黑桃要按先Ａ　{line}　{line}{page}"
 
 String0x0DAD8E:
 ; .strn "・アルファべットの{line}押し方①入手{line}{page}"
@@ -2359,7 +2359,7 @@ String0x0DE2E0:
 
 String0x0DE31A:
 ; .strn "・江畑は　学校で放火{line}した　燃えたのは{line}ごみ箱ではない{line}{page}"
-  .strn "・江畑在学校了纵火　{line}但着火的　　　　{line}不是垃圾箱　　{line}{page}"
+  .strn "・江畑在学校纵火　{line}但着火的　　　　{line}不是垃圾箱　　{line}{page}"
 
 String0x0DE354:
 ; .strn "・野口の犯行は{line}１２時だった{line}{page}"
@@ -2559,7 +2559,7 @@ String0x0DEE72:
 
 String0x0DEF48:
 ; .strn "・１番好きな人は{line}名前に「まつ」が{line}つく人だな{line}{page}"
-  .strn "・第１喜欢的人　{line}名字里有一个　　{line}「松”字哦{line}{page}"
+  .strn "・第１喜欢的人　{line}名字里有一个　　{line}“松”字哦{line}{page}"
 
 String0x0DEF7A:
 ; .strn "・３番めに好きな人は{line}球技をしている人かな{line}{page}"
@@ -2607,7 +2607,7 @@ String0x0DF1A6:
 
 String0x0DF1E6:
 ; .strn "・名前の上２文字が同{line}じ人物が　共犯だった{line}ことはなかったな{line}{page}"
-  .strn "・名字里　　　　　　{line}有汉字相同的人　　　{line}不是共犯　　　　{line}{page}"
+  .strn "・名字里　　　　　　{line}有相同汉字的人　　　{line}不是共犯　　　　{line}{page}"
 
 String0x0DF226:
 ; .strn "・香川が　殺人を犯し{line}たのは今年ではない{line}{page}"
@@ -2631,7 +2631,7 @@ String0x0DF30E:
 
 String0x0DF31E:
 ; .strn "若い女性が死体で見つ{line}かった。死亡推定時刻{line}は午前９時　女に恨み{line}を持つ容疑者は４人{line}だが証言のメモが{line}バラバラになって{line}しまった　「容疑者」{line}と「被害者との関係」{line}「何時」に「どんな{line}理由」で被害者に{line}会っていたかわかれば{line}犯人を捕まえられるぞ{line}{page}"
-  .strn "一名年轻女子被杀害了{line}推测死亡是在上午９点{line}但记录着４名对女子有{line}恨意的嫌疑人证词的{line}纸条却一团糟了　{line}推理出「嫌疑人」{line}和「被害人的关系」　{line}「什么时候」　　　　{line}「以什么理由」　　{line}见过被害人　　　{line}应该对抓捕犯人　　　{line}能起到帮助　　　　　{line}{page}"
+  .strn "一名年轻女子被杀害了{line}推测死亡是在上午９点{line}但记录着４名对女子有{line}恨意的嫌疑人证词的{line}纸条却一团糟了　{line}推理出「嫌疑人」{line}和「被害人的关系」　{line}「什么时候」　　　　{line}「什么理由」　　{line}见过被害人　　　{line}应该对抓捕犯人　　　{line}能起到帮助　　　　　{line}{page}"
 
 String0x0DF418:
 ; .strn "・８時より前にテレビ{line}の音がうるさいと{line}となりの人が来た{line}{page}"
@@ -2659,7 +2659,7 @@ String0x0DF544:
 
 String0x0DF580:
 ; .strn "・被害者の家のとなり{line}に住んでいるのは山田{line}か谷口だったと思う{line}{page}"
-  .strn "・被害者家隔壁住着的{line}应该是是山田或者谷口{line}　　　　　　　　　{line}{page}"
+  .strn "・被害者家隔壁住着的{line}应该是山田或者谷口{line}　　　　　　　　　{line}{page}"
 
 String0x0DF5C2:
 ; .strn "・恋愛の相談を　した{line}のは森だ{line}{page}"
