@@ -71,7 +71,7 @@ String0x0B2F5C:
 
 String0x0B2F96:
 ; .strn "ずいぶん　こみいった{line}きょうだいやな{page}"
-  .strn "真是　让人搞不懂的　{line}兄弟们啊　　　{page}"
+  .strn "真是　让人搞不懂的　{line}兄弟姐妹啊　　　{page}"
 
 String0x0B2FBC:
 ; .strn "服部　爵さんが　オレたちを{line}呼びつけたのは……{page}"
@@ -215,7 +215,7 @@ String0x0B34B2:
 
 String0x0B34BC:
 ; .strn "父のものなので　ぼくには{line}ちょっと　わかりかねます{page}"
-  .strn "这的都是父亲的东西　　　{line}我就不是很了解了　　　　{page}"
+  .strn "这些都是父亲的东西　　　{line}我就不怎么懂了　　　　{page}"
 
 String0x0B34F0:
 ; .strn "どうしても　今夜の内に{line}かたづけて　しまいたいものでね{page}"
@@ -1511,7 +1511,7 @@ String0x0B631C:
 
 String0x0B634C:
 ; .strn "なんでそんなことを？{page}"
-  .strn "问什么要那么做？　　{page}"
+  .strn "为什么要那么做？　　{page}"
 
 String0x0B6362:
 ; .strn "実は　あの脅迫状は{line}オレが書いたものだったんです{page}"
@@ -2471,7 +2471,7 @@ String0x0B84BA:
 
 String0x0B84D8:
 ; .strn "昔の　しょーもないことで{line}きょうだいをなくすなんて……{page}"
-  .strn "为了百年前的所谓真相　　{line}而杀死自己的兄弟……　　　　{page}"
+  .strn "为了百年前的所谓真相　　{line}而杀死自己的兄弟姐妹……　{page}"
 
 String0x0B8510:
 ; .strn "すベての原因であった「手紙」は{page}"
@@ -2479,7 +2479,7 @@ String0x0B8510:
 
 String0x0B8530:
 ; .strn "『切り裂きジャック』の正体と{line}ともに　闇に消えた{page}"
-  .strn "随着“开膛手杰克”的身份一起{line}消失在了黑暗里　　{page}"
+  .strn "就随着“开膛手杰克”的身份一起{line}消失在了黑暗里　　{page}"
 
 String0x0B8562:
 ; .strn "利さんたちは　爵さんの遺書に{line}したがい{page}"
@@ -3071,7 +3071,7 @@ String0x0B9B5C:
 
 String0x0B9B82:
 ; .strn "キッドといえども{line}逃げられないでしょう{page}"
-  .strn "就算是基德　　　{line}也不可能逃的了吧　　{page}"
+  .strn "就算是基德　　　{line}也不可能逃得了吧　　{page}"
 
 String0x0B9BAA:
 ; .strn "ねえ　蘭ねーちゃん{line}その見とり図　見せてよ{page}"
@@ -3111,7 +3111,7 @@ String0x0B9CA8:
 
 String0x0B9CE4:
 ; .strn "目暮警部　２課の中森警部が{line}お見えになりました{page}"
-  .strn "目暮警部　　　　　　　　　{line}２课的中森警官到了{page}"
+  .strn "目暮警部　　　　　　　　　{line}２课的中森警部到了{page}"
 
 String0x0B9D14:
 ; .strn "遅れて　もうしわけありません{line}白鳥くん　出迎え　ありがとう{page}"
@@ -3487,7 +3487,7 @@ String0x0BAAB6:
 
 String0x0BAAE4:
 ; .strn "ねえ白鳥さん　トイレに行った人{line}のこと　教えてくれない？{page}"
-  .strn "白鸟警官　去卫生间的那些人的事{line}来告诉我嘛　　　　　　　{page}"
+  .strn "白鸟警官　那些人去卫生间的情况{line}告诉我一下呗　　　　　　　{page}"
 
 String0x0BAB1E:
 ; .strn "いま　忙しいんだ{page}"
@@ -3691,7 +3691,7 @@ String0x0BB1C4:
 
 String0x0BB1DE:
 ; .strn "目暮警部　園子ねーちゃんが{line}帰って来たのって　何時ごろ？{page}"
-  .strn "目暮警部　园子姐姐回来时候{line}大概是什么时候？　　　　　　{page}"
+  .strn "目暮警部　园子姐姐大概是{line}什么时候回来的？　　　　　　{page}"
 
 String0x0BB218:
 ; .strn "午後６時になる　すこし前の{line}ことだったかな{page}"
@@ -3823,7 +3823,7 @@ String0x0BB6B2:
 
 String0x0BB6E6:
 ; .strn "この第２展示室は　ワタシに{line}どーんとまかせなさい！{page}"
-  .strn "这个第２展厅　　　　　　　{line}就放心的交给我吧！　　{page}"
+  .strn "这个第２展厅　　　　　　　{line}就放心地交给我吧！　　{page}"
 
 String0x0BB71A:
 ; .strn "ははは……{page}"
