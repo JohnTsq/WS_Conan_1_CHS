@@ -3815,7 +3815,7 @@ String0x05866E:
 
 String0x0586A0:
 ; .strn "わたしが新人だったころ{line}京子さんにＣＭ出演をとられたの{page}"
-  .strn "在我还是新人的时候{line}曾今替代京子小姐出演过广告　　{page}"
+  .strn "在我还是新人的时候{line}曾经代替京子小姐出演过广告　　{page}"
 
 String0x0586D8:
 ; .strn "その上　今回のドラマの件でしょ{page}"
