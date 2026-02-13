@@ -741,7 +741,7 @@ String0x0C1C0A:
 
 String0x0C1C2C:
 ; .strn "いつもなら中森のヤツが{line}担当するんだが{page}"
-  .strn "虽然盗窃案一直都是　　{line}中森警官负责的{page}"
+  .strn "虽然盗窃案一直都是　　{line}中森负责{page}"
 
 String0x0C1C54:
 ; .strn "色々あって　今回は{line}わたしが担当するんだよ{page}"
@@ -869,7 +869,7 @@ String0x0C2154:
 
 String0x0C2162:
 ; .strn "よし　ルビーは手に入れた{line}次は…{page}"
-  .strn "好的　拿到红宝石了下面…{line}　　　{page}"
+  .strn "好的　拿到红宝石了{line}下面…　{page}"
 
 String0x0C2184:
 ; .strn "宝石といっしょに残された{line}謎の言葉…{page}"
@@ -957,7 +957,7 @@ String0x0C2454:
 
 String0x0C2462:
 ; .strn "い…一家みな殺しぃ！{page}"
-  .strn "一…一家灭门！　　　{page}"
+  .strn "一…一家被灭门！　　{page}"
 
 String0x0C2478:
 ; .strn "ああ　ちょうど１０年前のことだ{page}"
@@ -1033,7 +1033,7 @@ String0x0C2700:
 
 String0x0C2712:
 ; .strn "べンチの下{line}ごみ箱の近く{line}水のみ場{line}木の下{line}{page}"
-  .strn "椅子之下　{line}垃圾箱附近　{line}饮水处　{line}树下　{line}{page}"
+  .strn "长椅之下　{line}垃圾箱附近　{line}饮水处　{line}树下　{line}{page}"
 
 String0x0C2740:
 ; .strn "何を探すんだ？{page}"
@@ -1041,7 +1041,7 @@ String0x0C2740:
 
 String0x0C2750:
 ; .strn "赤い…{line}青い…{line}黄色い…{line}緑の…{line}{page}"
-  .strn "红色…{line}蓝色…{line}黄色的…{line}绿色…{line}{page}"
+  .strn "红色…{line}蓝色…{line}黄色…{line}绿色…{line}{page}"
 
 String0x0C2774:
 ; .strn "あれ　そーだっけ？{page}"
@@ -1049,11 +1049,11 @@ String0x0C2774:
 
 String0x0C2788:
 ; .strn "そう　べンチの下にある{line}黄色のビー玉だったな{page}"
-  .strn "对　就是椅子下面的　　{line}黄色的弹珠　　　　　{page}"
+  .strn "对　就是长椅下面的　　{line}黄色的弹珠　　　　　{page}"
 
 String0x0C27B6:
 ; .strn "べンチは向こうだな{page}"
-  .strn "椅子在那边　　　　{page}"
+  .strn "长椅是在那边　　　{page}"
 
 String0x0C27CA:
 ; .strn "あの…灰原さん{page}"
@@ -1153,7 +1153,7 @@ String0x0C2A66:
 
 String0x0C2A90:
 ; .strn "ね　江戸川くん　これ{line}このマーク　見覚えない？{page}"
-  .strn "喂　江户川　你知道　{line}这个标记吗？　　　　　　{page}"
+  .strn "喂　江户川　你知道　{line}这个标志吗？　　　　　　{page}"
 
 String0x0C2AC0:
 ; .strn "コナン：これは　もしかして…{page}"
@@ -1169,11 +1169,11 @@ String0x0C2B10:
 
 String0x0C2B32:
 ; .strn "愛らしい　おじょうさん{line}少年探偵団のみんなといっしょに{page}"
-  .strn "亲爱的小姐　　　　　　{line}请你跟少年侦探团的各位一起　　{page}"
+  .strn "亲爱的小姐　　　　　　{line}请你跟少年侦探团的各位　　{page}"
 
 String0x0C2B6A:
 ; .strn "世紀末の魔術師の　遺産を{line}探しに　旅立ちたまえ{page}"
-  .strn "踏上寻找世纪末的魔术师的{line}遗产之旅吧　　　　　{page}"
+  .strn "一起追寻{line}“世纪末魔术师的遗产”吧{page}"
 
 String0x0C2B9A:
 ; .strn "ヒントは『東都美術館』の青いバラ{line}４つの宝石が　宝ヘと導く{page}"
@@ -1315,7 +1315,7 @@ String0x0C3086:
 
 String0x0C30B4:
 ; .strn "『海賊の　どくろの口の中{line}　カップの　皿の下』{page}"
-  .strn "“在海贼的骷髅头的口中　{line}在茶杯的盘子的下方”{page}"
+  .strn "“在海贼骷髅头的口中　{line}在旋转茶杯盘子的下方”{page}"
 
 String0x0C30E4:
 ; .strn "なんだ　そりゃ？{page}"
@@ -1403,7 +1403,7 @@ String0x0C33C0:
 
 String0x0C33F0:
 ; .strn "見ろよ　やっぱ　こいつの裏にも{line}おんなじマークがあるぜ{page}"
-  .strn "你看　　　　　　　　　　　　　{line}果然这个背后也刻着标记{page}"
+  .strn "你看　　　　　　　　　　　　　{line}果然这个背后也刻着标志{page}"
 
 String0x0C3428:
 ; .strn "コナン：目暮警部　このマークを{line}見てよ{page}"
@@ -1523,7 +1523,7 @@ String0x0C3880:
 
 String0x0C38A2:
 ; .strn "さあ　暗号の通り　宝石を{line}はめるぜ{page}"
-  .strn "好了　把宝石都嵌上去吧　{line}照着暗号{page}"
+  .strn "好了　把宝石照着暗号　{line}嵌上去吧{page}"
 
 String0x0C38C6:
 ; .strn "灰原：アメジストのウサギを{line}ハートに　石を　右に{page}"
@@ -1811,7 +1811,7 @@ String0x0C42DC:
 
 String0x0C42F6:
 ; .strn "急に　オレの手をしっかり{line}にぎりしめたりして…{page}"
-  .strn "突然把我的手拉的这么紧…{line}　　　　　　　　　　{page}"
+  .strn "突然把我的手{line}拉得这么紧…　　　{page}"
 
 String0x0C4326:
 ; .strn "！　ははーん{page}"
@@ -1839,7 +1839,7 @@ String0x0C4394:
 
 String0x0C439E:
 ; .strn "話したっけ？　新一と最後に{line}まともに会ったのって{page}"
-  .strn "不是说过嘛？　　　　　　　{line}我最后一次见到新一　{page}"
+  .strn "我不是说过嘛　　　　　　　{line}我最后一次见到新一　{page}"
 
 String0x0C43D0:
 ; .strn "ここ　トロピカルランドなんだ{page}"
@@ -2447,7 +2447,7 @@ String0x0C585E:
 
 String0x0C586A:
 ; .strn "あたしは脱獄し　顔を整形して{line}４つの宝石を探した{page}"
-  .strn "我从牢里逃出来　给脸做了整形{line}就是为了找４颗钻石{page}"
+  .strn "我从牢里逃出来　给脸做了整形{line}就是为了找４颗宝石{page}"
 
 String0x0C589C:
 ; .strn "なんとかトロピカルランドに{line}ある事までは突き止めたけどね{page}"
@@ -3035,7 +3035,7 @@ String0x0C6C6C:
 
 String0x0C6C7E:
 ; .strn "（しょーがねー　灰原の座ってる{line}　べンチの下にでも隠れるか）{page}"
-  .strn "（没办法　就先躲在灰原坐着的　{line}　这个椅子下面吧）　　　　　{page}"
+  .strn "（没办法　就先躲在灰原坐着的　{line}　这个长椅下面吧）　　　　　{page}"
 
 String0x0C6CBC:
 ; .strn "元太：もういーかーい{page}"
@@ -3199,7 +3199,7 @@ String0x0C7110:
 
 String0x0C713E:
 ; .strn "あと　隠した場所は{line}べンチの下と　ごみ箱の近く{page}"
-  .strn "接下来呢　藏宝地点{line}有椅子下面　垃圾箱附近　　{page}"
+  .strn "接下来呢　藏宝地点{line}有长椅下面　垃圾箱附近　　{page}"
 
 String0x0C716E:
 ; .strn "水のみ場のあたりにも{line}隠したわよ{page}"
