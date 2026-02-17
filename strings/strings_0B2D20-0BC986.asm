@@ -187,7 +187,7 @@ String0x0B33B6:
 
 String0x0B33D6:
 ; .strn "ルビーの短剣か{page}"
-  .strn "这把红宝石短剑{page}"
+  .strn "红宝石短剑啊　{page}"
 
 String0x0B33E6:
 ; .strn "あら　これも{line}ジャック関係のものですか？{page}"
