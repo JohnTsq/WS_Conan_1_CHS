@@ -807,7 +807,7 @@ String0x0D872E:
 
 String0x0D880E:
 ; .strn "・株券を残すのは{line}利（とし）にだ{line}{page}"
-  .strn "・股票留给了利　{line}　　　　　　　{page}"
+  .strn "・股票留给了利　{line}　　　　　　　{line}{page}"
 
 String0x0D8832:
 ; .strn "・１３億を渡すものに{line}屋敷を残す{line}{page}"
@@ -815,7 +815,7 @@ String0x0D8832:
 
 String0x0D8856:
 ; .strn "・倫（りん）には{line}１５億を残す{line}{page}"
-  .strn "・１５亿留给了伦{line}　　　　　　{page}"
+  .strn "・１５亿留给了伦{line}　　　　　　{line}{page}"
 
 String0x0D8878:
 ; .strn "・敦（あつし）には{line}１３億を残し　別邸を{line}倫（りん）に残す{line}{page}"
