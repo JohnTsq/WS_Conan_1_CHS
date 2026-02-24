@@ -1790,4 +1790,4 @@
 	.incbin "graphic\font\F600.bin"
 
 .orga 0x007338
-	.incbin "graphic\font\CD04-BC08.bin"
+	.incbin "graphic\font\CD04-BD08.bin"

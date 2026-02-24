@@ -10,7 +10,7 @@
 .orga 0x041400
 	.incbin "graphic\marubatsu_font\marubatsu_02.bin"
 
-; 保兰号子心惠方桃梅父片神红罗良花黑
+; 保兰号子惠方桃梅父片神红罗良花黑
 .orga 0x041C00
 	.incbin "graphic\marubatsu_font\marubatsu_03.bin"
 
@@ -54,7 +54,7 @@
 .orga 0x046C00
 	.incbin "graphic\marubatsu_font\marubatsu_0D.bin"
 
-; 一个中五代入出刻厅口宝小展急暮术森现珠画白目离第紧绘艺近郎雕饰首鸟
+; 一个中五代入出刻厅口宝小展急扇暮术森现珠画白目离第紧绘艺近郎门雕饰首鸟
 .orga 0x047400
 	.incbin "graphic\marubatsu_font\marubatsu_0E.bin"
 
@@ -74,7 +74,7 @@
 .orga 0x049400
 	.incbin "graphic\marubatsu_font\marubatsu_12.bin"
 
-; 下中云口售壁天子宝摩旁晶机杯水海灯盗盘石票紫红绿船茶蓝车轮霄面飞
+; 下中云口售壁天子宝摩旁旋晶机杯水海灯盗盘石票紫红绿船茶蓝车转轮霄面飞
 .orga 0x049C00
 	.incbin "graphic\marubatsu_font\marubatsu_13.bin"
 
@@ -130,7 +130,7 @@
 .orga 0x050400
 	.incbin "graphic\marubatsu_font\marubatsu_20.bin"
 
-; 丸八冈刀包品小山手挎旅木枪森毒田箱罩背胸行
+; 丸八冈刀包品小山手挎提旅木枪森毒田箱罩背胸行
 .orga 0x050C00
 	.incbin "graphic\marubatsu_font\marubatsu_21.bin"
 
@@ -194,7 +194,7 @@
 .orga 0x058400
 	.incbin "graphic\marubatsu_font\marubatsu_30.bin"
 
-; 乐井克家岛崎扑机百盘码筹老虎赤转野青黄黑
+; 乐井克家岛崎扑机百盘码筹老虎赤轮野青黄黑
 .orga 0x058C00
 	.incbin "graphic\marubatsu_font\marubatsu_31.bin"
 
@@ -214,7 +214,7 @@
 .orga 0x05AC00
 	.incbin "graphic\marubatsu_font\marubatsu_35.bin"
 
-; 人作原友口哥噪居山川工怨恋抱朋森点爱田的话谷邻金钱音题
+; 人作原友口哥噪居山川工怨恋抱朋森点爱田话谷邻金钱音题
 .orga 0x05B400
 	.incbin "graphic\marubatsu_font\marubatsu_36.bin"
 
