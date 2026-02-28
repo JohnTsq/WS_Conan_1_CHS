@@ -819,7 +819,7 @@ String0x0B4B96:
 
 String0x0B4BBE:
 ; .strn "平次：この時計のアラーム{line}６時以外に　嗚るはずないで{page}"
-  .strn "平次：这个闹钟只在６点整{line}除此以外是不会响的　　　　{page}"
+  .strn "平次：这个闹钟定在６点整{line}除此以外是不会响的　　　　{page}"
 
 String0x0B4BF4:
 ; .strn "コナン：６時に　アラームが{line}セットしてある{page}"
