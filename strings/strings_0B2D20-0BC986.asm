@@ -2107,7 +2107,7 @@ String0x0B781E:
 
 String0x0B7842:
 ; .strn "いや　声をかけたけど{line}返事が　なかったから{page}"
-  .strn "额　我虽然跟他讲了话{line}但是他没有回答我　　{page}"
+  .strn "啊　我虽然跟他讲了话{line}但是他没有回答我　　{page}"
 
 String0x0B786E:
 ; .strn "そのまま　戻って来たんだ{page}"
