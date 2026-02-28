@@ -935,7 +935,7 @@ String0x0B4FDE:
 
 String0x0B5010:
 ; .strn "ただ　これだけでは{line}「密室トリック」にはならヘん{page}"
-  .strn "但是　只凭这一点　{line}还够不成“密室诡计”　　　　{page}"
+  .strn "但是　只凭这一点　{line}还不能构成“密室诡计”　　　{page}"
 
 String0x0B5042:
 ; .strn "ただ隠れてた犯人を{line}みんなの眼から消し去ったのは…{page}"
