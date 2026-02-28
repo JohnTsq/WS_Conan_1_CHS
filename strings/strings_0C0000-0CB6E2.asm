@@ -453,15 +453,15 @@ String0x0C1114:
 
 String0x0C112E:
 ; .strn "最初に読むのは　１文字目{line}次に読むのは３文字目{page}"
-  .strn "第一个要读的是第１个字　{line}第二个要读第３个字　{page}"
+  .strn "首先要读的是第１个字　　{line}然后要读第３个字　　{page}"
 
 String0x0C115E:
 ; .strn "《悪魔の涙》は２文字目{line}《ソロモンのカギ》は３番目に{page}"
-  .strn "“泪眼恶魔”是第２个　{line}“所罗门之钥”是第３个　　　　{page}"
+  .strn "“泪眼恶魔”读第２个字{line}“所罗门钥匙”是第３个读　　{page}"
 
 String0x0C1194:
 ; .strn "《かわいい青バラ》は{line}３文字目を読み上げる{page}"
-  .strn "“萌蓝玫瑰”　　　　{line}是第３个读　　　　　{page}"
+  .strn "“萌蓝玫瑰”　　　　{line}是读第３个字　　　　　{page}"
 
 String0x0C11C0:
 ; .strn "最後に読むのは{line}《悪魔の涙》{page}"
