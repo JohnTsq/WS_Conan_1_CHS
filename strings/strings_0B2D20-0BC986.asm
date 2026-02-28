@@ -3115,7 +3115,7 @@ String0x0B9CE4:
 
 String0x0B9D14:
 ; .strn "遅れて　もうしわけありません{line}白鳥くん　出迎え　ありがとう{page}"
-  .strn "我来晚了　抱歉　　　　　　　{line}白鸟　幸苦你来接我了　　　　{page}"
+  .strn "我来晚了　抱歉　　　　　　　{line}白鸟　辛苦你来接我了　　　　{page}"
 
 String0x0B9D50:
 ; .strn "目暮警部{line}大久保館長{line}中森警部{line}{page}"
