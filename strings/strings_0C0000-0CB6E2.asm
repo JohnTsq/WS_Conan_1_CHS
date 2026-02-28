@@ -255,7 +255,7 @@ String0x0C098E:
 
 String0x0C09BC:
 ; .strn "黄色い宝石の名は{line}《ソロモンのカギ》{page}"
-  .strn "黄宝石的名字是　{line}“所罗门之钥”　　{page}"
+  .strn "黄宝石的名字是　{line}“所罗门钥匙”　　{page}"
 
 String0x0C09E2:
 ; .strn "中央にいる{line}《ヴィーナスの瞳》よ{page}"
