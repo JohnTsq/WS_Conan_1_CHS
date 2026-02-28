@@ -943,7 +943,7 @@ String0x0B5042:
 
 String0x0B5076:
 ; .strn "時間トリック{line}空間トリック{line}心理トリック{line}{page}"
-  .strn "时间诡计　　{line}空间诡计　　{line}心理的诡计　{line}{page}"
+  .strn "时间诡计　　{line}空间诡计　　{line}心理诡计　　{line}{page}"
 
 String0x0B50A2:
 ; .strn "そして　その「心理トリック」で{line}重要となるアイテムは…{page}"
