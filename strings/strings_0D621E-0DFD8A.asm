@@ -1199,7 +1199,7 @@ String0x0D9BCC:
 
 String0x0D9BF0:
 ; .strn "・「ソロモンのカギ」{line}は　３番目に読む{line}{page}"
-  .strn "・「所罗门钥匙」　　{line}读第３个字　　　{line}{page}"
+  .strn "・「所罗门钥匙」　　{line}第３个读　　　　{line}{page}"
 
 String0x0D9C1A:
 ; .strn "・最後に読むのは{line}「悪魔の涙」{line}{page}"
