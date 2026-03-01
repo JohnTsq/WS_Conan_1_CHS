@@ -1759,7 +1759,7 @@ String0x0DBA0C:
 
 String0x0DBA40:
 ; .strn "・エメラルドとルビー{line}は貸金庫には隠して{line}いない{line}{page}"
-  .strn "・绿宝石藏到了　　　{line}保险库里　　　　　{line}　　　{line}{page}"
+  .strn "・绿宝石没有藏在　　{line}保险库　　　　　　{line}　　　{line}{page}"
 
 String0x0DBA74:
 ; .strn "・コインロッカーに{line}行ったのは貸金庫の{line}すぐ後だったな{line}{page}"
