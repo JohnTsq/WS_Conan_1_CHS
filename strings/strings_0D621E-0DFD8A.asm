@@ -1843,7 +1843,7 @@ String0x0DBF66:
 
 String0x0DBFA2:
 ; .strn "・弟「お母さんは昼に{line}とったんだって」{line}{page}"
-  .strn "・弟弟：「妈妈上午时{line}就已经拿了」　　{line}{page}"
+  .strn "・弟弟：「妈妈中午时{line}就已经拿了」　　{line}{page}"
 
 String0x0DBFCC:
 ; .strn "・姉「１巻は２巻より{line}へソクリの額は{line}少なかったわ」{line}{page}"
