@@ -2063,19 +2063,19 @@ String0x0DCE88:
 
 String0x0DCF86:
 ; .strn "・住民Ａ「ロープを{line}捨てた人は　ナイフは{line}持ってなかったよ」{line}{page}"
-  .strn "・邻居Ａ：「那个人{line}扔绳子时并没有带刀」{line}　　　　　　　　　{line}{page}"
+  .strn "・邻居Ａ：“那个人{line}扔绳子时并没有带刀”{line}　　　　　　　　　{line}{page}"
 
 String0x0DCFC6:
 ; .strn "・住民Ｂ「公園で白い{line}シャツを燃やしている{line}人を見たわ」{line}{page}"
-  .strn "・邻居Ｂ：「在公园里{line}有人烧掉了一件　　　{line}白色衬衫」　{line}{page}"
+  .strn "・邻居Ｂ：“在公园里{line}有人烧掉了一件　　　{line}白色衬衫”　{line}{page}"
 
 String0x0DD002:
 ; .strn "・住民Ｃ「川の方で{line}ナイフを捨てた人を{line}見たよ」{line}{page}"
-  .strn "・邻居Ｃ：「有人　{line}在河边人扔掉了刀」{line}　　　　{line}{page}"
+  .strn "・邻居Ｃ：“有人　{line}在河边扔掉了刀”　{line}　　　　{line}{page}"
 
 String0x0DD036:
 ; .strn "・夫「３番目にジーパ{line}ンを捨て　その前には{line}ごみ捨て場に行った」{line}{page}"
-  .strn "・丈夫：「第３样扔的{line}是牛仔裤　我去垃圾场{line}是在此之前」　　　　{line}{page}"
+  .strn "・丈夫：“第３样扔的{line}是牛仔裤　我去垃圾场{line}是在此之前”　　　　{line}{page}"
 
 String0x0DD07A:
 ; .strn "兇器はどこヘ{line}{page}"
