@@ -2347,7 +2347,7 @@ String0x0DE1D2:
 
 String0x0DE288:
 ; .strn "・アパートが燃えた{line}のは３時だが　それは{line}桑原ではない{line}{page}"
-  .strn "・住宅是３点着火的{line}但不是桑原干的　　　{line}　　　　　　{line}{page}"
+  .strn "・公寓是３点着火的{line}但不是桑原干的　　　{line}　　　　　　{line}{page}"
 
 String0x0DE2C2:
 ; .strn "・中原は　車に火を{line}つけた{line}{page}"
@@ -2403,11 +2403,11 @@ String0x0DE526:
 
 String0x0DE55E:
 ; .strn "・教師からは１５万も{line}とれなかった{line}{page}"
-  .strn "・从教师那里搞到了　{line}１５万日元　{line}{page}"
+  .strn "・老师那里连１５万元{line}都没有搞到　{line}{page}"
 
 String0x0DE584:
 ; .strn "・俳優の家に入った{line}のは教師より前だった{line}{page}"
-  .strn "・潜入演员家是在　{line}潜入教师家之前　　　{line}{page}"
+  .strn "・潜入演员家是在　{line}潜入老师家之前　　　{line}{page}"
 
 String0x0DE5B0:
 ; .strn "空き巣の余罪{line}{page}"
