@@ -2063,19 +2063,19 @@ String0x0DCE88:
 
 String0x0DCF86:
 ; .strn "・住民Ａ「ロープを{line}捨てた人は　ナイフは{line}持ってなかったよ」{line}{page}"
-  .strn "・邻居Ａ：“那个人{line}扔绳子时并没有带刀”{line}　　　　　　　　　{line}{page}"
+  .strn "・邻居Ａ：「那个人{line}扔绳子时并没有带刀」　{line}　　　　　　　　　{line}{page}"
 
 String0x0DCFC6:
 ; .strn "・住民Ｂ「公園で白い{line}シャツを燃やしている{line}人を見たわ」{line}{page}"
-  .strn "・邻居Ｂ：“在公园里{line}有人烧掉了一件　　　{line}白色衬衫”　{line}{page}"
+  .strn "・邻居Ｂ：「在公园里{line}有人烧掉了一件　　　{line}白色衬衫」　{line}{page}"
 
 String0x0DD002:
 ; .strn "・住民Ｃ「川の方で{line}ナイフを捨てた人を{line}見たよ」{line}{page}"
-  .strn "・邻居Ｃ：“有人　{line}在河边扔掉了刀”　{line}　　　　{line}{page}"
+  .strn "・邻居Ｃ：「有人　{line}在河边扔掉了刀」　{line}　　　　{line}{page}"
 
 String0x0DD036:
 ; .strn "・夫「３番目にジーパ{line}ンを捨て　その前には{line}ごみ捨て場に行った」{line}{page}"
-  .strn "・丈夫：“第３样扔的{line}是牛仔裤　我去垃圾场{line}是在此之前”　　　　{line}{page}"
+  .strn "・丈夫：「第３样扔的{line}是牛仔裤　我去垃圾场{line}是在此之前」　　　　{line}{page}"
 
 String0x0DD07A:
 ; .strn "兇器はどこヘ{line}{page}"
@@ -2127,7 +2127,7 @@ String0x0DD3FE:
 
 String0x0DD430:
 ; .strn "・のぶみち「マキは{line}サバを食ベていたな」{line}{page}"
-  .strn "・信道：「真木吃的{line}不是青花鱼寿司」　　{line}{page}"
+  .strn "・信道：「真木吃的{line}是青花鱼寿司吧」　　{line}{page}"
 
 String0x0DD45C:
 ; .strn "・たかひろ「のぶみち{line}がタコをにぎってた」{line}{page}"
@@ -2215,7 +2215,7 @@ String0x0DD9CA:
 
 String0x0DDA04:
 ; .strn "・四千万円を{line}コインロッカーに{line}持って来るな{line}{page}"
-  .strn "・四千万放到{line}车站的储存柜里　{line}　　　　　　{line}{page}"
+  .strn "・四千万不要{line}放到车站的　　　{line}储存柜里　　{line}{page}"
 
 String0x0DDA34:
 ; .strn "・トイレやべンチに{line}青いカバンを{line}持って来るな{line}{page}"
@@ -2227,7 +2227,7 @@ String0x0DDA66:
 
 String0x0DDA78:
 ; .strn "米花市の　高校　公園{line}ホテル　デパートの４{line}つの場所に　時限爆弾{line}を　仕掛けたと{line}テロリストの予告状{line}が届いた　爆弾は{line}それぞれのパスワード{line}で止めることができる{line}「どこの爆弾」が{line}「何時」に爆発し{line}「どのパスワード」で{line}止めることができる？{line}{page}"
-  .strn "米花市的高中、公园、{line}酒店和百货大楼　　　{line}被安装了定时炸弹　　{line}恐怖分子　　　{line}寄来了预告函　　　{line}炸弹可以分别　　{line}用密码来解除　　　　{line}所以「哪个炸弹」　　{line}「什么时候爆炸」{line}用「什么密码」　{line}能解除呢？　　　　　{line}　　　　　　　　　　{line}{page}"
+  .strn "米花市的高中、公园、{line}酒店和商场　　　　　{line}被安装了定时炸弹　　{line}恐怖分子　　　{line}寄来了预告函　　　{line}炸弹可以分别　　{line}用密码来解除　　　　{line}所以「哪个炸弹」　　{line}「什么时候爆炸」{line}用「什么密码」　{line}能解除呢？　　　　　{line}　　　　　　　　　　{line}{page}"
 
 String0x0DDB6E:
 ; .strn "・公園の爆弾を{line}止めるパスワードは{line}マーブルではない{line}{page}"
@@ -2243,7 +2243,7 @@ String0x0DDBE2:
 
 String0x0DDC16:
 ; .strn "・デパートの爆弾は{line}ポアロの　パスワード{line}では止められない{line}{page}"
-  .strn "・百货大楼的炸弹　{line}密码不是波洛　　　　{line}　　　　　　　　{line}{page}"
+  .strn "・商场的炸弹　　　{line}密码不是波洛　　　　{line}　　　　　　　　{line}{page}"
 
 String0x0DDC54:
 ; .strn "・３時に爆発する{line}爆弾を止める{line}パスワードはマーブル{line}{page}"
@@ -2251,7 +2251,7 @@ String0x0DDC54:
 
 String0x0DDC8C:
 ; .strn "・デパートの爆弾は{line}最初に爆発しない{line}{page}"
-  .strn "・酒店的炸弹不会　{line}第一个爆炸　　　{line}{page}"
+  .strn "・商场的炸弹不会　{line}第一个爆炸　　　{line}{page}"
 
 String0x0DDCB4:
 ; .strn "・公園の爆弾は{line}２時か４時に爆発する{line}{page}"
