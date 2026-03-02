@@ -2599,11 +2599,11 @@ String0x0DF13A:
 
 String0x0DF174:
 ; .strn "・今年は２人で首を{line}しめて殺した{line}事件があった{line}{page}"
-  .strn "・今年有２起杀人案{line}受害人被勒死{line}　　　　　　{line}{page}"
+  .strn "・今年有２起杀人案{line}的受害人　　{line}是被勒死的　{line}{page}"
 
 String0x0DF1A6:
 ; .strn "・殺人みすいに終わっ{line}た事件は　山口の殺人{line}の３年前にあった{line}{page}"
-  .strn "・杀人未遂那起案件　{line}是“山口杀人案”　　{line}是３年前发生的{line}{page}"
+  .strn "・杀人未遂那起案件　{line}是山口杀人案　　　　{line}的３年前发生的　{line}{page}"
 
 String0x0DF1E6:
 ; .strn "・名前の上２文字が同{line}じ人物が　共犯だった{line}ことはなかったな{line}{page}"
