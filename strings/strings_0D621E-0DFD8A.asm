@@ -2635,7 +2635,7 @@ String0x0DF31E:
 
 String0x0DF418:
 ; .strn "・８時より前にテレビ{line}の音がうるさいと{line}となりの人が来た{line}{page}"
-  .strn "・８点的时候邻居　　{line}来抗议过　　　　{line}电视声音太吵　　{line}{page}"
+  .strn "・８点之前的时候　　{line}邻居来抗议过　　{line}电视声音太吵　　{line}{page}"
 
 String0x0DF454:
 ; .strn "・被害者の兄は川原よ{line}り前に来た　恋愛の話{line}ではないようだった{line}{page}"
