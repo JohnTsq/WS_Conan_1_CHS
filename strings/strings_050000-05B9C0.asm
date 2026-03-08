@@ -2551,7 +2551,7 @@ String0x055752:
 
 String0x055772:
 ; .strn "それで…米花警察は…{page}"
-  .strn "之后…米花警署…　　{page}"
+  .strn "之后…米花警察局…　{page}"
 
 String0x055788:
 ; .strn "混線がひどい{line}これ以上　ここでは無理か{page}"
