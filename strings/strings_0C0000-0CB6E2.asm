@@ -1197,7 +1197,7 @@ String0x0C2C16:
 
 String0x0C2C24:
 ; .strn "『世紀末の魔術師』っていえば{line}夏美さんの　ひいおじいさん{page}"
-  .strn "“世纪末的魔术师”　那不就是{line}夏美小姐的曾祖父　　　　　{page}"
+  .strn "《世纪末的魔术师》　那不就是{line}夏美小姐的曾祖父　　　　　{page}"
 
 String0x0C2C5E:
 ; .strn "香坂喜市氏のことでしょ{page}"
@@ -1209,7 +1209,7 @@ String0x0C2C76:
 
 String0x0C2C7C:
 ; .strn "『世紀末の魔術師』…{line}キッドも　そう名のっていたな{page}"
-  .strn "“世纪末的魔术师”…{line}基德也用过那个名字　　　　　{page}"
+  .strn "《世纪末的魔术师》…{line}基德也用过那个名字　　　　　{page}"
 
 String0x0C2CB0:
 ; .strn "怪盗キッドから{line}少年探偵団ヘの挑戦状だ！{page}"
@@ -3279,7 +3279,7 @@ String0x0C73E6:
 
 String0x0C7422:
 ; .strn "『世紀末の魔術師』は{line}ここで上映されてるんだ{page}"
-  .strn "“世纪末的魔术师”　　{line}就在这里上映哦　　　　{page}"
+  .strn "《世纪末的魔术师》　　{line}就在这里上映哦　　　　{page}"
 
 String0x0C7450:
 ; .strn "わー！　早く入って{line}見ようよ！{page}"
@@ -3311,7 +3311,7 @@ String0x0C74D0:
 
 String0x0C74D6:
 ; .strn "　　　『世紀末の魔術師』{line}{page}"
-  .strn "　　　“世纪末的魔术师”{line}{page}"
+  .strn "　　　《世纪末的魔术师》{line}{page}"
 
 String0x0C74F2:
 ; .strn "怪盗キッドから　鈴木財閥あてに{line}予告状が　送りつけられてきた{line}{page}"
@@ -3355,7 +3355,7 @@ String0x0C76C6:
 
 String0x0C7706:
 ; .strn "ダキューーーン！！{line}{page}"
-  .strn "碰！！　　　　　　{line}{page}"
+  .strn "砰！！　　　　　　{line}{page}"
 
 String0x0C771C:
 ; .strn "だが　正体不明の強盗{line}スコーピオンに　狙撃され…{line}{page}"
@@ -3371,7 +3371,7 @@ String0x0C7768:
 
 String0x0C77A0:
 ; .strn "イースターエッグの謎に導かれ{line}横須賀の古城についた　オレたちは{line}{page}"
-  .strn "跟随复活节菜单谜题的指引我们{line}来到了位于横须贺的古堡　　　　　{line}{page}"
+  .strn "跟随复活节彩蛋谜题的指引我们{line}来到了位于横须贺的古堡　　　　　{line}{page}"
 
 String0x0C77E2:
 ; .strn "『きゃーーー！！』{line}『うわーーー！！』{line}{page}"
@@ -3379,7 +3379,7 @@ String0x0C77E2:
 
 String0x0C780C:
 ; .strn "城のさまざまな　仕掛けを解いて{line}隠された真実に　たどりついた{line}{page}"
-  .strn "随着解开城堡里　各种各样的机关{line}我们也一步步　接近了真相{line}{page}"
+  .strn "随着城堡里各种各样机关的解开　{line}我们也一步步接近了隐藏的真相{line}{page}"
 
 String0x0C784C:
 ; .strn "拾うな　蘭！{line}{page}"
@@ -3391,7 +3391,7 @@ String0x0C785C:
 
 String0x0C7864:
 ; .strn "ダキューーーン！！{line}{page}"
-  .strn "碰！！　　　　　　{line}{page}"
+  .strn "砰！！　　　　　　{line}{page}"
 
 String0x0C787A:
 ; .strn "たちふさがるスコーピオン{line}燃えさかり　くずれ落ちる古城{line}{page}"
@@ -3399,11 +3399,11 @@ String0x0C787A:
 
 String0x0C78B4:
 ; .strn "絶体絶命の危機の中で　コナン{line}そしてキッドの運命は……{line}{page}"
-  .strn "在这最后的危机中　柯南和基德{line}命运走向何方……　　　　{line}{page}"
+  .strn "在这最后的危机中　柯南和　　{line}基德的命运将会如何……　{line}{page}"
 
 String0x0C78EE:
 ; .strn "　名探偵コナン　劇場版　第３弾{line}　　　『世紀末の魔術師』{line}{page}"
-  .strn "　名侦探柯南　　剧场版　第３部{line}　　　“世纪末的魔术师”{line}{page}"
+  .strn "　名侦探柯南　　剧场版　第３部{line}　　　《世纪末的魔术师》{line}{page}"
 
 String0x0C792A:
 ; .strn "　{line}{page}"
@@ -3451,7 +3451,7 @@ String0x0C7A84:
 
 String0x0C7ABE:
 ; .strn "シングルのスーツの人は　エッグを{line}寄贈してほしかったみたい{page}"
-  .strn "穿着干练西服的人好像是希望可以　{line}获得复活节彩蛋的捐赠　　{page}"
+  .strn "穿着干练西服的人好像是希望可以　{line}获得复活节彩蛋的赠品　　{page}"
 
 String0x0C7AFA:
 ; .strn "バイヤーは　エッグの{line}買いつけに来たんですよね{page}"
@@ -3523,11 +3523,11 @@ String0x0C7D4A:
 
 String0x0C7D72:
 ; .strn "証言１{line}シングルスーツの人は{page}"
-  .strn "证词１{line}穿干练领西服的人　　{page}"
+  .strn "证词１{line}穿干练西服的人　　　{page}"
 
 String0x0C7D90:
 ; .strn "エッグを寄贈して{line}もらいたがっていた{page}"
-  .strn "希望可以获得捐赠{line}复活节的彩蛋　　　{page}"
+  .strn "希望可以获得　　{line}复活节彩蛋的赠品　{page}"
 
 String0x0C7DB6:
 ; .strn "証言２{line}バイヤーはエッグの{line}買いつけに来た{page}"
@@ -3647,7 +3647,7 @@ String0x0C81D0:
 
 String0x0C81F0:
 ; .strn "ダブルがバイヤーと{line}わかったとたん{page}"
-  .strn "穿华丽西服的是买家{line}　　　　{page}"
+  .strn "穿华丽西服的是买家{line}　　　　　　　{page}"
 
 String0x0C8214:
 ; .strn "両方のラインが{line}重なったとこに〇が{line}ついたみたい{page}"
@@ -3723,11 +3723,11 @@ String0x0C844A:
 
 String0x0C8460:
 ; .strn "シングルは{line}寄贈だから{page}"
-  .strn "干练西服的{line}人想要捐赠{page}"
+  .strn "干练西服的{line}人想要赠品{page}"
 
 String0x0C8478:
 ; .strn "シングルの{line}セルゲイさんは{line}寄贈ね{page}"
-  .strn "干练西服的{line}谢尔盖先生想要{line}捐赠　{page}"
+  .strn "干练西服的{line}谢尔盖先生想要{line}赠品　{page}"
 
 String0x0C849C:
 ; .strn "あっ　ここも〇{page}"
@@ -3739,7 +3739,7 @@ String0x0C84AC:
 
 String0x0C84CA:
 ; .strn "書記は寄贈ね{page}"
-  .strn "书记想要捐赠{page}"
+  .strn "书记想要赠品{page}"
 
 String0x0C84D8:
 ; .strn "さっき…{page}"
@@ -3779,7 +3779,7 @@ String0x0C85D0:
 
 String0x0C85E2:
 ; .strn "シングルのスーツの人で{line}書記で寄贈してもらいたがっている{page}"
-  .strn "穿着干练西服的书记　　{line}希望得到复活节彩蛋的捐赠　　　　{page}"
+  .strn "穿着干练西服的书记　　{line}希望得到复活节彩蛋的赠品　　　　{page}"
 
 String0x0C861C:
 ; .strn "寒川（さがわ）さんは…{page}"
@@ -3787,7 +3787,7 @@ String0x0C861C:
 
 String0x0C8634:
 ; .strn "タイなしの人で映像作家{line}エッグを撮影したがっているの{page}"
-  .strn "穿着休闲服的摄影师　　{line}想要拍彩蛋的照片　　　　　　{page}"
+  .strn "穿着休闲服的摄影师　　{line}想要拍摄彩蛋的照片　　　　　{page}"
 
 String0x0C866A:
 ; .strn "青蘭（セイラン）さんは…{page}"
@@ -4259,7 +4259,7 @@ String0x0C99F6:
 
 String0x0C9A1E:
 ; .strn "ひとつずつでも〇や{line}×をつけていくんだね{page}"
-  .strn "就算一个也好　赶紧{line}标记上吧〇和×　　　{page}"
+  .strn "就算一个也好　赶紧{line}标记上〇和×吧　　　{page}"
 
 String0x0C9A48:
 ; .strn "証言３{line}シロは毛利探偵事務所{line}を寝ぐらにしている{page}"
@@ -4415,7 +4415,7 @@ String0x0CA020:
 
 String0x0CA030:
 ; .strn "これで自動的に{line}２番のネコの寝ぐらは{line}タワーだとわかるから{page}"
-  .strn "这样自然的　　{line}就会知道排第２的猫咪{line}住在东都塔后面　　　{page}"
+  .strn "这样自然而然　{line}就会知道排第２的猫咪{line}住在东都塔后面　　　{page}"
 
 String0x0CA06C:
 ; .strn "２番目のネコはミケね{line}ミケは東都タワー{page}"
