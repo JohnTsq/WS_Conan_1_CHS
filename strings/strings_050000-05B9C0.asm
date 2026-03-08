@@ -875,7 +875,7 @@ String0x051D6C:
 
 String0x051DA2:
 ; .strn "よろしく　お願いします{page}"
-  .strn "您也是　请多指教　　　{page}"
+  .strn "请多指教　　　　　　　{page}"
 
 String0x051DBA:
 ; .strn "ところで　コナンくんと蘭さんは{line}日曜日のミサには通ってるかい？{page}"
@@ -983,7 +983,7 @@ String0x05213E:
 
 String0x052168:
 ; .strn "よろしく　お願いします{page}"
-  .strn "您也是　请多指教　　　{page}"
+  .strn "请多指教　　　　　　　{page}"
 
 String0x052180:
 ; .strn "何してるの？{page}"
@@ -1035,7 +1035,7 @@ String0x05231A:
 
 String0x052348:
 ; .strn "よろしく　お願いします{page}"
-  .strn "您也是　请多指教　　　{page}"
+  .strn "请多指教　　　　　　　{page}"
 
 String0x052360:
 ; .strn "では　お近づきのしるしに{page}"
@@ -1051,7 +1051,7 @@ String0x052392:
 
 String0x0523AA:
 ; .strn "蘭さんぐらいの美女が参加したら{line}若い男性がはりきりますからね{page}"
-  .strn "有像小兰小姐这样的美女的话　　{line}男生们也会争先恐后的来参加吧{page}"
+  .strn "有像小兰小姐这样的美女的话　　{line}男生们也会争先恐后地来参加吧{page}"
 
 String0x0523E8:
 ; .strn "まあ　そんな…{page}"
