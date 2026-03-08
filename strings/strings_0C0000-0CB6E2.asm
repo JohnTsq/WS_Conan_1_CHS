@@ -3983,7 +3983,7 @@ String0x0C8CB2:
 
 String0x0C8CD8:
 ; .strn "設計図を弁当と一緒に　フロシキに{line}包んで持って来たのじゃが{page}"
-  .strn "就用打包了便当和设计图　　　　　{line}到这里来了　　　　　　　{page}"
+  .strn "就一起打包了便当和设计图　　　　{line}到这里来了　　　　　　　{page}"
 
 String0x0C8D14:
 ; .strn "目を離したスキに　フロシキごと{line}ネコにとられてまったんじゃよ{page}"
@@ -4819,11 +4819,11 @@ String0x0CB02A:
 
 String0x0CB03E:
 ; .strn "コイ以外の動物の{line}担当のはずがないから{line}ここは全部×になる{page}"
-  .strn "乌龟以外　　　　{line}都不由我负责　　　　{line}所以全部画上×　　{page}"
+  .strn "鲤鱼以外　　　　{line}都不由我负责　　　　{line}所以全部画上×　　{page}"
 
 String0x0CB07A:
 ; .strn "さらに歩美ちゃんも{line}光彦も　元太も{line}コイの担当じゃない{page}"
-  .strn "接着　步美　　　　{line}光彦　元太　　{line}都不用喂乌龟　　　{page}"
+  .strn "接着　步美　　　　{line}光彦　元太　　{line}都不用喂鲤鱼　　　{page}"
 
 String0x0CB0B2:
 ; .strn "だからここも全部×だ{page}"
