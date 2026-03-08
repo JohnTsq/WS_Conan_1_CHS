@@ -539,7 +539,7 @@ String0x0511C0:
 
 String0x0511DA:
 ; .strn "もう　だいぶ　恵子についての{line}情報は　集まったな{page}"
-  .strn "惠子的情报　　　　　　　　　{line}已经收集的差不多了{page}"
+  .strn "惠子的情报　　　　　　　　　{line}已经收集得差不多了{page}"
 
 String0x05120C:
 ; .strn "一度　『マルバツール』で{line}情報を　整理してみよう{page}"
@@ -615,7 +615,7 @@ String0x051484:
 
 String0x05149E:
 ; .strn "もう　だいぶ　恵子についての{line}情報は　集まったな{page}"
-  .strn "惠子的情报　　　　　　　　　{line}已经收集的差不多了{page}"
+  .strn "惠子的情报　　　　　　　　　{line}已经收集得差不多了{page}"
 
 String0x0514D0:
 ; .strn "一度　『マルバツール』で{line}情報を　整理してみよう{page}"
