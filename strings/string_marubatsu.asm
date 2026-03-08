@@ -1082,7 +1082,7 @@
   ; .marubatsu "クロ　　"
     .marubatsu "黑色　　"
   ; .marubatsu "トラ　　"
-    .marubatsu "虎斑　　"
+    .marubatsu "虎纹　　"
   ; .marubatsu "ミケ　　"
     .marubatsu "三色　　"
   ; .marubatsu "じむしょ　"
