@@ -31,7 +31,7 @@ String0x0053BB:
 
 String0x005443:
 ; .strn "入門編　おしえてコナン君{line}　{line}　{line}１：マルバツールって何？{line}２：捜査をしてみよう！{line}３：上級テクニックだよ！{line}{page}"
-  .strn "入门篇　柯南推理课堂　　{line}　{line}　{line}１：逻辑矩阵是什么？　　{line}２：开始搜查吧！　　　{line}３：高级技巧！　　　　　{line}{page}"
+  .strn "　入门篇　柯南推理课堂　{line}　{line}　{line}　１：逻辑矩阵是什么？　{line}　２：开始搜查吧！　　{line}　３：高级技巧！　　　　{line}{page}"
 
 String0x0054B3:
 ; .strn "－消去しました－{line}{page}"
