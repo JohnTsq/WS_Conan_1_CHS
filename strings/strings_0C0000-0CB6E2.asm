@@ -3811,7 +3811,7 @@ String0x0C86E8:
 
 String0x0C8714:
 ; .strn "お礼にね　さっきかしてあげた{line}その手帳をあげるわ{page}"
-  .strn "最为回礼　我把我刚才用的这个{line}笔记本送给你哦　　{page}"
+  .strn "作为回礼　我把我刚才用的这个{line}笔记本送给你哦　　{page}"
 
 String0x0C8746:
 ; .strn "ヘ？{page}"
