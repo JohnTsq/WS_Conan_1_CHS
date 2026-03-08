@@ -3,7 +3,7 @@
 
 String0x005183:
 ; .strn "毛利探偵事務所　{line}　東都タワー　　{line}　米花シネマ　　{line}　　米花公園　　{line}　米花デパート　{line}　帝丹小学校　　{line}　米花警察署　　{line}　　恵子の家　　{line}　　米花教会　　{line}　さびれたビル　{line}　日売テレビ　　{line}　　桐崎邸　　　{line}　東都美術館　　{line}トロピカルランド{line}{page}"
-  .strn "毛利侦探事务所　{line}　　东都塔　　　{line}　米花电影院　　{line}　　米花公园　　{line}　米花百货大楼　{line}　　帝丹小学　　{line}　米花警察署　　{line}　　惠子的家　　{line}　　米花教会　　{line}　　废弃大楼　　{line}　日卖电视台　　{line}　　桐崎宅邸　　{line}　东都美术馆　　{line}　多罗碧加乐园　{line}{page}"
+  .strn "毛利侦探事务所　{line}　　东都塔　　　{line}　米花电影院　　{line}　　米花公园　　{line}　米花百货大楼　{line}　　帝丹小学　　{line}　米花警察局　　{line}　　惠子的家　　{line}　　米花教会　　{line}　　废弃大楼　　{line}　日卖电视台　　{line}　　桐崎宅邸　　{line}　东都美术馆　　{line}　多罗碧加乐园　{line}{page}"
 
 String0x005281:
 ; .strn "シナリオ{line}パズル{line}{page}"
