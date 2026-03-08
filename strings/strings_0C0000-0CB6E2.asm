@@ -609,7 +609,7 @@ String0x0C174C:
 
 String0x0C1766:
 ; .strn "　　　＝　米花警察署　＝　　　　{page}"
-  .strn "　　　＝　米花警察署　＝　　　　{page}"
+  .strn "　　　＝　米花警察局　＝　　　　{page}"
 
 String0x0C1788:
 ; .strn "おや　背中に　何か　ついてますよ{page}"
