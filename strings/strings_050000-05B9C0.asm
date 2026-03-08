@@ -4839,7 +4839,7 @@ String0x05B076:
 
 String0x05B0E8:
 ; .strn "鈴木園子{line}：すずき　そのこ{line}金持ちの娘で蘭の親友{line}時々コナンに麻酔銃を{line}撃たれて探偵役になる{line}ミーハーでお調子者{line}{page}"
-  .strn "铃木园子{line}：すずき　そのこ{line}很富有　是小兰的挚友{line}有时会被柯南麻醉　　{line}充当侦探角色　　　　{line}很爱凑热闹　　　　{line}{page}"
+  .strn "铃木园子{line}：すずき　そのこ{line}很富有　是小兰的挚友{line}有时会被柯南麻醉　　{line}去充当侦探角色　　　{line}很爱凑热闹　　　　{line}{page}"
 
 String0x05B15C:
 ; .strn "高橋京子{line}：たかはし　きょうこ{line}わがままで有名な女優{line}ヨーコがデビューする{line}までは　テレビコマー{line}シャルの女王だった{line}{page}"
