@@ -3,7 +3,7 @@
 
 String0x0D0000:
 ; .strn "／まだまだ　情報が{line}たりないな…もっと{line}なにか　あるはず…{line}{page}"
-  .strn "／情报还完全不够　{line}应该还有一点的吧…{line}　　　　　　　　　{line}{page}"
+  .strn "／情报还不够　　　{line}应该在哪里还有吧…{line}　　　　　　　　　{line}{page}"
 
 .endarea
 
@@ -33,7 +33,7 @@ String0x0D0078:
 
 String0x0D00B8:
 ; .strn "（カーソル４つ押しで{line}全問正解にできます）{line}{page}"
-  .strn "（通过按下４个光标　{line}　来全部正确回答吧）{line}{page}"
+  .strn "（通过按下４个光标　{line}　来全部回答正确吧）{line}{page}"
 
 .endarea
 
