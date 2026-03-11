@@ -2119,7 +2119,7 @@ String0x0B7888:
 
 String0x0B78A2:
 ; .strn "ウチラの証言も参考になんの？{page}"
-  .strn "我们的证言也会被列为参考吗？{page}"
+  .strn "我们的证词也会被列为参考吗？{page}"
 
 String0x0B78C0:
 ; .strn "あ　服部くん！{line}和葉ちゃんと　話してたんだけど{page}"
@@ -2183,7 +2183,7 @@ String0x0B7AAE:
 
 String0x0B7AD2:
 ; .strn "あとは　みんなの証言を{line}『マルバツール』で整理して{page}"
-  .strn "接着　整理下大家的证言{line}来用“逻辑矩阵”吧　　　　{page}"
+  .strn "接着　整理下大家的证词{line}来用“逻辑矩阵”吧　　　　{page}"
 
 String0x0B7B06:
 ; .strn "それぞれのアリバイと物証を{line}調ベるだけだ{page}"
