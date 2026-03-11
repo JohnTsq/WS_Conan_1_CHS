@@ -303,7 +303,7 @@ String0x0D7046:
 
 String0x0D7142:
 ; .strn "・ヨーコはヒロインで{line}全部のシーンに出る{line}{page}"
-  .strn "・洋子作为女主角　　{line}要出演所有的镜头　{line}{page}"
+  .strn "・洋子作为女主角　　{line}所有的镜头都要上场{line}{page}"
 
 String0x0D716E:
 ; .strn "・俊樹は{line}ヨーコの彼氏の役だ{line}{page}"
@@ -311,11 +311,11 @@ String0x0D716E:
 
 String0x0D718E:
 ; .strn "・洋二は{line}１番目に出番がある{line}{page}"
-  .strn "・洋二　{line}是第１个出演的　　{line}{page}"
+  .strn "・洋二　{line}是第１个上场的　　{line}{page}"
 
 String0x0D71AE:
 ; .strn "・京子は{line}２番目に出番がある{line}{page}"
-  .strn "・京子　{line}是第２个出演的　　{line}{page}"
+  .strn "・京子　{line}是第２个上场的　　{line}{page}"
 
 String0x0D71CE:
 ; .strn "・１番目は{line}容疑者の撮影だった{line}{page}"
@@ -511,7 +511,7 @@ String0x0D7974:
 
 String0x0D7A6E:
 ; .strn "・ヨーコは{line}京子にＣＭの仕事を{line}とられたことがある{line}{page}"
-  .strn "・京子的　{line}电视广告拍摄　　　{line}被洋子取代了　　　{line}{page}"
+  .strn "・京子的　{line}电视广告拍摄工作　{line}被洋子抢了　　　{line}{page}"
 
 String0x0D7AA4:
 ; .strn "・４年前{line}誰かが京子に{line}お金をとられた{line}{page}"
@@ -571,7 +571,7 @@ String0x0D7C7E:
 
 String0x0D7C96:
 ; .strn "みんな　どんなわけで{line}京子さんを{line}憎んでたんだろう？{line}{page}"
-  .strn "大家都是因为什么原因{line}才会恨着　{line}京子小姐的呢？　　{line}{page}"
+  .strn "大家都是因为什么{line}才会恨着　{line}京子小姐的呢？　　{line}{page}"
 
 String0x0D7CCE:
 ; .strn "動機はみんなあるけど{line}これだけじゃ　犯人の{line}決め手にはならない…{line}{page}"
@@ -1635,7 +1635,7 @@ String0x0DB274:
 
 String0x0DB298:
 ; .strn "阿笠博士の発明？が{line}米花公園で盗まれた{line}容疑者は４匹のネコだ{line}みんなの証言から{line}真犯人とそのねぐらを{line}わりだして、{line}発明品をとりもどそう{line}{page}"
-  .strn "阿笠博士的发明？　{line}在米花公园被偷了　{line}嫌疑人是４只猫咪　　{line}根据大家的证言　{line}来推理出犯人　　　　{line}找出它的巢穴{line}找回博士的发明吧　　{line}{page}"
+  .strn "阿笠博士的发明？　{line}在米花公园被偷了　{line}嫌疑人是４只猫咪　　{line}根据大家的证词　{line}来推理出犯人　　　　{line}找出它的巢穴{line}找回博士的发明吧　　{line}{page}"
 
 String0x0DB324:
 ; .strn "トラは４番目の{line}ネコではない{line}{page}"
