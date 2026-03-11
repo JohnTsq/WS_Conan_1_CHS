@@ -1831,7 +1831,7 @@ String0x053E48:
 
 String0x053E7C:
 ; .strn "ピコン{page}"
-  .strn "砰　　{page}"
+  .strn "哔　　{page}"
 
 String0x053E84:
 ; .strn "…さて　今すぐ橋を渡ると{line}じゅうたいに　はまるな…{page}"
@@ -2359,7 +2359,7 @@ String0x0550E4:
 
 String0x05511A:
 ; .strn "いーっぱい{line}聞かせてもらうからね！{page}"
-  .strn "一五一十的{line}要给我全部从实招来！　{page}"
+  .strn "一五一十{line}全都要给我从实招来！　{page}"
 
 String0x05513E:
 ; .strn "ちゃんと顔をあわせて{line}わらいあえる日まで{page}"
@@ -2839,7 +2839,7 @@ String0x0560D8:
 
 String0x05610A:
 ; .strn "（しかし　なげーよな{line}　おっちゃんはＮＧばっかだし）{page}"
-  .strn "（看起来要拍好久啊　{line}大叔还不停的ＮＧ要重拍）　　　{page}"
+  .strn "（看起来要拍好久啊　{line}大叔还不停地ＮＧ需要重拍）　　{page}"
 
 String0x056140:
 ; .strn "ねえ　蘭ねえちゃん　ボク{line}ちょっと　そこらヘんを……{page}"
@@ -3439,7 +3439,7 @@ String0x057804:
 
 String0x057838:
 ; .strn "アイドル誌の取材ね{line}うん　わかってる{page}"
-  .strn "偶像杂志的参访是吧{line}嗯　我知道了　　{page}"
+  .strn "偶像杂志的采访是吧{line}嗯　我知道了　　{page}"
 
 String0x05785E:
 ; .strn "（ヨーコちゃんの表情{line}　さすがに　ちょっと暗い　かな）{page}"
@@ -3635,7 +3635,7 @@ String0x057FA0:
 
 String0x057FBA:
 ; .strn "では次の『グルメンたんぼう』を{line}どうぞ　お楽しみに！{page}"
-  .strn "下次请同一时间收看　　　　　　{line}“美食探访”！　　　{page}"
+  .strn "下次请同一时间收看　　　　　　{line}《美食探访》！　　{page}"
 
 String0x057FF0:
 ; .strn "俊樹さん　事件のことで{line}聞きたいことが　あるんだけど{page}"
@@ -4423,7 +4423,7 @@ String0x059E24:
 
 String0x059E56:
 ; .strn "俊樹：ことあるごとに{line}いやがらせをした{page}"
-  .strn "俊树：一直不停的　　{line}在排挤着她　　　{page}"
+  .strn "俊树：一直不停地　　{line}排挤着她　　　{page}"
 
 String0x059E7E:
 ; .strn "そして　芸能界に{line}居場所をなくした奈津子は{page}"
