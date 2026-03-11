@@ -3599,7 +3599,7 @@ String0x057E38:
 
 String0x057E48:
 ; .strn "わたしが　知ってるのは{line}恋人を自殺に追いこまれた男と{page}"
-  .strn "我倒是听说过有　　　　{line}被恋人逼到自杀的男人　　　　{page}"
+  .strn "我倒是听说过有一位{line}恋人被逼到自杀的男人　　　　{page}"
 
 String0x057E7E:
 ; .strn "京子とつきあっていて{line}ひどい　ふられ方をした男だな{page}"
@@ -3607,7 +3607,7 @@ String0x057E7E:
 
 String0x057EB2:
 ; .strn "どちらも{line}わたしじゃないがね{page}"
-  .strn "这些事　{line}可都跟我没关系　　{page}"
+  .strn "这些事　{line}可都跟我没关系哦　{page}"
 
 String0x057ED0:
 ; .strn "どっちの　トラブルが最近なの？{page}"
