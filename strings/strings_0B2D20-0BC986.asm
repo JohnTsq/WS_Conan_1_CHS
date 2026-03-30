@@ -139,7 +139,7 @@ String0x0B31F2:
 
 String0x0B3220:
 ; .strn "女たちと　同じ　死に方を{line}することになる{page}"
-  .strn "就会让我和那些女人　　　{line}以同样方式死去{page}"
+  .strn "就会和那些女人　　　{line}落得同样的死亡结局{page}"
 
 String0x0B324A:
 ; .strn "！！{page}"
@@ -427,7 +427,7 @@ String0x0B3C7A:
 
 String0x0B3C84:
 ; .strn "ねえ　切り裂きジャックって{line}どういう事件を　起こしたの？{page}"
-  .strn "那个　开膛手杰克　　　　　{line}到底犯下了什么样的事件？　　{page}"
+  .strn "那个　所谓的开膛手杰克　　{line}到底是个什么样的事件啊？　　{page}"
 
 String0x0B3CBE:
 ; .strn "切り裂きジャック……１９世紀末の{line}ロンドンで　５人の女性を惨殺{page}"
@@ -467,7 +467,7 @@ String0x0B3E08:
 
 String0x0B3E24:
 ; .strn "いえ　この家の人間関係は{line}ちょっとフクザツなんですよ{page}"
-  .strn "不是　我们一家的人际关系{line}稍微有点复杂啦　　　　　　{page}"
+  .strn "不是　我们家人之间的关系{line}稍微有点复杂啦　　　　　　{page}"
 
 String0x0B3E5A:
 ; .strn "そこで　腕だめしという意味も{line}ふくめて{page}"
@@ -555,7 +555,7 @@ String0x0B416C:
 
 String0x0B4180:
 ; .strn "なんか　仲悪そうやな{page}"
-  .strn "好像关系不是很和睦啊{page}"
+  .strn "好像关系不怎么和睦啊{page}"
 
 String0x0B4196:
 ; .strn "まあ　われわれは{line}リッパロロジストとしても{page}"
@@ -631,7 +631,7 @@ String0x0B4472:
 
 String0x0B449E:
 ; .strn "やめないか！　お客さまの前で{line}１番上の私の顔を　ツブす気か！{page}"
-  .strn "都住嘴！　在客人面前　　　　{line}是想让身为老大的我丢面子吗！　{page}"
+  .strn "都住嘴！　在客人面前这样　　{line}是想让身为老大的我丢面子吗！　{page}"
 
 String0x0B44DC:
 ; .strn "（みんな　遺産のせいで{line}　ギクシャクしてるのか）{page}"
@@ -2691,11 +2691,11 @@ String0x0B8C5A:
 
 String0x0B8C6C:
 ; .strn "ところで　工藤んとこに{line}こーゆー手紙　来んかったか？{page}"
-  .strn "话说回来　有没有信　　{line}寄到工藤那吗　像这样的信？　{page}"
+  .strn "话说回来　有这样的信　{line}寄到工藤那里吗？　{page}"
 
 String0x0B8CA2:
 ; .strn "あー！　それ{line}今　見てた手紙と同じ！{page}"
-  .strn "啊！　这个是{line}跟刚才收到的信一样！　{page}"
+  .strn "啊！　这个{line}跟刚才收到的信一样！　{page}"
 
 String0x0B8CC8:
 ; .strn "なんや　おっさんのとこにも{line}来とったんかいな{page}"
@@ -2731,7 +2731,7 @@ String0x0B8DC4:
 
 String0x0B8DF8:
 ; .strn "ひとつの　車には　わたしが{line}３つの　車には　名探偵たち{page}"
-  .strn "一辆车是我的　剩下的三辆　{line}留给各位名侦探们　　　　　{page}"
+  .strn "一辆车是我的　剩下的三辆　{line}则留给各位名侦探　　　　　{page}"
 
 String0x0B8E30:
 ; .strn "合い言葉も　四つ{line}小五郎くんは｛霧｝ではない{page}"
