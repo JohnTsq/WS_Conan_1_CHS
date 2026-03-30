@@ -723,7 +723,7 @@ String0x0D83BA:
 
 String0x0D83E8:
 ; .strn "やっと邸に着いたと{line}思えば　また推理力の{line}テストらしい{line}今度は４人の会話から{line}「年の順」と「関係」{line}そして「犯人説は何」{line}か　推理することに…{line}ずいぶん複雑な関係の{line}きょうだいらしい…{line}{page}"
-  .strn "终于抵达了宅邸　　{line}但接下来好像　　　　{line}还是推理测试{line}这次要推理出４个人的{line}「大小」「关系」　　{line}和他们持有怎样的　　{line}「犯人假说」…　　　{line}他们还真是关系挺复杂{line}的兄弟姐妹啊…　　{line}{page}"
+  .strn "终于抵达了宅邸　　{line}但接下来好像　　　　{line}还是推理测试{line}这次要推理出４个人的{line}「长幼」「关系」　　{line}和他们持有怎样的　　{line}「犯人假说」…　　　{line}他们还真是关系挺复杂{line}的兄弟姐妹啊…　　{line}{page}"
 
 String0x0D84A4:
 ; .strn "・爵（しゃく）は{line}医者説だ{line}{page}"
