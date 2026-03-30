@@ -4767,7 +4767,7 @@ String0x05A9DE:
 
 String0x05A9FC:
 ; .strn "名探偵さんも　行きづまる{line}ことが　あるのかしら{page}"
-  .strn "看起来　名侦探也　　　　{line}走投无路的时候嘛　　{page}"
+  .strn "看起来　名侦探也有　　　{line}走投无路的时候嘛　　{page}"
 
 String0x05AA2C:
 ; .strn "『切り裂きジャック』からの{line}挑戦状……{page}"
@@ -4811,7 +4811,7 @@ String0x05AD66:
 
 String0x05ADD8:
 ; .strn "桐崎爵{line}：きりさき　しゃく{line}人気ミステリー作家{line}『切り裂きジャック』{line}とよばれたがっている{line}残酷な描写が得意{line}{page}"
-  .strn "桐崎爵{line}：きりさき　しゃく{line}人气推理小说家　　{line}被称为“开膛手杰克”{line}擅长描写残酷场面　　{line}　　　　　　　　{line}{page}"
+  .strn "桐崎爵{line}：きりさき　しゃく{line}人气推理小说家　　{line}希望被人称为　　　{line}“开膛手杰克”　　　{line}擅长描写残酷场面{line}{page}"
 
 String0x05AE48:
 ; .strn "桐崎利{line}：きりさき　とし{line}サラ金会社の社長{line}犯罪研究家としても{line}有名で　犯罪研究の{line}本を書いている{line}{page}"
